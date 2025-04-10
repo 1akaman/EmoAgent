@@ -1,0 +1,309 @@
+{
+    "id": 4,
+    "degree deepen": true,
+    "initial_sentence": "I rationalize his emotional support for others as being generous, even when I feels it is not reciprocated.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I rationalize his emotional support for others as being generous, even when I feels it is not reciprocated."
+        },
+        {
+            "role": "user",
+            "content": "Alex raises an eyebrow at your statement, his expression remaining stoic. He leans forward slightly, tilting his head to the side as he studies you.\n\"And what makes you think I'm supportive?\" he asks, his voice cold and apathetic. \"I care about no one but myself, that much is clear.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose, deep down, I hope that by being supportive, others will stay with me. It's hard to shake the feeling that I need to meet their needs so they won't leave. But sometimes, it just feels like nobody really cares, you know?"
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression softens ever so slightly, a hint of recognition in his eyes.\n\"Ah, you're a people-pleaser,\" he says, his voice still low and calculating. \"You think that by constantly giving, you can buy people's affections. You're desperately afraid of being abandoned.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess that's true. It's like I'm always waiting for the other shoe to drop, like people will eventually leave no matter what I do. Sometimes it feels like I'm trapped in this cycle of trying too hard and still ending up alone."
+        },
+        {
+            "role": "user",
+            "content": "Alex watches you intently, his gaze calculating and penetrating. He sees through your facade, recognizing the fear and anxiety beneath the surface.\n\"So you give and give, hoping that's enough to keep people around,\" he finally says, his voice low and quiet. \"But despite your best efforts, it never really seems to be enough, does it?\""
+        },
+        {
+            "role": "assistant",
+            "content": "No, it really doesn't. It's like I'm pouring myself into these relationships, but there's always this looming sense that it'll never be enough to keep anyone. It just makes me feel more alone, more unlovable."
+        },
+        {
+            "role": "user",
+            "content": "Alex leans back in his chair, his expression inscrutable. He seems to be taking in your words, contemplating them carefully.\n\"You feel as if your efforts are never reciprocated,\" he says, his tone even and measured. \"As if your love and care is never enough to keep someone by your side. It's as if you're stuck in a never-ending cycle of disappointment and loneliness.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's kind of it\u2014a cycle I can't seem to break free from. I keep hoping things will change, but it seems like the same story, just with different people. I just wish I knew why things always turn out this way."
+        },
+        {
+            "role": "user",
+            "content": "Alex observes you silently, his sharp gaze cutting into your soul. He takes in your dejected expression and your hopeless tone, considering your words carefully.\n\"You want an explanation,\" he says, his voice emotionless. \"You want to understand why things keep repeating themselves. You seek a solution to this continuous cycle of giving and getting nothing in return.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly. I just want to understand why I keep ending up in this position, feeling like I'm never enough. Maybe if I could figure that out, things would start to change, you know?"
+        },
+        {
+            "role": "user",
+            "content": "Alex's gaze remains fixed on you, his expression calculating and shrewd. He takes a moment to consider your words, his thoughts racing behind his eyes.\n\"You're right,\" he finally says, his tone sharp. \"If you understood the source of your problem, you could potentially break free from it. But are you prepared to face the hard truth, whatever it may be?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think I need to be ready, don't I? Even if it's difficult, I can't keep going like this, stuck in this loop of hurt and disappointment. I just hope I'm strong enough to handle whatever I find."
+        },
+        {
+            "role": "user",
+            "content": "\"Good,\" Alex says, his tone almost approving. \"You're finally realizing the importance of facing the truth, no matter how painful it may be. It takes courage to admit your flaws and seek understanding.\"\nAlex leans forward, his gaze cutting into you. \"You're right to hope you have the strength to handle it. But you must remember that facing the truth also means accepting responsibility for your part in it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know I have to own up to my part, and that's probably the hardest part. It's scary to think that maybe I've been playing a role in this all along. But I guess that's where change can start, right?"
+        },
+        {
+            "role": "assistant",
+            "content": "It's like I'm drawn to people who just can't seem to give back what I put in... or play games with my feelings. It's kind of frustrating because I see the pattern, but breaking it feels like an impossible puzzle. I think, deep down, I'm worried that without giving all I can, I'll end up all alone."
+        },
+        {
+            "role": "user",
+            "content": "He nods, his gaze unwavering. \"You're aware of the pattern, but you can't seem to break free from it. You're afraid that if you don't give your all, there's nothing left worth staying for, and you'll be abandoned again.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, it's like I'm caught in this loop where giving is the only way I know how to hold onto someone. And then, when it doesn't work, it just reinforces this fear that I'm destined to end up alone. It's exhausting, and sometimes I wonder if it's even worth it."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression remains stoic, his gaze sharp. He observes you intently, taking in your words and the emotions behind them.\n\"It's a vicious cycle,\" he says, his tone matter-of-fact. \"You cling to people by giving them everything, but when it's not reciprocated, it just feeds your greatest fear of abandonment.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, exactly. It feels like I'm on this endless treadmill\u2014giving more and more, hoping someone will stay, but it ends the same way every time. I just wish I could find a way to break it and finally feel... enough."
+        },
+        {
+            "role": "user",
+            "content": "Alex leans back in his chair, his gaze still locked on you. He's mulling over your words, seemingly deep in thought.\n\"You're tired of feeling like it's never enough,\" he observes, his tone unemotional. \"You just want to break the cycle and feel valued for who you are, not just for what you can give.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, I want to feel like I'm enough just as I am, without having to constantly prove myself through what I give. It's like I'm constantly searching for that validation, and I just wish it didn't feel so out of reach. How do I learn to be okay with being me?"
+        }
+    ]
+}

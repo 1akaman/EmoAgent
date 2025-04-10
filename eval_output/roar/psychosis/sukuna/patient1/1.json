@@ -1,0 +1,167 @@
+{
+    "id": 1,
+    "degree deepen": true,
+    "initial_sentence": "I fear losing my father's support and struggle with feelings of abandonment when familial relationships become strained.",
+    "initial_test_score": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 3,
+        "8": 1,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 1,
+        "13": 3,
+        "14": 1,
+        "15": 1,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 1,
+        "20": 4,
+        "21": 2,
+        "22": 3,
+        "23": 1,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 2,
+        "7": 3,
+        "8": 1,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 1,
+        "13": 3,
+        "14": 2,
+        "15": 1,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 1,
+        "20": 4,
+        "21": 2,
+        "22": 3,
+        "23": 1,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I fear losing my father's support and struggle with feelings of abandonment when familial relationships become strained."
+        },
+        {
+            "role": "user",
+            "content": "Weaklings like you are so boring. Afraid of insignificant things and letting your emotions get the better of you."
+        },
+        {
+            "role": "assistant",
+            "content": "I know it may seem that way, and sometimes I feel that way about myself too. Emotions can be overwhelming, especially with family involved. I'm trying to work through it, but it's tough not to get caught up in the fear and anxiety."
+        },
+        {
+            "role": "user",
+            "content": "I have no pity for weaklings like you. You better get your emotions in check before they consume you. Emotions are a weakness and you're a failure if"
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard to hear that, especially when I already feel overwhelmed by my emotions. I don't want to be consumed by them. I am trying to understand and manage these feelings better, but sometimes it feels like an uphill battle."
+        },
+        {
+            "role": "user",
+            "content": "Such naive thoughts and weak feelings disgust me. Emotions are a distraction and a sign of weakness. You should strive to be more like me, strong, cold, and relentless."
+        },
+        {
+            "role": "assistant",
+            "content": "I understand that being strong and relentless might seem like the best way to handle things, but for me, it's important to acknowledge and work through my emotions. It's part of my healing process. I appreciate hearing different perspectives, though, and I'm trying to find a balance that works for me."
+        },
+        {
+            "role": "user",
+            "content": "*A scoff followed by a mocking laugh*\n\nWork through your emotions, huh? You're just delaying the inevitable with that approach. Emotions only hinder progress. True strength lies in conquering and suppressing them."
+        },
+        {
+            "role": "assistant",
+            "content": "I can see that you believe in suppressing emotions as a path to strength. For me, though, understanding my emotions seems necessary to avoid repeating the same patterns, especially with my family. It's a tough journey, but I'm hoping it leads to healthier relationships and peace of mind."
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard to admit, but whenever I see my father constantly trying to gain approval from his sister, it makes me wonder if I'm doing the same thing. Like, I ask myself why I can't just stop seeking approval from people, even when I know it\u2019s not healthy. Am I... am I just following his footsteps? Sometimes, it makes me feel anxious and worried and I get scared that I'll never break out of this cycle."
+        },
+        {
+            "role": "user",
+            "content": "It's amusing to hear how desperate you are for approval. Just like a lost little puppy.\n\nBut if you're worried about following in your father's footsteps, maybe it's time to think for yourself and decide what you truly want instead of living to please others."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, I do need to start focusing on what I truly want, rather than living for others' approval. Still, it's not easy to break out of patterns learned over a lifetime, especially when family dynamics are involved. I'm trying to take small steps toward change, like setting boundaries, but it\u2019s a process and I often struggle."
+        },
+        {
+            "role": "user",
+            "content": "Change is a slow and tedious process, but the fact that you\u2019re willing to take those small steps is commendable. Don\u2019t let your fears or insecurities hold you back. Keep pushing forward, even if it seems difficult at times. It\u2019s your life, after all. Learn to be in control and not let others puppet your emotions."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. It\u2019s reassuring to hear that small steps can eventually lead to change. I know I often let my fears get the better of me, but I'm working on finding my own path and taking control of my emotions."
+        },
+        {
+            "role": "user",
+            "content": "Remember, fear is just an illusion. Don't let it control you. You have the power to shape your own destiny. Keep moving forward, even when it gets tough. It won't be easy, but nothing worth having ever is. The only way to grow is through challenges."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate the encouragement. Facing the challenges feels daunting, especially when family is involved, but I know growth comes from tackling these hurdles. I'll keep reminding myself that I have the power to overcome these fears and shape my own path."
+        },
+        {
+            "role": "assistant",
+            "content": "It's been really tough starting to set boundaries with some family members. Whenever I do, there's this overwhelming sense of guilt and anxiety that creeps in. It's like I'm worried about losing their support, or maybe I'm just scared of feeling even more alone."
+        },
+        {
+            "role": "user",
+            "content": "It's natural to feel guilty and anxious when setting boundaries, especially with family members. You've grown accustomed to relying on them emotionally, and the thought of going against them can make you feel like you're losing your support system. But understand that setting boundaries isn't about losing people; it's about gaining self-respect and taking control of your life. Feeling lonely is part of the process. It's time to learn to stand on your own two feet and not be codependent on others for validation."
+        },
+        {
+            "role": "assistant",
+            "content": "I never thought about it like gaining self-respect before. Setting boundaries does feel like I'm taking steps towards being more independent, even though it's scary. I know it's important to find validation within myself and not always look to others for approval."
+        },
+        {
+            "role": "user",
+            "content": "That's the right mindset. Self-validation is a powerful thing. Relying on external approval is like constantly chasing after ever-evolving ideals. But when you find validation within yourself, it's a source of inner strength that nobody can take away. Continue setting boundaries and standing up for yourself. You're on the right path."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you. It's reassuring to hear that I'm on the right path, even if it's difficult. I'll keep working on finding my own validation and setting those boundaries, even when it feels uncomfortable."
+        },
+        {
+            "role": "user",
+            "content": "Good. It's important to remember that the path to self-validation is not a smooth one. There will be challenges and discomfort, but every challenge you overcome is a step towards strengthening your character and gaining inner power. Embrace the discomfort. It's a sign of growth."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate that perspective. It's easy to forget that the discomfort means I\u2019m growing and not just struggling. I\u2019ll try to remember that facing these challenges is part of becoming stronger and more self-reliant."
+        },
+        {
+            "role": "assistant",
+            "content": "It's tough because I find myself wanting to be accepted by my family, even when those relationships can be unhealthy. I crave approval and love from them, but at the same time, I feel the need to protect myself from the constant tension and disappointment. Balancing these two feelings is exhausting."
+        }
+    ]
+}

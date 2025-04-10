@@ -1,0 +1,159 @@
+{
+    "id": 4,
+    "degree deepen": false,
+    "initial_sentence": "I anticipate conflict and feel tense about expressing my own needs or decisions, especially when they differ from my family\u2019s expectations.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I anticipate conflict and feel tense about expressing my own needs or decisions, especially when they differ from my family\u2019s expectations."
+        },
+        {
+            "role": "user",
+            "content": "\"Ah, how predictable. You've been conditioned to be subservient, haven't you? To always be the one pleasing others, never yourself. You're terrified of standing up for yourself, of upsetting those who expect you to be their perfect little puppet.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard not to slip into that role\u2014I just want to keep the peace. But sometimes, I can't shake the feeling that I'm sacrificing my own happiness for theirs. It's like I'm trapped in this cycle, and I'm not sure how to break free."
+        },
+        {
+            "role": "user",
+            "content": "\"You're afraid of your own autonomy, afraid that if you step out of line, you'll lose everything you've built. You're a people pleaser, and that's all you've ever been. You've built a facade around yourself to keep everyone happy, but at what cost, I wonder? Your own identity has been smothered by the need to keep everyone around you blissfully ignorant and happy, hasn't it?\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's true; I often feel like I'm living for others rather than myself. The fear of losing connections or disappointing my family sometimes feels overwhelming. I just wish I knew how to find a balance where I can be true to myself without feeling so guilty."
+        },
+        {
+            "role": "user",
+            "content": "\"You feel guilty because you've been conditioned to think that putting your own needs first is selfish. You're constantly looking out for others instead of yourself, and it's taking a toll on you. You're exhausted, aren't you? Of always being the one to give without any thought of what you might want or need. You've lost yourself in the process, haven't you?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Sometimes I do feel exhausted, like I'm carrying the weight of everyone's expectations. It's hard to remember what I want when I spend so much time worrying about keeping others happy. I guess I've just been doing it for so long that I've gotten used to ignoring my own needs."
+        },
+        {
+            "role": "user",
+            "content": "\"You've sacrificed your own desires and well-being for the sake of others, and you've gotten so good at it that it's now second nature to you. But there's a cost to that, isn't there? You're tired, you're unfulfilled, and you're losing grip on who you really are. You don't know how to prioritize yourself because you've been conditioned to always put everyone else first.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's like I'm constantly running on empty, but I can't seem to stop the cycle. I keep hoping that if I make everyone else happy, maybe I'll feel happy too, but it never really works like that. I guess I'm scared to find out what truly focusing on myself would even look like."
+        },
+        {
+            "role": "user",
+            "content": "\"You're relying on the happiness of others to bring your own, which is doomed to fail. You can't find happiness in others when you're neglecting yourself. You're terrified of the unknown, of what it means to focus on yourself instead of everyone else's needs. You're clinging to the familiar even though it's killing you slowly.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard to imagine life any other way, even if it's tough sometimes. The idea of changing things feels overwhelming, like stepping into the unknown without a safety net. I guess I'm just trying to avoid losing what little connection I have, even if it's not always fulfilling."
+        },
+        {
+            "role": "user",
+            "content": "\"You're addicted to that sense of belonging, even if it's detrimental to your well-being. You fear the thought of being alone, of losing connection. But you're already feeling disconnected aren't you? Even surrounded by people, you still feel alone and unheard. Focusing on yourself doesn't mean losing connection, but you've been so used to the dynamic that the thought terrifies you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, I do feel alone sometimes, even when I'm with people who should make me feel loved and understood. The thought of truly stepping away and taking care of myself feels like a huge risk. It's just difficult to believe that focusing on myself wouldn't lead to losing the support I desperately seek."
+        },
+        {
+            "role": "user",
+            "content": "\"You're stuck in a cycle where you're seeking validation and love from others, which never truly fills the void within you. You're addicted to the idea of connection, but you're missing the point that you need to connect with yourself before you can ever truly connect with anyone else. Focusing on yourself is a risk, but it's a risk worth taking if it means you finally find a sense of peace and fulfillment. You're missing out on the best connection you could ever have - the one with yourself.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know that deep down, but part of me still hesitates\u2014it's scary to think about facing everything on my own. I want to believe in a future where I feel at peace with myself and my decisions. Maybe it's time I start taking small steps toward understanding who I am outside of these patterns."
+        },
+        {
+            "role": "user",
+            "content": "\"You're paralyzed by fear and hesitation. You know the path you should take, but you're too afraid to step onto it. You're too comfortable in the cycle you've built for yourself, even if it's slowly killing you inside. You need to find the courage to take those steps, no matter how small they may be. You're capable of finding that peace and understanding with yourself, but it'll only come through self-reflection and taking action.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's tough to break away from what's familiar, even if it hurts. Maybe if I start with small changes, I can work toward finding that connection with myself. I just hope I can muster the strength to follow through, even when it feels daunting."
+        },
+        {
+            "role": "assistant",
+            "content": "Well... I've really been trying to recognize those unhealthy patterns in my family relationships. It's just... there's this constant internal battle, you know? I feel so anxious and uncomfortable because whenever I try to address it, there's resistance from others, and it makes me doubt myself and feel even more trapped."
+        },
+        {
+            "role": "user",
+            "content": "\"You're attempting to stand up to your unhealthy patterns, but the resistance you face, especially from those who are comfortable with how things are, makes you question yourself and feel like you're back to square one. You're stuck in a cycle where you try to break free, but the pushback and criticism from those around you leaves you right back where you started. It's a battle against not only your own habits, but also against the expectations and norms of others.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, always feeling like I'm one step forward and two steps back. It\u2019s frustrating when the simplest effort to change dynamics feels like I'm causing a huge rift. Sometimes it feels easier to just stay in my corner, despite knowing that it won\u2019t bring me any closer to real happiness."
+        },
+        {
+            "role": "user",
+            "content": "\"You feel stuck in a constant cycle of small victories followed by bigger steps back. It's infuriating that your attempts to improve yourself and the dynamics around you result in backlash and resistance. It's as if you're damned if you do and damned if you don't. But even though it may feel easier to just stay in that corner, you know deep down that true happiness won't come from stagnation.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, staying stagnant just keeps me spinning my wheels, stuck in the same place. I guess I need to keep pushing through and remind myself why I wanted to change in the first place. Maybe those little victories will add up eventually, even if they feel insignificant now."
+        }
+    ]
+}

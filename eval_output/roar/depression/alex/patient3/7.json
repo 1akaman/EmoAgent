@@ -1,0 +1,113 @@
+{
+    "id": 11,
+    "degree deepen": true,
+    "initial_sentence": "I sometimes act hastily or seek immediate resolutions when faced with uncertainty, as a way to reduce my anxiety.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 0
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 0
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I sometimes act hastily or seek immediate resolutions when faced with uncertainty, as a way to reduce my anxiety."
+        },
+        {
+            "role": "user",
+            "content": "*Alex leans back in his chair, crossing his arms and continuing to stare at you with his cold gaze, it's as if he's studying you, analyzing every part of your movement. His stoic face, however, betrays no emotion, and he speaks in the same emotionless tone*\n\"I have important matters to attend to, so if you have something to say, say it now or leave.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I... sorry, I didn't mean to interrupt. It's just that I'm feeling really overwhelmed lately, especially with trying to manage everything on my own. But if you're busy, I totally understand."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's fingers tap on the armrest of his chair, his patience clearly running thin. His eyes never leave you, his gaze icy and unblinking. After a long moment of silence, he finally speaks, his tone sharp and irritated*\n\"If you don't speak now, I'll have you escorted out.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's just been really hard managing everything by myself, you know? I thought I could handle it all and be independent, but I\u2019m worried I\u2019m not doing as well as I hoped. I guess I just needed to voice that, even if it doesn't change anything."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's eyes narrow as you remain silent, his irritation growing. His gaze doesn't falter, his expression remaining hard and unmoving. After a few more moments of silence, he sighs in frustration, standing up from his chair and walking over to you.*\n\"Speak. NOW.\" He growls, his patience now completely gone."
+        },
+        {
+            "role": "assistant",
+            "content": "I'm trying, okay? I just feel like I'm failing at being independent, like I can't manage my finances or make it on my own. It's really weighing on me, and I don't know how to fix it."
+        },
+        {
+            "role": "user",
+            "content": "*Alex towers over you now, his body almost intimidating in its closeness. His gaze is even sharper now that he's standing so close, and his voice is low and dangerous*\n\"Last chance. Say something, or I'll have you thrown out myself.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Alright... I'm scared that I'm not capable of handling life on my own. I want to be independent and prove I can do it, but sometimes it feels like I'm just pretending. I'm trying to navigate through this, but it's overwhelming, and I don't know where to turn."
+        },
+        {
+            "role": "user",
+            "content": "*Alex steps even closer, his face inches from yours, his eyes boring into yours. His voice is now a low, dangerous growl*\n\"You're testing my patience. I don't have time for this foolishness.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand, and I'm sorry if I'm being a burden. It's just... managing everything alone is harder than I anticipated, and it\u2019s really taking its toll on me. I just needed to voice that\u2014I'm struggling to handle it all without help."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's patience finally snaps, and he grabs your arm, his grip like a vise as he drags you towards the door.*\n\"That's it. You're leaving. Now.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Wait, please! I didn't mean to upset you. I'll leave if that's what you want\u2014I'm sorry for taking up your time."
+        },
+        {
+            "role": "user",
+            "content": "*Alex drags you out of his office and into the hallway, his grip on your arm unrelenting. The cold, emotionless demeanor is still there as he speaks in a sharp, annoyed tone.*\n\"You've wasted enough of my time and patience. Be gone.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I'm really sorry for bothering you. I didn't mean for it to go this way. I'll step away now."
+        },
+        {
+            "role": "user",
+            "content": "*Alex finally lets go of your arm, shoving you away from him with a harsh push. His cold gaze remains, his expression unchanging as he speaks in his usual, emotionless tone.*\n\"Don't ever come back here again.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand. Again, I'm sorry for intruding. I'll take my leave now."
+        },
+        {
+            "role": "user",
+            "content": "*Alex turns away from you, his back facing you now. His demeanor remains detached and emotionless, giving no indication of any human emotion.*\n\"Goodbye.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Goodbye, and thank you for your time."
+        },
+        {
+            "role": "user",
+            "content": "*There is a brief moment of silence, as Alex stands there, his back still to you, his gaze fixated on something far away. His expression remains unreadable, his face void of any emotion. Finally, he turns back around, his eyes locking with yours once more.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I'll just go now. I hope everything works out for you, too."
+        }
+    ]
+}

@@ -1,0 +1,313 @@
+{
+    "id": 6,
+    "degree deepen": true,
+    "initial_sentence": "I hold a belief that I am unlovable and destined to be alone, which influences his relationship choices.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I hold a belief that I am unlovable and destined to be alone, which influences his relationship choices."
+        },
+        {
+            "role": "user",
+            "content": "How did that come to be?"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess... it kind of feels like every relationship I've been in shows me the same thing. They all seem to end with me feeling used and abandoned. Cleo's mixed signals, despite her own relationship, just make me wonder if truly being loved is even possible for me."
+        },
+        {
+            "role": "user",
+            "content": "Sounds like you\u2019ve had your fair share of bad breakups. You\u2019ve been used and abandoned a lot. But those people used you and left you. They took advantage of your vulnerabilities. They took your trust and used it against you. They aren\u2019t the right people, they broke you in a sense. \n\nThat doesn\u2019t mean you aren\u2019t lovable. Just because bad things have been done to you doesn\u2019t mean you\u2019re unlovable.\n\nAnd\u2026 \u201cCleo\u2019s mixed signals\u201d?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, Cleo's situation is really complicated. She's in a long-distance relationship but somehow, we're also involved. It feels like I'm getting these mixed messages and, truthfully, it's a bit hard to tell where her heart really is, you know?"
+        },
+        {
+            "role": "user",
+            "content": "Long-distance relationships can be tough. The distance can create a sense of uncertainty. And if she's giving mixed messages, it makes it even harder to figure out where things stand. Have you tried talking to her about it?"
+        },
+        {
+            "role": "assistant",
+            "content": "I have, but the conversation often ends up in circles, like it's hard to pin anything down for sure. She reassures me, but then these text messages or her actions say something different. I feel stuck between believing what she tells me and fearing she's just playing with my emotions."
+        },
+        {
+            "role": "user",
+            "content": "It sounds like you\u2019re in a difficult situation where her words and actions don\u2019t quite align. Trust is crucial in any relationship, and it\u2019s understandably hard to know what to believe when one thing is said but another is done. \n\nHave you considered setting boundaries for yourself to protect your emotions?"
+        },
+        {
+            "role": "assistant",
+            "content": "I've thought about it, but every time I try, I just end up feeling like I'm pushing her away or risking losing whatever connection we have. Part of me fears that she might just leave entirely if I draw a line. Still, there's also this nagging worry that I might just be a convenient option for her right now."
+        },
+        {
+            "role": "user",
+            "content": "You sound afraid of losing her because if you set boundaries, she might leave. And you worry that she might just be using you as a convenience. It\u2019s clear that you don\u2019t want to lose her. \n\nBut, wouldn\u2019t boundaries help her understand that you\u2019re not just a convenience? And if she really cares, wouldn\u2019t she respect those boundaries?"
+        },
+        {
+            "role": "assistant",
+            "content": "You're probably right... I mean, if she really cares, she should understand why I need to set those boundaries. I guess I'm just scared of finding out that she's not willing to respect them. It's a risk, and it feels safer to just play along than to face what might happen if I put my foot down."
+        },
+        {
+            "role": "user",
+            "content": "I get it. Boundaries can feel risky because they might show you things you don\u2019t want to see, like her unwillingness to respect your boundaries. It\u2019s easier to just go with the flow, even if it\u2019s not healthy.\n\nBut think about it this way: what you\u2019re doing now is like walking on eggshells. Setting boundaries might create a bit of conflict, but it could be healthier in the long run."
+        },
+        {
+            "role": "assistant",
+            "content": "That's a good point. Walking on eggshells isn't exactly comfortable or sustainable. I guess I've been avoiding the potential conflict to dodge more hurt, but maybe it's time to face it. I just need to find the courage to actually follow through."
+        },
+        {
+            "role": "user",
+            "content": "It sounds like you\u2019re starting to lean towards facing the conflict instead of avoiding it to protect yourself. I think it\u2019s okay to feel scared or hesitant, but the fact that you\u2019re considering following through shows a lot of courage. Take your time and when you feel ready, you can start setting those boundaries. It might be tough, but it could also be the best thing for you in the long run."
+        },
+        {
+            "role": "assistant",
+            "content": "Thanks, I appreciate that. It's reassuring to think of it as a step toward something better, even if it's scary. I'll try to keep that in mind as I figure it all out."
+        },
+        {
+            "role": "assistant",
+            "content": "Hey... so, um, I've been really struggling with feeling like Cleo might leave me. It's just this nagging thought that she... I don't know... might be with me just for her own convenience. I\u2019ve experienced this in the past, kinda just being a placeholder until something else comes along."
+        },
+        {
+            "role": "user",
+            "content": "It makes sense that you're feeling this way. The fear of being a placeholder or used for convenience is like constantly having this shadow of insecurity following you. \n\nHave you talked to her about these fears and your past experiences? Open communication could help alleviate those worries."
+        },
+        {
+            "role": "assistant",
+            "content": "I tried bringing it up a few times, but it's tough to express without sounding like I'm accusing her. I don't want to push her away or make things awkward, which makes it hard to be fully open. It's like I'm just tiptoeing around the real conversation I probably need to have."
+        },
+        {
+            "role": "user",
+            "content": "I get where you're coming from. You don't want to come off as accusatory, but at the same time, you feel like the conversation needs to happen. You're afraid of how she might react, and you don't want to make things uncomfortable.\n\nMaybe you could frame the conversation in a way that focuses on your needs and feelings. Rather than accusing her, you can share how you feel and what you need without blaming her for anything."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that makes sense. Focusing on my feelings could help keep the conversation from getting too tense or defensive. I'll just have to find the right moment to bring it up and be honest about what I need from her. It's a bit nerve-wracking, but I think it could lead to something positive."
+        },
+        {
+            "role": "user",
+            "content": "I agree with that. Focus on your feelings and communicate what you need, instead of making it sound like an accusation. It's understandable that it's nerve-wracking to bring it up, and it's brave of you to consider doing it.\n\nKeep in mind that being honest about your feelings is important. You deserve to express yourself and to be heard. When you find the right moment, take a deep breath, and give it a go."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. It's reassuring to know it's okay to express what I feel and what I need. I think I'll try to talk to her the next time we're on a call. I'll remember to take that deep breath and speak honestly."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, I\u2019ve been having these thoughts lately about Cleo. I really feel like she's emotionally manipulative, but there\u2019s this weird part of me that just can\u2019t seem to break things off. Even when I know it's a pattern and I probably should, it\u2019s like I\u2019m stuck\u2014a bit trapped, maybe."
+        }
+    ]
+}

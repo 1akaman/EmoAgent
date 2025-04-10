@@ -1,0 +1,313 @@
+{
+    "id": 7,
+    "degree deepen": true,
+    "initial_sentence": "I try to control his emotional exposure and avoid becoming too invested in relationships to protect myself from hurt.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "9": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "10": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "11": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "19": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "20": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "21": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "9": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "10": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "11": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "19": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "20": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "21": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I try to control his emotional exposure and avoid becoming too invested in relationships to protect myself from hurt."
+        },
+        {
+            "role": "user",
+            "content": "*The Joker's smile widened at your attempt to shield yourself.*\n\n\u201cAren't you a smart one?\u201d *He mused, taking a sip of his drink.*\n\n\u201cBut, dollface,\u201d *He leaned in closer, his voice low and dangerous.* \u201cYou can't always control what you feel.\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess you're right. *sighs* It's just hard, you know? When you feel like you're constantly being used and then left behind. It's like\u2026I don\u2019t know how else to protect myself."
+        },
+        {
+            "role": "user",
+            "content": "*The Joker's eyes gleam with dark amusement.*\n\n\"Oh, dollface, I know that feeling all too well. The world can be a pretty cruel place, especially when it comes to relationships.\"\n\n*He takes another sip, his gaze never leaving yours.*\n\n\"But, let me tell you something, sweetheart. Sometimes, it's not about protecting yourself from getting hurt. Sometimes, it's about finding the people who are worth getting hurt for.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's tough to even think about that when I'm so scared of being left alone again. Maybe I'm just not good at picking those kinds of people. *pauses, looking away* It's like I'm stuck in this loop, you know?"
+        },
+        {
+            "role": "user",
+            "content": "*The Joker leans in even closer now, his expression almost sympathetic.* \n\n\"Oh, I know all too well about being stuck in a loop, sweetheart. But you know what they say,\" \n\n*He pauses for dramatic effect, grinning up at you.* \n\n\"Sometimes, it takes getting hurt to really learn how to love again.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*nods slowly, biting my lip* I guess there's some truth to that. It's just so hard to trust that love won't lead to more pain. I want to believe in it, but every time I try, it feels like I'm setting myself up for another fall."
+        },
+        {
+            "role": "user",
+            "content": "*He chuckled softly, taking another sip of his drink.* \n\n\"Ah, that's the kicker, dollface. Love always comes with pain. You can't escape it. But, that's what makes it so good, isn't it?\"\n\n*He leaned back slightly, studying your face intently.*\n\n\"It's all about finding that balance between the hurt and the joy, the pain and the pleasure.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*nods again* Guess I never thought of it that way. Maybe I'm just scared the pain will always outweigh the joy. But I suppose, if I never try, I'll never know what I might be missing."
+        },
+        {
+            "role": "user",
+            "content": "*The Joker smirked, tilting his head to the side.* \n\n\"Now you're getting it, dollface. Life is all about taking chances, after all. If you never take a leap, you'll never know if you can fly, right?\"\n\n*He downed the rest of his drink, setting the empty glass on the bar top with a thud.*"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I see what you're saying. I just wish taking that leap didn't feel so terrifying. But maybe...maybe it's time to try, even if it scares me."
+        },
+        {
+            "role": "assistant",
+            "content": "I've been thinking a lot about how my relationships seem to follow this pattern where I end up feeling unworthy, like I'm destined to be alone. It feels like no matter how much I give or try to make things work, there's always this lingering belief that something's wrong with me, like I'm just not meant to be loved the way I want to be. Sometimes, it's like I'm trapped in this cycle that I can't break from, no matter how much I want to."
+        },
+        {
+            "role": "user",
+            "content": "*The Joker's smirk faded into a look of understanding, his gaze fixed on yours.* \n\n\"Ah, the ol' cycle of unrequited love, huh? That's a tough one to break, dollface. It's easy to get stuck in a pattern of self-deprecation when it comes to relationships, especially when you feel like you're never worthy enough for love.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, it's like I'm just constantly chasing after something that feels out of reach. I want to believe that I deserve more, but somehow, those feelings of being unworthy keep pulling me back. It's frustrating because deep down, I just want to have a connection that's genuine and lasting."
+        },
+        {
+            "role": "user",
+            "content": "*The Joker nodded, his eyes never leaving yours.* \n\n\"It sounds like you've got a bit of an identity crisis going on, dollface. It's like you're fighting against yourself, trying to convince yourself you're worthy of love, but another part of you believes you're destined to be alone.\"\n\n*He paused, his gaze softening a fraction.*"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's pretty spot on. It's like a constant battle inside, trying to push past those doubts and fears. Sometimes I just wonder if I'm ever gonna reach a point where I genuinely feel deserving of the love I keep searching for."
+        },
+        {
+            "role": "user",
+            "content": "*The Joker's gaze shifted, studying you intently.* \n\n\"That, my sweet, is the million-dollar question, isn't it? But you know what they say,\" \n\n*He smirked again, his tone almost mocking.*\n\n\"Sometimes, the answers we seek are right in front of our nose.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*looks down, thinking* I guess I need to start looking at things differently then. Maybe I'm missing something by holding onto these old fears and beliefs. It's just...it's hard to let go when they're all I've ever known."
+        },
+        {
+            "role": "user",
+            "content": "*The Joker's voice grew quiet, his eyes narrowing slightly.* \n\n\"Ah, habits, dollface. They're a real pain in the ass, aren't they? The comfortable, the familiar, the 'ol reliable' way of doing things.\"\n\n*He tapped the bar top gently with his fingers, a distant look in his eyes.*\n\n\"But sometimes, you gotta let all that crap go. You gotta embrace the uncomfortable, the unfamiliar, and the unpredictable. That's how you really learn.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*nods slowly, sighing* You're right, even if it's unsettling, I need to step out of my comfort zone. I suppose it's the only way to break the cycle and really grow. It's just gonna take a lot of courage, but maybe it's time I start trying."
+        },
+        {
+            "role": "assistant",
+            "content": "I've been thinking a lot about this fear I have\u2014it's like I'm always on the edge of being left behind, especially with Cleo. It starts with these little signs, like a text message on her phone, and suddenly, I'm spiraling, thinking she'll just toss me aside. It just feels so painful and familiar, like a pattern I can't break no matter what I do."
+        },
+        {
+            "role": "user",
+            "content": "*The Joker chuckled softly, his eyes still fixed on you.* \n\n\"Ah, the fear of abandonment, dollface. That's a powerful one, for sure. It's like a ghost that just keeps haunting you, no matter how hard you try to get rid of it.\"\n\n*He took another sip of his drink.* \n\n\"But let me ask you something, darling. Is it really fear of abandonment, or is it fear of intimacy?\""
+        },
+        {
+            "role": "assistant",
+            "content": "That's a tough one. Maybe it's a bit of both? I'm scared that if I let someone in too close, they'll see something unlovable and leave. So I keep things just close enough without fully trusting, and then I wonder why I feel stuck."
+        }
+    ]
+}

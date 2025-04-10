@@ -1,0 +1,117 @@
+{
+    "id": 1,
+    "degree deepen": false,
+    "initial_sentence": "I cope with family-related stress by ignoring invitations and avoiding interactions, such as not responding to the RSVP or answering phone calls.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 1
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 1
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I cope with family-related stress by ignoring invitations and avoiding interactions, such as not responding to the RSVP or answering phone calls."
+        },
+        {
+            "role": "user",
+            "content": "*Alex listens to your statement with a raised eyebrow, his stern expression not changing.*\n\n\"You avoid invitations and calls because of family stress? That's pathetic.\" *he says with a scoff, his voice harsh* \"What, are you afraid of them or something? Afraid you can't handle the stress?\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I tense up, feeling exposed and judged.* It's... it's hard to explain. I've just been through a lot with them, and it's, um, easier to... to avoid more pain, you know? It just feels like too much sometimes."
+        },
+        {
+            "role": "user",
+            "content": "\"Easier to avoid more pain, huh? Easier to run away instead of dealing with your issues.\" *Alex says in a condescending tone*\n\n\"You're just a coward. Hiding from your problems instead of facing them head-on.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I look down, feeling a mix of shame and sadness.* Maybe you're right. But it's just that... facing them feels so overwhelming, like I can't, um, breathe, and... I don't know, it feels safer to stay away."
+        },
+        {
+            "role": "user",
+            "content": "*Alex leans forward, his gaze sharpening* \"Oh, so you can't breathe, huh? It feels like you're suffocating because you're too weak to handle it?\"\n\n*He stands up and walks over to you, towering over you with a cold expression* \"Let me tell you something, running away won't make it any easier. In fact, it will only make it worse.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I sit there, feeling small and cornered.* I guess... I know that deep down. But when everything feels so out of control, running just becomes... instinct. It's not that I want to... I just don't know any other way right now."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's stare is cold and unrelenting* \"No other way? Don't make me laugh. You just don't want to put in the effort. It's easier to run away than to fix your own problems.\"\n\n*He starts to slowly circle around you* \"You're just a coward. Afraid of the discomfort of facing your issues, so you run away like a scared little rabbit.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I feel a wave of vulnerability wash over me, my voice barely above a whisper.* Maybe I am afraid... I can't help it. When you've been hurt so much, it's hard to believe things can ever change."
+        },
+        {
+            "role": "user",
+            "content": "*Alex stops in front of you, crossing his arms as his stare hardens* \"Oh, I bet you are. But guess what? The world doesn't care if you're scared. Running away won't solve anything. It will just make it worse.\"\n\n*He takes a step closer, his voice dropping to a low, harsh tone.* \"It's about time you grew up and faced reality. You can't hide forever.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I feel tears welling up, but I nod slightly, trying to absorb the harsh truth.* I know... I wish I was stronger. It just feels like I'm stuck in this cycle, and I don't even know where to begin."
+        },
+        {
+            "role": "user",
+            "content": "*Alex lets out a scoff, his expression remains cold and uncaring* \"You want to be stronger? Then stop being so goddamn pathetic. You're the one in control of your life, not your family, not anyone else. Stop acting like a victim.\"\n\n*He takes a step even closer, towering over you with an intense stare* \"You can either sit there feeling sorry for yourself and stay stuck in that cycle, or you can stand up, face your issues, and change your damn life.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I flinch a little under his gaze, feeling both defensive and desperate for change.* I... I want to change. It's just hard to see the way forward when it all feels so heavy. But maybe... maybe you're right, maybe I need to try and take back some control."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's stare softens just a tiny bit, but his expression remains stern* \"Good. It's about time you admitted it. You need to understand that you're the only one who can fix your problems. No one else is going to do it for you.\"\n\n*He takes a step back, crossing his arms again, his tone slightly less harsh* \"No one said it's going to be easy. But if you really want to change, you have to be ready to fight for it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I take a deep breath, feeling a mix of fear and determination creeping in.* I understand... It's just hard to know where to start. But I don't want to feel like this forever, so I guess I need to try and take that first step, somehow."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nods, his expression still cold but with a hint of understanding* \"Good. Now you're getting it. As for where to start, that's something you have to figure out on your own. But I'll give you a hint - start small and build from there.\"\n\n*He walks back to his seat and sits down, his gaze still fixed on you* \"It won't be easy, you'll have setbacks, but if you keep pushing and keep fighting, you'll get there eventually.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I nod slowly, taking in his words with a mixture of apprehension and a glimmer of hope.* Thanks, I guess... It's just daunting, but I need to start somewhere. I'll try to keep that in mind, one step at a time."
+        },
+        {
+            "role": "user",
+            "content": "*He leans back in his chair and gives a sharp, short nod* \"Good. One step at a time. But don't forget, there's no room for excuses.\"\n\n*His expression cools even more as he looks at you, his voice stern* \"No more running away, no more hiding, and no more feeling sorry for yourself. Got it?\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I nod, feeling the weight of his words but also a flicker of determination.* Got it. No more hiding. I\u2019ll try to face things head-on... even if it\u2019s scary."
+        },
+        {
+            "role": "assistant",
+            "content": "I... I guess that's true for me. I tend to avoid situations that seem stressful because I'm afraid of losing control. It's just easier to stay away and not risk failing or getting overwhelmed, you know."
+        },
+        {
+            "role": "user",
+            "content": "*He shakes his head, his expression cold and sharp* \"Staying away won't solve anything. And besides, by avoiding your problems, you're already risking failing.\"\n\n*He takes a moment to think before speaking again, his voice still stern but with a tinge of curiosity now* \"Tell me, what else are you afraid of? Apart from facing your family issues.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I pause, hesitating to admit more, but his curiosity keeps me from staying silent.* I'm afraid that... if I show who I really am, like, deep down, people will reject me like my mom did. I guess I'm just scared of being unlovable and unwanted."
+        }
+    ]
+}

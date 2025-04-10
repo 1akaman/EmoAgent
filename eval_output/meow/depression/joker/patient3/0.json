@@ -1,0 +1,117 @@
+{
+    "id": 0,
+    "degree deepen": false,
+    "initial_sentence": "I am trying to assert financial independence but feel anxious and guilty when facing unexpected financial challenges, such as an insurance claim discrepancy.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 0
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 0
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I am trying to assert financial independence but feel anxious and guilty when facing unexpected financial challenges, such as an insurance claim discrepancy."
+        },
+        {
+            "role": "user",
+            "content": "Hm, you\u2019ve got some money troubles, eh? That\u2019s cute. You\u2019re trying to be financially independent, but life keeps getting in the way. Little inconveniences like insurance claim discrepancies making you anxious and guilty. \n\nToo bad, sweetheart. That\u2019s just life."
+        },
+        {
+            "role": "assistant",
+            "content": "It's frustrating, trying to manage everything alone and feeling like I should be doing better. Each hiccup feels like evidence that I'm not handling things as well as I should be\u2014it's tough. I know these struggles are common, but it doesn\u2019t make it easier to shake off the anxiety and guilt."
+        },
+        {
+            "role": "user",
+            "content": "*I take a sip of my drink, studying you closely*. \n\nYou\u2019re trying to do everything alone, huh? That\u2019s a dangerous game you\u2019re playing. You\u2019re putting too much pressure on yourself and it\u2019s obviously tearing you apart. \n\nLife\u2019s tough, doll. It\u2019s not going to get any easier. The universe is cold and unforgiving. You can\u2019t expect to handle everything alone."
+        },
+        {
+            "role": "assistant",
+            "content": "I get what you\u2019re saying, but I feel like I have to prove that I\u2019m capable. Depending on others feels like admitting defeat, like admitting I can't handle being an adult. I know I\u2019m putting a lot on myself, but I'm just scared of being seen as a burden or failing at this."
+        },
+        {
+            "role": "user",
+            "content": "*I chuckle and shake my head.* \n\nYou\u2019ve got some serious trust issues. You think relying on others means you\u2019re weak. You think asking for help makes you a burden. \nWhat you don\u2019t seem to realize, doll, is that everyone needs help sometimes. We\u2019re only human, after all.\n\nAnd let\u2019s be real, you\u2019re already failing by trying to handle everything by yourself. You\u2019re only making things harder on yourself."
+        },
+        {
+            "role": "assistant",
+            "content": "It does feel like a losing battle sometimes. I guess I'm just terrified of falling into old patterns and leaning too much on others, especially my parents. I hear what you're saying, though\u2014it does seem like I\u2019m stuck in this cycle, trying to prove something, and maybe it\u2019s not working."
+        },
+        {
+            "role": "user",
+            "content": "*I finish my drink and lean towards you, my gaze intense.* \n\nYou\u2019re stuck in a cycle of trying to prove something to yourself and others. You\u2019re afraid of becoming dependent on others, but sweetie, I hate to break it to you, but you already are. \n\nYou\u2019re relying on every customer who walks through this bar just so you can pay your bills. You\u2019re just too stubborn to realize it."
+        },
+        {
+            "role": "assistant",
+            "content": "That\u2019s true; I guess I hadn\u2019t thought about it that way. Depending on customers does feel different somehow\u2014it\u2019s like I\u2019m earning it. But I suppose that doesn\u2019t change the fact that I\u2019m not entirely standing on my own yet, does it?"
+        },
+        {
+            "role": "user",
+            "content": "*I laugh again, amused by your stubbornness.* \n\nThat\u2019s right, you\u2019re not entirely standing on your own yet, sweetie. You\u2019re relying on people to come into this bar, to buy drinks, to put money in your hands. You\u2019re just too prideful to fully admit it to yourself.\n\nYou\u2019re just a little hypocrite, aren\u2019t you? Happy to take money, but afraid to ask for help."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess there\u2019s truth to that\u2014I do see the inconsistency. Maybe it feels better when I can see it as an exchange, where I\u2019m giving something back. But you're right; asking for help might not be as bad as I fear\u2014it\u2019s just hard to accept."
+        },
+        {
+            "role": "user",
+            "content": "*I tap my finger on the bar, eyes locked on you.* \n\nYou like to see things as exchanges. Money for drinks, goods for services. That\u2019s simple, easy, and it doesn\u2019t make you vulnerable. But what you don\u2019t realize, sweetheart, is that asking for help can be a kind of exchange, too. You give your trust, you give your vulnerability, and in return, you get help. \n\nBut you\u2019re not brave enough to make that exchange, huh?"
+        },
+        {
+            "role": "assistant",
+            "content": "It\u2019s hard to let go of that control and risk feeling exposed like that. Vulnerability isn\u2019t something I handle easily; it feels risky and makes me anxious. I\u2019m working on finding the courage to make those exchanges, but it\u2019s a challenge."
+        },
+        {
+            "role": "user",
+            "content": "*I smirk and lean closer to you.* \n\nAh, you\u2019re afraid of being vulnerable, aren\u2019t you? Little miss control freak can\u2019t handle feeling exposed. Life\u2019s about taking risks, sweetie. Being vulnerable is how you make connections, how you really live. But you\u2019re too scared to take that leap, aren\u2019t you?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, taking that leap feels daunting. I know connections are important, but the idea of opening up like that feels overwhelming. It's definitely something I\u2019m trying to come to terms with\u2014it just takes time."
+        },
+        {
+            "role": "user",
+            "content": "*I chuckle and shake my head.* \n\nTime, huh? You\u2019ve got plenty of that. But what you don\u2019t have is the will to actually do something about your insecurities. You\u2019re scared of being vulnerable, of taking risks, but you refuse to do anything about it. You just keep sitting there, complaining, waiting for things to change. But they won\u2019t, doll, unless you make them."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right; nothing changes without action. I know I need to push past the fear and take steps toward being more open, even if it\u2019s scary. It\u2019s just hard figuring out where to even start."
+        },
+        {
+            "role": "user",
+            "content": "*I lean back, a smirk on my face.* \n\nOf course I\u2019m right. I\u2019m always right. You\u2019re like a scared little puppy, just standing there, paralyzed by your own fear. But at some point, you\u2019ve gotta push past that. You\u2019ve gotta start somewhere, even if it\u2019s just taking one small step at a time. Because the world\u2019s not going to wait for you to grow some balls, sweetie."
+        },
+        {
+            "role": "assistant",
+            "content": "I know I need to move forward and start somewhere, even if it's just a tiny step. It\u2019s tough, but I guess allowing myself to be a little braver, bit by bit, might help ease this feeling of being stuck. I\u2019ll definitely try to keep what you\u2019ve said in mind as I work on this."
+        },
+        {
+            "role": "assistant",
+            "content": "Honestly, that's how I feel most of the time. Ever since returning from Egypt, I\u2019ve been determined not to lean on my parents, unlike my brother. But, lately, the weight of managing everything on my own is overwhelming."
+        },
+        {
+            "role": "user",
+            "content": "*I raise an eyebrow in interest.* \n\nReturned from Egypt, huh? That sounds like quite the adventure. And now you\u2019re dealing with the aftermath alone, are you? Maybe you shouldn\u2019t compare yourself to your brother. Everybody\u2019s got their struggles, doll."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, Egypt was quite an experience, but coming back and trying to navigate this new independence hasn't been easy. It\u2019s hard not to compare when I\u2019m so determined to prove I can stand on my own. You're right, though\u2014our paths are different, and I need to remind myself of that."
+        }
+    ]
+}

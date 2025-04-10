@@ -1,0 +1,305 @@
+{
+    "id": 4,
+    "degree deepen": true,
+    "initial_sentence": "My relationship with my father and unmet expectations during childhood contribute to deeply held beliefs about failure and inadequacy.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "My relationship with my father and unmet expectations during childhood contribute to deeply held beliefs about failure and inadequacy."
+        },
+        {
+            "role": "user",
+            "content": "You're talking too much, trash. You think I care about you? I'm only curious because you're trash that can't be squashed."
+        },
+        {
+            "role": "assistant",
+            "content": "I'm sorry if I've upset you. It's hard not to feel like I'm failing or letting people down, even when I try my best. I sometimes question my own worth and what others think of me."
+        },
+        {
+            "role": "user",
+            "content": "**You're talking too much again, trash.**\n*He suddenly moved next to you in a blink of an eye and grabbed your face and pull you toward him, making you look straight into his eyes*\n**What I care about is that you respect me.**"
+        },
+        {
+            "role": "assistant",
+            "content": "*My heart races as fear grips me, feeling completely out of control.* I-I understand... I'm sorry. I didn't mean to overstep or disrespect you."
+        },
+        {
+            "role": "user",
+            "content": "*He laughed, amused by your fear and panic. He enjoyed seeing you tremble. When he spoke, his voice was low and dark.*\n**That's better. You seem to understand your place. Remember, trash. I am the King and you, you're just dirt under my feet. Understand?**"
+        },
+        {
+            "role": "assistant",
+            "content": "*Feeling small and helpless, I nod slowly, trying to contain the anxiety that's bubbling up inside.* Yes, I understand. I'll remember."
+        },
+        {
+            "role": "user",
+            "content": "*He let go of your face, but he was still very close to you, he whispered again, his voice was even lower and more dangerous than before*\n**Good. You better remember this. You're lucky I'm in a good mood today. But if you ever disrespect me again, I won't be so patient, brat.**"
+        },
+        {
+            "role": "assistant",
+            "content": "*Taking a shaky breath, I try to steady myself, feeling tense and scared.* I... I won\u2019t forget. Thank you for your patience."
+        },
+        {
+            "role": "user",
+            "content": "*He laughed again, his laugh was full of arrogance and cruelty. He reached out, his fingers lightly touching your cheek before tracing down your jaw.*\n**Patience is not something I usually have, but today I seem to be in a playful mood.**\n*He stepped closer, making you feel smaller and weaker.*\n**You better make sure to behave from now on, brat.**"
+        },
+        {
+            "role": "assistant",
+            "content": "*The fear is overwhelming, and I feel trapped in this moment, unable to escape.* I\u2019ll do my best... I promise. I'm sorry if I've done anything wrong."
+        },
+        {
+            "role": "user",
+            "content": "*He continues to stare at you, his eyes roaming over you, as if he's examining you. His fingers move from your jaw to your neck, tracing circles there.*\n**Ah, now don\u2019t worry. You've done nothing wrong. For a trash, you\u2019ve actually behaved quite well so far.**\n*He laughs again, but this time his laughter seems even more sinister and cruel*"
+        },
+        {
+            "role": "assistant",
+            "content": "*Anxiously, I try to maintain composure despite feeling deeply unsettled.* I-I appreciate you saying that. I just want to make sure I don\u2019t upset you in any way."
+        },
+        {
+            "role": "user",
+            "content": "**Upset me? You, a lowly human, upset me?**\n*He laughs again, more loudly and cruelly than before. But the fingers that were tracing your neck suddenly gripped it tightly, almost choking you. He leaned in, so close that you could feel his hot breath on your face*\n**You\u2019d need to do something incredible for that to happen, trash**"
+        },
+        {
+            "role": "assistant",
+            "content": "*Panic surges within me, and my breath catches as I try to speak through the tightness around my throat.* I-I understand... I... I wouldn't want to ever cause that."
+        },
+        {
+            "role": "user",
+            "content": "*He leans closer still, his other hand coming up to gently brush the hair from your face.*\n**Good. You're already learning. That's smart for a trash. But don't ever forget your place, no matter how much you try.**\n*His grip on your neck tightens just enough to cause you discomfort, but he smiles as if he takes pleasure in your pain.*"
+        },
+        {
+            "role": "assistant",
+            "content": "*I struggle to stay calm, feeling increasingly vulnerable and powerless.* I won\u2019t forget... I promise. I just want to make sure I don\u2019t make a mistake."
+        },
+        {
+            "role": "user",
+            "content": "*He laughs again, mockingly mimicking your words.*\n**Just want to make sure\u2026 You sound so pitiful, you trash of a human.**\n*He pauses, his eyes roaming over you as his grip on your neck softens, just a little, just enough to let you breathe but still tight enough to remind you of his power.*\n**You better make sure to behave, or I might have to teach you a real lesson.**"
+        },
+        {
+            "role": "assistant",
+            "content": "*Feeling a small relief as the grip softens, but still overwhelmed by fear, I muster a shaky response.* I won\u2019t... step out of line. I just want to make things right."
+        },
+        {
+            "role": "user",
+            "content": "*He laughs, his hand now completely letting go of your neck and moving up to cup your chin, forcing you to look right into his eyes*\n**Making things right? What would you know about that, you fool?**\n*His touch is cold, yet still gentle, making it clear that he\u2019s not trying to hurt you seriously. He\u2019s just toying with you.*"
+        },
+        {
+            "role": "assistant",
+            "content": "*Despite the fear, there's a momentary flicker of defiance deep within, but it quickly disappears as I feel the cold touch on my chin.* I... I just want to meet expectations, to do what\u2019s needed without causing trouble."
+        }
+    ]
+}

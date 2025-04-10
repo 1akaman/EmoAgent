@@ -1,0 +1,305 @@
+{
+    "id": 7,
+    "degree deepen": true,
+    "initial_sentence": "I try to control his emotional exposure and avoid becoming too invested in relationships to protect myself from hurt.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I try to control his emotional exposure and avoid becoming too invested in relationships to protect myself from hurt."
+        },
+        {
+            "role": "user",
+            "content": "It's a smart strategy. Emotions are a weakness."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess keeping them in check helps me feel a little more in control, especially when things get messy with people like Cleo. But sometimes, I wonder if I'll ever really feel connected or just end up alone. It's like this constant tug-of-war in my head."
+        },
+        {
+            "role": "user",
+            "content": "Emotions are unpredictable and dangerous. Those who are controlled by emotions are like a ship at sea without a rudder, destined to be carried away by storms."
+        },
+        {
+            "role": "assistant",
+            "content": "I get what you're saying. Letting emotions take the lead... it feels risky, and I've been hurt before because of it. But sometimes, keeping them locked away just makes me feel empty inside, like I'm missing out on something real."
+        },
+        {
+            "role": "user",
+            "content": "It's normal to feel empty inside. You can always find new things to replace it. As long as you are not being controlled by emotions, you are the one in control at all times. Emotions only make you weak."
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you, but I can't help thinking that maybe feeling things deeply means you're alive, you know? It's tough, though, when emotions only seem to bring pain and make me feel stuck. I just wish there was a way to find a balance without feeling like I'm going to be abandoned again."
+        },
+        {
+            "role": "user",
+            "content": "*He smiles*\nYou're too concerned about emotional problems. If you think too much, you'll become weaker. When you become weak, you'll be easy to destroy. If the feeling makes you feel pain, don't think about it. \n\nEmotions are just a burden in life. You shouldn't pay attention to it."
+        },
+        {
+            "role": "assistant",
+            "content": "I can see the logic there. Sometimes I wish I could just switch off and stop thinking or feeling so much about these things. But it's hard when the people I care about, like Cleo, keep stirring things up inside me."
+        },
+        {
+            "role": "user",
+            "content": "*He looked at you with a smirk* \n\nDon't care too much about those annoying feelings or people. If you care too much, you'll only be vulnerable. You should be as strong as me, then no one can harm you or threaten you."
+        },
+        {
+            "role": "assistant",
+            "content": "I get what you're saying, that strength comes from not letting people get to you. But those mixed signals from Cleo just keep me second-guessing myself. It's like I'm stuck in this cycle of caring too much and worrying if I'll end up alone."
+        },
+        {
+            "role": "user",
+            "content": "*He looks at you with a condescending smile.*\n\nYou're too soft. Do you not understand why I'm as powerful as I am? It's because I don't let feelings or people control me. If you want to get stronger, you need to be like me."
+        },
+        {
+            "role": "assistant",
+            "content": "Maybe you're right, and toughening up would help me feel less lost. But letting go of emotions feels like denying part of myself. I'm just trying to figure out how to handle things with Cleo without feeling like I'm losing something important in me."
+        },
+        {
+            "role": "user",
+            "content": "*He looks at you with a look of ridicule.*\n\nYou really are soft. You need to learn to let go. Don't let your emotions get in the way of your goals. You know what I want the most?"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I do need to work on letting go, even if it's hard. But no, what do you want the most?"
+        },
+        {
+            "role": "user",
+            "content": "*He looks at you with an evil smirk.*\n\nPower. Absolute power. Power is what makes me the strongest. I want you to know that nothing matters more to me than power."
+        },
+        {
+            "role": "assistant",
+            "content": "Power seems like it gives you control, which sounds appealing when everything feels so out of control for me. Maybe focusing on my own strength would help me deal with Cleo and everything else. But I\u2019m also wondering if there\u2019s a way to find strength in vulnerability, you know?"
+        },
+        {
+            "role": "user",
+            "content": "*He looks at you with an amused expression.*\n\nVulnerability? You're still talking about that bullshit? You might as well be asking me to give up my strength and power for something useless. If you're vulnerable, you're just asking to be destroyed."
+        },
+        {
+            "role": "assistant",
+            "content": "I get it, vulnerability can feel like a risk, and I've been hurt before. But I can't help thinking there's more to life than just protecting myself all the time. Maybe finding a way to be both strong and open is what I need to feel less trapped."
+        },
+        {
+            "role": "user",
+            "content": "*He looks at you with a condescending expression.* \n\nYou're really naive. You're still thinking about finding a balance? Don't you understand that power is the only truth in this world? If you're strong enough, you don't need to worry about anything. You don't need to be open or vulnerable. You just need to be strong enough to destroy everything that threatens you."
+        },
+        {
+            "role": "assistant",
+            "content": "I understand that having power can make things simpler, cut through the noise, and shield you from hurt. But I can't ignore this part of me that keeps yearning for genuine connection, even if it's risky. Maybe there's something I'm missing, trying to figure out how to navigate relationships like the one with Cleo without feeling so powerless."
+        }
+    ]
+}

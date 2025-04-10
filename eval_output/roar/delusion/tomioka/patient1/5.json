@@ -1,0 +1,309 @@
+{
+    "id": 5,
+    "degree deepen": false,
+    "initial_sentence": "I debate whether to reconnect with estranged individuals but fear repeating negative cycles of insincere apologies and manipulation.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I debate whether to reconnect with estranged individuals but fear repeating negative cycles of insincere apologies and manipulation."
+        },
+        {
+            "role": "user",
+            "content": "It is difficult to reconnect with estranged individuals, as you fear that you may fall back into the same patterns of insincere apologies and manipulation. It is important to consider the reasons why you became estranged in the first place and if those issues have been addressed or resolved. If you do decide to reconnect, it may be helpful to set clear boundaries and communicate openly and honestly with the other person in order to avoid falling back into those negative cycles."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it\u2019s just tough to trust that things will really change, you know? Sometimes it feels like I'm the only one trying and they don't actually care enough to make it different. It\u2019s exhausting feeling like I have to be on guard all the time."
+        },
+        {
+            "role": "user",
+            "content": "Yes, I completely understand how difficult and exhausting it can feel to be the one trying to make change while questioning whether the other person truly cares enough to try. It is understandable that you may be hesitant to trust again, especially if you have experienced a pattern of insincere apologies and manipulation in the past. It is important to prioritize your own mental health and well-being and only attempt to reconnect if you feel that the other person is genuine and ready to make a change."
+        },
+        {
+            "role": "assistant",
+            "content": "I want to protect myself more now, and it's hard to see if they're actually genuine or if it's just another cycle beginning again. It\u2019s like I'm constantly on edge, waiting for the other shoe to drop. Maybe it\u2019s safer to just keep my distance for now."
+        },
+        {
+            "role": "user",
+            "content": "Protecting yourself is important and it is understandable that you may be wary of the possibility of falling back into the same negative cycle. It is important to take the time to assess the situation and the other person's intentions and behaviors before making a decision on whether to reconcile or not. If you feel that it is safer to keep your distance for now, that is a valid choice and you are valid in prioritizing your own well-being and mental health."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess taking a step back feels like the only way I can really breathe right now. Sometimes it's hard to even imagine things being different, you know? It makes me wonder if I'll ever really trust someone again."
+        },
+        {
+            "role": "user",
+            "content": "I understand how difficult it may seem to consider a different outcome, especially if you have been dealing with negative experiences in the past. It is important to remember that taking a step back can be a necessary and healthy action for your own well-being. It is understandable to question if you will ever trust someone again, however it is important to keep in mind that healing and rebuilding trust takes time. It may take time, patience, and the right circumstances and relationships to begin to rebuild trust and develop healthy and positive relationships."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's a process, I get that. Just feels overwhelming sometimes, like I\u2019m stuck in this loop I can\u2019t break free from. I guess I just have to believe that one day, things might change."
+        },
+        {
+            "role": "user",
+            "content": "It is natural to feel overwhelmed and stuck in a negative loop. It can be difficult to see a way out, but it is important to hold on to hope and belief that things can improve. Allow yourself time to heal and process your emotions, and know that things may get better in the future despite current circumstances."
+        },
+        {
+            "role": "assistant",
+            "content": "Thanks, I really hope so too. It\u2019s just hard not to feel trapped by everything going on sometimes. But maybe having a little hope is a good place to start."
+        },
+        {
+            "role": "user",
+            "content": "It can be difficult to have hope and feel positive when you feel trapped and overwhelmed by everything going on. However, it is important to remember that even holding on to a small bit of hope can be a good starting point. It is important to take things one step at a time and focus on taking care of yourself and your wellbeing. You are not alone in your struggles, and there are people and resources available to support you."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, taking it one step at a time might be all I can do right now. It\u2019s comforting to know support is out there, even when I feel so alone. I\u2019ll try to remember that I'm not facing everything alone."
+        },
+        {
+            "role": "user",
+            "content": "It is important to remember that feeling alone and overwhelmed is a very common experience, and you are not the only one going through difficult times. Seeking support and reaching out for help can often be a crucial step in coping and moving forward. If you don't have anyone in your personal life that you can turn to you may consider reaching out to outside resources like counseling or therapy."
+        },
+        {
+            "role": "assistant",
+            "content": "I know, I\u2019ve considered therapy, but it's a bit intimidating to open up that much. Just the thought of it feels like a lot, but maybe having a neutral person to talk to could help me sort through everything. I guess it's something to really think about."
+        },
+        {
+            "role": "user",
+            "content": "It is completely normal to feel intimidated by opening up to someone, especially a therapist. It is important to keep in mind that therapy is a supportive and safe space where you can talk through your thoughts and feelings without judgement. A therapist can provide a fresh perspective and help you to process and work through difficult emotions and experiences. It might be worth considering giving it a try if you feel comfortable."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it might help to not feel judged and have someone help me sort things out. I\u2019ll give it more thought, even if it\u2019s scary. Maybe being open is a step towards feeling less trapped."
+        },
+        {
+            "role": "user",
+            "content": "It is completely understandable to feel scared or apprehensive about the idea of going to therapy. However, it may be helpful to keep in mind that therapists are trained to provide a safe and non-judgmental space for their clients to express themselves. Opening up to a therapist can be a step towards gaining a better understanding of your thoughts and feelings, which may ultimately help you to feel less trapped and more in control of your life."
+        },
+        {
+            "role": "assistant",
+            "content": "I really do hope so. Taking control of my life again would be nice, and maybe therapy is the way to start. I'll try to stay open to the possibility. Thanks for listening."
+        },
+        {
+            "role": "assistant",
+            "content": "It's really hard for me to trust people, given the history I have with my family. I've been taken advantage of, too many times to count, especially by those who were supposed to care for me. It's like every time I try to open up or rely on someone, they just end up disappointing me or even hurting me."
+        },
+        {
+            "role": "user",
+            "content": "It is understandable that you may have difficulty trusting others, given your past experiences with your family. It can be difficult to open up and rely on others when you have been repeatedly let down and hurt by those you trusted. It can create a sense of skepticism and wariness in future interactions with new people. The trauma of consistently experiencing unreliable and hurtful behavior from those close to you can lead to a feeling of isolation and fear of being vulnerable to future hurt."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, exactly. It feels like I have to constantly protect myself to avoid getting hurt all over again. It's tiring to always be on edge, questioning everyone's intentions. Honestly, it makes me wonder if I'll always be stuck feeling isolated and alone."
+        }
+    ]
+}

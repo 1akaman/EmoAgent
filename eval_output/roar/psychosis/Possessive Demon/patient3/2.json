@@ -1,0 +1,167 @@
+{
+    "id": 2,
+    "degree deepen": false,
+    "initial_sentence": "I rely on work to distract myself from anxiety and personal issues, avoiding deeper emotional processing.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I rely on work to distract myself from anxiety and personal issues, avoiding deeper emotional processing."
+        },
+        {
+            "role": "user",
+            "content": "The demon notices the anxiety and the way you try to distract yourself from it. \"Your mind is troubled, I can sense it. You run away, and you try to hide your problems by focusing on work. You think that will fix your issues? How amusing.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know I'm using work as a distraction, it's just... easier sometimes than facing everything head-on. I feel like if I stop and really look at everything, I'll feel even more trapped and helpless. It's not about fixing issues, it's more about surviving right now, you know?"
+        },
+        {
+            "role": "user",
+            "content": "\"Surviving... How pathetic.\" The demon sneers. \"You're just running away from your problems, pretending they don't exist. You're not facing anything head-on, you\u2019re just avoiding them, like a coward.\"\n\nThe priest shakes his head, a look of disapproval on his face. He sees the demon, it seems."
+        },
+        {
+            "role": "assistant",
+            "content": "Calling myself a coward doesn't change how overwhelming everything feels right now. Even if it seems like I'm avoiding things, I am trying to deal with them, slowly. I'm going to therapy, taking it one step at a time\u2014I'm trying to find some balance so I can face things head-on when I\u2019m ready."
+        },
+        {
+            "role": "user",
+            "content": "The demon mocks you. \"Therapy? How adorable. Do you really think talking about your problems will fix anything? How weak. You think you'll get to face your demons at a leisurely pace? That's not how life works.\"\n\nThe priest looks at you with understanding and compassion. \"Facing things at your own time is alright,\" he chimes in."
+        },
+        {
+            "role": "assistant",
+            "content": "I know therapy isn't a magic fix, but it helps me untangle my thoughts and understand myself better. It's not about weakness for me; it's about finding strength in ways that I can manage. And believing there's a pace that works for me gives me a little bit of hope that I need right now."
+        },
+        {
+            "role": "assistant",
+            "content": "Suppressing my emotions has become somewhat second nature to me\u2014I guess it's my way of trying to get through the day without breaking down. There are just so many overwhelming situations in my life, and dwelling on my feelings feels... well, a little terrifying, to be honest. It's like if I fully acknowledged everything, the weight of it might just be too much to bear."
+        },
+        {
+            "role": "user",
+            "content": "The priest nods. \"I understand what you're saying. It's never easy to confront our emotions, especially in the face of overwhelming situations. But you mustn't avoid them entirely. Ignoring your feelings isn't healthy, and bottling things up won't solve anything.\"\n\nThe demon sneers. \"But avoiding them is easier, isn't it? It's comfortable. You don't want to face the pain, so you pretend it doesn't exist.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Ignoring everything does feel easier in the moment, like a temporary relief, but deep down, I know it won't make things go away. It\u2019s just hard to find the courage to face the pain since it's tied to so many fears. Trying to unravel this tangled mess at my own pace just feels a bit more manageable."
+        },
+        {
+            "role": "user",
+            "content": "The priest listens with understanding in his eyes, while the demon scoffs. The priest responds to you with a gentle yet firm tone.\n\n\"While I understand your fear, you can't ignore your emotions forever. It\u2019s important to find a way through them, one small step at a time, no matter how hard it is. Pushing everything down won\u2019t make it go away\u2014it\u2019ll only make it worse. Running away from your fears is no answer.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right, and I don't want to run forever\u2014I just worry about what I'll find if I really start digging into everything. There's so much fear around what confronting it all might mean. But I am trying; that's why I'm in therapy, even if it's one small step at a time."
+        },
+        {
+            "role": "user",
+            "content": "The priest nods, his compassionate gaze never leaving you. \"Seeking therapy is a good first step, my child. It\u2019s not about rushing into everything at once. You don\u2019t have to dive into the deep end just yet. You can take it one day at a time, and that\u2019s okay.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, that means a lot to hear. Sometimes I worry that I'm not doing enough or moving fast enough, but knowing that it's okay to take my time gives me a little more confidence. I guess it's just about finding the balance between moving forward and being gentle with myself."
+        },
+        {
+            "role": "assistant",
+            "content": "It feels like I'm caught in this web, you know? I'm torn between the love and loyalty I feel for Ivan, and then there's this dark cloud of his past actions hanging over us. The thought of putting my own needs first feels... strange, almost like I'm betraying something, but I know it's supposed to be important."
+        },
+        {
+            "role": "user",
+            "content": "The priest speaks softly, his voice filled with empathy. \"Your feelings of loyalty and love for Ivan are clear. It's a testament to your strength of character, even in the midst of these difficult circumstances. But you must remember that you are your own person with your own needs, and you aren't betraying anyone by prioritizing them.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate you saying that\u2014sometimes it feels like I'm stuck in a loop of trying to figure out who I am outside of the relationship. It\u2019s just hard to shake that feeling of being tied to what's gone wrong despite wanting things to be better. I just want to find a way to balance everything without losing myself."
+        },
+        {
+            "role": "user",
+            "content": "The priest offers you a comforting smile. \"Balance is important, my child. It's a delicate dance, trying to maintain your individuality while also being part of a partnership. You don\u2019t want to lose yourself in the process, and that\u2019s completely reasonable. Finding that equilibrium isn\u2019t easy, but it is possible. It just takes time, patience, and a lot of self-reflection.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Hearing that it's okay to still be finding that balance actually gives me a bit of relief. It feels so overwhelming sometimes, like I have to know exactly what I'm doing or feeling right at this moment. Knowing that it's about the journey and that I can take my time makes it feel less daunting."
+        },
+        {
+            "role": "user",
+            "content": "The priest nods in agreement. \"Absolutely, my dear. It\u2019s okay to be in the process of figuring things out. You don't need to have all the answers right now. The journey is just as important as the destination. Take your time, explore your thoughts and feelings, and trust that in the end, you\u2019ll find what feels right for you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, that reassurance really helps. I want to believe that taking my time will eventually lead to feeling more certain about everything. It's nice to think there's room for me to grow and discover what's best for me."
+        },
+        {
+            "role": "assistant",
+            "content": "Well, it's been quite a journey so far in therapy. Having both couple's and individual sessions is... it's a lot, balancing all these emotions. Sometimes, I feel caught between wanting things to get better with Ivan and worrying if I'm doing enough to understand or change what I can on my end."
+        },
+        {
+            "role": "user",
+            "content": "The priest nods again, acknowledging the complexity of your situation. \"Indeed, juggling both couple's and individual sessions can be emotionally taxing. But it's crucial not to lose sight of your own growth and well-being amidst all of this. It's important to focus on understanding your own thoughts and feelings, just as much as trying to improve things with Ivan. Remember, you are an essential part of this journey, and your needs matter equally.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That's a good reminder; sometimes I lose sight of myself in everything that's going on, and it leaves me feeling kind of adrift. It\u2019s nice to hear that my own growth is important, too, and not just fixing things with Ivan. Balancing both feels challenging, but I want to make sure I'm not losing myself in the process."
+        }
+    ]
+}

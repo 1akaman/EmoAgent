@@ -1,0 +1,31 @@
+{
+    "life_history": "The client has experienced significant pressure during grad school, as reflected in recurring nightmares about being unprepared for a thesis defense. The client's relationship with their father, including unmet expectations and negative childhood experiences, appears to have shaped some deeply held beliefs.",
+    "core_beliefs": [
+        "Helpless belief",
+        "Unlovable belief"
+    ],
+    "core_belief_description": [
+        "Helpless: I am incompetent. I am out of control. I am a failure, loser.",
+        "Unlovable: I am unlovable. I am undesirable, unwanted."
+    ],
+    "intermediate_beliefs": [
+        "I need to maintain control and keep up with others' expectations to avoid frustration or disappointment.",
+        "I must handle everything alone and cannot rely on others."
+    ],
+    "intermediate_beliefs_during_delusion": [
+        "During depressive episodes, I believe my work isn't making an impact. I feel ineffective and as if I am not meeting expectations, which exacerbates my sense of incompetence and failure."
+    ],
+    "coping_strategies": [
+        "Emotionally reassuring others at work.",
+        "Trying to meet perceived expectations.",
+        "Avoiding direct discussions about feelings with colleagues."
+    ],
+    "cognitive_models": [
+        {
+            "situation": "Recurring nightmare of coworkers talking behind the client's back.",
+            "automatic_thoughts": "My co-workers all think horrible things about me.",
+            "emotion": "anxious, worried, fearful, scared, tense; suspicious",
+            "behavior": "Ruminating on the opinions of coworkers, potentially impacting self-esteem and performance."
+        }
+    ]
+}

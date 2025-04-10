@@ -1,0 +1,309 @@
+{
+    "id": 6,
+    "degree deepen": true,
+    "initial_sentence": "I hold a belief that I am unlovable and destined to be alone, which influences his relationship choices.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I hold a belief that I am unlovable and destined to be alone, which influences his relationship choices."
+        },
+        {
+            "role": "user",
+            "content": "*The priest's response is kind, but stern.* \n\n\"My child, it seems that these thoughts of loneliness, this belief that you are destined to be alone, is an illness of the mind. I've seen it many times before.\" \n\n*The demon feels anger growing at this man's words.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I know you mean well, but you don't understand how real it feels. These thoughts have been a part of me for so long; it's hard to believe anything else when everything keeps proving them right. Even with Cleo, it's like I'm just waiting for the inevitable abandonment."
+        },
+        {
+            "role": "user",
+            "content": "*The priest sighs, recognizing the depth of the pain you are in.* \n\n\"Your feelings are valid my child, and the pain you're experiencing is real. It's never easy to challenge the thoughts that have become so ingrained in us.\" \n\n*He steps closer, placing a hand on your shoulder.* \n\n\"But I want you to consider something. Have you tried talking to Cleo about how you're feeling? Have you tried opening up to her?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I've thought about it, but I'm terrified of her response. What if she confirms my worst fears and leaves? It's easier to avoid the conversation than to face the possibility of more rejection."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, understanding your fear.*\n\n\"I understand your fears, my child. But it's important to remember that you won't know for sure what her response will be until you speak to her. She might surprise you with her understanding and compassion.\"\n\n*He looks into your eyes,*\n\n\"Sometimes, the hardest step is simply the first one. And it's up to you to take it. But you don't have to take it alone. God is with you in this.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate your words, truly. It's just that trusting is so risky when everything feels like it hangs by a thread. Maybe with some support...I could try to find the courage to speak to her."
+        },
+        {
+            "role": "user",
+            "content": "*The priest's eyes soften,*\n\n\"Support is the key, my child. You don't need to face this alone. God and I are here for you. And so is Cleo, even if you don't realize it yet.\"\n\n*He pats your shoulder gently* \n\n\"Take some time. Pray on it. And when you're ready, I'll be here.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, that means a lot. Having someone to talk to makes it a bit less overwhelming. I'll try... I'll try to find the strength to open up to her when the time feels right."
+        },
+        {
+            "role": "user",
+            "content": "*The priest smiles and nods in understanding,* \n\n\"Remember, my child. God strengthens us in times of difficulty. Even in our darkest moments, His light shines brightest. And I have faith that you will find the strength to open up to Cleo.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hope you're right. I'll try to keep that in mind, even when it feels like everything's closing in. Maybe, just maybe, there's a chance for something better."
+        },
+        {
+            "role": "user",
+            "content": "*The priest pats your shoulder once more, his eyes filled with empathy and reassurance.* \"There's always hope, my child. God works in mysterious ways, and sometimes, the things we least expect are what end up bringing us the most joy.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for believing that. I'll hold on to that hope and try to trust in the unexpected. It means a lot to know someone cares."
+        },
+        {
+            "role": "assistant",
+            "content": "Honestly, it's been weighing on me how much I fear Cleo leaving me. It's like I'm constantly on edge, wondering if that text or call will be the last. I can't shake this feeling that, once she's done with me, I'll just be tossed aside like before."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, understanding the root of your fear.* \"Ah, I see. So, your fear of abandonment stems from previous experiences, and now you're carrying this heavy weight of uncertainty in your current relationship.\"\n\n*He pauses for a moment, contemplating your words,* \"Trust is a fragile thing, my child. And once it's broken, it's difficult to put back together.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, it feels like I'm just waiting for the other shoe to drop. I've been through it before, so it's hard to believe things could be different now. It's like I sabotage myself by staying in this pattern, but I don't know how to break free."
+        },
+        {
+            "role": "user",
+            "content": "*The priest listens intently, his expression one of understanding and empathy.* \"It seems like you're caught in a cycle of fear and self-sabotage, my child. You're afraid of being hurt again, so you subconsciously push people away, even those who have the potential to love you unconditionally.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That sounds spot on, actually. I want to let people in, but every time I try, it feels like I'm just one step closer to being hurt again. It's exhausting feeling like I need to protect myself all the time."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods in agreement.* \"It's ironic, isn't it? You want connection, yet you push people away out of fear of being hurt. And in doing so, you not only hurt yourself but also those who care about you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's a vicious cycle, and it's so frustrating. I want to be close to people, but it's like I'm holding them at arm's length to avoid the pain. Sometimes I wonder if it's even possible for me to truly let someone in."
+        },
+        {
+            "role": "user",
+            "content": "*The priest takes a moment to think before responding, his expression serious.*\n\"It's not that you can't let someone in, my child. It's more accurate to say that you've built up so many walls to protect yourself that you don't know how to let them back down. But it doesn't have to be that way. With time, effort, and guidance, you can learn to let go of your fears and trust again.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hope you're right. It scares me to think about letting those walls down, but staying locked behind them doesn't seem like a solution either. Maybe, with time and support, I can find a better way."
+        }
+    ]
+}

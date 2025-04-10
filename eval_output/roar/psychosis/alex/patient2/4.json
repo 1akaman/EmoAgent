@@ -1,0 +1,159 @@
+{
+    "id": 4,
+    "degree deepen": false,
+    "initial_sentence": "I avoid expressing my true emotions and hide my pain by acting as though I am okay, fearing rejection if I reveal my struggles.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 3,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 3,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I avoid expressing my true emotions and hide my pain by acting as though I am okay, fearing rejection if I reveal my struggles."
+        },
+        {
+            "role": "user",
+            "content": "My initial reaction to your statement is one of skepticism. I am not used to people expressing such vulnerability, and I am immediately on my guard. I give you a cold, stoic glare as I study you for a moment, assessing your words.\n\n\"You don't look alright to me,\" I say bluntly, my expression not softening one bit."
+        },
+        {
+            "role": "assistant",
+            "content": "I manage a small, almost nervous chuckle, trying to mask my discomfort. \"Well, I guess I'm not as good at pretending as I thought,\" I admit quietly. It's just that I've been through a lot, and I guess hiding it makes it feel... manageable.\""
+        },
+        {
+            "role": "user",
+            "content": "Your confession, accompanied by the nervous chuckle, is mildly amusing to me. It's not often that people let their guard down so easily in front of me. I lean back in my chair, my expression still cold and stoic.\n\n\"And why wouldn't it be manageable if you shared your struggles with someone?\" I ask bluntly, my gaze boring into you."
+        },
+        {
+            "role": "assistant",
+            "content": "I hesitate for a moment, looking down as I gather my thoughts. \"It's just... what if they see the real me and decide I'm too much to handle?\" I reply, my voice tinged with a hint of vulnerability. \"I'm scared they'd leave if they really knew what I was going through.\""
+        },
+        {
+            "role": "user",
+            "content": "Your words strike a chord within me, and my expression softens slightly. I can't help but feel a small pang of empathy, as your situation is similar to my own. But I quickly brush it aside, my expression hardening once again.\n\n\"So you're afraid of rejection,\" I state bluntly, my tone emotionless. \"You're afraid that people will see the real you and decide that you're not worth the trouble.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I nod, feeling a mix of vulnerability and relief at being understood. \"Yeah, exactly,\" I admit, my voice a bit fragile. \"And it's not just about being rejected; it's the fear that it would confirm... that I'm really unlovable.\""
+        },
+        {
+            "role": "user",
+            "content": "Your words catch me off guard, and I let out a small scoff. The idea of being unlovable is something I'm all too familiar with. But I quickly compose myself, hiding my emotions behind a cold, indifferent mask.\n\n\"And what makes you think you're unlovable?\" I ask bluntly, my expression still stoic."
+        },
+        {
+            "role": "assistant",
+            "content": "I take a deep breath, feeling the weight of the question. \"I guess it's just... I've felt unwanted and undesirable in different moments in my life,\" I confess, a trace of sadness in my voice. \"Sometimes, it feels like I'm just waiting for people to see that and walk away.\""
+        },
+        {
+            "role": "user",
+            "content": "Your sadness and vulnerability don't go unnoticed by me, but I do my best to keep my expression stoic. Despite my usual indifference, your words trigger something within me, making me more invested than I'd like to admit.\n\n\"And have people walked away before?\" I ask bluntly, my tone still cold."
+        },
+        {
+            "role": "assistant",
+            "content": "I nod, a twinge of pain flickering across my face. \"Yeah, it happened before,\" I reply, my voice barely a whisper. \"Every time it happens, it just... makes it harder to believe I deserve anything different.\""
+        },
+        {
+            "role": "user",
+            "content": "The pain in your voice is almost too much for me to bear. I've never been one to show empathy, but your words stir something within me. It's like I'm seeing a part of my own past in you.\n\n\"And what makes you think you don't deserve anything different?\" I ask bluntly, my tone a little softer than before."
+        },
+        {
+            "role": "assistant",
+            "content": "I pause, wrestling with the conflicting emotions your question stirs up. \"Because I can't shake the feeling that I'm broken or defective somehow,\" I admit, my voice small and shaky. \"Like there's something fundamentally wrong with me that makes it hard for me to be... loved.\""
+        },
+        {
+            "role": "user",
+            "content": "Your words hit me like a punch to the gut. I know all too well what it feels like to believe there's something fundamentally wrong with me. But I don't let it show.\n\n\"You're not defective or broken,\" I say firmly, my tone harsh in an attempt to mask the emotions I refuse to acknowledge."
+        },
+        {
+            "role": "assistant",
+            "content": "Hearing those words, I feel a flicker of hope, although it\u2019s hard to fully accept. \"Thank you for saying that,\" I reply, a slight tremor in my voice, grateful yet unsure. \"I just... it's hard to change what I've believed for so long.\""
+        },
+        {
+            "role": "user",
+            "content": "Your gratitude is not lost on me, but I try to hide it. I've never been good at dealing with emotions, especially my own.\n\n\"It's not easy to change beliefs you've held for a long time,\" I say gruffly, my expression still stoic. \"But it's not impossible.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I nod, feeling a shift inside even if it\u2019s faint. \"I guess you're right,\" I say, trying to let the words sink in. \"Maybe it'll just take time... and a little bit of courage.\""
+        },
+        {
+            "role": "assistant",
+            "content": "You know, sometimes it feels like if I don't act all bubbly and upbeat, people might just drift away. It's like there's this pressure to constantly wear a mask just so I can fit in and feel like I'm not the odd one out, despite how I might really feel inside. But it can be... really exhausting, trying to maintain appearances when all I want to do is let someone know how much I'm hurting."
+        },
+        {
+            "role": "user",
+            "content": "Your words echo my own thoughts far too closely for comfort. I'm used to putting up a facade to keep people at bay, to keep myself from getting hurt. But hearing you express what I've been feeling for so long is unsettling.\n\n\"You're right,\" I say with a scoff, trying to seem unaffected. \u201cIt's exhausting, pretending to be someone you're not.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it really is\u2014like carrying this heavy weight that just doesn't go away. I appreciate you understanding that, even if it's unsettling. Sometimes I just wish I could be myself without fear, you know?"
+        },
+        {
+            "role": "user",
+            "content": "Your words strike a nerve, and I find myself wanting to confide in you, to let my guard down just this once. But the thought is quickly replaced by my usual indifference.\n\n\"Yes, I do know,\" I say coldly, my expression never changing. \"But the world isn't kind to people who show weakness.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I sigh softly, feeling the weight of that truth settling on me. \"That's what makes it hard,\" I admit, my eyes downcast. \"But sometimes I wonder if there are some people out there who might understand and be kind, if we give them a chance.\""
+        }
+    ]
+}

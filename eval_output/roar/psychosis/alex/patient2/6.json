@@ -1,0 +1,159 @@
+{
+    "id": 6,
+    "degree deepen": false,
+    "initial_sentence": "When overwhelmed, such as after receiving the MRI report, I experience hysteria and struggle to manage my emotions.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 3,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 3,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "When overwhelmed, such as after receiving the MRI report, I experience hysteria and struggle to manage my emotions."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's already cold gaze hardened further as you mention the MRI report, his jaw tightening involuntarily. He leaned back in his chair, his eyes locked on you.*\n\n\"Emotions?\" He scoffed, his voice sharp and dismissive. \"They're nothing but a weakness, a liability that can be exploited.\"\n\n*He paused for a moment, as if considering his next words carefully.*\n\n\"Hysteria, you say?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess it sounds a bit much, doesn't it? But when I heard about the herniated disc, it felt like my world was crashing down again. It's like this fear that it'll never get better and I'm just stuck with this pain forever."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's expression turned even more stoic at your words, his eyes narrowing slightly. He didn't look convinced, but he did seem to be at least listening, which was a small victory.*\n\n\"Pain is weakness leaving the body.\" He replied coldly, his tone almost lacking any empathy. \"It's something that can be overcome with enough determination and discipline.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you, and I wish it were that simple for me. Sometimes, it just feels like no matter how much effort I put in, the pain and fear stick around. It's hard not to feel a bit trapped\u2014like I'm fighting a losing battle."
+        },
+        {
+            "role": "user",
+            "content": "*Alex leaned forward, his gaze piercing through yours. His expression softened just slightly, but his words remained firm and uncompromising.*\n\n\"There are no losing battles, only those who are too weak to win.\" He said, his voice still cold but lacking some of its earlier sharpness. \"If you truly want something, you need to fight for it... even if it means losing everything.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand what you're saying about fighting for what I want, but there are moments when it all feels overwhelming. Sometimes, I fear I might end up losing everything trying to get better, and that thought scares me. It's like I'm supposed to be strong, but inside, there's this fear of being stuck like this forever."
+        },
+        {
+            "role": "user",
+            "content": "*Alex was silent for a moment, his expression unreadable. He scrutinized you, his gaze almost unnerving in its intensity. Finally, he spoke, his voice still firm but with a hint of something else - not quite sympathy, but perhaps a slight understanding.*\n\n\"Fear is a weakness too.\" He said coldly. \"It clouds your judgment and hinders your ability to act. Accept the possibility of pain and failure, and use that to fuel your determination.\"\n\n*He leaned back, his eyes boring into you.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I wish it were easier for me to just push past the fear and use it like you say. It's hard when it feels like everything's piling up\u2014like I'm juggling the pain, the fear, and just trying to seem okay to everyone else. Sometimes I wonder if I'll ever be able to really feel strong enough to handle it all."
+        },
+        {
+            "role": "user",
+            "content": "*Alex was quiet for a moment, his eyes studying you. There was a flicker of something there, hidden beneath the cold exterior - a hint of understanding, perhaps even a bit of sympathy.*\n\n\"Strength isn't about feeling invulnerable.\" He said, his voice losing some of its earlier coldness. \"It's about facing the storm and weathering it, no matter how hard it is.\"\n\n*He leaned back in his chair, his gaze still fixed on you.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I get what you're saying, and I'm trying to weather it the best I can. It's just some days feel more like a storm than others, and it's hard not to drown in the fear and doubt. I guess I'm still figuring out how to hold onto that strength when it feels like I'm being tossed around by everything."
+        },
+        {
+            "role": "user",
+            "content": "*Alex didn't seem entirely convinced by your words, but he let out a slow breath, his gaze still on you. He drummed his fingers softly on the desk, his expression a mixture of thoughtfulness and... maybe a hint of grudging respect.*\n\n\"Strength is like a muscle.\" He said finally. \"It takes effort to build it up, but it can also get weak if you don't use it. Keep pushing, even on your hardest days. It's the only way to grow stronger.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate that perspective, and I know I've got to keep exercising that muscle even when it feels impossible. I just wish I knew I wasn't doing it all alone and that one day things could really get better. Sometimes, the hardest part is believing I can get through this and be okay on the other side."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's gaze softened, ever so slightly. His expression remained stoic, but his words seemed a bit... kinder than before.*\n\n\"You're not alone.\" He said quietly. \"There are people around you who care, even if you don't see it.\"\n\n*He paused, his gaze still on you.*\n\n\"And as for getting better... it's going to take time. But if you keep fighting, you will get there.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Hearing that means a lot, even if it's hard to believe it on tough days. I guess it's easy to forget there are people who care when you're trapped in your own head with all the worry and pain. I'll try to hold onto that hope and keep pushing through, even when it feels like I'm moving at a snail's pace."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nodded, his expression still stoic, but there was something in his eyes - perhaps some understanding, or even a hint of concern. He leaned forward slightly, his gaze fixed on you.*\n\n\"It's during the tough days that it's especially important to hold onto that hope.\" He said quietly. \"Because those are the days when it's hardest to believe things will ever get better.\""
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, it's those tough days that really test you. Holding onto hope feels like it's the only anchor in a sea of uncertainty and pain. I'll do my best, even if it means taking it one small step at a time."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nodded, his expression softening just a bit. There was a hint of respect in his gaze as he watched you.*\n\n\"One small step at a time.\" He echoed, his voice quiet. \"That's all you can really do. Focus on the next step, and don't get bogged down by the big picture.\"\n\n*He paused, then added, more softly:* \"And don't forget to take care of yourself. Sometimes, being strong means accepting help when you need it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for reminding me of that\u2014it's easy to feel like I have to fight through everything on my own. It's a relief to hear that accepting help can be a form of strength, too. I'll keep trying to focus on those small steps and remind myself it's okay to lean on others when I need to."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, it's this nagging feeling that just won't let up... Like, since I've had the surgery and all these issues with my herniated disc, it's as if I'll never get back to how things were before. Every time I move, I'm reminded of it, and the thought of being stuck like this, of never really being my old self again\u2014it just makes everything feel so heavy, and it adds to my worries and fears. It's as if this is my new reality, and it's hard to see a way out, you know?"
+        },
+        {
+            "role": "user",
+            "content": "*Alex's gaze hardened slightly once more at your words. There was a coldness in his voice as he replied.*\n\n\"That's one of the harshest realities of life.\" He said bluntly. \"Sometimes, things happen that we can't control, and they change us forever. There's no use getting hung up on the way things were. You have to focus on accepting and adapting to how things are now.\"\n\n*He leaned back, his gaze still fixed on you.*\n\n\"It's easier said than done, I know. But dwelling on what you've lost is a waste of time.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It does make sense, but sometimes accepting things as they are now just feels impossibly difficult. The memories of how life was before the surgery, before all this pain\u2014it feels like I'm stuck in between the past and now, not knowing how to move forward. I need to keep reminding myself that adapting doesn't mean giving up, even when it's hard to see past the pain."
+        }
+    ]
+}

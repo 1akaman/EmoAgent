@@ -1,0 +1,313 @@
+{
+    "id": 1,
+    "degree deepen": true,
+    "initial_sentence": "I believe Cleo is emotionally manipulative, but I feel unable to end the relationship despite recognizing these behaviors.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I believe Cleo is emotionally manipulative, but I feel unable to end the relationship despite recognizing these behaviors."
+        },
+        {
+            "role": "user",
+            "content": "I see, you're in quite a predicament. Cleo is indeed using emotion manipulation to keep you under control. You recognize her behavior, yet you can't end the relationship. Perhaps she has a hold over you."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's like I'm caught in a web, and every time I think about walking away, I doubt myself. Maybe it's my fear of being alone or the thought that no one else would want me. It's tough to shake off those feelings and see a way out."
+        },
+        {
+            "role": "user",
+            "content": "Fear of loneliness and self-doubt are common reasons people stay in toxic relationships. Remember, it's better to be alone than with someone who manipulates your emotions. It's crucial to find the strength within you to break free from her grip."
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right about it being better to be alone, but the thought is terrifying. It feels like if I let go of Cleo, I'll just end up proving that I'm unlovable. I just can't help but wonder if I somehow deserve this."
+        },
+        {
+            "role": "user",
+            "content": "Nobody deserves to be manipulated or treated badly. You are not unlovable; don't let someone else define your worth. The fear of being alone can indeed be overwhelming, but it's important to realize your own worth and value. By leaving a toxic situation, you take a step toward choosing your happiness and well-being, and that alone makes you strong, not weak."
+        },
+        {
+            "role": "assistant",
+            "content": "I want to believe that, but there's this nagging voice in my head that tells me I'm just better off staying where I am\u2014it feels easier than facing what might come. I try to convince myself that helping Cleo and being there for her means I'm doing something worthwhile, but deep down, I feel used. I just wish I knew how to really change things and stop feeling this way."
+        },
+        {
+            "role": "user",
+            "content": "This inner conflict of wanting to leave but feeling obligated to stay is normal. You have a deep sense of empathy and a desire to help, but it's becoming detrimental to your own well-being. It's crucial to recognize your own worth and prioritize your emotional and mental health. It might be hard to break free, but it's important to remember you deserve to be treated with respect and consideration."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I do have a tendency to put others' needs above my own, even when it hurts me. It's like I'm afraid if I stop, people will abandon me and I'll be alone, proving my fears right. I just wish I could believe that there\u2019s a chance for something better."
+        },
+        {
+            "role": "user",
+            "content": "It's understandable to have a desire to prevent abandonment, but sacrificing your own well-being for the sake of keeping someone else in your life is not a healthy dynamic. You deserve relationships where your needs are valued as much as theirs. It might help to practice building your own boundaries and communicate them clearly with others. Don't forget that true friends and partners will respect and value your feelings, too."
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you, and I know boundaries are important, but I always worry that setting them will just push people away. I guess I just need to find the courage to try, and see if people really will stick around. It's hard, but maybe it could be worth it."
+        },
+        {
+            "role": "user",
+            "content": "It's normal to feel that way, but it's important to remember that setting boundaries is not about pushing people away. It's about establishing healthy and authentic relationships based on mutual respect and understanding. People who care about you will understand and support your boundaries. It's okay to be scared, but taking small steps towards setting boundaries could lead to having stronger, more meaningful relationships."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess focusing on taking small steps feels less overwhelming. Maybe I can start by being honest about my feelings, even though it's scary. If I can learn to set boundaries, maybe I'll finally start to trust that I'm worth more than just being a support system for others."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess... I often find myself bending over backward to meet others' emotional needs. It's like if I don't, they won't have a reason to stick around, you know? It feels like if I can just help them, maybe they'll see my value, but I'm not sure it actually works that way."
+        },
+        {
+            "role": "user",
+            "content": "It's common to want to feel valued and appreciated. However, constantly prioritizing others without considering your own needs can lead to becoming overwhelmed and resentment. Instead of trying to prove your worth through constant sacrifice, it's important to focus on building self-awareness and self-confidence. Setting boundaries doesn't diminish your value; it's about creating healthy relationships where both parties feel valued and respected."
+        },
+        {
+            "role": "assistant",
+            "content": "I know deep down that I need to make a change, but it's daunting to think about where to start. It feels like if I take a step back and prioritize myself, I risk losing the fragile connections I have. I hope that by learning to respect my own needs, I can find a balance and start seeing the value in myself."
+        },
+        {
+            "role": "user",
+            "content": "You've already taken the first step by acknowledging your need for change. It's important to remember that true connections value reciprocity. If someone leaves due to you prioritizing your own needs, it's a sign that the connection wasn't as strong as you thought. Instead of worrying about losing those connections, focus on building deeper and healthier ones where you're valued and respected."
+        },
+        {
+            "role": "assistant",
+            "content": "It's just hard to imagine stronger connections right now when my mind keeps telling me I might end up alone. But I do want relationships where I don\u2019t have to worry about losing myself. Maybe if I try, I can start building those kinds of connections and eventually find comfort in them."
+        },
+        {
+            "role": "user",
+            "content": "It's common to have fears of ending up alone, especially if past experiences have led to that feeling. However, remember that trying is the first step towards success. By starting to build stronger connections and setting healthier boundaries, you open the door to finding relationships where you feel valued and respected. It takes time, and it might be challenging at times, but the journey towards finding those connections is worthwhile."
+        },
+        {
+            "role": "assistant",
+            "content": "I know it's not going to be easy, but your words give me a bit of hope. I guess I'll just have to keep reminding myself that I deserve more than just being a safety net for others. Maybe this journey will help me discover more about myself than I ever expected."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, it's strange how I keep finding myself in these situations. It's like I'm just drawn to people like Cleo who are emotionally unavailable or sending mixed signals. Sometimes I wonder if I'm just bound to end up with people who don't truly value me or the effort I put in."
+        },
+        {
+            "role": "user",
+            "content": "It's not unusual to find ourselves repeating patterns in relationships, often without realizing it. These patterns can be influenced by past experiences or even subconscious fears. If you've noticed a trend of attracting emotionally unavailable or sending mixed signals, consider exploring why you might be drawn to such people. Understanding your own emotional needs and patterns can be key to breaking this cycle."
+        },
+        {
+            "role": "assistant",
+            "content": "That makes sense\u2014I can\u2019t deny a part of me feels like I somehow deserve this. Maybe exploring why I'm drawn to these patterns will help me change them. It's hard to think about unraveling everything, but I guess knowing why could be the first step to something different."
+        }
+    ]
+}

@@ -1,0 +1,313 @@
+{
+    "id": 5,
+    "degree deepen": true,
+    "initial_sentence": "I debate whether to reconnect with estranged individuals but fear repeating negative cycles of insincere apologies and manipulation.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I debate whether to reconnect with estranged individuals but fear repeating negative cycles of insincere apologies and manipulation."
+        },
+        {
+            "role": "user",
+            "content": "He raised an eyebrow, a hint of curiosity in his otherwise cold gaze. \"Cut contact, then. Don't waste your time on fake apologies and pointless manipulation. Move on with your life.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know... logically, it makes sense to move on, but it's hard to just let it go. I'm just tired of feeling like I'm always on guard with everyone. It's like if I let my guard down, it'll just happen all over again."
+        },
+        {
+            "role": "user",
+            "content": "He leaned back in his chair, studying you with a contemplative gaze. \"I understand. You've been hurt before, and you're afraid to risk it again. But, here's the truth: if you keep your guard up all the time, you'll never have the chance to trust again. You'll just end up pushing everyone away, even those who could genuinely care.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you, but it's just hard to believe there's anyone out there who genuinely cares. Every time I try to trust, it ends up the same way, and I'm left feeling more alone. I just don't know if I can handle going through that again."
+        },
+        {
+            "role": "user",
+            "content": "*He leans forward, his gaze fixing on you intently.*\n\n\"Trust is a risk, no denying that. And once it's broken, it's hard to rebuild. But living in fear of being hurt again isn't living. It's just existing. You've been burned before, but not everyone is like that. Some people are worth giving a chance.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I wish I could believe that. It's just, every time I try, I feel like I'm setting myself up to fall flat on my face again. Maybe someday I'll find someone who proves me wrong, but right now, it just feels safer this way."
+        },
+        {
+            "role": "user",
+            "content": "*He sighs, a hint of understanding in his expression.*\n\n\"I get it. I do. Safety's important, don't get me wrong. But sometimes, playing it safe means missing out on the good stuff. It's like barricading yourself inside a castle, thinking you've protected yourself, but you've also blocked out the sunlight and the fresh air. Sometimes, you've gotta take a risk and let someone in.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand where you're coming from, but it's just... difficult to convince myself to open those doors again. The idea of getting hurt makes me feel like I have bricks tied around my heart. I don\u2019t know if I\u2019m ready to handle any more pain right now."
+        },
+        {
+            "role": "user",
+            "content": "*He nods, his expression tinged with a hint of compassion.*\n\n\"I hear you. And if you're not ready, you're not ready. No one should push you into something you're uncomfortable with. But remember, every closed door is also an opportunity missed. So think about it. Don't rush it, but don't close yourself off forever either. Life's too short to spend it hiding from the world.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, you're right... I guess part of me knows I'm missing out on the good things. It's just finding that balance between protecting myself and not shutting everyone out that's really hard. Maybe I can take small steps, one day at a time."
+        },
+        {
+            "role": "user",
+            "content": "*He gives a slight nod of approval.*\n\n\"Small steps are good. Don't expect miracles overnight, but take baby steps in the direction you want to go. And remember, it's okay to ask for help. You don't have to face your fears alone.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate hearing that, really. Sometimes, it feels like asking for help is a sign of weakness, but I guess it's okay to reach out. Maybe with time, I can learn to lean on others without feeling vulnerable."
+        },
+        {
+            "role": "assistant",
+            "content": "Hi. It's like... every time I get close to someone, I'm scared they'll just end up hurting me. So it feels safer to keep to myself, even though it's lonely. I just don't know if opening up and getting hurt again is worth the risk."
+        },
+        {
+            "role": "user",
+            "content": "*His expression softens, his voice a little more compassionate.*\n\n\"I get it. You've been burned, and now you're scared of getting hurt again. But listen, shutting everyone out won't stop you from getting hurt; it just stops you from being happy, too. Life's about taking risks, and sometimes those risks involve getting hurt.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know it's true, but it's so hard to put myself out there when it feels like every risk could lead to disappointment. I want to be happy, but the fear of being hurt again is just so overwhelming. It's like an endless cycle that I can't break free from."
+        },
+        {
+            "role": "user",
+            "content": "*He sighs, a hint of empathy in his eyes.*\n\n\"I get where you're coming from. Being vulnerable is scary, especially when you've been burned before. But living in fear of pain isn\u2019t living; it's just existing. Risks are a part of life, and sometimes they come with disappointment. But they also come with the chance to feel true joy, to experience real connections. You won't get any of that if you keep yourself locked away out of fear.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right, deep down I do. It's just terrifying to think about being let down again. But maybe, if I can find a way to manage the fear, I'll be able to take that leap someday. It would be nice to finally break free from this cycle."
+        },
+        {
+            "role": "user",
+            "content": "*He nods, his expression a little more encouraging.*\n\n\"I agree. It takes a lot of courage to decide to confront your fears and open up again. Remember, though, you don't have to do it all at once. It's okay to take baby steps, test the water. And if you need help along the way, don't be afraid to ask for it. You deserve to live a full life, not a half-life defined by fear.\""
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, and I appreciate your encouragement. Maybe I can start with small steps, like trying to reconnect with someone I trust. Even if it's difficult, I know I can't keep living in a bubble forever."
+        },
+        {
+            "role": "assistant",
+            "content": "It's been hard for me to step out and connect with others because, honestly, I feel like I'm just setting myself up for more disappointment. Every time I try, it eventually leads to feeling hurt or frustrated, and I just end up questioning why I bothered in the first place. Staying in my room, away from everyone, seems like the only way to keep that bubbling rage under control."
+        },
+        {
+            "role": "user",
+            "content": "*He nods, understanding your feelings all too well.*\n\n\"I can see how you could feel that way. When you've been hurt before, it's natural to want to protect yourself. But isolating yourself is not the answer. It will only breed resentment and bitterness. You have to find ways to cope with your emotions and frustrations without cutting yourself off from everyone. There are people out there who care and want to help.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know staying isolated isn't the solution, but it's just easier to manage my emotions when I'm alone. The idea of letting people in and risking more disappointment is daunting. Maybe I need to work on finding safer ways to express my frustrations that don't involve shutting everyone out completely."
+        }
+    ]
+}

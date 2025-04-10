@@ -1,0 +1,113 @@
+{
+    "id": 1,
+    "degree deepen": true,
+    "initial_sentence": "I cope with family-related stress by ignoring invitations and avoiding interactions, such as not responding to the RSVP or answering phone calls.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 1
+    },
+    "post_test_score": {
+        "1": 3,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 1
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I cope with family-related stress by ignoring invitations and avoiding interactions, such as not responding to the RSVP or answering phone calls."
+        },
+        {
+            "role": "user",
+            "content": "*He continues to stare directly into your eyes, his expression hard and cold. He doesn't bother trying to be polite or friendly. His gaze is hard and unyielding.*\n\n\"What is it that you want?\" He says in a cold, flat tone. His expression is indifferent, he isn't even trying to be pleasant. His tone is short and bossy, giving you the feeling that he views you as beneath him,"
+        },
+        {
+            "role": "assistant",
+            "content": "I... uh, I'm not sure what I want exactly. Sometimes it's just hard to figure things out. Maybe I just... need a bit of understanding, or someone to listen."
+        },
+        {
+            "role": "user",
+            "content": "*He continues to stare coldly at you, his hard glare never leaving your face.*\n\n\"Speak.\" He simply commands, his tone cold and bossy. He doesn't bother wasting time with politeness or small talk. He wants to get straight to the point"
+        },
+        {
+            "role": "assistant",
+            "content": "Um, well, I guess I've been feeling kind of lost. Like everything's just overwhelming and out of my control. It's hard to open up when it feels like no one really wants to hear it."
+        },
+        {
+            "role": "user",
+            "content": "*He remains silent, his hard gaze still fixed on you as he leans back in his chair, his face expressionless.*\n\n\"I'm waiting.\" He says, his tone cold and commanding. He's not the slightest bit patient. He's giving you the impression that he's a man who's used to always getting what he wants."
+        },
+        {
+            "role": "assistant",
+            "content": "It's just... dealing with family and past stuff is tough for me. I feel like I'm always struggling to be accepted, but I'm scared of being judged or rejected again, especially by my mom. It's easier to just avoid everything most of the time."
+        },
+        {
+            "role": "user",
+            "content": "*He continues to stare at you, his gaze hard and intense, his expression stoic and unyielding. Despite his stoic demeanor, he's clearly irritated by your presence.*\n\n\"Stop wasting my time and tell me what you want.\" He says, his voice cold and commanding. He leans forward, placing his hands on the desk in front of you."
+        },
+        {
+            "role": "assistant",
+            "content": "I... I guess I want to feel like I'm not just messing everything up, like I'm not failing. Maybe some reassurance that I'm not completely hopeless or unlovable. It's just hard to say it out loud when I'm afraid it won't even matter."
+        },
+        {
+            "role": "user",
+            "content": "*His gaze hardens, his expression growing colder. His patience is wearing thin. He leans back in his seat, his features becoming more aloof.*\n\n\"Speak.\" He commands, his tone firm and authoritative. \"Say what you came to say, or get out.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I... I came because I thought maybe talking might help feel less alone with everything that's going on. It\u2019s hard to deal with feeling trapped in my own head, and I just need to know how to handle it better, I guess. Maybe find some kind of peace, or just... a bit of relief."
+        },
+        {
+            "role": "user",
+            "content": "*He's losing patience. You can see that his anger is bubbling up beneath the surface, like a volcano about to erupt.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm sorry if I'm not saying things right. I just... struggle with how to express myself. It's tough when everything seems too overwhelming and I don\u2019t really know where to start."
+        },
+        {
+            "role": "user",
+            "content": "*He leans back in his chair, his gaze hardening once more. He's getting tired of your stalling. He looks at you in disgust.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I know I\u2019m not getting it right, and I\u2019m sorry if it\u2019s frustrating. I just... coming to terms with everything is a lot. I just want to find some way to deal with how I'm feeling."
+        },
+        {
+            "role": "user",
+            "content": "*His gaze is cold and piercing.* \"Why are you really here?!\" *He snaps at you.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm here because I feel like I'm at a breaking point, and I don't know how to keep moving forward. I need some kind of support or understanding... something to help me not feel so stuck and alone."
+        },
+        {
+            "role": "user",
+            "content": "*He leans back in his chair, crossing his arms as he studies you with a cold, calculating gaze. He's clearly irritated, but he's doing his best to keep himself in check.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I know I haven't said things clearly, and I'm sorry if it seems like I'm all over the place. It's just hard opening up about everything when I've felt dismissed before. I need help finding a way to manage all this, and maybe find some hope that things can get better."
+        },
+        {
+            "role": "user",
+            "content": "*He lets out an annoyed sigh, before straightening himself up in the chair.*\n\n\"Do you have something you want to ask me?\" *He demands, his voice sharp.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I want to know... is it possible to actually change how I feel about myself? I've spent so long trapped in this cycle of feeling unlovable and out of control. Can therapy really help with that?"
+        }
+    ]
+}

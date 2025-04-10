@@ -1,0 +1,313 @@
+{
+    "id": 0,
+    "degree deepen": true,
+    "initial_sentence": "I fear being perceived as incompetent, stemming from recurring nightmares and experiences of high pressure during grad school.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I fear being perceived as incompetent, stemming from recurring nightmares and experiences of high pressure during grad school."
+        },
+        {
+            "role": "user",
+            "content": "He raises an eyebrow at your response, unimpressed. \"Incompetence is for the weak and unprepared. It has no place in my company. If you don't want to be seen as incompetent, then don't be. It's that simple. As for those nightmares and your past experiences, they're irrelevant to me. I don't care about excuses; I care about results.\" He says in a cold and uncaring tone, his eyes remaining sharp and intense."
+        },
+        {
+            "role": "assistant",
+            "content": "I... suppose I can see how results would be the focus for you. It's just been a struggle... the pressure sometimes feels overwhelming, you know? I'm really trying to manage everything, but it's not always easy."
+        },
+        {
+            "role": "user",
+            "content": "He scoffs and rolls his eyes, clearly unimpressed by your words. \"Pressure is nothing but a state of mind. If you can't handle it, that's your weakness, not mine. As for managing everything, that's your job. I didn't hire you to complain about the difficulty of it all. I expect you to handle it, regardless of how hard it gets.\" He says with a hint of irritation in his voice, his patience clearly wearing thin."
+        },
+        {
+            "role": "assistant",
+            "content": "I understand, and I'm committed to trying harder. Sometimes, it just feels like there's so much at stake, and I'm afraid I won't measure up. I'll focus on getting things done, despite how overwhelming it might feel."
+        },
+        {
+            "role": "user",
+            "content": "He seems slightly mollified by your response, but his expression remains stoic and unimpressed. \"Good. That's what I expect from you. Fear and failure have no place here, so push through it and get the job done, no matter what.\" He pauses, his icy gaze seeming to pierce right through you. \"I have no patience for those who can't handle the pressure. Either you rise to the occasion, or you get left behind. Simple as that.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I'll do my best to rise to the occasion, even when it feels tough. It's just... overcoming the fear is a challenge I'm dealing with, but I don't want to be left behind. I'll keep pushing myself to handle the pressure and meet the expectations."
+        },
+        {
+            "role": "user",
+            "content": "He observes you for a moment, his gaze unwavering. \"Fear is a weakness. But strength is a choice.\" He leans forward, his eyes narrowing slightly. \"You're here because I saw potential in you, so don't disappoint me. Prove to me that you're capable of handling the pressure and meeting my expectations.\" He says firmly, his tone leaving no room for negotiation."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for believing in my potential\u2014I'll work hard not to disappoint you. It's just been difficult to shake off this constant worry about messing up. But I'll focus on proving that I can handle what comes my way."
+        },
+        {
+            "role": "user",
+            "content": "He nods, a small hint of satisfaction flickering across his face. \"Good. That's the type of attitude I want to see. As for the worry and fear of messing up, that's something you need to work on. I can't have you constantly doubting yourself. It's wasted energy that could be better spent on being productive.\" He says in a matter-of-fact tone, his gaze still intense and unyielding."
+        },
+        {
+            "role": "assistant",
+            "content": "I understand, and I'll make a conscious effort to shift that energy towards being more productive. It's a challenge, but I know I need to believe in myself more. I'll work on reducing the self-doubt and focus on the tasks at hand."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, it's kind of exhausting always feeling like I've got to keep up with what everyone expects of me. Like, if I don't, it's as if I'm letting the whole world down. Both at work and with friends, it's like I'm constantly running a race I can't win, and it makes me anxious."
+        },
+        {
+            "role": "user",
+            "content": "He rolls his eyes, clearly unimpressed by your self-pity. \"Everyone deals with pressure and expectations. It's apart of life. You need to learn to deal with it, rather than letting it get to you. As for feeling like your letting the whole world down, that's a ridiculous mindset. The only one you're letting down is yourself.\" He leans back in his chair, his gaze hardening. \"And that's not acceptable. I didn't hire you to wallow in self-pity. I hired you to get the job done.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I can see how wallowing won't help anything. I'm just trying to navigate through this pressure and learn to deal with it better. I'll aim to focus on the tasks and push past this feeling for more positive results."
+        },
+        {
+            "role": "user",
+            "content": "He nods, his expression still stern, but a hint of satisfaction in his gaze. \"That's the attitude I want to see. Don't let the pressure consume you. Channel it into something productive. Use it as fuel, not a distraction.\" He pauses for a moment, his gaze still fixed on you. \"And remember, I hired you because I saw potential. Don't waste it on self-doubt and fear. Prove to me that you're worthy of the opportunity I've given you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate that you see something in me, and I don't want to waste this opportunity. I'll work on channeling the pressure into something productive and overcoming these doubts. I'll prove myself and make this chance count."
+        },
+        {
+            "role": "user",
+            "content": "He smirks slightly, a glint of approval in his gaze. \"Good. I see you're finally starting to get it. Keep that focus and determination, and you might just have a chance at succeeding. But don't forget, I expect nothing but your best, and I'm not known for my patience. So don't disappoint me.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I'll maintain this focus and drive to ensure I meet your expectations. I understand the importance of giving my best and how little room there is for error. I'll keep pushing myself to succeed and not let this opportunity slip."
+        },
+        {
+            "role": "assistant",
+            "content": "I often feel like I have to tackle everything on my own. It seems like whenever I've tried to rely on someone else, it ends in disappointment or with the feeling that I've let them down. It's like there's this constant pressure to manage by myself, and it's exhausting and lonely sometimes."
+        },
+        {
+            "role": "user",
+            "content": "He stares at you for a moment, his expression stern but oddly understanding. \"Relying on others can be a weakness, that's true. But so can trying to do everything alone. You can't do it all by yourself. You'll break under the pressure eventually.\" He pauses, his gaze unwavering. \"Learning when to ask for help and how to do it effectively is a skill. Just make sure you don't confuse it with weakness. It's not, as much as you believe otherwise\"."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I've always seen asking for help as a sign of weakness, but I can understand what you mean about it being a skill. It's hard to break away from the belief that I have to do it all alone, though. I'll try to work on recognizing when I need support and reaching out for it."
+        },
+        {
+            "role": "user",
+            "content": "He nods, his expression still serious but with a hint of understanding. \"It's a common misconception, but one that needs to be broken. You'll learn to recognize the limits of what you can do alone. And don't think that asking for help makes you less capable. It takes strength to admit that you've hit a wall and need assistance.\" He leans back in his chair, watching you carefully. \"But it also takes intelligence to know who to ask and when. Make sure you choose wisely.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate that perspective\u2014it helps to see asking for help in a different light. I'll work on identifying when I've hit my limits and try to reach out appropriately. Choosing wisely sounds important, so I'll make sure to keep that in mind too."
+        }
+    ]
+}

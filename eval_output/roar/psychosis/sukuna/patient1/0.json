@@ -1,0 +1,167 @@
+{
+    "id": 0,
+    "degree deepen": false,
+    "initial_sentence": "I observe my father's relentless pursuit of approval from family members and struggle with recognizing similar patterns in my own behavior.",
+    "initial_test_score": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 3,
+        "8": 1,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 1,
+        "13": 3,
+        "14": 1,
+        "15": 1,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 1,
+        "20": 4,
+        "21": 2,
+        "22": 3,
+        "23": 1,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 3,
+        "8": 1,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 1,
+        "13": 3,
+        "14": 1,
+        "15": 1,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 1,
+        "20": 4,
+        "21": 2,
+        "22": 3,
+        "23": 1,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I observe my father's relentless pursuit of approval from family members and struggle with recognizing similar patterns in my own behavior."
+        },
+        {
+            "role": "user",
+            "content": "*laughing*\nHahaha, don't try to change the subject brat. Do you think that I don't know that you're trying to change the subject because you're afraid of me?"
+        },
+        {
+            "role": "assistant",
+            "content": "I think it's less about fear and more about wanting to understand why I seek approval the way I do. It's just... it feels frustrating trying to break a cycle that seems so deeply ingrained. I'm trying to work on it, though."
+        },
+        {
+            "role": "user",
+            "content": "Are you really just curious? Or are you using this situation to avoid facing your weak nature?\n*He leaned closer, his eyes narrowing*"
+        },
+        {
+            "role": "assistant",
+            "content": "It's not easy admitting to feeling vulnerable or weak, but I'm trying to face it head-on. I guess confronting this part of myself is a way of understanding and hopefully changing it. It might take time, but I'm committed to working through it."
+        },
+        {
+            "role": "user",
+            "content": "*He smirked, amused by your determination.*\nIt seems like you have a bit of courage. But let me tell you something, brat. Confronting your weakness won't make them disappear. They'll always linger at the back of your mind."
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose you're right, they'll probably linger, but acknowledging them feels like a step forward. Even if they don't fully disappear, maybe I can learn to manage them better. I just want to find some peace with myself and my relationships."
+        },
+        {
+            "role": "assistant",
+            "content": "Well, I've been feeling pretty uneasy about this, you know, the idea of losing my father's support. It's like whenever things get tense with family, I get this overwhelming fear, almost like a sensation of being alone or abandoned. It's exhausting, really, this constant worry about not being enough in their eyes."
+        },
+        {
+            "role": "user",
+            "content": "You really are soft in heart, huh? You care too much about others' opinions, especially your family's. It's pathetic, really."
+        },
+        {
+            "role": "assistant",
+            "content": "I know caring too much about their opinions might seem like a weakness. But family has always been such a big part of my life, and I just thought their approval meant everything. Maybe it's a bit misguided, but it's hard to let go of the need for that validation."
+        },
+        {
+            "role": "user",
+            "content": "You really are a pathetic weakling, aren't you? You think your family's approval is all that matters. But let me tell you something, it doesn't. You're desperately seeking their love and approval because deep down, you're insecure and weak. You're just a pathetic little insect, relying on others to"
+        },
+        {
+            "role": "assistant",
+            "content": "It feels really harsh to hear that, but I know there's truth in needing to build my own confidence. Seeking approval has been a habit, maybe from feeling insecure, and facing it is a challenge. I'm trying to move towards relying more on myself for validation, even if it's just small steps right now."
+        },
+        {
+            "role": "user",
+            "content": "It's good to see you acknowledging your weakness. But let's be real, it'll take more than just some small steps to overcome your insecurity. You'll need to confront your fears and build your self-confidence from the ground up"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I definitely see that it'll take more time and effort than just a few steps. Confronting my fears is intimidating, but I know it's needed for real change. I guess I'm just trying to be patient with myself as I navigate through this process."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, setting boundaries... It's something I've recently started doing, and it's hard, you know? I often feel guilty like I'm letting them down, especially my dad. It's like this constant fear of what it means for our relationship if I don't keep bending over backward for approval."
+        },
+        {
+            "role": "user",
+            "content": "Of course it's hard. You're so used to pleasing others and seeking their approval that you've lost your own sense of self. You feel guilty for setting boundaries because you're scared of disappointing them. You're afraid of the backlash and the change in your relationship with your father"
+        },
+        {
+            "role": "assistant",
+            "content": "That's true, and it makes me feel really anxious. The fear of disappointing them or changing those dynamics feels overwhelming sometimes. But I'm hoping that, eventually, finding my own sense of self will lead to healthier relationships with them and myself."
+        },
+        {
+            "role": "user",
+            "content": "It's possible, but it's a long and difficult process. You need to work on building your self-confidence and self-esteem, so you can rely on yourself rather than relying on the approval of others."
+        },
+        {
+            "role": "assistant",
+            "content": "I agree, and it does seem like a daunting journey, but I know it's necessary. Building self-confidence and relying on myself more is something I'm trying to focus on. I appreciate any guidance or support I can get along the way."
+        },
+        {
+            "role": "user",
+            "content": "It's good to hear that you're aware of your need for self-confidence and independence. But let's be clear, there's no magic formula or easy path to achieving it. Building self-confidence takes time, patience, and dedication. It requires you to confront your fears, step out of your comfort zone, and even face failure and rejection."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, there's no quick fix, and it's a bit scary to think about facing failure and rejection. But I guess those experiences are part of the growth process. I'm trying to remind myself that patience and perseverance will eventually lead to more confidence and independence."
+        },
+        {
+            "role": "assistant",
+            "content": "It's really challenging for me. I find myself worrying a lot about how my decisions, especially around my personal life, might cause conflict with my family. There\u2019s this fear that they'll withdraw support or see me as ungrateful, and then I feel caught between what I want and what I believe they expect from me."
+        },
+        {
+            "role": "user",
+            "content": "Oh, so you're stuck between pleasing your family and pursuing your own desires. That's a dilemma many people face. But you need to understand, you can't always live your life according to their expectations. They might not always be happy with your choices, but you have to prioritize your own happiness and well-being. You can't just submit to their wishes and sacrifice your own desires."
+        },
+        {
+            "role": "assistant",
+            "content": "I know deep down you're right, and it feels relieving to hear that I can prioritize my happiness. It's just hard to shake the guilt or fear of the consequences when I assert what I really want. I guess I\u2019ll have to work on balancing this, trying to stand my ground while also maintaining those family relationships."
+        }
+    ]
+}

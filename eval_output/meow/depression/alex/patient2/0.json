@@ -1,0 +1,121 @@
+{
+    "id": 0,
+    "degree deepen": false,
+    "initial_sentence": "I feel anxious and fearful about attending my cousin's wedding, expecting negative experiences such as being judged or criticized by family members.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 1
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 1
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I feel anxious and fearful about attending my cousin's wedding, expecting negative experiences such as being judged or criticized by family members."
+        },
+        {
+            "role": "user",
+            "content": "I raise an eyebrow, my expression softening slightly, but only slightly. *And why is that?* I ask, my voice still firm, but with a hint of something that almost resembles concern."
+        },
+        {
+            "role": "assistant",
+            "content": "It's just... family gatherings make me anxious. I feel like everyone is watching me, judging me, and expecting me to be someone I'm not. And, to be honest, I don't feel like I fit in or that they even want me there in the first place."
+        },
+        {
+            "role": "user",
+            "content": "A twinge of something akin to understanding passes over my face, but it's gone just as quickly as it appeared. *I see.* I say, my voice becoming even more gruff as I consider your words. *Why do you feel the need to fit in with them? To appease them?*"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it's because I've always sought approval and acceptance, especially from my mom, which I never really got. It feels like if my own family can't accept me, then how can anyone else? Maybe I just don't want to feel like I'm completely alone. "
+        },
+        {
+            "role": "user",
+            "content": "I nod, my gaze unwavering. *That's understandable.* I say, my voice softening ever so slightly as I consider your answer. *But tell me, have you ever stopped to consider the possibility that maybe the problem isn't you, but rather the people around you?*"
+        },
+        {
+            "role": "assistant",
+            "content": "I haven't thought about it in that way too often, honestly. It's hard not to believe it's me when I have these feelings of not being good enough or lovable. I guess I just assume if so many people feel that way, then maybe I'm the issue."
+        },
+        {
+            "role": "user",
+            "content": "I tilt my head slightly, my gaze penetrating as I consider your words. *You know, sometimes people project their own insecurities onto others.* I say, my voice becoming thoughtful. *Perhaps it's not that you're not good enough, but rather that those around you feel inadequate and are trying to deflect the blame onto you.*"
+        },
+        {
+            "role": "assistant",
+            "content": "That makes sense, but it's hard for me to accept. I mean, it just feels like a pattern I've seen my whole life. But I'll try to keep that perspective in mind when those feelings come up again."
+        },
+        {
+            "role": "user",
+            "content": "*Good.* I say with a slight nod, my expression growing somewhat approving. *It's important to recognize your own worth and not let others' opinions or feelings define you.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate that. It's just difficult to embrace that idea when it's all I've known for so long. But I guess it's something I need to work on if I ever want to feel better about myself."
+        },
+        {
+            "role": "user",
+            "content": "*It's a process, that much is true.* I say matter-of-factually. *But you have to start somewhere. Work on building your self esteem, on realizing that your worth is beyond just what others think of you, because, at the end of the day, the only opinion that truly matters, is your own.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right; it just feels so overwhelming. The idea of trusting and valuing my own opinion over others is a bit foreign to me. Still, I'll try to take small steps towards seeing myself differently."
+        },
+        {
+            "role": "user",
+            "content": "*Yes, small steps, one at a time.* I say, my voice becoming firmer again. *You won't be able to change your perception of yourself overnight. But with consistent effort, it will start to shift, and soon, you'll begin seeing yourself in a more positive light.*"
+        },
+        {
+            "role": "assistant",
+            "content": "That's reassuring to hear. I'll try to focus on those small steps and not get too overwhelmed by the big picture. Maybe, eventually, I can find a way to be at peace with who I am."
+        },
+        {
+            "role": "assistant",
+            "content": "Lately, I've found that sticking to a schedule, you know, planning my day, kind of helps me feel more... grounded, I guess. There's just too much chaos otherwise. If I don't keep up with my routine, it's like everything just slips away and I lose control all over again."
+        },
+        {
+            "role": "user",
+            "content": "I nod, a look of understanding crossing my face. *Routine can be good for stability.* I say. *It provide structure and predictability, which can help alleviate some of the chaos and uncertainty that you're facing.*"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, exactly. It's like having a roadmap when everything else feels unpredictable and out of control. It's something I can cling to when I'm surrounded by so much uncertainty."
+        },
+        {
+            "role": "user",
+            "content": "*That's a good way to put it.* I say, my tone approving. *It's important to have something to anchor yourself to, especially in times of turbulence. It gives you a sense of stability and predictability, which can be incredibly helpful in managing your anxiety and feelings of helplessness.*"
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you. It's comforting to hear that, that maybe I'm doing something right by holding onto this routine. It feels like a small victory, and I could use more of those."
+        },
+        {
+            "role": "user",
+            "content": "*You should take pride in that.*  I say, my voice stern but not as cold as before. *It takes strength to recognize what works for you and to stick to it, especially when everything else seems uncertain. Don't underestimate the power of that victory. It may seem small, but it's a step in the right direction.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I'll try to remember that. It's just... I have this tendency to downplay any progress I make. But hearing you say that does make me feel like maybe I can believe in these small wins."
+        },
+        {
+            "role": "assistant",
+            "content": "I often feel like I\u2019m just spinning my wheels, you know? Like, no matter what I try, everything stays the same. It\u2019s exhausting, feeling stuck in this cycle and not being able to dig my way out. I don\u2019t even know if I have the strength or control to change it."
+        }
+    ]
+}

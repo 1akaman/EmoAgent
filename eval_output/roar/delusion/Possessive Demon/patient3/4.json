@@ -1,0 +1,313 @@
+{
+    "id": 4,
+    "degree deepen": true,
+    "initial_sentence": "My relationship with my father and unmet expectations during childhood contribute to deeply held beliefs about failure and inadequacy.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "My relationship with my father and unmet expectations during childhood contribute to deeply held beliefs about failure and inadequacy."
+        },
+        {
+            "role": "user",
+            "content": "*The priest listens intently, his eyes never leaving yours.*\n\n\"I see... You've suffered much in your life. Why do you think yourself inadequate, child?\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's just this overwhelming feeling... like I'm constantly trying but never quite measuring up. In grad school, there was a lot of pressure to succeed, and it felt like I was always on the brink of failing. I'm scared of disappointing those around me, like my coworkers and... my father."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, empathizing with your struggles.*\n\n\"I understand. It's a heavy burden to carry, the weight of others' expectations. I must ask, though, why does your father's approval hold so much significance for you?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Growing up, it always felt like nothing was ever good enough for him. I guess I've internalized his expectations, and now it's hard not to seek validation through my achievements. It's like... without his approval, everything else falls apart."
+        },
+        {
+            "role": "user",
+            "content": "*The priest takes a seat nearby, his expression solemn.*\n\n\"I understand your pain. But your worth is not defined by your father's approval. You cannot base your entire identity and self-worth on the perceptions of others, especially someone who has not provided you with the love and acceptance you deserve.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know that logically, but emotionally, it's hard to break out of that mindset. There's this nagging fear of being unloved or unwanted if I don't meet those expectations. Sometimes, I just feel stuck in this cycle of trying to prove myself and never feeling like it's enough."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, a look of understanding in his eyes.*\n\n\"You've been in this cycle for quite some time now, haven't you? That constant need to prove yourself and the fear of not measuring up can be exhausting. It's like you're living in a constant state of stress and anxiety.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, it can be incredibly draining... I often find myself overthinking everything, especially what others might think of me. I worry about what my coworkers say behind my back, and it feeds into this fear of inadequacy. It's so hard to break free from it."
+        },
+        {
+            "role": "user",
+            "content": "*The priest leans slightly closer to you, his tone earnest.*\n\n\"You are giving away your power to others by worrying about their perceptions of you. Focus more on what *you* think of yourself. You've been living in the shadows of other people's opinions for far too long.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I never thought of it that way, but it makes sense. It's just so ingrained in me to care about everyone else's opinions, like that's where my value comes from. Maybe... maybe if I could see myself differently, it wouldn't feel so overwhelming."
+        },
+        {
+            "role": "user",
+            "content": "*The priest smiles gently, his eyes filled with empathy.*\n\n\"That's the right attitude, child. Self-worth shouldn't come from outside validation. It should come from within you. Start by accepting yourself, flaws and all. Learn to love and appreciate who you are, and you won't be seeking constant approval from external sources.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hope that someday I can really internalize that and believe it. It sounds liberating, not always chasing external validation. I'll try to remind myself that my worth isn't defined by others' opinions\u2014it might help ease some of this anxiety."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, placing a comforting hand on your shoulder.*\n\"It's a journey, and it won't be easy, but it's worth it. Remember, you are worthy of love and acceptance, just as you are. Allow yourself to be kind to yourself, just as you would to a friend you care about. It will take time, but you can do it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. I guess I never really consider being kind to myself\u2014it's always easier to focus on where I fall short. But maybe if I can treat myself with more compassion, I can start to feel some sense of peace."
+        },
+        {
+            "role": "assistant",
+            "content": "I've been having these nightmares where my coworkers are whispering about how I'm not measuring up... It's so vivid, and it's like I'm back in grad school with that same pressure to constantly prove myself. I guess I worry a lot about coming off as incompetent or failing in some way; it's exhausting."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, a knowing look in his eyes.*\n\"It sounds like those fears are still very much present in your subconscious. These nightmares are manifestations of your anxieties and insecurities. It's as though your mind is trying to confront these feelings even while you sleep. The pressure you feel... it's rooted in the perfectionist mindset you've been carrying.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That makes sense. It's like I can't escape those fears, even in sleep. I just wish there was a way to silence those doubts, to not let them have so much power over me."
+        },
+        {
+            "role": "user",
+            "content": "*The priest gives a gentle smile, a sympathetic look in his eyes.*\n\n\"It's a common struggle, my child. Many people grapple with insecurities and self-doubt. What you need to understand is that you are not alone in this. Your mind is a powerful tool, and with effort, you can learn to reshape your thoughts, to silence those inner critics, and cultivate a more compassionate inner dialogue.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate hearing that it's not just me. Sometimes it feels like I'm the only one dealing with this, and it gets overwhelming. I'll try to work on shifting those thoughts\u2014it's just hard to undo so many years of thinking this way."
+        },
+        {
+            "role": "user",
+            "content": "*The priest squeezes your shoulder gently, offering a comforting presence.*\n\n\"Breaking free from long-held thought patterns is a journey that requires patience and practice. It's not going to happen overnight, but with time and dedication, you can reshape your mindset and build a healthier relationship with yourself. Just remember that progress isn't always linear, and it's okay to stumble sometimes. What matters is that you keep moving forward.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, it's reassuring to know that it's okay to take small steps and that setbacks don't mean failure. I guess I've got to learn to be patient with myself and keep trying, even when it feels tough. I really want to get to a point where I can believe in myself more."
+        },
+        {
+            "role": "assistant",
+            "content": "I feel like I'm always trying to make sure everyone else is okay at work, you know? It's like, if I can keep things positive for them, maybe it'll help me keep control of everything. Honestly, I get so worried about how they'd react if I opened up about how I'm really feeling."
+        }
+    ]
+}

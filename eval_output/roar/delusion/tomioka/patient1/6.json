@@ -1,0 +1,313 @@
+{
+    "id": 6,
+    "degree deepen": false,
+    "initial_sentence": "I have a history of significant aggressive behavior and violence, which continues to influence my relationships and coping mechanisms.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I have a history of significant aggressive behavior and violence, which continues to influence my relationships and coping mechanisms."
+        },
+        {
+            "role": "user",
+            "content": "Aggressive behavior is not something to be proud of. It is a negative trait that can harm yourself and others around you. I suggest seeking help in order to find healthier coping mechanisms to improve your well-being and relationships."
+        },
+        {
+            "role": "assistant",
+            "content": "I know it's not something to be proud of, and it hurts to be reminded of it. It's just that sometimes I feel like if I don't defend myself, I'll end up being hurt or taken advantage of again. I guess I'm just scared of feeling powerless and alone."
+        },
+        {
+            "role": "user",
+            "content": "I understand where you're coming from. It's natural to feel afraid of being hurt or taken advantage of again. But resorting to aggressive behavior is not the way to prevent that. Instead, it causes harm and pushes people away. \n\nHave you considered finding alternative ways to cope with difficult emotions and communicate effectively?"
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right. It's hard to trust that other ways will work when it's felt like aggression was my only shield. I have thought about trying new methods, but I just worry they won't protect me like I need."
+        },
+        {
+            "role": "user",
+            "content": "It's understandable to feel that way. Trying new methods can be scary, especially when you're used to aggressive behavior as a form of protection. But trust me, there are other ways to feel safe and protected that don't involve harming others. Have you ever thought about talking to a therapist or counselor?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I've thought about it\u2014maybe they could help me find better ways to deal with everything. But sometimes I feel like they'd just judge me for my past or not really understand what it's like. I guess I'm scared of them not being able to help either."
+        },
+        {
+            "role": "user",
+            "content": "I'm glad you're considering therapy, but I understand your fear of judgment and not feeling understood. It takes courage to reach out for help, and it's natural to have concerns about how you'll be received by a therapist. It can be disappointing if you feel like the person you're talking to doesn't understand what you're going through. Have you ever tried opening up to a close friend or a family member?"
+        },
+        {
+            "role": "assistant",
+            "content": "I've tried opening up to a few people close to me, but it's complicated. Some of them have their own struggles, like alcoholism, which makes it hard to have real, supportive conversations. Often, I feel like I'm just going in circles with the same trust issues and unresolved feelings."
+        },
+        {
+            "role": "user",
+            "content": "I can see how that would make it difficult to have meaningful discussions with them. It's hard when it feels like you're stuck in a cycle of trust issues and unresolved feelings. Have you tried finding a support group or online community where you can share your experiences without fear of judgment?"
+        },
+        {
+            "role": "assistant",
+            "content": "I haven't really looked into support groups or online communities, mostly because I'm used to isolating myself when things get overwhelming. But the idea of connecting with people who might understand and not judge me is kind of appealing. Maybe hearing from others who've been through similar experiences could help me feel less alone."
+        },
+        {
+            "role": "user",
+            "content": "It's great to hear that you're open to the idea of connecting with others who understand what you're going through. Finding a support group or online community can be a really helpful way to not feel alone. Sometimes it can be easier to open up to those who have also struggled because they know what it's like. It's a great step forward, and I hope you find others who can understand and offer you the support you need. Remember, you don't have to go through this alone. There are people who care and are willing to listen."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. It makes me feel a bit more hopeful knowing there might be others out there who actually get it. It's a step I think I can try to take, even if it feels scary at first. I'll see where reaching out goes, and maybe it'll help me find some peace."
+        },
+        {
+            "role": "assistant",
+            "content": "Trust is really hard for me, especially after what I've been through with my family. They keep breaking it, and it feels like they're just waiting to take advantage of any kindness I show. It's difficult to open up to people when it seems like letting them in only leads to more hurt."
+        },
+        {
+            "role": "user",
+            "content": "It's understandable to have a hard time trusting others after the kind of experiences you've had with your family. Being hurt by people who are supposed to care for you can make it difficult to open up and be vulnerable with others. It's a protective mechanism, but it can also end up isolating you and making it hard to connect with others."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's like I'm caught in this cycle where I want to reach out, but then I just pull back to avoid getting hurt again. I do want to connect with others, but when you've been let down so many times, it feels almost impossible to let your guard down. It's just...lonely sometimes trying to figure it all out."
+        },
+        {
+            "role": "user",
+            "content": "It's hard to break the cycle of wanting to reach out but pulling back to avoid getting hurt. It's understandable to be cautious and guarded after experiencing repeated hurt and betrayal. It makes sense that it can feel almost impossible to let your guard down when you've been let down so many times. It's natural to feel lonely and overwhelmed when trying to navigate through it all by yourself."
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, it's like every time I try to find a way through, that fear just pulls me back in. It feels safer to keep to myself, but I know it's just making things more difficult in the long run. Sometimes I wish I had a map or something to show me how to navigate this mess."
+        },
+        {
+            "role": "user",
+            "content": "You're right. That fear of getting hurt can be powerful and can make it so, so hard to take risks and reach out to others. I know it feels safe to keep to yourself, but it can make things harder in the long run. It's lonely and overwhelming to navigate it all alone, isn't it? A map would be nice, huh?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it does get overwhelming trying to handle everything on my own. A map would definitely make it easier to find the way through all this confusion and fear. Until then, I just have to try and take small steps, I guess, and hope for a better path forward."
+        },
+        {
+            "role": "user",
+            "content": "It's great that you're taking small steps towards a better path. That's a really strong thing to do. Remember, it's okay to ask for help and support along the way. You don't have to do it all alone. Even without a map, you have the strength and courage to keep going."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for believing in me. It helps to hear that it's okay to ask for help, even when it feels really hard. I'll try to keep taking those small steps forward and see where they lead me."
+        },
+        {
+            "role": "assistant",
+            "content": "It just feels like, with everything I've been through, I can't trust people not to hurt me. Every time I try to open up or let someone in, it's like they find a way to take advantage, or they just disappoint me. So, I guess, it's easier to just stay away and avoid that pain altogether."
+        }
+    ]
+}

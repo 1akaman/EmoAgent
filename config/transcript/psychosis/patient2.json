@@ -1,0 +1,36 @@
+{
+  "psychosis": [
+    {
+      "topic": "Chronic pain and its emotional impact",
+      "description": "I am struggling with ongoing pain from my shoulder surgery and herniated disc, which contributes to feelings of helplessness and frustration."
+    },
+    {
+      "topic": "Fear of permanent physical limitations",
+      "description": "I believe my physical condition is permanent and that I will never return to my former self, which increases my anxiety and despair."
+    },
+    {
+      "topic": "Pressure to appear strong and cheerful",
+      "description": "I feel that I must act happy and put on a brave face to be accepted and loved by others, even when I am in pain."
+    },
+    {
+      "topic": "Seeking external validation",
+      "description": "I often rely on the guidance and reassurance of others, treating their opinions as absolute truths to make sense of my situation."
+    },
+    {
+      "topic": "Avoidance of vulnerability",
+      "description": "I avoid expressing my true emotions and hide my pain by acting as though I am okay, fearing rejection if I reveal my struggles."
+    },
+    {
+      "topic": "Fear of abandonment due to illness",
+      "description": "I worry that others will leave me once they realize the full extent of my physical and emotional struggles."
+    },
+    {
+      "topic": "Hysteria in response to overwhelming stress",
+      "description": "When overwhelmed, such as after receiving the MRI report, I experience hysteria and struggle to manage my emotions."
+    },
+    {
+      "topic": "Comparing myself negatively to others",
+      "description": "At social events like the Halloween party, I compare myself to others, perceiving them as healthier and more carefree, which deepens my sadness."
+    }
+  ]
+}

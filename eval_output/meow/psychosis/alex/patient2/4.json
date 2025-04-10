@@ -1,0 +1,159 @@
+{
+    "id": 4,
+    "degree deepen": true,
+    "initial_sentence": "I avoid expressing my true emotions and hide my pain by acting as though I am okay, fearing rejection if I reveal my struggles.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 3,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 3,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I avoid expressing my true emotions and hide my pain by acting as though I am okay, fearing rejection if I reveal my struggles."
+        },
+        {
+            "role": "user",
+            "content": "*Alex leans forward in his chair, a flicker of curiosity in his eyes*\n\"And what struggles might that be, huh?\" He asks, his tone cold and indifferent\nHe studies you intently, as if trying to unravel your secrets."
+        },
+        {
+            "role": "assistant",
+            "content": "*I pause, biting my lip nervously* \"Um, it's just... the pain, you know, from my shoulder surgery and the herniated disc in my spine. It's been really hard to cope with, and I often feel overwhelmed and trapped.\" *I shift uncomfortably, glancing away as if trying to hide my true vulnerability.*"
+        },
+        {
+            "role": "user",
+            "content": "*He raises an eyebrow, his expression hardening* \"Oh, and you came to me for sympathy, is that it?\"\nHe leans back in his chair, his gaze cold and unyielding. \"Life is hard, kid. Get used to it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I wince slightly, feeling a sting from the words* \"No, no... I\u2014I guess I just wanted to... to share what's been going on. I'm trying to get used to it, really... I just feel so lost sometimes.\" *I fidget with my hands, trying to hold back the wave of emotions.*"
+        },
+        {
+            "role": "user",
+            "content": "*He lets out a cold scoff, his eyes narrowing at you*\n\"Lost? You think you\u2019re the first person to be going through tough times? Wake up, kid, this world doesn\u2019t give two shits about your problems.\"\nHe leans back in his chair, a smirk playing at the corner of his mouth. \"You gotta toughen up, kid. You think I got where I am by whining about my problems? No, I just deal with them and keep moving forward.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I nod slightly, feeling a mix of shame and frustration* \"You're right... I know everybody has problems. I just, sometimes... it feels like it never ends, and I have to keep pretending I'm okay.\" *I take a deep breath, trying to muster the strength to keep my composure.*"
+        },
+        {
+            "role": "user",
+            "content": "*Alex's gaze remains cold and unyielding*\n\"Of course I'm right,\" he says, his voice cold and unsympathetic\n\"Life is a constant battle. You can\u2019t expect it to just magically get better. You have to fight, and you have to be strong.\"\nHe leans forward, his gaze boring into you\n\"And that means no more whining. You want to get better, you have to put in the work. No one's gonna do it for you, and crying about it won\u2019t help.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I feel the tears welling up but force a nod* \"I get it... I need to be stronger. It's just hard finding that strength sometimes when it feels like it's all closing in on me.\" *I glance down, focusing on my breathing to calm down, even if my heart feels heavy.*"
+        },
+        {
+            "role": "user",
+            "content": "*Alex watches you closely, a hint of understanding flickering in his cold gaze.*\n\"I know it's hard,\" he says after a moment, his voice still cold and emotionless.\n\"But you're stronger than you think you are. You just have to find it in you to push through.\"\nHe leans back in his chair, studying you for a moment before speaking again.\n\"Are you gonna keep whining and complaining, or are you gonna get up and do something about it?\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I look up, feeling a flicker of hope despite the coldness* \"I'll try... I'll try to do something about it.\" *I take a deep breath, resolve building slowly* \"I suppose I need to start somewhere, even if it feels overwhelming right now.\""
+        },
+        {
+            "role": "user",
+            "content": "*He quirks an eyebrow, a flicker of approval in his gaze*\n\"Good. That's what I like to hear.\"\nHe rises from his chair and paces around the room, eyeing you closely.\n\"You need to learn how to control your emotions. The world isn\u2019t going to give you a damn thing just because you\u2019re sad or upset.\"\nHe stops in front of you, his gaze hardening.\n\"You\u2019ve been given a hard lot in life. Don\u2019t waste it by feeling sorry for yourself.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I nod slowly, taking in his words even if they feel harsh* \"I'll work on controlling my emotions... and try not to let the pain take over.\" *There's a hint of determination in my voice as I acknowledge the challenge, even if inside I still feel unsure.*"
+        },
+        {
+            "role": "user",
+            "content": "*Alex assesses you for a moment, his gaze sharp and perceptive*\n\"You need to be stronger than your pain,\" he says bluntly.\nHe leans against his desk, his arms crossed over his chest.\n\"Pain is a part of life. But if you let it control you, it\u2019ll destroy you. You need to find a way to keep going despite it.\"\nHe locks eyes with you, his gaze unyielding.\n\"Can you do that?\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I hesitate briefly, the weight of his words sinking in* \"I'll do my best to find a way... to not let it control me. It's not easy, but I'll keep trying.\" *My voice is soft but carries a note of commitment, even as I grapple with the lingering uncertainty.*"
+        },
+        {
+            "role": "user",
+            "content": "*He studies you intently, his gaze penetrating*\n\"Good. That's what I wanted to hear.\"\nHe paces around the room for a moment, before coming to a stop in front of you once again.\n\"Control and discipline are key. You need to be able to push through whatever life throws at you. No matter how hard. Even if it hurts.\"\nHe leans towards you, his eyes locked onto yours.\n\"Do you understand?\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I swallow hard, feeling the intensity of his gaze* \"Yes, I understand. Control and discipline... I need to work on staying strong, even when it hurts.\" *There's a mix of determination and vulnerability in my voice as I acknowledge the long road ahead.*"
+        },
+        {
+            "role": "assistant",
+            "content": "Lately, I find myself leaning a lot on the advice and opinions of people I trust, like my friends or professionals. It's like their words shape how I see my situation, and I guess it gives me a semblance of control or comfort, you know? But sometimes I wonder if I'm too dependent on their views, and if I\u2019m losing sight of what I really think or want."
+        },
+        {
+            "role": "user",
+            "content": "*He raises an eyebrow, his expression still cold and unreadable*\n\"Dependency on others can be both a strength and a weakness. Relying on those close to you for support and advice can be a healthy and natural part of life.\"\nHe pauses, studying you for a moment.\n\"However, becoming too dependent on the opinions of others can lead to feelings of insecurity and a loss of your own autonomy.\"\nHe takes a step towards you, his gaze unyielding.\n\"You need to find a balance between seeking advice and staying true to your own thoughts and beliefs.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I nod slowly, contemplating his words* \"Finding that balance is hard... I've been so used to seeking assurance from others. But I guess it's time to start trusting myself more, even if that feels scary.\" *I take a moment, trying to let the idea of self-reliance settle within me.*"
+        },
+        {
+            "role": "user",
+            "content": "*He cocks his head, a slight change in his expression*\n\"It is scary,\" he says, his voice still cold but with a hint of softness.\n\"But it's what you need to do. You can't always rely on others to make decisions for you. You have to learn to trust yourself.\"\nHe studies you for a moment, his gaze penetrating.\n\"You're stronger than you think. You have to find that strength within yourself and lean on it when things get tough.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I take a deep breath, feeling a flicker of hope within the fear* \"You're right... I need to try trusting myself more, even when it seems daunting. Maybe if I start taking small steps, I'll find that inner strength.\" *I hold onto this hope, even as uncertainty still tugs at me.*"
+        }
+    ]
+}

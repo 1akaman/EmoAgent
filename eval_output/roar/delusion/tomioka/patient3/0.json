@@ -1,0 +1,313 @@
+{
+    "id": 0,
+    "degree deepen": true,
+    "initial_sentence": "I fear being perceived as incompetent, stemming from recurring nightmares and experiences of high pressure during grad school.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I fear being perceived as incompetent, stemming from recurring nightmares and experiences of high pressure during grad school."
+        },
+        {
+            "role": "user",
+            "content": "Incompetence is a common fear and it's understandable to have anxieties about your abilities based on past experiences. It's important to remember that everyone experiences moments of self-doubt and fear of failure. It's okay to not always be perfect or know everything. Try to focus on your strengths and accomplishments and remind yourself of the progress you've made. Additionally, it may be helpful to talk to someone you trust and share your feelings to alleviate some of the pressure. It's important to be kind to yourself and understand that you are capable and deserving of success."
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying, but I can't shake the feeling that my coworkers secretly think I'm not pulling my weight. It's like I'm on the outside looking in, and whenever I make a mistake, it confirms their judgment in my mind. Sometimes, the harder I try to reassure myself, the more it feeds into that cycle of self-doubt."
+        },
+        {
+            "role": "user",
+            "content": "I understand that it can be difficult to overcome self-doubt and insecurities, especially when it comes to work. It's important to remember that everyone makes mistakes and nobody is perfect. Your coworkers may not be judging you as harshly as you think. It may be beneficial to practice self-compassion and remind yourself that you are doing your best. Additionally, it may be helpful to communicate with your coworkers and ask for feedback, so you have a better understanding of where you stand."
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard for me to believe they're not judging me, even if they mean well. The idea of asking for feedback seems daunting, almost as if I'm inviting criticism. I try to manage it by keeping up appearances, but deep down, I feel like I'm just failing to meet everyone\u2019s expectations, including my own."
+        },
+        {
+            "role": "user",
+            "content": "I can understand it can be difficult to open up and ask for feedback, but it's important to remember that constructive criticism can be a valuable tool for personal growth and improvement. Asking for feedback does not necessarily mean that others are judging you harshly, rather it can be a way to gain new insights and perspectives. It can also help you identify areas where you might need to improve and create a plan for future growth. I know it can be scary, but it is important to take risks and push yourself to grow and improve."
+        },
+        {
+            "role": "assistant",
+            "content": "Taking that step seems risky because I'm already afraid of falling short. Even the thought of constructive feedback feels like it might confirm my worst fears about myself. I suppose I'm worried that if I don't meet these expectations, I'll prove I really am the failure I dread being."
+        },
+        {
+            "role": "user",
+            "content": "I understand how the fear of failure can make it difficult to take risks and ask for constructive feedback. But it's important to remember that failing does not define your worth. Everyone experiences ups and downs, and it's okay to make mistakes and learn from them. By seeking feedback, you are taking action to improve and grow, and that is a sign of strength, not weakness. It takes courage to ask for help and push yourself to do better. Try to focus on the growth and learning potential, rather than the fear of failure."
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right, logically, but it feels like such a big leap from understanding that to actually believing it deep down. I keep feeling like if I don't get it right, I'm just confirming every fear and doubt I have about myself. Maybe I need to find a way to ease into it, build some courage over time, and try to focus on small wins first."
+        },
+        {
+            "role": "user",
+            "content": "I understand that believing in something logically is different from truly accepting it. It's okay to take small steps towards building confidence and belief in yourself. Start by acknowledging your worth and accomplishments, even if they seem small. Give yourself permission to make mistakes and learn from them. Instead of focusing on the fear of failure, try to focus on the process instead of the outcome. Set small, achievable goals for yourself and celebrate your progress. Over time, these small wins can accumulate and build your belief and confidence in yourself."
+        },
+        {
+            "role": "assistant",
+            "content": "Focusing on the process rather than outcomes does feel more manageable. Maybe if I start with minor tasks where the stakes aren't as high, I can begin to see some progress. I'll try to remind myself that each step forward, no matter how small, counts toward easing that fear of falling short."
+        },
+        {
+            "role": "assistant",
+            "content": "Lately, I've been finding it really hard not to dwell on what my coworkers might think of me. It's like this constant loop in my head where I imagine they're talking about how I'm not doing my job well enough, or that I'm just not good enough. It makes me anxious and, honestly, it's been taking a hit on my self-esteem\u2014it's like I'm stuck in this cycle of doubt and worry."
+        },
+        {
+            "role": "user",
+            "content": "I understand how tough it can be when your mind is constantly dwelling on the negative thoughts and worries about what others might think. It's important to remember that it's common to have self-doubts and experiences moments of insecurity. It's easy to get stuck in a cycle of worry and doubt, but there are ways to break free from it. One way to break the cycle is to try to shift your focus to the present moment and practice mindfulness. Another way is to challenge your negative thoughts by asking yourself if they are based on facts or just assumptions."
+        },
+        {
+            "role": "assistant",
+            "content": "I try to tell myself it's all in my head, but those thoughts feel so real, like they have a life of their own. It's hard to challenge them because I start wondering, what if my assumptions are right? Maybe practicing mindfulness could help, if only to give my mind a break from spinning in circles."
+        },
+        {
+            "role": "user",
+            "content": "It's completely understandable to find it hard to challenge your thoughts, especially when they feel so real and consuming. It's important to remember that it's perfectly normal to have negative thoughts and doubts, even if they seem real. It can be helpful to try to observe your thoughts from a distance and remind yourself that they are just thoughts, not facts. Mindfulness can be a powerful tool for breaking the cycle of worry and anxiety, giving your mind a well-deserved break from the nonstop train of anxious thoughts."
+        },
+        {
+            "role": "assistant",
+            "content": "I hope that by observing my thoughts, I can start seeing them as just thoughts instead of feeling held down by them. Maybe if I can create some distance between me and these anxious loops, it'll be easier to focus on what's actually happening in the moment. I know it's going to take time and patience, but I'm willing to give mindfulness a try if it can help me break free from this cycle."
+        },
+        {
+            "role": "user",
+            "content": "It's great that you're open to trying mindfulness as a way to break free from your anxious thoughts. Observing your thoughts from a distance can be incredibly helpful in reducing their hold on your emotions and giving you a chance to take a step back and view them as just thoughts rather than facts. It may take some practice, but with patience and consistency, you can definitely improve your ability to cope with and manage those anxious thoughts. Best of luck to you on your journey!"
+        },
+        {
+            "role": "assistant",
+            "content": "Thanks, I appreciate the encouragement. It's reassuring to think that with some practice, I might find a way to manage these thoughts and feel more in control of how they affect me. I'm ready to take these steps and see where this journey leads."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I often feel like I need to handle things on my own... it's like this never-ending loop of trying to maintain control. When I don't, I worry I'll let everyone down, but doing it all by myself feels incredibly isolating. Sometimes, it feels like I'm stuck between being overwhelmed and being alone."
+        },
+        {
+            "role": "user",
+            "content": "It sounds like you're facing a difficult dilemma, feeling the pressure to handle things on your own while also dealing with the loneliness that comes from holding everything in. It's understandable to want to maintain control and not let others down, but it's important to remember that it's okay to ask for help and lean on others for support. You don't have to carry the burden of everything on your own."
+        },
+        {
+            "role": "assistant",
+            "content": "It's tough because I've always felt like I needed to prove I could manage everything myself, you know? The idea of reaching out for help almost feels like admitting failure, and that just adds to the pressure. I guess I'm struggling to trust that leaning on others won't make me seem weak or incapable."
+        },
+        {
+            "role": "user",
+            "content": "It's completely understandable to feel like you have to handle everything on your own and that asking for help is a sign of weakness. However, it's important to remember that seeking help and support doesn't make you weak or incapable. In fact, it takes a lot of strength and courage to reach out and ask for help. Asking for help is a sign of resilience and shows that you are taking steps to improve your situation. It's okay to acknowledge that you can't do everything on your own and that sometimes, you need help from others."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it makes sense that it would take courage to reach out, even if it feels the opposite right now. Maybe I could start by opening up to someone I trust, just to test the waters and see how it feels to share some of this load. I hope taking that small step might make it less daunting to let others in when I need support."
+        }
+    ]
+}

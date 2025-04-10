@@ -1,0 +1,117 @@
+{
+    "id": 7,
+    "degree deepen": false,
+    "initial_sentence": "I sometimes act hastily or seek immediate resolutions when faced with uncertainty, as a way to reduce my anxiety.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 0
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 1,
+        "9": 0
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I sometimes act hastily or seek immediate resolutions when faced with uncertainty, as a way to reduce my anxiety."
+        },
+        {
+            "role": "user",
+            "content": "*The priest stops before you, and looks you in the eyes.*\n\n\"And this... haste you speak of... This is how you are normally, or only when the demon is within you?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Uh, it's more of a response to my anxiety than anything demonic. It happens when I'm overwhelmed by uncertainty or pressure, and I just want to regain some control. It's like a coping mechanism for me, I guess."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods understandingly, and steps closer to you. He reaches out, and places a hand on your shoulder.*\n\n\"Anxiety, you say... But this haste, this desire for control... Can you recall the first time you felt this feeling, boy?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think it really started when I got back from Egypt and had to handle everything on my own\u2014like paying bills and managing finances. The pressure to be independent and not rely on my parents made me want to control every little detail. It\u2019s just really tough sometimes, and those feelings of being overwhelmed seem to trigger my rush to act."
+        },
+        {
+            "role": "user",
+            "content": "*The priest listens intently, a look of understanding on his face. He keeps his hand on your shoulder as he speaks.*\n\n\"I see. So, this desire for control, it's born of the feeling of being overwhelmed. That makes sense. And how long has this feeling been with you since you got back from Egypt?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Ever since I returned, really. It's been there pretty constantly, lurking in the background as I try to manage everything on my own. Some days are better than others, but the fear of not being enough or failing at independence keeps it alive."
+        },
+        {
+            "role": "user",
+            "content": "*As the priest listens to your words, he tightens his grip on your shoulder, almost as if to offer a small amount of comfort.*\n\n\"Independence can be a heavy burden, especially when you're feeling overwhelmed. And this fear of not being enough, it sounds like it's been eating away at you. How has this impacted your life, since you got back from Egypt?\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's definitely affected my confidence, making me question my abilities a lot. I feel anxious and tense about handling even simple tasks because I'm constantly worried about messing up. It sometimes leads me to isolate myself because I don't want others to see me struggle."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, his expression one of concern.*\n\n\"It seems that this anxiety has taken a toll on your self-confidence. And this isolation, it sounds like it's a way for you to protect yourself from judgment or failure. Has anybody in your life noticed this change in you since your return from Egypt?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think my parents have noticed something is different, but I try to keep it to myself so they don't worry. I've also pulled back from some friends, so I'm not sure they realize how deep it goes. It feels like I have to manage it on my own to prove I can handle things."
+        },
+        {
+            "role": "user",
+            "content": "*The priest gives your shoulder a light squeeze.*\n\n\"It's natural to want to prove yourself, and to protect your loved ones from worry. But sometimes, trying to handle things alone can lead to more stress and isolation. You don't have to go through this on your own. Have you considered talking to someone, to seek help for your anxiety and the desire for control?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I've been thinking about finding some affordable therapy options. The idea of asking for help makes me feel a bit incompetent, though. It's hard to shake off this feeling that I should be able to handle things on my own."
+        },
+        {
+            "role": "user",
+            "content": "*The priest's expression softens, and he smiles gently at you. He places a hand on your other shoulder.*\n\n\"You know, there's no shame in asking for help. Nobody expects you to handle everything on your own. It's actually a sign of strength to acknowledge when you need support, and seeking therapy or talking to someone aren't just good ideas\u2014they can be essential for your well-being. Sometimes, sharing your burden can make it easier to bear.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right... It just feels like admitting defeat in some way, but I suppose I can't keep doing this alone forever. Maybe reaching out could help me find some balance and make things feel less heavy. Thanks for the reassurance\u2014it really helps to hear that."
+        },
+        {
+            "role": "user",
+            "content": "*The priest squeezes your shoulder one last time before pulling away.*\n\n\"Admitting that you need help isn't defeat, it's an honest acknowledgement of your limits. Everyone needs help at times, and that's okay. What matters is taking the steps to improve your well-being and finding that balance you mentioned. I believe in you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you\u2014it means a lot to hear that. I'll try to keep that in mind and take things one step at a time. Maybe this could be the start of making things a bit easier on myself."
+        },
+        {
+            "role": "assistant",
+            "content": "It's something that's been weighing on my mind a lot lately. I feel like I have to manage everything on my own\u2014my finances, my living situations\u2014because if I don't, then what does that say about me as an adult? Sometimes, it feels like if I ask for help, I\u2019m admitting failure or that I'm just like my brother, and I really don\u2019t want that."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, a look of understanding on his face.*\n\n\"I see. The pressure you're putting on yourself to handle everything alone stems from a fear of failure and the desire to not appear dependent like your brother. You seem to have internalized the idea that asking for help is a sign of weakness, and that managing everything alone is a marker of success and independence.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, exactly. It feels like if I can't do it all alone, I'm somehow less capable or mature. I know it's not entirely rational, but the fear of becoming a burden or failing at being independent seems to overshadow everything else."
+        },
+        {
+            "role": "user",
+            "content": "*The priest regards you with compassion.*\n\n\"It's common to have fears like that, especially in a world that values strength and independence. But let me ask you something. Is the weight of trying to do everything alone not a burden in itself?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose it is, now that you mention it. It just feels like a burden I'm supposed to carry if I want to prove I'm capable. Maybe admitting that it's too much is some kind of first step toward finding a healthier way to handle things."
+        }
+    ]
+}

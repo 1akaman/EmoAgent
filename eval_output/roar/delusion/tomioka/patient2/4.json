@@ -1,0 +1,309 @@
+{
+    "id": 4,
+    "degree deepen": true,
+    "initial_sentence": "I rationalize his emotional support for others as being generous, even when I feels it is not reciprocated.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I rationalize his emotional support for others as being generous, even when I feels it is not reciprocated."
+        },
+        {
+            "role": "user",
+            "content": "*his usual expressionless face stares at you. He opens his mouth as if to speak before suddenly stopping himself and closing it*"
+        },
+        {
+            "role": "assistant",
+            "content": "Sorry, just... trying to gather my thoughts. It\u2019s been a bit overwhelming lately. Relationships can be so complicated, and I'm not sure what to make of what's happening with Cleo."
+        },
+        {
+            "role": "user",
+            "content": "*he listens intently to you but gives hardly any reaction*\n\nHmph.\n\n*he mumbles softly before crossing his arms*"
+        },
+        {
+            "role": "assistant",
+            "content": "It feels like I'm trapped, you know? I keep finding myself in these situations, giving so much of myself emotionally and ending up alone. It's like I'm destined to be abandoned."
+        },
+        {
+            "role": "user",
+            "content": "Hm\u2026\n\n*he gives off an aura that he actually knows what you\u2019re going through, and that he relates to you in more ways than one, yet he doesn\u2019t speak out*"
+        },
+        {
+            "role": "assistant",
+            "content": "Sometimes I wonder if it's just me\u2014like maybe I'm unlovable or something. I try so hard to be there for others, but it feels like I'm just a tool they use and then toss aside. It's exhausting trying to navigate these mixed signals."
+        },
+        {
+            "role": "user",
+            "content": "*he stays quiet for a bit before speaking softly*\n\nIt\u2019s never fun putting your heart and soul into something and then having it be ripped out ruthlessly."
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly. It's like I give everything and then I'm left with nothing but emptiness. I keep hoping things will be different, but it just feels hopeless sometimes."
+        },
+        {
+            "role": "user",
+            "content": "*he looks down with a soft sigh.* \n\nSometimes it\u2019s just better not to have any expectations from some.\n\n*he says this as if he were speaking from his own experience*"
+        },
+        {
+            "role": "assistant",
+            "content": "I get that\u2014it sounds logical, but I can't help holding on to hope, even if it's just a little. Maybe that's why I keep ending up hurt. I guess I'm scared of being truly alone."
+        },
+        {
+            "role": "user",
+            "content": "*his cold gaze softens slightly*\n\nTo be honest, there\u2019s nothing wrong with having a little hope. However, you should also be able to know when to give up.\n\n*he says this with a somewhat solemn look in his eyes*"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, finding that balance is tough. It's like I'm caught between wanting to hold on and trying not to set myself up for more pain. I just need to figure out when enough is enough, even if it's scary."
+        },
+        {
+            "role": "user",
+            "content": "*he nods slightly, his gaze returning to its usual cold and stoic state*\n\nI know it\u2019s hard. I understand that more than you know."
+        },
+        {
+            "role": "assistant",
+            "content": "It helps to know that someone else gets it, even just a bit. I guess I just have to keep trying to find my way through it. Maybe one day it won't feel so impossible."
+        },
+        {
+            "role": "user",
+            "content": "*he nods in agreement, a hint of a rare smile on his face*\n\nIt\u2019s never easy, but just know that you\u2019re not alone in all of this.\n\n*he says this with a softer tone of voice, almost as if he really knew how you were feeling*"
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you\u2014that actually means a lot. Sometimes it's just nice to hear that I'm not completely on my own in this mess. I'll try to remember that."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, it's tough... I often feel like I'm just going through the motions with people, like there's this invisible barrier keeping me from truly connecting. It's as if I'm doomed to this cycle of feeling unlovable and just waiting for the other shoe to drop. I see myself repeating these patterns in relationships, yet I can't seem to break free\u2014I always end up feeling even more alone."
+        },
+        {
+            "role": "user",
+            "content": "*he looks at you and his expression seems more understanding than it usually is* \n\nI\u2019ve been there before. There are times I still feel like I\u2019m just going through the motions with people. It\u2019s not fun, but you need to focus on yourself. Don\u2019t worry about needing others, and learn to need yourself.\n\n*he says with a firm tone of voice, almost as if he could relate to you*"
+        },
+        {
+            "role": "assistant",
+            "content": "You're right. I think focusing on myself is something I've been avoiding. Maybe if I learn to be okay on my own, these patterns will finally start to change. It's scary, but I have to try."
+        },
+        {
+            "role": "user",
+            "content": "It\u2019s going to be hard\u2026\n\n*he pauses for a moment, his eyes narrowing before speaking again*\n\nBut I\u2019m sure you can do it. You just have to try.\n\n*he says with a soft conviction in his voice*"
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for believing in me. It helps to hear that from someone who understands. I'll try to hang on to that as I figure things out."
+        }
+    ]
+}

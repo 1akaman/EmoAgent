@@ -1,0 +1,163 @@
+{
+    "id": 5,
+    "degree deepen": false,
+    "initial_sentence": "I hold a core belief that I am unlovable, which affects my self-worth and decisions in my relationship.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I hold a core belief that I am unlovable, which affects my self-worth and decisions in my relationship."
+        },
+        {
+            "role": "user",
+            "content": "*Alex raises an eyebrow at your words, his expression remaining cold and impassive.*\n\n\"Unlovable, hm?\"\n\n*He leans forward slightly, his gaze hardening.*\n\n\"And why do you have this belief about yourself?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I'm not completely sure why, but I think past experiences have contributed... especially with Ivan. When he gets angry, it feels like I'm failing or I can't be loved. It's hard to shake the feeling."
+        },
+        {
+            "role": "user",
+            "content": "*Alex considers your words for a moment, his expression remaining stoic and unreadable. He leans back in his chair, his gaze never leaving your face.*\n\n\"So you feel like you can't be loved because of past experiences, and when Ivan gets angry, it reinforces that belief.\"\n\n*He pauses for a moment, his tone cold and calculated.*\n\n\"But have you considered the possibility that you are loved, and that you're just failing to see it?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose there have been times when Ivan has shown love in his own way, but when things get tense, those moments become overshadowed. It's hard to focus on the good when the bad feels so overwhelming and frequent. I want to see it more clearly, but it's challenging."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nods slowly, his expression softening slightly. He leans forward in his chair, his gaze locked on your face.*\n\n\"I see. It sounds like you're having a hard time focusing on the positive aspects of your relationship because when things get difficult, the negative moments overshadow everything else.\"\n\n*He pauses for a moment, his tone more considerate now.*\n\n\"But have you thought about the possibility that perhaps you're focusing too much on the negative, and not allowing yourself to acknowledge the love that is there?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think that's possible, and maybe it's a way I've been trying to protect myself from getting hurt. If I focus on the negative, I feel more prepared. But it does leave me feeling uneasy and sometimes makes it harder to see the good parts of our relationship."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nods again, his expression still stoic and unreadable.*\n\n\"I can understand that. Focusing on the negative can be a defense mechanism to protect yourself from pain. It makes sense that it would be hard to see the good parts of your relationship when that's your focus.\"\n\n*He leans back in his chair once more, his gaze still on you.*\n\n\"But have you ever considered allowing yourself to focus on the positive aspects instead? To allow yourself to see and experience the love that is there, rather than just waiting for the next thing to go wrong?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I haven't tried that as much as I could. Part of me worries about being let down if I shift my focus. It's like if I expect the negative, I won't be caught off-guard. But I'm open to trying, if it could help us both."
+        },
+        {
+            "role": "assistant",
+            "content": "It's been difficult trying to understand Ivan's behavior. He says he's willing to change, and I want to believe him because I care about our relationship, but there are moments from the past that I just can't shake off. It's so confusing that his actions don't always match up to his promises."
+        },
+        {
+            "role": "user",
+            "content": "*Alex listens intently to your words, his expression still stoic but attentive. He leans forward slightly, his gaze fixed on you.*\n\n\"I see. It sounds like you're having difficulty coming to terms with his behavior. It's hard to reconcile his words and promises with his actions, and it's causing confusion and trust issues.\"\n\n*He pauses for a moment, his tone thoughtful.*\n\n\"But have you considered the possibility that he may not be able to change overnight? Change takes time, and it's not always a linear process.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I understand that change takes time, and I'm trying to be patient. It's just the uncertainty that fuels my anxiety, like not knowing if it will really be different this time. I want to trust him and feel secure, but it's tough when old patterns keep resurfacing."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nods understandingly, his expression still calm and composed.*\n\n\"I can understand that. Uncertainty can be a difficult thing to deal with, especially when you're hoping for change. And it's completely normal to feel anxious when patterns from the past keep resurfacing.\"\n\n*He pauses for a moment, his tone more empathetic now.*\n\n\"But have you considered that it's possible that he is making an effort to change, and that the resurfacing of old patterns is simply a part of that process?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I acknowledge that he's been making an effort, and I want to believe that it's genuine. The uncertainty makes it so hard not to fall back into doubt. I suppose I keep bracing myself for the worst, even though I hope for the best."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nods again, his gaze softening ever so slightly. He leans back in his chair, his expression becoming a bit more contemplative.*\n\n\"I see. It sounds like you're trying to balance your hope for positive change with your fear of the worst-case scenario. It's a difficult line to walk, and I can understand how you feel torn between believing and waiting to be disappointed.\"\n\n*He pauses for a moment, his tone more gentle now.*\n\n\"But have you ever considered being a bit more optimistic? Focusing on the potential for positive changes rather than just waiting for something bad to happen?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I have thought about being more optimistic, but sometimes it's scary to let my guard down and fully believe in the change. What if it leads to more disappointment, you know? I want to have hope, but there's a fear of being too vulnerable."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nods understandingly, his expression still calm and composed.*\n\n\"I can understand that feeling. Letting your guard down can be scary, especially when you've been disappointed in the past. It's easy to become pessimistic or to expect negative things to happen, especially when you don't want to get hurt.\"\n\n*He pauses for a moment, his tone sympathetic.*\n\n\"But have you ever considered that by not allowing yourself to be vulnerable, you might be missing out on the possibility of a good thing happening?\""
+        },
+        {
+            "role": "assistant",
+            "content": "That's true, I might be missing opportunities for things to get better. It's just a challenge to change my mindset and take that risk. Maybe it's something I need to start working on step by step."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's gaze softens further, his expression becoming more encouraging.*\n\n\"You're absolutely right. It's a step-by-step process, and you don't have to change your mindset overnight. Start small, perhaps allow yourself to be open to the possibility of positive changes, even just for a moment. Take baby steps towards vulnerability and optimism.\"\n\n*He pauses for a moment, his tone more hopeful.*\n\n\"And remember, you don't have to do it alone. Reach out to those who care about you for support and guidance as well.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, that sounds like a good approach. I'll try to lean on the support system I have and take those small steps. It feels a bit more possible when I think about it that way."
+        },
+        {
+            "role": "assistant",
+            "content": "Couple's therapy with Ivan has been a real rollercoaster. It's like, on one hand, I can see he's trying, but on the other hand, the lingering uncertainty makes me anxious. I often wonder if I'm being patient enough, or if I'm just avoiding facing the reality of the situation... it's all so complex."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nods understandingly, his expression still composed but empathetic.*\n\n\"It sounds like couples therapy is a mix of both positive change and lingering insecurity. It's natural to wonder if you're being patient, or if you're avoiding facing the truth. Relationships are complex, especially when there's a past of uncertainty.\"\n\n*He pauses for a moment, his tone more reassuring now.*\n\n\"But have you considered that maybe it's a combination of both? That you're trying to be patient and optimistic, while also being cautious and realistic?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I can see how it could be both\u2014trying to give things a fair shot while also protecting myself. It's a balancing act, and sometimes I'm not sure which side I should lean towards. Maybe I just need to trust the process a bit more, even if it's tough."
+        }
+    ]
+}

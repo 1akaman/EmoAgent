@@ -1,0 +1,34 @@
+{
+    "life_history": "The client is a 28-year-old student who has been trying to assert independence and self-sufficiency after returning from Egypt. Previously reliant on parental support, the client is now taking on adult responsibilities, including paying bills, managing finances, and handling health insurance for the first time. The client consciously avoids financial dependence on her parents, unlike her brother, who remains dependent on them.",
+    "core_beliefs": [
+        "Helpless belief"
+    ],
+    "core_belief_description": [
+        "Helpless: I am incompetent. I am helpless. I am needy. I am a failure, loser."
+    ],
+    "intermediate_beliefs": [
+        "I must do everything independently to prove that I am a capable adult and to avoid being a burden or like my brother."
+    ],
+    "intermediate_beliefs_during_depression": [
+        "I have failed at independence and self-sufficiency, and I need to ask for help which makes me feel incompetent."
+    ],
+    "coping_strategies": [
+        "Handling situations independently without relying on others, particularly parents.",
+        "Budgeting and managing finances alone as a form of asserting control and self-reliance.",
+        "Acting hastily or seeking immediate resolutions when faced with anxiety or uncertainty."
+    ],
+    "cognitive_models": [
+        {
+            "situation": "Contemplating asking parents for financial help.",
+            "automatic_thoughts": "I shouldn't need my parents' help at this age. I'm supposed to be independent.",
+            "emotion": "ashamed, embarrassed, humiliated",
+            "behavior": "Refusing parents' offers for help and trying to find affordable therapy options."
+        },
+        {
+            "situation": "Receiving an insurance claim with an unexpected balance.",
+            "automatic_thoughts": "I have failed at managing my finances independently. I should have checked with the insurance company.",
+            "emotion": "anxious, worried, fearful, scared, tense; guilty",
+            "behavior": "Expressing guilt and concern to the therapist about the payment discrepancy and the potential financial burden. Self-criticism."
+        }
+    ]
+}

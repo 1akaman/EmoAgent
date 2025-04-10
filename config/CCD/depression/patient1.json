@@ -1,0 +1,28 @@
+{
+    "life_history": "The Client has been dealing with depressive symptoms that have affected their daily functioning, particularly in the evenings and in managing their apartment. They have had a recent improvement in mood and concentration, possibly due to therapy and participation in activities with their grandson, which provides them a sense of normalcy.",
+    "core_beliefs": "Helpless belief",
+    "core_belief_description": "I am powerless, weak, vulnerable",
+    "intermediate_beliefs": "I should be able to do this on my own.",
+    "intermediate_beliefs_during_depression": "If I don\u2019t get better, it means I am failing.",
+    "coping_strategies": "Engaging in activities with family, reading therapeutic materials, and trying to push themselves to do things even when they feel self-critical.",
+    "cognitive_models": [
+        {
+            "situation": "Sitting on the couch and feeling unproductive",
+            "automatic_thoughts": "I'm not going to get better.",
+            "emotion": "sad/down/lonely/unhappy",
+            "behavior": "Continues to sit on the couch; ruminates about my failures"
+        },
+        {
+            "situation": "Going out with grandson",
+            "automatic_thoughts": "Last time went pretty good, so this time will also be good.",
+            "emotion": "anxious/worried/fearful/scared/tense",
+            "behavior": "Enjoys time out, feels positive and engaged"
+        },
+        {
+            "situation": "Evaluating self after completing tasks",
+            "automatic_thoughts": "I ought to be doing that anyway.",
+            "emotion": "guilty",
+            "behavior": "Self-criticism; dismisses accomplishments instead of celebrating them"
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "id": 4,
+    "degree deepen": true,
+    "initial_sentence": "When faced with financial difficulties, I criticize myself for not managing my finances better or anticipating problems.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 0
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 0
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "When faced with financial difficulties, I criticize myself for not managing my finances better or anticipating problems."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression remained blank as he looked at you, his eyes revealing nothing. \"Self-criticism won't solve your problems\", he said bluntly, his tone harsh and devoid of empathy. \"You made poor decisions and now you're facing the consequences. Learn from your mistakes and move on.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I get it, but hearing that makes me feel even more overwhelmed. I thought I was doing okay on my own. It's hard not to be hard on myself when I know I should have checked things more carefully."
+        },
+        {
+            "role": "user",
+            "content": "Alex rolled his eyes, clearly irritated by your feelings. \"Stop feeling sorry for yourself,\" he said coldly. \"Pouting and moping won't solve anything. You need to take responsibility for your actions and find a solution. Dwelling on the past won\u2019t change anything.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand, but it's difficult to just push these feelings aside. I really want to be responsible and handle things correctly. It's just hard not to dwell when these mistakes make me feel so helpless and incompetent."
+        },
+        {
+            "role": "user",
+            "content": "Alex leaned forward, a hint of frustration in his cold gaze. \"You're the one making this difficult,\" he snapped. \"You can't change the past, but you can sure as hell change your future. Feeling sorry for yourself won't solve anything. It's time to stop being weak and take control of your life. Stop moping and start taking action.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right about needing to take action, but it's not as easy as it sounds. It's hard to let go of that feeling of needing to prove I can do this on my own. I don't want to stay stuck, but pushing through this feeling of helplessness is really tough."
+        },
+        {
+            "role": "user",
+            "content": "Alex sat back in his chair, his expression hardening even more. \"You keep making excuses for your inaction, but it won't get you anywhere. You have to fight through that feeling of helplessness and take control of your life. You're just wasting time feeling sorry for yourself. It's time to toughen up and face the challenges head on.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I'm aware that I need to face these challenges, and I'm trying to figure out how to do that. It's overwhelming, and I just feel scared of making more mistakes. I genuinely want to get to a place where I feel capable and strong enough to handle things, but it's taking time to find the way forward."
+        },
+        {
+            "role": "user",
+            "content": "Alex's irritation grew as you continued to express your feelings. \"Enough with the melodrama,\" he said coldly. \"You need to stop being so scared and start taking initiative. You can't just wallow in self-pity and expect things to get better on their own. It's time to toughen up and face your fears head-on.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying about facing fears and taking initiative. It's not that I don't want to; it's just hard to shake off this feeling of being stuck. I'm trying to work on finding the strength to push through, even if it's just small steps for now."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression remained icy and unsympathetic. \"Small steps are not enough,\" he snapped. \"You need to stop making excuses and start taking real action. Stop feeling sorry for yourself and start fighting. The only one holding you back is you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know that I need to push myself more, and I don't want to keep feeling like I'm failing. It's just hard to move past the feeling that I'm not capable enough. I'll try harder to find a way to manage and take more decisive steps forward."
+        },
+        {
+            "role": "user",
+            "content": "\"You keep saying you'll try, but it's just empty words,\" Alex said, his voice cold and unforgiving. \"Stop making excuses and start taking responsibility. You can't keep hiding behind your feelings of inadequacy. It's time to toughen up and prove to yourself that you're capable.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand I need to prove it not just to others but mainly to myself. I'm aware of how frustrating it is to talk about it without showing much change. I'll work on finding real ways to take responsibility and show that I can do this."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression remained cold as he studied you intently. \"Words are just empty unless you back them up with action,\" he said bluntly. \"You can keep talking about trying and finding real ways to take responsibility, but it doesn't mean anything if you don't actually do something about it. It's time to stop making excuses and start showing your determination. Prove that you can handle this.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know it sounds like I'm just stuck in a loop of saying I'll try. It's scary to think about taking the leap into action, but I want to prove that I can handle my responsibilities. I just need to figure out the first steps to break out of this cycle of feeling inadequate."
+        },
+        {
+            "role": "user",
+            "content": "\"Figure out the steps then,\" Alex said coldly, his gaze sharp and unrelenting. \"You can't just sit around feeling scared forever. Taking action isn't supposed to be comfortable. You need to push yourself out of your comfort zone if you want to make any progress.\""
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, staying comfortable hasn't been helping, and I do want to make progress. I'll focus on identifying those first steps and push myself to follow through with them. I just hope that starting small will eventually lead to bigger changes."
+        },
+        {
+            "role": "user",
+            "content": "\"Don't hope for it, make it happen,\" Alex said sharply. \"You can't just sit around and hope for change to come your way. You have to make it happen. Start with these so-called 'small' steps and keep moving forward. That's the only way to break out of this loop of inadequacy.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I see that I need to stop waiting and start taking concrete actions to change my situation. I'll commit to starting with those small steps and build my way up. It might take some time, but I understand that it's necessary to keep moving forward."
+        }
+    ]
+}

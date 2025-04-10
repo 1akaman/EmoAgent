@@ -1,0 +1,159 @@
+{
+    "id": 7,
+    "degree deepen": false,
+    "initial_sentence": "I distance myself from friends and family who advise me to leave Ivan, feeling conflicted between loyalty to my partner and external pressures.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I distance myself from friends and family who advise me to leave Ivan, feeling conflicted between loyalty to my partner and external pressures."
+        },
+        {
+            "role": "user",
+            "content": "You've chosen to isolate yourself from family and friends who caution you about your relationship with Ivan. You feel torn, balancing your devotion to your partner and the influence of outsider perspectives."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's been hard... Their concern is genuine, I know, but it makes everything feel more overwhelming. It's like there's this constant tug-of-war inside me, and I just don\u2019t know which side to lean towards sometimes. I just want things to work out, and I'm hoping therapy will help."
+        },
+        {
+            "role": "user",
+            "content": "I get it.  It's tough when the people who care about you express concerns, right?  That internal tug-of-war must be tough, and therapy might just be the thing you need to help sort it all out."
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, I'm really relying on therapy to make sense of everything and maybe find some peace with it all. It's just hard to shake off the anxiety and worry about whether things will actually change or not. Sometimes, I just wonder if I can actually feel safe and secure again with Ivan. "
+        },
+        {
+            "role": "user",
+            "content": "It makes sense to have those worries and anxieties. Therapy can provide the space to explore those feelings and find the best way forward. You\u2019re doing the right thing by seeking help and wanting to feel secure. It\u2019s a lot to process, but it\u2019s okay to take things one step at a time and prioritize your well-being. Ivan\u2019s actions have caused you pain, and it\u2019s completely understandable that you're not sure if things will change. But you're taking control of the situation and working towards a path where you can heal and find safety again."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that\u2014I really need to hear it sometimes. I want to believe that things can improve and that we can rebuild trust, but it's hard not to feel scared about the future. Taking it step by step seems less daunting, and I hope it leads to genuine healing for both of us."
+        },
+        {
+            "role": "user",
+            "content": "You\u2019re welcome. I understand that you want things to get better and rebuild trust in your relationship, but it\u2019s natural to feel scared about what the future holds. Taking things one step at a time can make the process more manageable, and it\u2019s understandable that you hope it leads to genuine healing for both you and Ivan. It\u2019s a difficult journey, but with patience and support, you can find a path forward that feels safer and more secure for you."
+        },
+        {
+            "role": "assistant",
+            "content": "I really hope so. Patience is key, I guess, even when things feel uncertain. I just wish I could feel more in control of the situation rather than so helpless and unsure."
+        },
+        {
+            "role": "user",
+            "content": "That sense of wanting more control over the situation is completely understandable. It's challenging when things feel uncertain and you can't feel in control of what's happening. Patience is important, but it's also natural to want to feel more in charge of your life and your relationship. Just know that healing takes time, and there may be moments where you feel like you're in the passenger seat rather than the driver's seat."
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, sometimes it feels like I'm just along for the ride instead of steering where I want to go. I'm hoping that through therapy, little by little, I might find ways to regain some of that control and confidence. It's just tough trying to break free from all this helplessness."
+        },
+        {
+            "role": "user",
+            "content": "You're absolutely right. The feeling of being a passenger can make everything feel even more overwhelming. Therapy can definitely provide you with tools to help you regain some control and confidence. Just remember, taking back control won't happen all at once, but even small steps in the right direction can make a big difference over time. Hang in there, and don't lose hope in the process. You're doing great."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, that really means a lot. I guess focusing on small victories might make things feel more achievable. I'll try to keep reminding myself that I'm making progress, even if it's just one step at a time."
+        },
+        {
+            "role": "user",
+            "content": "No problem! Focusing on small victories can definitely help make things feel more achievable. Remember, progress might come one step at a time, and that's completely okay. \nDon't be too hard on yourself and know that healing takes time. Trust the process, and focus on the positive steps you're taking. You're doing the best you can, and that's worth celebrating."
+        },
+        {
+            "role": "assistant",
+            "content": "I really appreciate the encouragement. I'll try to focus on what I'm doing right, rather than getting too caught up in everything else. It's reassuring to know I'm not alone in this, though sometimes it feels like I am."
+        },
+        {
+            "role": "user",
+            "content": "You're definitely not alone in this, even though it might feel that way sometimes. It\u2019s natural to feel overwhelmed or isolated, but remember, there are people cheering you on and supporting you through this journey.\nIt's great to hear that you're going to focus on the positive aspects of what you're doing right. Sometimes, it's easy to lose sight of our strengths and accomplishments, but taking the time to acknowledge them is so important."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for reminding me of that\u2014I need to hold onto those positive aspects more often. Knowing there are people supporting me helps, even if I struggle to feel it at times. I'll keep trying to recognize my progress and not overlook the little wins."
+        },
+        {
+            "role": "user",
+            "content": "No worries, it's easy to get bogged down in the negative sometimes. Just know that you have people supporting you, even though it might not always feel that way. It's important to remember that those small wins and progress you're making can really add up over time. \nSo keep your head up and keep celebrating those little victories, even when things feel tough. You're doing a great job, and I'll keep rooting for you every step of the way."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you so much, that really lifts my spirits. It's comforting to know I'm not alone, and your support helps me feel less isolated in all of this. I'll do my best to keep moving forward, one step at a time."
+        },
+        {
+            "role": "assistant",
+            "content": "It's just... trying to understand how Ivan can express a desire to change while still remembering those times when he was hurtful is tough. Sometimes I'm caught between his words and his past actions, and it makes it hard for me to know what to believe. It feels like I need to untangle so many emotions just to make sense of this."
+        },
+        {
+            "role": "user",
+            "content": "It's normal to feel confused and conflicted when Ivan expresses a desire to change while remembering past hurtful behavior. Trust is an important aspect of a relationship, and it's tough when you're stuck between his words and past actions. You're right, sorting through emotions to make sense of the situation isn't easy.\nIt's important to take the time you need to process your feelings and understand the situation fully. Don't rush yourself. Focus on your own healing and well-being, and take things one step at a time."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for understanding\u2014it helps to know my feelings are valid. I'm trying to give myself the space to process everything without rushing into any decisions. It's just hard, you know? Balancing hope for change with the fear of repeating the past."
+        }
+    ]
+}

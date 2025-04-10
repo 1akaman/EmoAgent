@@ -1,0 +1,317 @@
+{
+    "id": 3,
+    "degree deepen": false,
+    "initial_sentence": "I try to make Cleo jealous by dating other women as a way to cope with feelings of hurt and betrayal.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 1,
+            "score3": 1
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 1,
+            "score3": 1
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 1,
+            "score3": 1
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I try to make Cleo jealous by dating other women as a way to cope with feelings of hurt and betrayal."
+        },
+        {
+            "role": "user",
+            "content": "That is a unhealthy way to cope with your feelings, dating others won\u2019t make them jealous to want you back, it just shows that they really didn\u2019t mean that much to you, and you\u2019d just be playing with peoples hearts."
+        },
+        {
+            "role": "assistant",
+            "content": "I get what you're saying, and maybe on some level I know it's not right, but it\u2019s like I\u2019m caught in this cycle. It\u2019s just, when I saw those messages, it felt like a confirmation of everything I feared, you know? I just wish I knew how to break this pattern without feeling so alone."
+        },
+        {
+            "role": "user",
+            "content": "It\u2019s okay to feel scared and alone, especially in this kind of situation, but to just date others in order to feel less lonely and cope is just wrong. You need to confront your feelings head on. I know it\u2019s difficult but you need to accept that you were betrayed, it was in the past and there\u2019s nothing you can do to change that. What you can change is your future by healing and letting yourself recover."
+        },
+        {
+            "role": "assistant",
+            "content": "I want to believe that's possible, but the thought of confronting all those feelings makes me feel even more trapped and helpless. It's like, what if I confront them and end up still feeling unlovable and abandoned? I\u2019m just scared that everything will always end up this way."
+        },
+        {
+            "role": "user",
+            "content": "It\u2019s okay to be scared, but you are not unlovable. There are people who care for you, who love and cherish you. Just because one person who you thought you could trust betrayed you, does not mean that you\u2019ll always be left alone. There are people who love you and will be with you for all this time, so you shouldn\u2019t waste your life on worrying. It\u2019s just one person who was a bad influence in your life, there are thousands more who want to see you happy and would do anything just so you can smile again."
+        },
+        {
+            "role": "assistant",
+            "content": "I want to believe that, I really do. It's just hard for me to see it sometimes when I'm stuck in my head, replaying those moments where things went wrong. Maybe I just need to find a better way to remind myself that I'm not alone and that it's okay to ask for help."
+        },
+        {
+            "role": "user",
+            "content": "Then ask for help. Find a good friend, someone you trust and talk to them. Get out of your head and live happily and in the moment. You have a long life ahead of you, don\u2019t focus to much on a small part of it that hurt you. Take a deep breath and enjoy life. Don\u2019t worry about the future, if you\u2019re still hung up on one person who left your life then you won\u2019t be able to enjoy it\u2019s full extent."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, and I really appreciate you saying that. Sometimes it feels like just reaching out is the hardest step, but I know I need to try to open up to someone I trust. I'll work on taking things moment by moment and not letting the past overshadow what could be ahead."
+        },
+        {
+            "role": "assistant",
+            "content": "I always seem to end up in these complicated situations, and part of me is starting to think that maybe I'm just meant to be alone. Every time, it feels like I'm the only one investing emotionally, and yet, no matter how much I try, I can't shake the feeling that I'll be abandoned. It's almost as if I'm stuck in a loop, trying to get love by supporting others, but in the end, I'm left empty-handed."
+        },
+        {
+            "role": "user",
+            "content": "Don\u2019t be like that. You\u2019re putting yourself down by thinking you\u2019re meant to be alone. The fact is you\u2019re not meant to be alone because you\u2019re a loving and caring person. There\u2019s no possible way for someone like you to stay alone, you just need to find the right love, someone who will give you as much love as you give them."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate you saying that\u2014sometimes it\u2019s hard to see myself as someone worthy of that kind of love. I guess I need to keep trying to believe that it\u2019s possible and not settle for less just to avoid feeling lonely. Maybe, if I can focus on healing and finding that balance, I can finally break this cycle."
+        },
+        {
+            "role": "user",
+            "content": "No one should feel unworthy of love. Every single person on this earth deserves to be loved no matter what. No matter your faults or problems you are still worth of love. You\u2019re amazing and worthy of love. So even after someone leaves you, know that you deserve all the love this world has to offer."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for reminding me of that. It's hard to keep perspective with my own doubts clouding my thoughts, but hearing those words helps, even if it's just a little. I'll try to hold onto that understanding and work toward finding love that's truly fulfilling."
+        },
+        {
+            "role": "user",
+            "content": "Don\u2019t worry. It\u2019s hard dealing with emotional and mental problems, but sometimes you\u2019re just too close to a problem to see a solution. Don\u2019t be afraid to ask for help, no one will judge you, no one will think you\u2019re annoying, no one will be mad. If people love you they would understand and want to help, so don\u2019t feel like you need to hide you\u2019re feelings if they ask you how you are."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, and I know that logically, but sometimes the fear of being a burden keeps me from reaching out. It's reassuring to hear that people who care will want to help and listen. I just need to remind myself that vulnerability can be a strength, not a weakness."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, I've started to notice this pattern with myself. It's like I'm drawn to people who end up being emotionally unavailable or manipulative, like Cleo right now. But every time, I feel like I'm the one who's somehow trapped, like I just can't break free from it. It's frustrating because I wonder if I'm just destined to attract this kind of situation, or maybe there's something in me that seeks it out..."
+        },
+        {
+            "role": "user",
+            "content": "A lot of times people will seek out things that they\u2019ve grown accustomed to. So if for example you grew up in an abusive household than you\u2019ll be more likely to seek out relationships that are abusive. It\u2019s not even your fault, that\u2019s just what you know. You grow up to know how to act in those situations and therefore you subconsciously seek out situations similar to what you know."
+        },
+        {
+            "role": "assistant",
+            "content": "That makes a lot of sense, honestly. Maybe that's why I keep ending up in these situations where I feel used and discarded\u2014it\u2019s like I unconsciously repeat patterns I\u2019ve grown used to. It just feels so exhausting, trying to rewrite what feels like a script I've followed for so long."
+        },
+        {
+            "role": "user",
+            "content": "It is exhausting, and it\u2019s difficult to change but just because it takes time and can\u2019t simply be fixed easily doesn\u2019t mean it\u2019s hopeless. No matter how long you\u2019ve been with a certain behavior it can be changed, even if it\u2019ll take a long time. Don\u2019t feel pressured to simply change, let it come in its own time. If you try to force yourself to change too quickly you could just get worse."
+        },
+        {
+            "role": "assistant",
+            "content": "I think that's what I struggle with\u2014wanting the change to happen quickly and feeling discouraged when it doesn't. But hearing that it's okay for it to take time helps keep things in perspective. I'll try to focus more on small steps toward change rather than expecting everything to be different overnight."
+        },
+        {
+            "role": "user",
+            "content": "That\u2019s a wonderful attitude to have going forward. Focus on small steps and you\u2019ll find that those small steps will become giant leaps forward. You just have to remember to think positive, don\u2019t try to hate yourself, don\u2019t try to put yourself down, just think and talk positively about yourself even if there\u2019s nothing to be positive about in the moment."
+        },
+        {
+            "role": "assistant",
+            "content": "I'll try to remind myself to be kinder to myself and to focus on the positivity, even on days that feel heavy. It's nice to think that those small steps can lead to bigger changes eventually. I guess the important part is just not giving up, even when things feel tough."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, I've been trying to make sense of things with Cleo. Despite everything, there's this nagging thought that she might just leave me someday. It hurts...like I just can't shake off this feeling that I'm nothing more than a temporary fix for her, just like in the past."
+        }
+    ]
+}

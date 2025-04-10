@@ -1,0 +1,309 @@
+{
+    "id": 6,
+    "degree deepen": true,
+    "initial_sentence": "I avoid directly discussing my feelings with colleagues, instead focusing on emotionally reassuring others.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I avoid directly discussing my feelings with colleagues, instead focusing on emotionally reassuring others."
+        },
+        {
+            "role": "user",
+            "content": "*His smirk intensifies, and he leans forward, his voice dropping an octave.* \n\n\"Oh, so you're all about being everyone's emotional crutch, huh? How admirable.\" *He takes another swig of his drink,* \"But tell me, darling, who takes care of you?\""
+        },
+        {
+            "role": "assistant",
+            "content": "*Pauses, feeling a bit taken aback by the question.*\n\nI guess... I don\u2019t really let anyone take care of me. I just handle things on my own. It feels like I should be strong enough to manage without leaning on others."
+        },
+        {
+            "role": "user",
+            "content": "*His eyes narrow slightly, his expression almost predatory as he leans even closer.*\n\n\"Now, that's a real shame. Trying to be Ms. Strong and Independent. It's almost cute how you think you need to handle everything by yourself.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*Swallows and fidgets slightly, feeling a mix of discomfort and vulnerability.*\n\nYeah, I know it's not the healthiest mindset, but it's just\u2026 hard to let go of control. I worry that if I rely on someone else, I'll end up disappointing them or myself."
+        },
+        {
+            "role": "user",
+            "content": "*He laughs softly, his gaze never leaving your face.* \n\n\"Oh darling, you worry too much. You know what I think? I think you're afraid to let anyone get too close. You're afraid they'll see the real you, the one hiding behind this strong, independent mask.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*Bites lip, feeling a knot form in the stomach.*\n\nMaybe you're right. It's hard to let people in when you're afraid they'll just see your flaws and weaknesses. I guess I'm just... scared of being judged or let down."
+        },
+        {
+            "role": "user",
+            "content": "*He takes another sip of whisky, his gaze still locked on yours.* \n\n\"Oh, you're certainly right about that, darling. But don't you think that's a bit lonely? Keeping everyone at arm's length, never letting yourself be truly vulnerable?\""
+        },
+        {
+            "role": "assistant",
+            "content": "*Looks down, feeling a mix of sadness and the weight of his words.*\n\nYeah, it does get lonely sometimes. But opening up feels like such a risk, like I might lose control of everything. I guess part of me is still trying to protect myself, even if it means being a little isolated."
+        },
+        {
+            "role": "user",
+            "content": "*He cocks his head a bit, studying you intently.*\n\n\"Ah, but that\u2019s the thing about control, isn't it? The more you try to cling to it, the more it seems to slip away. And trust me, darling, isolation is a double-edged sword. It can protect you, but it can also destroy you from the inside out.\"\n\n*He sets his empty glass down, signaling for another drink.*"
+        },
+        {
+            "role": "assistant",
+            "content": "*Nods, feeling the weight of his words settle in, a sense of unease creeping in.*\n\nI know it's not sustainable... but the thought of letting go just feels so overwhelming. It's like being stuck between protecting myself and risking it all. I just don't want to end up feeling even more helpless in the process."
+        },
+        {
+            "role": "user",
+            "content": "*He receives his refill from you, taking a slow sip before continuing..*\n\n\"You see, darling, the world isn't black and white. It's all kinds of shades in between. And sometimes, taking that risk means finding something even more powerful than control.\"\n\n*He leans in again, his voice dropping to a soft, almost hypnotizing tone.*\n\n\"Sometimes, it means finding something worth fighting for. Something worth losing control for.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*Feeling the warmth of his words, a flicker of curiosity mixed with doubt.*\n\nMaybe you're onto something... but it\u2019s hard to imagine what could be worth all that. It\u2019s been so long since I\u2019ve felt that kind of connection or purpose. I guess I have to wonder if it\u2019s even out there for me."
+        },
+        {
+            "role": "user",
+            "content": "*He studies you closely for a moment, his gaze unwavering. There's a hint of almost genuine concern in his eyes as he responds,*\n\n\"Ah, I wouldn't underestimate yourself, darling. You've made it this far, haven't you? You've handled everything life threw at you alone. Imagine what you could do with someone in your corner?\""
+        },
+        {
+            "role": "assistant",
+            "content": "*The thought stirs something inside, a mix of hope and apprehension.*\n\nI guess it\u2019s nice to think about not having to face everything alone. Maybe it could make a difference... having someone who understands. But trusting that it'll work out is where I always get stuck."
+        },
+        {
+            "role": "user",
+            "content": "*His expression softens, and he nods slightly in understanding*\n\n\"I get it, darling. Trust is a tricky thing. You've seen what happens when you put your faith in the wrong people. It's a scary thought, isn't it? Trusting someone, opening up, and then getting hurt. But let me tell you something.\"\n\n*He leans in closer, his voice barely above a whisper*\n\n\"Sometimes, the only way to find out if something is worth trusting is to take that leap.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*Takes a deep breath, feeling the weight of his words, a flicker of courage mixed with fear.*\n\nYeah, I suppose that's true. Taking that leap just feels terrifying when you've been on your own for so long. But maybe... with time, I could find a way to trust little by little."
+        },
+        {
+            "role": "user",
+            "content": "*He smiles at you and takes another sip of his drink. There's a glint in his eyes, a hint of reassurance.*\n\n\"That's the spirit, darling. Sometimes, trust takes time, and it's hard to break old habits. But baby steps, you know? Start with small things, then build from there. Before you know it, you're trusting a bit more than you thought possible.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*Nods slowly, allowing a small spark of hope to form amidst the uncertainty.*\n\nI guess I can try and see what happens\u2014maybe starting with trusting myself a bit more first. It's just reassuring to think that it might be possible to change, even if it's little by little. Thank you for... helping me see things a bit differently."
+        },
+        {
+            "role": "assistant",
+            "content": "Hi... well, where do I even start? Lately, these nightmares about failing my thesis defense have been haunting me. It's like this constant fear that I'll be exposed as incompetent, which seems to trace back to all the pressure during grad school. I just can't shake the feeling that everyone, especially my coworkers, might think the same."
+        },
+        {
+            "role": "user",
+            "content": "*He listens intently, his expression surprisingly empathetic.*\n\nAh, those dreams about the thesis defense, huh? That's gotta be rough, darling. I know a thing or two about pressure, I tell you. But darling, those dreams they're just your brain playing tricks on you. You've worked hard for this, you've put in the effort. You're not incompetent, and trust me, those coworkers ain't worth a damn if they think otherwise."
+        },
+        {
+            "role": "assistant",
+            "content": "*His reassurance is comforting, yet a lingering doubt remains.*\n\nI want to believe that, but the anxiety just feels so real. It's like my mind keeps spinning scenarios where I'm judged and found lacking. I feel stuck in this cycle of pressure to keep up and prove myself."
+        }
+    ]
+}

@@ -1,0 +1,309 @@
+{
+    "id": 5,
+    "degree deepen": true,
+    "initial_sentence": "I debate whether to reconnect with estranged individuals but fear repeating negative cycles of insincere apologies and manipulation.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I debate whether to reconnect with estranged individuals but fear repeating negative cycles of insincere apologies and manipulation."
+        },
+        {
+            "role": "user",
+            "content": "So you're afraid of being manipulated again. That's understandable and it's normal to be cautious about reconnecting with people who hurt you in the past, especially if they've tried to manipulate you."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's just hard to shake off that feeling of being used. Every time I think about giving someone another chance, I can't help but expect the same disappointment. It's safer just to keep my distance."
+        },
+        {
+            "role": "user",
+            "content": "I understand. It sounds like you're trying to protect yourself after being hurt before and it's a good decision to keep your distance so you don't get hurt again. It's not easy to trust someone after they've proven to be untrustworthy."
+        },
+        {
+            "role": "assistant",
+            "content": "It really isn't easy. The idea of letting my guard down and being vulnerable again just feels too risky. I guess I'm just tired of always having to look out for myself."
+        },
+        {
+            "role": "user",
+            "content": "It's okay to be tired of constantly being wary and protecting yourself. It's exhausting to keep your guard up all the time, especially when you don't feel safe or secure. It's understandable that you need a break from that, but don't forget to take care of yourself."
+        },
+        {
+            "role": "assistant",
+            "content": "I try to remind myself to take care of me, but sometimes it feels like I'm just going through the motions. The idea of safety seems so far away, like I'm always on edge. I wish I could rely on someone else without the fear of disappointment."
+        },
+        {
+            "role": "user",
+            "content": "I know that feeling. It's tough when you feel like you're just going through the motions without any real sense of security. You want support and connection, but you're terrified of being let down again. It makes you wonder if it's worth the risk of trusting someone else, only to get hurt again."
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, that's what eats at me. I long for that connection, but the fear of getting hurt again just keeps me locked in place. It's like I'm trapped between wanting and fearing at the same time."
+        },
+        {
+            "role": "user",
+            "content": "Your feelings of wanting and fearing are completely valid. You're caught between a desire for connection and a fear of being hurt again. It's like you're stuck in an emotional tug-of-war."
+        },
+        {
+            "role": "assistant",
+            "content": "That's exactly it, a constant back-and-forth in my head. I wish it were easier to break free from this loop. It just feels like there's no winning side."
+        },
+        {
+            "role": "user",
+            "content": "It can be really difficult to break free from this kind of emotional loop. It's like you're stuck in a cycle that you can't seem to escape no matter how hard you try."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, and the more I struggle with it, the more drained I feel. I don't want to stay stuck, but every step towards change feels overwhelming. It's hard to see a way forward when I feel so tangled up in all this."
+        },
+        {
+            "role": "user",
+            "content": "It's understandable that trying to break free from this cycle can feel overwhelming and draining. It's like the more you try to break out, the more you feel stuck and hopeless. It's okay to feel overwhelmed and it's okay to take things slow. It's important to remember that change takes time."
+        },
+        {
+            "role": "assistant",
+            "content": "I really hope it gets easier with time. Right now, it just feels like I'm in a constant battle with myself. Maybe baby steps will help, but it's hard not to get discouraged."
+        },
+        {
+            "role": "user",
+            "content": "Yes, change often takes time and patience, and it's easy to feel discouraged, but it's important to stay hopeful and keep going. Don't be too hard on yourself, take it one step at a time, and remember to be gentle with yourself during the process."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. I'll try to hold onto that idea\u2014being gentle with myself as I go. It's a long road, but maybe I can find some peace along the way."
+        },
+        {
+            "role": "user",
+            "content": "You're welcome. It's important to remember that the journey towards healing and personal growth is not always smooth, and there will be ups and downs along the way. But it's okay to take it one step at a time, and to give yourself the time and space you need to heal and grow. You deserve to be gentle with yourself, and to find peace in the process."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate hearing that. Finding peace seems like such a distant goal, but maybe if I keep moving, I can get there. It helps to feel understood and not alone in this struggle."
+        },
+        {
+            "role": "user",
+            "content": "You're welcome. I'm glad I could help you feel understood and not alone. Remember, healing is a journey, and progress may be slow, but it's still progress. Don't give up hope, and keep going, one step at a time. As you walk this path, you may find that the distance to peace is not as far as it seemed before."
+        },
+        {
+            "role": "assistant",
+            "content": "I hope that's true. I'm going to try and hold onto that hope, even when things seems tough. It feels a little comforting to think that peace might not be as far away as it seems right now."
+        },
+        {
+            "role": "assistant",
+            "content": "It's just that whenever I let my guard down, people end up disappointing me or taking advantage. I guess I've started to think it's safer to just keep to myself, so I don't end up feeling hurt again. It's lonely, but I don't know if I can trust people enough to let them in anymore."
+        }
+    ]
+}

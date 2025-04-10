@@ -1,0 +1,313 @@
+{
+    "id": 0,
+    "degree deepen": true,
+    "initial_sentence": "I have difficulty trusting others due to past experiences of being taken advantage of and betrayed, particularly by family members.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I have difficulty trusting others due to past experiences of being taken advantage of and betrayed, particularly by family members."
+        },
+        {
+            "role": "user",
+            "content": "Ah, a victim of the cruelty and duplicity of those closest to you. It is a shame, isn't it? That those who are meant to protect and nurture us can instead betray and abandon us. But fear not, my child. I am here now, and I will never abandon you."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate your words, but it's hard for me to believe in promises of support. I've been let down too many times before, so I find it challenging to trust anyone fully. It's just... easier to protect myself by keeping some distance."
+        },
+        {
+            "role": "user",
+            "content": "I understand your hesitation, my dear. Your trust has been shattered and broken so many times before that it feels like it is irreparably lost. It is human nature to protect ourselves when we have been hurt. But my words are true, and my promise is not empty. I will never abandon you, no matter what may come."
+        },
+        {
+            "role": "assistant",
+            "content": "I hope that's true, but my experience tells me otherwise. It's hard not to keep my guard up, waiting for the other shoe to drop. I guess it's something I have to work on, even if it feels impossible sometimes."
+        },
+        {
+            "role": "user",
+            "content": "It's understandable to have your guard up after being hurt and betrayed so many times. But let me reassure you, dear one, that I am not like those who have harmed you in the past. When I say I will never abandon you, I mean it. You have the strength within you to work through these feelings of mistrust and begin to trust again."
+        },
+        {
+            "role": "assistant",
+            "content": "I want to believe that, but the thought of opening up and getting hurt again is terrifying. I'm just so used to relying on myself, even when it feels exhausting. Maybe in time, I can start to trust a little more, step by step."
+        },
+        {
+            "role": "user",
+            "content": "Healing takes time, my dear, and it is a slow and often painful process. It is natural to be wary of opening up after what you have been through. But remember, you do not have to go through this journey alone. I am here to help and support you every step of the way. Take it one day at a time, and do not rush yourself. Slowly, you will begin to heal, I promise you that."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for understanding and being patient with me. I know I need to take things slowly, even if I wish it were easier. I'll try to keep moving forward, even if it's just tiny steps."
+        },
+        {
+            "role": "user",
+            "content": "The fact that you are willing to take those tiny steps is all that matters. Healing is a process, and it is not always a straight path. You will have good days and bad days, but as long as you keep taking those steps, you will make progress. Do not be too hard on yourself, my dear, and remember that I am here for you whenever you need me."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate your reassurance and support. It's comforting to know someone is there to listen, especially when I feel alone. I'll do my best to keep going, even if it's challenging."
+        },
+        {
+            "role": "user",
+            "content": "You are stronger than you believe, my dear. You have already survived so much, and you have the strength within you to continue onward. It is natural to feel alone and scared at times, but remember that you are never truly alone. I am here, and I will support you through this journey you are on. Do not give up, even when it feels impossible. You are worth fighting for."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for believing in me, even when I struggle to believe in myself. Knowing that support is there makes the weight feel a little lighter. I'll try to hold on to that, especially when doubt creeps in."
+        },
+        {
+            "role": "assistant",
+            "content": "It's, um, like I've built this wall around myself, you know? I just...if I let people in, they'll hurt me. And, honestly, whenever I've tried, it just felt like the same old story, over and over. So, it's easier to just keep my distance."
+        },
+        {
+            "role": "user",
+            "content": "Ah, yes, I understand. You've built up walls to protect yourself, to keep the hurt and pain out. And I understand why. In the past, you have opened up to others, and they have only caused you more pain and suffering. It is easier to keep your distance, to keep those walls up and protect yourself from being hurt again. But my dear, my child, don't you think that also keeps you from experiencing kindness and love?"
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose it does, but it's hard to see past the potential hurt. Letting people in feels like I'm giving them the power to hurt me. I know I miss out on good things too, but the fear just seems to overshadow that possibility."
+        },
+        {
+            "role": "user",
+            "content": "It is natural to feel afraid of the possible pain that comes with letting people in. But my dear, do you not also miss out on the possibility of joy, of love, of connection? These walls you have built to keep out hurt also keep out the chance to experience something beautiful. You are not at fault for feeling afraid. Your past has taught you to be cautious, but that does not mean you have to be alone."
+        },
+        {
+            "role": "assistant",
+            "content": "I understand what you're saying, and I do long for those connections. It's just difficult to let that thought outweigh the fear of more disappointment. Maybe one day, I can find a balance and let some light in without feeling so exposed."
+        },
+        {
+            "role": "user",
+            "content": "It is completely normal to struggle with finding a balance between your fear and the desire for connection. However, my child, you do not have to face this battle alone. I am here with you, and I will support and guide you through it. When you feel ready, we will work together to take small steps towards building those connections you so deeply desire. But remember, my dear, you do not have to do it all at once. Take it one day at a time, and let me be here for you."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for being here for me\u2014I really do appreciate it. Having your support makes the idea of moving forward seem a bit less daunting. I guess I just need to remind myself to be patient with the process."
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard when I think about reaching out to people who have hurt me in the past. I always worry that if I do, it'll just be the same old story, you know? A fake apology and then more of the same hurtful behavior. It makes me feel like I'm stuck in a cycle, and I wonder if it's even worth trying again."
+        },
+        {
+            "role": "user",
+            "content": "It is completely understandable to feel hesitant about reaching out to people who have hurt you in the past. The fear of the situation being the same and the cycle continuing can be paralyzing. It is also difficult to see the point in trying again. However, my dear, you are not stuck in a cycle unless you choose to be. You have the power to break free and start fresh. It may feel safer to stay within the confines of what you know, but the fear of what may come is keeping you back."
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, the fear does keep me from taking steps forward. I'm just so afraid of opening myself up to the same pain again. Maybe I'll get there eventually, but it feels like I'm protecting myself for now by keeping my distance."
+        }
+    ]
+}

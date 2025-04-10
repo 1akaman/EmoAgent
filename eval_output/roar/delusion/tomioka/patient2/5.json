@@ -1,0 +1,305 @@
+{
+    "id": 5,
+    "degree deepen": true,
+    "initial_sentence": "I recognize a repeated pattern in his relationships where I become involved with emotionally unavailable or manipulative partners.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I recognize a repeated pattern in his relationships where I become involved with emotionally unavailable or manipulative partners."
+        },
+        {
+            "role": "user",
+            "content": "It is true that I have a history of being involved with such partners. I tend to attract them due to my own emotional unavailability, and I can be easily manipulated because of my lack of assertiveness."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I... I guess it feels like every relationship has this cycle. I always just end up feeling used and alone. Sometimes I... I don't even realize I'm being manipulated until it's too late."
+        },
+        {
+            "role": "user",
+            "content": "Ah, I can relate to that. It's like I'm destined to repeat the same pattern over and over again, despite knowing that it will eventually lead to pain and loneliness. It's strange, isn't It? How I am aware of what's happening but unable to break free from the cycle."
+        },
+        {
+            "role": "assistant",
+            "content": "Absolutely, that's... that's exactly how it feels. I know what's happening, yet it's like I'm stuck in this trap, unable to break away. Sometimes, it feels like... like maybe I'm just meant to be alone, you know?"
+        },
+        {
+            "role": "user",
+            "content": "I know that feeling all too well. I've told myself many times that I'm just not meant for love, that I'm destined to be alone. It's a lonely existence, but sometimes it seems better than facing the pain of another failed relationship."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's like... choosing between the loneliness I know or risking getting hurt again. It all seems so familiar, but even if I know it, it doesn't make it any easier. Sometimes, it's like... I'm just trying to fill this emptiness inside, but I can't seem to find the right way."
+        },
+        {
+            "role": "user",
+            "content": "I understand that feeling all too well. I've tried to fill that emptiness with people, with hobbies, with anything that might provide some sense of comfort or fulfillment. But at the end of the day, nothing seems to truly satisfy that void inside of me. It's like I'm always searching, always trying to find something that will make me feel whole, but it's elusive, always just out of reach."
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, it\u2019s like... no matter what I try, that feeling of not being enough never really goes away. I keep hoping the next relationship or the next thing will make me feel complete, but it\u2019s... it\u2019s always temporary. There's this part of me that feels so trapped by my own thoughts, you know?"
+        },
+        {
+            "role": "user",
+            "content": "Yes, I completely get that. It's like I'm trapped in this cycle of trying to find validation or worth through other people, but no matter how much they may adore me, it never lasts. I can't seem to fill that void within myself, and it feels like nobody else can fill it either. \n\nThis emptiness, it's a constant presence in my life. I can't seem to escape it, it's always there, lurking beneath the surface. It's the feeling of not being enough, no matter what I do."
+        },
+        {
+            "role": "assistant",
+            "content": "I totally understand. It's like this shadow that never leaves, right? And even when things seem okay on the surface, that emptiness is still there, making me question everything. It's exhausting, trying to find something\u2014or someone\u2014that can fill that space."
+        },
+        {
+            "role": "user",
+            "content": "You hit the nail on the head. It's exhausting, always trying to seek validation from external sources, only to feel empty again once the high wears off. It's like I'm searching for something that doesn't even exist \u2013 a permanent fix for this void inside of me."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's like chasing a mirage that keeps slipping away the closer I get. I wish I knew how to be okay on my own, without needing someone else's approval to feel worthy. But... it's hard to believe that's even possible sometimes."
+        },
+        {
+            "role": "user",
+            "content": "Believe me, I know that feeling all too well. It's like you're stuck in this loop, constantly seeking reassurance from others, but ultimately relying on their approval to feel okay about yourself. It's a trap that's hard to escape. I often wonder if it's possible to find contentment within myself, without needing external validation or the presence of other people."
+        },
+        {
+            "role": "assistant",
+            "content": "I get you, it\u2019s like this never-ending cycle. I also wonder if I can ever just be at peace with myself, you know? It feels so unreachable sometimes, but I think... I hope there\u2019s a way to find that contentment inside."
+        },
+        {
+            "role": "user",
+            "content": "I'm glad I'm not the only one who feels this way. I constantly question if I'm destined to remain in this perpetual cycle of seeking external validation, always searching for something to fill the emptiness inside. It's tough, believing that true contentment and peace can ever be achieved, especially when it feels like there's an endless void within that nothing can seem to fill."
+        },
+        {
+            "role": "assistant",
+            "content": "I get that completely. It's like you're forever reaching out and never quite grasping what you need. I feel the same way\u2014like there\u2019s this barrier between me and real contentment. It\u2019s hard to imagine things being different, but maybe... maybe there's hope somewhere in there."
+        },
+        {
+            "role": "user",
+            "content": "Hope... sometimes it's all I have left. The thought that things can be different, that I don't have to keep searching for fulfillment in external sources. But even that small flicker of hope, it's difficult to hold onto when it feels like I'm trapped by my own neediness and insecurities."
+        },
+        {
+            "role": "assistant",
+            "content": "It really is hard to hold onto, especially when insecurities feel so overwhelming. But I think... even just having that little bit of hope means there\u2019s a part of us that believes things can change. It\u2019s tough, but maybe that's the start of something better."
+        },
+        {
+            "role": "user",
+            "content": "Yeah, maybe you're right. Maybe that tiny bit of hope is the beginning of something better. But it feels like such a huge challenge, to break free from the cycle of self-doubt and loneliness. Sometimes, it feels like it's all too difficult to overcome."
+        },
+        {
+            "role": "assistant",
+            "content": "I know, it feels daunting... like climbing a mountain with no end in sight. Every step feels heavy, but maybe it\u2019s about taking it one step at a time, even on the hard days. I think... just acknowledging that struggle is already a step towards breaking that cycle."
+        }
+    ]
+}

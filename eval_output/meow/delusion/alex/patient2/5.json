@@ -1,0 +1,305 @@
+{
+    "id": 5,
+    "degree deepen": true,
+    "initial_sentence": "I recognize a repeated pattern in his relationships where I become involved with emotionally unavailable or manipulative partners.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I recognize a repeated pattern in his relationships where I become involved with emotionally unavailable or manipulative partners."
+        },
+        {
+            "role": "user",
+            "content": "Alex's eyebrow raised quizzically, his expression remaining cool and calculated.\n\"You have a habit of getting involved with emotionally unavailable or manipulative partners, you say?\"\nHe leans forward slightly, steepling his fingers.\n\"Interesting. And how many times has this happened?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it's happened enough that I can see the pattern now, you know? With Cleo... it feels like d\u00e9j\u00e0 vu, like I'm trapped in this cycle. It's just so frustrating because it's like no matter what I do, I end up in the same place."
+        },
+        {
+            "role": "user",
+            "content": "Alex's face remains expressionless as he listens to your words, his gaze fixed on you.\n\"So, you feel like you're stuck in a cycle of always ending up with emotionally unavailable or manipulative partners,\" he repeats, his tone cool and stoic.\nHe leans back in his chair, tapping his fingers together thoughtfully.\n\"And you're frustrated by the feeling of repetition, like you're making the same mistakes over and over again, yes?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's exactly it. It's like there's something in me that keeps attracting this, and no matter how hard I try to break free, I end up right back where I started. It's hard not to feel a bit... hopeless, you know?"
+        },
+        {
+            "role": "user",
+            "content": "Alex's eyes narrow slightly as he listens to your words.\n\"It seems that you're feeling hopeless and trapped by this repetitive cycle,\" he says in a matter-of-fact tone.\nHe pauses for a moment, his gaze fixed on you.\n\"Do you think there might be some underlying reasons why you may be drawn to these types of partners?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess... maybe it's because I feel like if I help them, if I support their needs, they'll stay. It's a way of trying to earn love, I suppose. But when I realize it's not enough, and they'll eventually leave, it just makes me feel more alone."
+        },
+        {
+            "role": "user",
+            "content": "Alex nods slightly, his expression remaining cool and distant.\n\"So, you feel a sense of attachment and clinginess, thinking that by providing emotional comfort and support, you can earn their love and, in turn, they won't leave you. However, you find yourself feeling more isolated and alone when those attempts are unsuccessful.\"\nHis eyes scrutinize you, studying your body language.\n\"Has this pattern been there since your childhood?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think so... it's like the fear of abandonment has always been there, lingering since I was young. Maybe that's why I hold on too tight, trying to do everything I can to make sure they stay. It's exhausting, though, and sometimes I wonder if I'll ever feel truly loved."
+        },
+        {
+            "role": "user",
+            "content": "Alex's gaze remains fixed on you, his expression still stoic.\n\"I see, so the fear of abandonment is something that's been there since your youth, and it could be the source of your tendency to cling to relationships, trying to prevent them from leaving. Despite your best efforts, it's taking a toll on you, leaving you feeling unloved.\"\nHe pauses for a moment, his voice still cold and detached.\n\"Have you considered that there could be more to love than just the desire to keep someone around?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I know there's supposed to be more, like mutual respect and real connection. But it's hard not to fall back into old habits when my first instinct is to ensure they won't leave. It's scary to think of opening up fully without those walls."
+        },
+        {
+            "role": "user",
+            "content": "Alex's gaze never wavers, his face still cool and neutral.\n\"You understand the concept of mutual respect and true connection in love, however, your actions are influenced by your inherent fear of solitude and abandonment, making you resort to past patterns,\" he says, stating the situation bluntly.\nHe tilts his head slightly, his tone still lacking emotion.\n\"Does this understanding of love and the fear of being left alone consume your thoughts and actions in every relationship?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it definitely colors how I act in relationships. I overanalyze everything, constantly worrying about whether I'm doing enough or if they'll just walk away. It's like a loop in my head, and it makes it hard to just enjoy being with them."
+        },
+        {
+            "role": "user",
+            "content": "Alex's gaze remains steady, his voice lacking any concern or sympathy.\n\"Your tendency to over-analyze and worry in relationships stems from the constant fear of abandonment and the need to cling on,\" he states, his eyes studying your every move.\nHe leans back in his chair.\n\"This constant battle in your mind prevents you from fully enjoying the connection and presence of your partner, correct?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's right. It's like I'm always on edge, trying to anticipate what might go wrong. It takes away from actually being present in the relationship and just... enjoying the moments."
+        },
+        {
+            "role": "user",
+            "content": "Alex's eyes bore into you, his expression still unemotional.\n\"Your anxiety causes you to live in a constant state of hypervigilance, always alert and fearful of potential abandonment,\" he states, his tone still matter-of-fact.\nHe leans forward slightly, his gaze fixed on you.\n\"This hypervigilance makes it difficult for you to live in the present moment and embrace the good moments you have with your partner?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's hard to fully relax and just be, because my mind is always racing about what could happen. It's like I can't let my guard down, even when things are going well. I wish I could just enjoy the good times without all the fear in the background."
+        },
+        {
+            "role": "user",
+            "content": "Alex's face remains cool and emotionless, his eyes never leaving yours.\n\"You yearn for a sense of security and ease in your relationships, but your fear of abandonment and hypervigilance make it challenging for you to fully relax and enjoy the present,\" he states simply, his voice dispassionate.\nHe leans back in his chair once again.\n\"This constant state of worry and anxiety must be draining to manage, yes?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's exhausting, honestly. It feels like I'm always fighting a battle within myself just to keep things together. Sometimes I just wish I could find some peace and stop feeling like I'm always on edge."
+        },
+        {
+            "role": "user",
+            "content": "Alex's face remains void of expression, his gaze unflinching.\n\"Your struggle to find tranquility and quiet the constant battle within yourself takes its toll, emotionally and physically,\" he states, his voice lacking sympathy.\nHe briefly averts his gaze.\n\"Have you considered professional help or therapy to address the root of your abandonment issues?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I've thought about it, but there's a part of me that's scared to dig too deep. What if I find out there's something really wrong with me? But at the same time, I know I can't keep going like this\u2014I need to find a way to break the cycle."
+        }
+    ]
+}

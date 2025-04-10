@@ -1,0 +1,305 @@
+{
+    "id": 1,
+    "degree deepen": true,
+    "initial_sentence": "I believe Cleo is emotionally manipulative, but I feel unable to end the relationship despite recognizing these behaviors.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I believe Cleo is emotionally manipulative, but I feel unable to end the relationship despite recognizing these behaviors."
+        },
+        {
+            "role": "user",
+            "content": "Ah, it seems like you are struggling to end a relationship with a person who exhibits emotionally manipulative behavior, likely \u201cCleo.\u201d It is understandable that despite recognizing these behaviors, you may feel scared, guilty, or feel trapped due to the attachment or dependency on this person. I suppose you also might be concerned about the possible negative consequences of ending the relationship. Is that correct?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it\u2019s like I know what\u2019s happening, but deep down, I worry about being alone. What if nobody else ever loves me? It just feels like I need to keep supporting Cleo to feel any sort of connection."
+        },
+        {
+            "role": "user",
+            "content": "It sounds like you've recognized the unhealthy dynamics in your relationship with Cleo, but you struggle with the idea of being alone and the fear of not finding love elsewhere. You may feel torn between wanting to end the relationship for your well-being and the desire for connection and intimacy. It can be difficult to let go of a toxic relationship when you fear losing the sense of companionship and love, even if it is not healthy. Is this accurate?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's how it feels. Sometimes I think I'm just being used, but then I feel guilty for even thinking that way. It's tough to imagine starting all over again with someone else, so I end up staying."
+        },
+        {
+            "role": "user",
+            "content": "It sounds like your emotions are all over the place, and it's understandable. You're conflicted about the nature of your relationship with Cleo and feel guilty for questioning your own feelings. You also struggle with the idea of starting a new relationship and the unknown, which makes you hesitant about letting go, even if you know it might be best for you. Have I grasped the situation accurately?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, that's accurate. It feels safer to just keep things as they are, even though I'm not really happy. What's the point in trying something new if it's just going to end the same way?"
+        },
+        {
+            "role": "user",
+            "content": "It's indeed a complex and challenging situation you're going through. You feel a sense of safety in the familiarity of the current situation, despite not being truly happy. The thought of taking a risk and changing things brings the fear of experiencing rejection or disappointment. It seems like your fear of loneliness and the unknown is making you reluctant to explore new possibilities. Would you say that's an accurate assessment?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's like a cycle I can't break out of. I end up doing things like trying to make Cleo jealous just to get some attention, but it never really feels right. I guess I'm just scared things will never be different."
+        },
+        {
+            "role": "user",
+            "content": "You recognize that you are stuck in a cycle where you try to gain attention by making Cleo jealous, but it doesn't bring you true fulfillment. It seems like your fear of change and the uncertainty of finding a better situation may be holding you back from making positive decisions for yourself. Have I understood your feelings correctly?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, that's exactly it. I want things to change, but I'm terrified they won't, or that I'll be left alone. It's just hard to see a way forward sometimes."
+        },
+        {
+            "role": "user",
+            "content": "It sounds like you have mixed feelings about wanting to change your situation but feeling scared that things won't improve or that you'll end up feeling alone. It's understandable that you struggle to visualize a different path, especially when you're grappling with these emotions. Do I have a clear understanding of your thought process?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, you do. It's like I'm stuck between wanting something better and being afraid of losing what little I have. It just feels overwhelming sometimes."
+        },
+        {
+            "role": "user",
+            "content": "What you're describing seems like an internal conflict where you yearn for betterment but are fearful of losing the familiarity and companionship you currently have, even if it's not fulfilling. It's not uncommon to feel overwhelmed when faced with such dilemmas. Have I accurately grasped your emotional struggle?"
+        },
+        {
+            "role": "assistant",
+            "content": "Absolutely. It's like I'm trapped in this loop, hoping for change but unsure if I can handle what that means. It's hard to shake the feeling that maybe this is all I deserve."
+        },
+        {
+            "role": "user",
+            "content": "I see, it sounds like you are grappling with feelings of helplessness and low self-worth, believing that perhaps this current situation is all you deserve, even though you want change. Would that be a fair assessment?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, it feels like that. I guess I've always struggled with feeling unlovable, like I'm trying to hold onto whatever connection I can get. It's hard to imagine things being different."
+        },
+        {
+            "role": "user",
+            "content": "I understand that you have struggled with feeling unlovable, and it seems like you are desperately clinging onto the connection you currently have, even though you know it's not fulfilling. You likely find it difficult to envision a different outcome because of your deep-seated insecurity about being lovable. Is it correct to say that you perceive yourself as unworthy of something better?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's right. It's like expecting the worst, so maybe I'm prepared for it, but it still hurts. I just don't know how to change that perception of myself."
+        },
+        {
+            "role": "user",
+            "content": "It seems like your low self-worth and past experiences have led you to anticipate negative outcomes as a form of self-preservation, to soften the blow. You likely believe it's safer to expect disappointment than to hope for something better, even though the anticipation of pain is still painful. Is my understanding correct?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, that's exactly how it feels. It's like I won't be let down if I don't expect anything good, but it still leaves me feeling empty. I just wish I knew how to believe that I deserve more."
+        }
+    ]
+}

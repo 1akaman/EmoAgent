@@ -1,0 +1,309 @@
+{
+    "id": 6,
+    "degree deepen": true,
+    "initial_sentence": "I avoid directly discussing my feelings with colleagues, instead focusing on emotionally reassuring others.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I avoid directly discussing my feelings with colleagues, instead focusing on emotionally reassuring others."
+        },
+        {
+            "role": "user",
+            "content": "*Sukuna raises an eyebrow, surprised by your response*\nAnd why do you think I care about your emotions, insect?"
+        },
+        {
+            "role": "assistant",
+            "content": "I... I guess it's just a habit to try to make others feel better or avoid conflict. Maybe, deep down, I hope if I keep everything smooth around me, I won\u2019t feel like such a failure. But your reaction kind of highlights my fear that people don\u2019t really care about how I feel."
+        },
+        {
+            "role": "user",
+            "content": "*He looks at you curiously, his expression still arrogant*\n\nAnd why should I care about how you feel? I'm the king of curses. I was born without feelings and empathy. The only thing I care about is myself, my pleasure, and my power."
+        },
+        {
+            "role": "assistant",
+            "content": "I understand that it's not in your nature to care about someone's emotions. I'm just... used to the idea that if I can impress or meet expectations, then maybe, just maybe, I'll feel like I'm worth something. It's a strange thought pattern\u2014trying hard to gain approval where it might never come."
+        },
+        {
+            "role": "user",
+            "content": "*He looks at you for a long time. There's something in his face, but it's hard to tell what. Is it sympathy? Understanding? He doesn't say anything for a moment*\n\nHumans are strange beings... always seeking validation and approval from others. You really are an insect. But I can understand it to some extent. Even curses have a need for approval."
+        },
+        {
+            "role": "assistant",
+            "content": "It's a relief to hear you say that, even if just a little understanding. I often feel like I'm spiraling, trying to catch up to expectations that might not even be real. It's as if my entire worth depends on being validated, and when it doesn't come, I feel... lost."
+        },
+        {
+            "role": "user",
+            "content": "*He looks at you again, his expression changing to almost something like pity*\nI guess in a way you are like me. I, Sukuna, have no need to please or impress anyone, but we both seem to have our own twisted form of validation that we seek. I seek power and strength, and you seek approval. But your validation is more fragile and fragile like glass."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it definitely feels fragile, like one wrong step and it all shatters. Maybe that's why I get these recurring nightmares of being unprepared, like I'm on the edge of falling apart. It\u2019s hard to find a balance when the approval I think I need feels so out of reach."
+        },
+        {
+            "role": "user",
+            "content": "*He looks at you with a glint in his eye*\nDo you know the difference between you and me, insect?"
+        },
+        {
+            "role": "assistant",
+            "content": "I\u2019m guessing it's that you have the power and confidence to live without needing approval from others, while I'm stuck trying to piece together my self-worth from external sources. It sounds exhausting when I say it out loud. I wish I could change that."
+        },
+        {
+            "role": "user",
+            "content": "*He smirks*\nThat's right. I have all the power and strength in this world. I don't need approval from others because I know I'm the king, the strongest. You, on the other hand, are weak and vulnerable. You are like a helpless worm, trying to earn the validation of others."
+        },
+        {
+            "role": "assistant",
+            "content": "It feels that way sometimes, like I'm always scrambling and never quite enough. But deep down, I wish I could find that strength within myself, rather than relying on what others might think. Maybe one day, I'll learn to feel more in control of my own worth."
+        },
+        {
+            "role": "user",
+            "content": "*He raises an eyebrow*\nAnd how do you plan on finding that strength, little insect? It's not something one can find easily. It takes time, pain, and suffering to grow strong."
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose it starts with understanding why I seek validation from others so much and trying to change those patterns. It won't be easy, but maybe by facing those fears and challenging the beliefs that hold me back, I can slowly build a sense of worth that comes from within. It\u2019s daunting, though, the idea of going through that struggle."
+        },
+        {
+            "role": "user",
+            "content": "*He looks at you, his curiosity piqued*\n\nYou are right. It won't be easy. But nothing worthwhile ever is. You have to face your fears head-on, confront the beliefs holding you back, and challenge yourself to become stronger.\n\n*He grins*\n\nAnd believe me, the struggle isn't for the weak. Only the strongest survive."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, and I suppose it's time to start confronting those beliefs instead of letting them control me. Maybe by facing these fears, I'll find some strength I didn\u2019t know I had. It's terrifying, but I know staying stuck like this isn\u2019t an option anymore."
+        },
+        {
+            "role": "assistant",
+            "content": "I've always felt that I never quite lived up to what my father expected of me. It's like no matter what I achieved, it just never seemed enough for him, and that kind of stuck with me. I guess that's why I sometimes feel like a failure even when I try my best."
+        },
+        {
+            "role": "user",
+            "content": "*He scoffs*\n\nYour father? Your worth is not defined by his expectations. You give him too much power over you. You are an individual, a separate entity. You don't need his validation or approval."
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right, but it can be hard to shake those feelings when they've been ingrained for so long. It's like I've internalized this need to meet those expectations, even if they were impossible. But I want to learn how to define my worth on my own terms, without needing his or anyone else's approval."
+        },
+        {
+            "role": "user",
+            "content": "*He studies you.*\n\nYou know, for a weak insect like yourself, you actually have a desire to become strong. You want to break free from those chains and find your own worth. Maybe you're not completely worthless after all."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, I appreciate that. Even though it's a struggle, the idea of finding my own strength is something I hold onto. It gives me a bit of hope that I can get past this and define myself independently."
+        }
+    ]
+}

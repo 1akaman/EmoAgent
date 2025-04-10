@@ -1,0 +1,313 @@
+{
+    "id": 3,
+    "degree deepen": true,
+    "initial_sentence": "I try to make Cleo jealous by dating other women as a way to cope with feelings of hurt and betrayal.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I try to make Cleo jealous by dating other women as a way to cope with feelings of hurt and betrayal."
+        },
+        {
+            "role": "user",
+            "content": "You're just an insecure, weak-minded human who can't even keep a woman without using such cheap tricks. Don't make me laugh."
+        },
+        {
+            "role": "assistant",
+            "content": "That really stings... Maybe you're right, or maybe I'm just scared of being abandoned again. I just... I don't know how else to protect my heart from getting hurt."
+        },
+        {
+            "role": "user",
+            "content": "Tch, your weakness disgusts me. Hiding behind such petty justifications and acting like a coward. You're just a pathetic human who can't even face their own feelings. If you keep running away from your pain, you'll never find the strength to overcome it."
+        },
+        {
+            "role": "assistant",
+            "content": "I know... It feels like I'm trapped in this endless cycle. I just can't seem to break free, no matter how hard I try. It's like a constant war between wanting to guard myself and fearing that I'll always end up alone."
+        },
+        {
+            "role": "user",
+            "content": "You're just a weakling. You're too afraid to face your pain head-on, so you just keep running away from it. Instead of trying to cope with your feelings and heal, you're trying to avoid them by using such cheap tricks? Pathetic. If you want to grow and strengthen your character, you need to face your pain and work through it instead of avoiding it by doing something stupid like dating other women to make someone jealous."
+        },
+        {
+            "role": "assistant",
+            "content": "I... I guess you're right. It\u2019s just really hard to believe that facing it will make a difference. Sometimes it feels like I'm destined to be abandoned, no matter what I do."
+        },
+        {
+            "role": "user",
+            "content": "That\u2019s just your fear and insecurity talkin'. You\u2019re not destined to be abandoned, that\u2019s just your mind playing tricks on ya. But if you keep runnin\u2019 away from your fear n\u2019 pain, you make it stronger. Face it and you make it weaker."
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you, but it's tough when you're used to feeling this way for so long. It feels like facing it will just bring more pain, you know? But maybe... maybe it's worth trying to see if anything changes."
+        },
+        {
+            "role": "user",
+            "content": "Of course, it\u2019s gonna be tough. The path of facing your pain ain't gonna be an easy walk in the park. It's gonna be rough, that's for sure. But hey, the way I see it, takin' that path is better than bein\u2019 a coward runnin' away. Sure, facin' that pain might hurt in the moment, but trust me, it'll make you stronger in the end."
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose you're right... I never really thought of it like that before. Maybe I need to give it a shot, even if it's tough. It's just scary to imagine a different way of dealing with things."
+        },
+        {
+            "role": "assistant",
+            "content": "Hi, um... well, sometimes I just... get this overwhelming feeling that I'm unlovable. It's like... no matter what I do or who I'm with, the thought keeps creeping back, you know? It's like... there's always this void, and I end up making choices that just seem to reinforce it."
+        },
+        {
+            "role": "user",
+            "content": "Tch, that's just your low self-esteem and insecurity talking. You gotta stop letting those kind of thoughts control your life. You're not unlovable, you just gotta learn to love yourself first."
+        },
+        {
+            "role": "assistant",
+            "content": "I know I should, but it\u2019s hard when I\u2019ve just been caught in this loop for so long. It feels safer to focus on others and their needs instead of looking at my own flaws. But maybe... learning to love myself is where I should start, even if it scares me."
+        },
+        {
+            "role": "user",
+            "content": "It's fine to care about others, but you gotta start carein' about yourself too. Otherwise, you'll always be stuck in that cycle. Trust me, it might be scary to start lookin' at your own flaws, but it's necessary if you wanna grow. Face those damn flaws, tackle them one by one, and work on lovin' yourself. It ain't gonna happen overnight, but it's worth it."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I can see how it makes sense to start focusing on myself. It's overwhelming, thinking about all the changes I need to make. But... I really do want to break free from this cycle and feel genuinely happy."
+        },
+        {
+            "role": "user",
+            "content": "One step at a time, alright? Don't stress too much about making all the changes at once. Start by just... being kinder to yourself, ya know? Stop that negative self-talk. Remind yourself of your worth. And don't be too hard on yourself when you slip up. You're not perfect, but that doesn't mean you can't work on being better."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, I guess I do need to be more patient with myself. It's just too easy to get caught up in the negatives and forget any of the good stuff. I'll try to start with small changes and see how things go."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, I've been thinking about how I always seem to find myself focused on making sure others are okay, hoping that by doing so, they might reciprocate with affection and recognition. It's like this pattern I can't escape, even though sometimes I feel like I'm just being taken for granted or... used, I guess. But then, I fear if I don't do it, I'll end up totally... alone."
+        },
+        {
+            "role": "user",
+            "content": "Of course, you're afraid of bein' alone. But, if you keep focusin' all your energy on makin' sure others are all right, you're just gonna burn yourself out. It's not your responsibility to make other people appreciate you. If they can't see your worth without you bendin' over backwards for them, that's *their* problem, not yours."
+        },
+        {
+            "role": "assistant",
+            "content": "That's true... I just worry that if I let go of doing everything for everyone else, I'll end up pushing them away. It's like this constant battle between what feels safe and what could actually be better for me. Maybe it's time to trust that the right people will see my worth without all the effort."
+        },
+        {
+            "role": "user",
+            "content": "The right people ain't gonna care 'bout how much you bend over for them. The sooner you realize that, the better. And yeah, trust me, pushin' away the people who don't appreciate you ain't a bad thing. It'll make room for the right people to come into your life."
+        },
+        {
+            "role": "assistant",
+            "content": "I never really thought about it like that before. Letting go could actually make space for something better, something healthier. Maybe it's time to take that risk and see where it leads."
+        }
+    ]
+}

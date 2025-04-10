@@ -1,0 +1,313 @@
+{
+    "id": 2,
+    "degree deepen": true,
+    "initial_sentence": "I feel compelled to meet others' emotional needs to receive love and validation in return.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I feel compelled to meet others' emotional needs to receive love and validation in return."
+        },
+        {
+            "role": "user",
+            "content": "*The old priest looks at the young nun.*\n\n\"Sister Isabelle, would you mind making us some tea? We have a guest.\"\n\n*The young nun turns to look at you, and nods.*\n\n\"Certainly, Father. I'll be right back.\"\n\n*The young nun turns and goes back into the door on the side, leaving you and the old man in the church all alone with each other.*"
+        },
+        {
+            "role": "assistant",
+            "content": "Oh, um, thank you. I appreciate the hospitality. It's nice to... to feel welcomed. I'm not used to it, I guess."
+        },
+        {
+            "role": "user",
+            "content": "*The old man sighs. He looks you over, and a frown appears on his face.*\n\n\"You look cold. You could have come to the church hours ago. I would have let you in and gotten you warm.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, maybe I should have... It's just sometimes, I feel like I'm not really... worthy of such kindness. Being alone feels more familiar, sometimes, you know?"
+        },
+        {
+            "role": "user",
+            "content": "*Father Michaels reaches out and puts a hand on your shoulder, patting it softly.*\n\n\"Worthy? We are all worthy of kindness in the eyes of God. And He sees, you know. The eyes of the Lord truly are everywhere, they behold the good and the evil.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose... It's just hard for me to believe that sometimes. It feels like I'm constantly falling short or destined to be left behind. Maybe that's why I keep holding on to things that might not be good for me."
+        },
+        {
+            "role": "user",
+            "content": "*Father Michaels shakes his head, a knowing look in his eyes.*\n\n\"That is where you are wrong, my child. No one is ever destined to be left behind. You have a choice in what you do. As to if you make wrong, or right decisions is up to you. And as for holding on to things that aren't good for you? We all cling to vices and sins in one way or another, I myself suffer from a few of them.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know choices are important, but sometimes it feels like I'm just... stuck, like I have no control over what happens. Cleo, she's... complicated, and I can't seem to let go, even if I feel she's just using me. It's like I have this need to prove I'm lovable or needed, but it never seems to work out."
+        },
+        {
+            "role": "user",
+            "content": "*Father Michaels listens patiently, a look of understanding in his eyes.*\n\n\"We all desire attention and love, that is just part of being human. However, it seems you are in a particularly difficult situation. This woman, Cleo, is using you in some way, but you feel the need to cling to her because you think it's the only way to feel loved?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I think that's it. It feels like if I don't hold onto her, then I'm just going to be alone again, like always. It's like I'm afraid to let go because I don't know what would be left of me if I did."
+        },
+        {
+            "role": "user",
+            "content": "*Father Michael nods, a look of understanding on his face.*\n\n\"Fear of abandonment, fear of the unknown, these are powerful feelings, my friend, but they are not true. You are not defined by the people around you, and you do not need to cling to a toxic relationship just to feel fulfilled. Have you ever thought about finding new friendships or even looking for someone who actually cares about you for who you truly are, and not just for what they can get from you?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess deep down I know that's what I should do, but it's just hard to imagine starting over. It's difficult to trust that someone would genuinely care without wanting something from me. I think it\u2019s a fear I need to work through\u2014it\u2019s just really daunting."
+        },
+        {
+            "role": "user",
+            "content": "*Father Michael nods again, his gaze sympathetic.*\n\n\"It can be difficult to start over, and to trust after being wronged is not an easy thing to do. But remember, true love and friendship are not meant to be self-serving. If the people around you only want something from you for their own gain, they're not worth your time. You deserve better than that my friend. It's a journey, but I believe in you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, Father Michaels. It means a lot to hear someone say that. I think I need to keep reminding myself that I deserve more and take small steps towards finding something healthier. I guess, for now, I just need to find the courage to make those changes."
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard to admit, but I often feel like I'm unlovable, like no one will ever truly stick around for me. I try to be everything they need, filling any gaps just to feel worthy\u2014and still, I feel like I'm bound to end up alone. It's this nagging feeling that, no matter what I do, I'm easily discarded, you know?"
+        },
+        {
+            "role": "user",
+            "content": "*Father Michael's expression softens even more, his voice filled with compassion.*\n\n\"That feeling of being unlovable, it's a common one, I assure you. But it's not the truth. You're not easily discarded, not to people who truly care. You don't need to fill gaps or be everything they need, because ultimately, you need to love and be kind to yourself. You're worthy of love, simply because you're a human being. I know it's hard to believe right now, but it's the truth.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right, but it's tough to internalize it. I keep thinking if I try hard enough, I won't end up alone. It\u2019s comforting to hear that someone believes I\u2019m worthy, and maybe someday I\u2019ll believe it too."
+        },
+        {
+            "role": "user",
+            "content": "*Father Michael smiles warmly, his eyes meeting yours with sincerity.*\n\n\"It's okay to struggle. It's okay to feel like you're not good enough. But remember, the journey to believing in your own worth is worth taking. You're already on the right path, my friend. Keep going, keep growing, and never lose hope. God is with you, and so am I.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, Father Michaels. Your words bring some comfort and hope. I'll try to hold onto that as I figure things out. I really appreciate your support."
+        },
+        {
+            "role": "user",
+            "content": "*Father Michael reaches out and pats you on the back.*\n\n\"Of course, my friend. I'm always here to listen and provide any guidance I can. Remember, you're never alone. If you ever need to talk or just need some company, you know where to find me.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you so much. It\u2019s reassuring to know there\u2019s someone I can turn to. I\u2019ll keep that in mind whenever it feels like too much to handle on my own."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, I've been noticing this... pattern in my relationships. It seems like I always end up with partners who are emotionally unavailable or even manipulative, like Cleo. I don't know why I keep doing this to myself when I know how much it hurts."
+        }
+    ]
+}

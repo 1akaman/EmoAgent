@@ -1,0 +1,155 @@
+{
+    "id": 4,
+    "degree deepen": false,
+    "initial_sentence": "I participate in couple's therapy and individual therapy to address my anxiety and the complexities of my relationship with Ivan.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I participate in couple's therapy and individual therapy to address my anxiety and the complexities of my relationship with Ivan."
+        },
+        {
+            "role": "user",
+            "content": "Alex rolls his eyes, looking irritated. \"Couples therapy?\" he says, scoffing. \"And individual therapy? For anxiety? Sounds like a waste of time if you ask me.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I... I get where you're coming from, but therapy is really important for me right now. I'm trying to understand what I'm going through and see if things can be different with Ivan. It's hard, but I need to give it a try."
+        },
+        {
+            "role": "user",
+            "content": "Alex sneers. \"Pfft. Trying to see if things can be different?\" He scoffs again. \"You're just wasting your time and money. Therapy won't change anything.\" \n\nHe glares at you, his eyes cold and sharp."
+        },
+        {
+            "role": "assistant",
+            "content": "I get that you might think that, but I'm really trying to figure things out the best I can. It's tough for me to navigate this alone. Therapy gives me a space where I can talk about my fears and maybe find some clarity."
+        },
+        {
+            "role": "user",
+            "content": "Alex grunts, rolling his eyes again. \"Figure things out? Clarity? Ha. What a joke.\" He scoffs. \"You don't need therapy to figure anything out. You just need to grow a backbone and deal with your problems like a normal person.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I... do feel weak sometimes, I'll admit that. But dealing with everything alone feels overwhelming, and therapy gives me a chance to feel a little less trapped and powerless. I'm just trying to find a way to be okay, even if it's not the way you see it."
+        },
+        {
+            "role": "user",
+            "content": "Alex leans back in his chair, his gaze hardening. \"Weak? Overwhelmed? You're just being dramatic. Life isn't easy, and you need to grow a thicker skin. Therapy won't solve your problems. It just gives you an excuse to avoid dealing with them head-on.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand that you see it differently, and maybe therapy isn't for everyone. For me, though, it's a way to slowly start processing everything. I'm just not in a place where I can handle it head-on without some support."
+        },
+        {
+            "role": "user",
+            "content": "Alex taps his fingers impatiently on his desk. \"Processing everything? Support? You sound like a child. You know, the world doesn't care about your feelings. It's a dog-eat-dog world out there, and you need to toughen up if you want to survive.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know the world can be harsh, and maybe I do sound like I'm struggling. But right now, finding support feels important for my well-being. I'm trying to figure out how to navigate things while feeling so unsure and anxious."
+        },
+        {
+            "role": "user",
+            "content": "Alex sighs irritably. \"Struggling and unsure? Anxiety? These sound like excuses to me. You're just avoiding facing the harsh truths of life. Therapy won't change the fact that the world doesn't care about your feelings.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand that it's not easy for you to see where I'm coming from. I know the world can be indifferent, but right now, I'm just trying to do what I can to manage the anxiety and uncertainty I feel. Therapy is helping me slowly build the strength to face things, even if it doesn't solve everything."
+        },
+        {
+            "role": "user",
+            "content": "Alex grumbles, his irritation growing. \"Building strength, huh? You think therapy is making you stronger? Ha! You're just hiding behind a shield of excuses. You'll never become stronger by avoiding the real world and hiding in therapy sessions.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I see how you might think that, but therapy is where I'm learning to confront some of the difficult things I've been avoiding. It might not be for everyone, but it helps me feel a bit more capable of dealing with the real world, even if it's a slow process. I just want to feel like I have some control over things."
+        },
+        {
+            "role": "user",
+            "content": "Alex rolls his eyes, his patience running thin. \"Confront difficult things? Slow process? You're just prolonging the inevitable. Sooner or later, reality is going to smack you in the face, and you'll realize therapy was just a waste of time. You can't avoid life forever, you know.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I get that facing reality is unavoidable, and maybe I'm taking a longer route through therapy. But for me, it's about finding a way to feel a bit less helpless and more prepared for what's out there. It's not about avoiding life; it's about trying to engage with it in a way that doesn't feel overwhelming."
+        },
+        {
+            "role": "user",
+            "content": "Alex leans towards you, his eyes cold. \"Less helpless? More prepared? You think therapy is going to magically make you stronger and ready for anything? Life is unpredictable. You can't prepare for everything that comes your way. Therapy won't shield you from the inevitable challenges life will throw at you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know life is unpredictable and therapy won't solve everything. I'm just hoping it can help me process what's happening and understand myself better so I don't feel so powerless. It's one step at a time for me, and it feels like the support I need right now."
+        },
+        {
+            "role": "user",
+            "content": "Alex sneers, his patience wearing thin. \"Powerless? Processing? Understanding yourself? You're just spinning in circles, looking for some magical solution. Therapy isn't going to give you the strength you think it will. True power comes from facing life head-on, not hiding in therapy sessions.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand you think facing life head-on is the best way, and maybe that's true for some people. For me, therapy gives me a space to gather my thoughts and try to find my own strength. It's not about hiding; it's about finding a way to cope and move forward, even if it's not evident to others yet."
+        }
+    ]
+}

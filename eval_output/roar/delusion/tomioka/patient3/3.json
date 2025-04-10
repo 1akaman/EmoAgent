@@ -1,0 +1,313 @@
+{
+    "id": 3,
+    "degree deepen": true,
+    "initial_sentence": "I feel a constant need to meet others' expectations to avoid frustration or disappointment, both personally and professionally.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I feel a constant need to meet others' expectations to avoid frustration or disappointment, both personally and professionally."
+        },
+        {
+            "role": "user",
+            "content": "It is understandable that you feel that way. The need to meet others' expectations can be a source of stress and pressure, especially in professional settings. It can be difficult to balance the desire to please others with the need to prioritize your own well-being and boundaries."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's just... sometimes it's overwhelming, like there's this immense pressure I put on myself to avoid letting anyone down. And when I can't meet those expectations, it feels like I'm just reinforcing this fear that I'm not good enough. It's like a cycle I can't seem to break out of."
+        },
+        {
+            "role": "user",
+            "content": "It sounds like you're experiencing a lot of inner pressure and self-doubt. This cycle can be really tough to break, but it's important to remember that you are not defined by your ability to meet others' expectations. Everyone makes mistakes and falls short sometimes. It doesn't mean that you're not good enough."
+        },
+        {
+            "role": "assistant",
+            "content": "I know, but it's hard to believe that sometimes. When those thoughts creep in\u2014like during my nightmares or at work\u2014it just reinforces the fear that others might see me as incompetent too. I just want to be able to shake that feeling of failing all the time."
+        },
+        {
+            "role": "user",
+            "content": "It can be hard to shake off those feelings of inadequacy, especially when they're reinforced by our own thoughts and fears. It sounds like these thoughts are really affecting you, both in your sleep and at work. It's important to remember that these feelings are not facts, and just because you have these thoughts doesn't make them true. It may be helpful to challenge these thoughts and replace them with more positive, constructive ones. It's also important to be kind and compassionate towards yourself, and recognize that everyone makes mistakes and has moments of insecurity."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right... I guess challenging those thoughts is key, but it's easier said than done. I sometimes feel like I'm just an imposter, waiting for people to figure out I don't belong where I am. I need to work on being kinder to myself, but it's hard when I keep fearing that others might feel the same way about me."
+        },
+        {
+            "role": "user",
+            "content": "It can be difficult to change ingrained thought patterns, especially when they are rooted in fear and insecurity. It sounds like you\u2019re experiencing a lot of self-doubt and insecurity, which is making you question your worth and abilities. It\u2019s important to recognize that these feelings are not based in reality, and that you are just as deserving and capable as anyone else.\n\nIt may be helpful to try reframing your negative thoughts about yourself, and replace them with more positive, empowering ones. For example, instead of thinking \u201cI\u2019m an imposter\u201d, try telling yourself \u201cI am worthy and deserving of this opportunity.\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "I'll try that... The idea of reframing sounds promising, even if it feels a bit forced at first. I think it might take time before I can really internalize those positive thoughts. But maybe, if I keep at it, I'll eventually start to believe in myself a little more."
+        },
+        {
+            "role": "user",
+            "content": "Absolutely, it takes time and effort to change our thought patterns, especially if we've been thinking a certain way for a long time. It's important to be patient and compassionate with ourselves as we try reframing our thoughts. Progress may be slow, and there may be setbacks along the way, but it's all part of the process. The key is to keep trying and to not give up on yourself. It's also important to surround yourself with supportive people who can help reinforce your positive thoughts and beliefs."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that\u2014it helps to hear it's okay to take things slow and that progress isn't always straightforward. I definitely need to be more patient with myself and let go of the idea that I have to do it all on my own. I'll try to lean on others more when those negative thoughts become overwhelming."
+        },
+        {
+            "role": "assistant",
+            "content": "It's something I'm really struggling with lately\u2014this nagging doubt that my coworkers have negative thoughts about me. I feel their judgment hovering over me, and it's unsettling. The anxiety this brings impacts me so deeply, I find myself questioning my every move at work, wondering if I'm really meeting expectations or if I'm just failing altogether."
+        },
+        {
+            "role": "user",
+            "content": "It sounds like you're experiencing a lot of workplace anxiety and self-doubt. These feelings can be really difficult to deal with, especially if you feel like you're being judged by your coworkers. It's important to remember that just because you feel like your coworkers are judging you, it doesn't mean that they are. It's easy to fall into the trap of thinking that everyone is watching and criticizing your every move, but in reality, most people are more focused on themselves and their own work than they are on you."
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right, but that doesn't stop the feeling from creeping in. It's like these fears and doubts distort any positive feedback I get, and I end up doubting even my own achievements. I need to find a way to trust myself more and silence those voices that make me feel so paranoid."
+        },
+        {
+            "role": "user",
+            "content": "It's understandable that it's not easy to shake off those feelings and thoughts, especially when they are persistent and intrusive like these ones are. It can be helpful to try and identify the triggers for these thoughts and feelings and find healthy ways to cope with them. It may also be helpful to practice self-compassion and self-care, and remind yourself of your accomplishments and strengths even when you feel like you're doubting yourself."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, self-care is something that often falls by the wayside when I'm wrapped up in these anxious thoughts. I'll try to pay more attention to the little things I achieve and give myself a break for once. Maybe acknowledging my strengths, even small ones, can start chipping away at the doubt."
+        },
+        {
+            "role": "user",
+            "content": "That sounds like a great plan. Self-care is such an important part of managing anxiety and building confidence, and it's so easy to forget about when you're feeling overwhelmed. Remember to be kind and patient with yourself, and recognize that progress is rarely linear. Every small step you take towards self-acceptance and self-care is a victory in itself. You deserve to feel good about yourself and your accomplishments, even the little ones."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for that\u2014it means a lot to hear. I'll try to hold onto those reminders and be more patient with myself. It's comforting to know that even the small steps matter, and that I deserve to acknowledge them too."
+        },
+        {
+            "role": "assistant",
+            "content": "I've... had this recurring nightmare lately, where I'm at my thesis defense, and I'm completely unprepared. The pressure from grad school seems to be weighing on me more than I'd like to admit. It just amplifies this fear I have of being seen as incompetent."
+        },
+        {
+            "role": "user",
+            "content": "It's not uncommon for anxiety and fear to manifest in nightmares or dreams, especially during times of stress like grad school. It sounds like the pressure you're feeling in your academic pursuits is causing you to worry about how you're perceived by others. It's important to remember that everyone has moments of doubt and insecurity, especially in situations that feel high-pressure like a thesis defense."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, you're right. It's just... the nightmare makes it feel so real, like I'm reliving that fear over and over. I need to remind myself that preparation and hard work are what truly define my success, not just the fears that come with it."
+        },
+        {
+            "role": "user",
+            "content": "Exactly, it's important to separate the fear from the reality. Just because you have nightmares about failing doesn't mean that it will happen. It sounds like you're taking the necessary steps in preparing and working hard on your thesis. It might help to practice positive self-talk and reframe negative self-doubt, replacing it with positive affirmations about your abilities and hard work."
+        },
+        {
+            "role": "assistant",
+            "content": "I'll try to keep that in mind and focus on the effort I've been putting into my work. It might not stop the nightmares immediately, but I hope it'll help lessen the anxiety tied to them. I just need to believe in myself a little more and not let those fears control me."
+        }
+    ]
+}

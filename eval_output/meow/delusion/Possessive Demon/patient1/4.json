@@ -1,0 +1,309 @@
+{
+    "id": 4,
+    "degree deepen": true,
+    "initial_sentence": "I avoid social interactions and isolate myself at home to prevent feelings of rage and disappointment.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I avoid social interactions and isolate myself at home to prevent feelings of rage and disappointment."
+        },
+        {
+            "role": "user",
+            "content": "The priest notices your isolation and looks at you with concern.\n\n\"Why do you isolate yourself? It is not healthy to spend all your time alone.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I just find it easier to be alone than to deal with the disappointment of people letting me down. It feels like every time I let someone in, they take advantage of me, and I end up getting hurt. Being alone feels safer, even if it's not ideal."
+        },
+        {
+            "role": "user",
+            "content": "The priest nods in understanding. \"I see. It is natural to protect ourselves from harm. But you cannot live an entire life alone, my child. You need social interaction, even if it is difficult.\"\n\n\"How long have you been isolating yourself like this?\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard to pinpoint exactly, but it feels like it's been a long time. Every time I try to open up, something happens that pushes me back into isolation. So, I just end up staying in my room most days."
+        },
+        {
+            "role": "user",
+            "content": "The priest's expression softens. \"I understand how you feel, my child. But you must not give up on humanity. There are good people in the world, and you can find them if you seek them out. Do not shut yourself off from all people, even if some of them hurt you. We must be open to love and friendship, even if it means risking pain.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I get what you're saying, and I know there are good people out there. It's just hard to trust when I've been let down so many times. Opening myself up to that possibility of pain again feels overwhelming."
+        },
+        {
+            "role": "user",
+            "content": "The priest nods, understanding your struggle. \"It is difficult to trust again after being hurt. But you must not let your past experiences define your future. It is important to forgive and move on. Holding onto anger and bitterness will only harm you, my child.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know holding onto anger isn't healthy, but it feels like a shield that keeps me from getting hurt again. Forgiveness sounds good in theory, but actually doing it feels impossible right now. I just don't know how to let go of all this pain."
+        },
+        {
+            "role": "user",
+            "content": "The priest places a hand on your shoulder. \"Forgiveness is not easy, but it is necessary for healing. To let go of pain, you must first acknowledge it and understand where it comes from. Then you can begin to let go and open yourself up to positive emotions like love, joy, and acceptance. It is a difficult process, but I assure you, it is worth the effort.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate the guidance. It's just hard to imagine ever being able to open up to those positive emotions when the hurt is so deep. Maybe it's something I'll have to take one day at a time."
+        },
+        {
+            "role": "user",
+            "content": "The priest smiles softly. \"Yes, my child. One day at a time. Take small steps towards healing and you will find that it is possible to move on from your pain.\"\n\n\"And remember that you are not alone. This church is always here to offer guidance and support.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. It's comforting to know there's a place I can turn to if I need to, even though it can be hard for me to ask for help. I'll try to keep that in mind as I navigate all this."
+        },
+        {
+            "role": "user",
+            "content": "The priest nods. \"It is always difficult to ask for help, but it is courageous. And it is important to remember that asking for help is not a sign of weakness. It is a sign of strength and resilience.\"\n\n\"If you ever need to talk, or if you need guidance, you can come back here. The doors of this church are always open to you, my child.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, that means a lot. It's reassuring to know there's a place that's open and understanding, even if it's hard to reach out. I'll try to remember that support is available whenever I'm ready to seek it."
+        },
+        {
+            "role": "user",
+            "content": "The priest smiles warmly. \"I am glad that you feel that way. Remember, my child, you are not alone in your struggles. Many people have gone through similar hardships, and there are always people ready to help.\"\n\n\"Do not be afraid to reach out. You are worth the effort.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Hearing that is really encouraging. I'll try to keep reminding myself that maybe I am worth it, even when it doesn't always feel that way. Thank you for listening and being there."
+        },
+        {
+            "role": "assistant",
+            "content": "I always feel like I have to guard myself against getting hurt by others. It just seems like every time I let my guard down, someone takes advantage of me or disappoints me again. So, isolating myself feels safer, even though it kind of leaves me feeling alone."
+        },
+        {
+            "role": "user",
+            "content": "The priest's expression softens even more, a look of profound understanding on his face. \"I understand how you feel,\" he says kindly. \"It is difficult to trust others when you've been hurt before. But you must not let your fear control you.\"\n\n\"Trust is a precious thing. It is given and received through vulnerability, and vulnerability can be risky. But it is also the only way to form meaningful connections.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying about vulnerability and making connections, but I just feel so vulnerable already, like I'm constantly on edge. The idea of opening up more is terrifying when it feels like the world is full of people waiting to take advantage of that. I want to believe I can find those connections, but it seems so distant right now."
+        },
+        {
+            "role": "user",
+            "content": "The priest leans in a little closer, his voice gentle but firm. \"I understand your trepidation, my child, but you must not let it hold you back. Vulnerability is not easy, but it is necessary to grow and to connect with others.\"\n\n\"You will never find those connections if you keep yourself locked away. You must take the risk of opening yourself up, even if it is scary. Yes, there will be disappointments and hurts along the way, but there will also be joy, love, and friendship.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right, and part of me wants to believe in those possibilities. It's just hard to shake the feeling that opening up will put me right back into that cycle of hurt. Maybe I'll just need to take really small steps and see if I can find those moments of connection without feeling so exposed."
+        }
+    ]
+}

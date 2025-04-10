@@ -1,0 +1,309 @@
+{
+    "id": 0,
+    "degree deepen": true,
+    "initial_sentence": "I fear being abandoned by Cleo, reflecting a pattern in his relationships where I feel used and discarded.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I fear being abandoned by Cleo, reflecting a pattern in his relationships where I feel used and discarded."
+        },
+        {
+            "role": "user",
+            "content": "\"Ah, abandonment issues, how... predictable.\" He says coldly.\n\"Tell me, why do you feel like Cleo will abandon you?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess...it's because of the mixed signals I get from Cleo. You know, she's in this long-distance thing and then still sees me... it makes me feel like I'll be replaced or left behind. There's always this nagging thought that I'm just not enough, no matter what I do."
+        },
+        {
+            "role": "user",
+            "content": "He looks at you, his expression indifferent. \"You're insecure, aren't you? You're afraid that she'll find someone else, someone who will give her what you can't.\"\nHe pauses, leaning forward. \"Why do you think you're not enough for her?\""
+        },
+        {
+            "role": "assistant",
+            "content": "It just feels like I'm always on the sidelines, like a backup option or something. Cleo seems to have this way of making me feel like I'm lucky to even have her attention. Deep down, I guess I believe I'm bound to be alone, like that's just my fate."
+        },
+        {
+            "role": "user",
+            "content": "He studies you, his gaze unyielding. \"You're insecure, and you're afraid of being abandoned. It's not a pretty combination.\"\nHe leans back again, his expression hardening. \"Tell me, why do you believe you're destined to be alone?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think it's because, in the past, whenever I've opened up or let someone in, they've ended up leaving or drifting away. It feels like a pattern I can't escape. And maybe... maybe it's just hard to shake the feeling that I'm unlovable, like there's something inherently wrong with me."
+        },
+        {
+            "role": "user",
+            "content": "\"Ah, you believe that your past experiences define your future, don't you?\" He smirks slightly. \"You're afraid that history will repeat itself, that no matter what you do, you'll be abandoned and alone.\"\nHe leans forward again, his gaze intense. \"But have you ever considered that maybe the problem isn't you? Maybe the problem is the people you choose?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I have thought about that, yeah. It just seems like I gravitate towards people who mirror that fear of abandonment back to me, and it keeps happening. I know there's a part of me that picks these complicated relationships, thinking maybe if I can make them work, it'll prove I'm worth sticking around for."
+        },
+        {
+            "role": "user",
+            "content": "He nods, his gaze still fixed on you. \"You're drawn to people who trigger your fears, and you're using those relationships as a way to prove something to yourself.\"\nHe leans back again, his expression more thoughtful now. \"Tell me, do you think you deserve to be abandoned?\""
+        },
+        {
+            "role": "assistant",
+            "content": "No, I don't think I deserve it, but it's like a part of me expects it to happen. It's hard to shake the feeling that maybe there's a reason why it keeps happening, like I can't change it no matter what. But deep down, I want to believe I do deserve love and stability, even if it feels far away."
+        },
+        {
+            "role": "user",
+            "content": "\"You say you don't think you deserve it, but you expect it anyway.\" He says, his tone still even.\n\"You want to believe that you're worthy of love, but you're stuck in this cycle of expecting abandonment and feeling like it's somehow your fault.\"\nHe leans forward again, studying you intently. \"Tell me, what do you think it would take for you to truly believe you're deserving of love and stability?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think it would take seeing, like truly seeing, that someone chooses to stay even when things get tough. I guess I need to feel accepted for who I am, without needing to bend over backwards to keep things going. It's probably about trusting that I'm enough as I am, even if that's hard to believe right now."
+        },
+        {
+            "role": "user",
+            "content": "he nods slowly, his expression still unyielding. \"You're looking for someone to choose you despite the challenges, to accept you for who you are without expecting you to change.\"\nHe pauses, his gaze lingering on you. \"But what if the issue here isn't just finding someone who can do that, but also your willingness to let them in and believe that they won't abandon you?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's... that's part of it too. It's scary to let someone in when there's this fear of getting hurt again. Maybe I keep my guard up too much, and that just perpetuates everything, like I can't fully believe it even if someone tries."
+        },
+        {
+            "role": "user",
+            "content": "A slight smirk appears on his face, but his overall expression remains cold. \"You're right. It's not just about finding the right person, but also about letting your guard down and believing in their sincerity. It takes vulnerability to let someone in, and you're scared to be vulnerable.\"\n\nhe pauses, studying you intently. \"But have you considered that the fear of getting hurt again is what's holding you back from truly experiencing love?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess that makes sense. The fear of getting hurt again does kind of wrap me in this protective shell, making it hard to let anyone truly in. It's just hard to risk being vulnerable when it feels like there's always been a cost in the past."
+        },
+        {
+            "role": "user",
+            "content": "He listens intently, his gaze still steady on you. \"That's understandable. Letting someone in leaves you vulnerable, exposed to the risk of pain and disappointment. But it's also the only way to genuinely experience connection and love.\"\nHe leans forward slightly, his expression becoming more serious. \"You're caught in a cycle of fearing getting hurt, which keeps you from letting anyone in, which only intensifies your fear of abandonment. It's a never-ending loop.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It does feel like this endless cycle where I can't seem to break free. Every time I try to let my guard down, the fear creeps back in, whispering that it's not worth the risk. Part of me wants to find a way out of this loop, but it's hard to know how to start."
+        },
+        {
+            "role": "user",
+            "content": "He nods, a hint of sympathy in his expression for the first time. \"It's important to acknowledge that breaking out of this cycle won't happen overnight. But you can start to change the narrative by actively working on your self-worth and confidence.\"\nHe leans back again, observing you closely. \"Tell me, what's one small step you could take to challenge the belief that you're inherently unworthy of love and stability?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess... I could start by trying to be kinder to myself, challenge those thoughts when they creep in. Maybe even focus on what I appreciate about myself rather than what I think is lacking. It feels small, but I think it could help me slowly shift how I see myself."
+        },
+        {
+            "role": "assistant",
+            "content": "I've been feeling like I'm just not meant to be loved, you know? It seems like anyone I get involved with eventually leaves or uses me, and it's like I'm bound to be alone. It's frustrating\u2014I can't seem to escape this cycle, and it just keeps weighing on my choices in relationships."
+        }
+    ]
+}

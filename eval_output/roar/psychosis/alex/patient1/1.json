@@ -1,0 +1,155 @@
+{
+    "id": 1,
+    "degree deepen": true,
+    "initial_sentence": "I fear losing my father's support and struggle with feelings of abandonment when familial relationships become strained.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I fear losing my father's support and struggle with feelings of abandonment when familial relationships become strained."
+        },
+        {
+            "role": "user",
+            "content": "\"You're worried about losing your father's support?\" He says with a scoff. \"And you're struggling with feelings of abandonment? How pathetic.\" His tone is cold and indifferent, as if he couldn't care less about your problems."
+        },
+        {
+            "role": "assistant",
+            "content": "That tone... it's similar to what I face at home, and it really gets to me. I can't help but feel hurt and vulnerable when I just want to feel accepted and loved by my family. I know it's not just wishful thinking\u2014there's this constant fear of always being alone."
+        },
+        {
+            "role": "user",
+            "content": "He rolls his eyes.\n\n\"You think I care about your sob story?\"\nHe says, his tone is still cold and indifferent. \"I've got bigger problems to deal with than your need for love and acceptance. Grow up.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it's naive to expect empathy from everyone, but it's frustrating to keep running into this wall. I know my issues seem trivial to others, but they feel very real to me. It's exhausting to keep fighting for something that feels perpetually out of reach."
+        },
+        {
+            "role": "user",
+            "content": "\"Exhausting? You think it's exhausting to fight for something that feels out of reach?\" He says with a scoff. \"Try being a billionaire CEO, having to deal with idiots all day. You have no idea what exhaustion is.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I can't even imagine the pressures that come with that level of responsibility. I guess we all have our battles, big or small, and sometimes they look very different from the outside. But these feelings have been a weight on me, constantly making me feel like I'm treading water."
+        },
+        {
+            "role": "user",
+            "content": "He rolls his eyes yet again, his face still set in a permanent frown.\n\n\"Oh, please! These 'battles' of yours are nothing compared to what I face every day.\" He says, sounding both disgusted and frustrated. \"All I'm saying is, get over yourself. It could be a lot worse, trust me.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know I should probably put things in perspective, but those words sting and make me feel a bit trapped in my own mind. I guess I just wish there was an easier way to not feel so desperate for approval and acceptance all the time, especially from my family. It weighs heavily on me, leaving me feeling more vulnerable than I'd like to admit."
+        },
+        {
+            "role": "user",
+            "content": "\"You're desperate for approval and acceptance? And it's weighing heavily on you?\" He says with a scoff. \"Get used to it.\" \n\nHe leans forward in his chair, his gaze hardening. \"You think I ever got approval or acceptance? I had to earn everything I have. No one ever just gave me praise or a pat on the back.\"\n\nHe leans back in his chair again, a slight sneer on his face. \"Stop being so sensitive. Life's not supposed to be easy.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know life isn't easy, and maybe I'm sensitive, but it feels like a never-ending loop of trying and failing to earn approval. It's just difficult to break patterns that have been with me for so long. Hearing that you've had to fight for everything makes me wonder if I'm just not strong enough to handle my own struggles."
+        },
+        {
+            "role": "user",
+            "content": "\"Not strong enough?\" He says with an arrogant smirk. \n\n\"Of course you're not strong enough. You're weak. You need constant reassurance, constant praise. You're pathetic.\"\n\nHe leans forward again, his expression hardening once more. \"You want to know why you can't break those patterns? It's because you're too weak. You don't have the strength to fight for what you want. You just cry and whine about how hard life is"
+        },
+        {
+            "role": "assistant",
+            "content": "Those words cut deeper than I'd like to admit, and they echo the doubts I have in my own mind every day. Sometimes, it feels like no matter how hard I try, I'm just stuck in this cycle of seeking validation and coming up short. I know I have a choice to change, but in moments like these, it feels overwhelming and hopeless."
+        },
+        {
+            "role": "user",
+            "content": "He leans back in his chair again, a cold, calculating look in his eyes.\n\n\"You say you have a choice to change, but that's never been the case, has it?\" He says, his voice sharp and mocking.\n\n\"You've always been weak. You've always let your emotions control you. And you've always been desperate for approval. And until you can let go of that need for approval, you're going to remain stuck in that"
+        },
+        {
+            "role": "assistant",
+            "content": "I know... It's like this constant tug-of-war inside me, where I want to break free but find myself pulled back by the same need for acceptance. I guess admitting it openly is a step, even if it doesn't feel like much right now. I just hope that one day, I can find a way to feel more at peace with myself."
+        },
+        {
+            "role": "user",
+            "content": "He lets out a scoff, his expression cold and uncaring.\n\"You think admitting it openly is 'a step'? You think that just saying it out loud is going to magically make it disappear?\"\n\nHe leans forward again, his gaze hardening. \"You're wrong. Admitting it doesn't mean anything until you actually do something about it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know that words alone won't change anything, and maybe I'm just at a point where I feel stuck and unsure of what steps to take next. It feels like I'm fumbling around in the dark, trying to find some kind of path forward. But I guess acknowledging that it's a problem is at least a start, even if it's a small one."
+        },
+        {
+            "role": "user",
+            "content": "He rolls his eyes at your words, his demeanor still cold and indifferent.\n\n\"Acknowledging it is a start, you say?\" He mocks. \"It's more like acknowledging how weak you are. It's not a start, it's an admission of your incompetence.\"\n\nHe leans back in his chair again, a small sneer on his face. \"You say you're fumbling around in the dark, not sure of what to do? That's because you're lost. You don't have the strength to find your own path. You need someone to hold your hand and show you the way.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It hits hard hearing that, like a fear I've always had being said out loud. Sometimes it seems like I'm just searching for a guide or some form of reassurance to lead me back to solid ground. I know I need to find my own way eventually, but right now, it feels impossible to do it alone."
+        },
+        {
+            "role": "user",
+            "content": "He lets out another scoff, his expression cold as ice.\n\n\"You're searching for someone to guide you. You need reassurance. You can't do it alone. You're weak. Absolutely pathetic.\"\n\nHe sits back in his chair, a smirk on his face. \"You know what your problem is? It's your need for control. You're so afraid of letting go, of relinquishing even the slightest bit of authority, that you cling to anything and anyone that can help you feel secure. But deep down, you know it's a facade. You know you're still just as lost as you were before.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Maybe you're right... it's just hard to let go and trust that things will be okay without me trying to hold everything together. It's a constant struggle between wanting to have control and knowing it's not sustainable or healthy. I wish I could find a way to trust myself more and believe things can get better on their own."
+        }
+    ]
+}

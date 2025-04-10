@@ -1,0 +1,309 @@
+{
+    "id": 1,
+    "degree deepen": true,
+    "initial_sentence": "I believe Cleo is emotionally manipulative, but I feel unable to end the relationship despite recognizing these behaviors.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I believe Cleo is emotionally manipulative, but I feel unable to end the relationship despite recognizing these behaviors."
+        },
+        {
+            "role": "user",
+            "content": "*Alex raised an eyebrow slightly at your statement.*\n\"Oh?\"\n*He leans forward, his gaze sharpening.*\n\"And what makes you believe that?\"\n*He asks, his tone still cold and indifferent.*"
+        },
+        {
+            "role": "assistant",
+            "content": "Well, Cleo often gives me mixed signals, like saying one thing but doing another, and it feels like she's keeping me on a string. It's confusing and makes me question what I mean to her. She has her own relationship going on, and yet here I am, tangled up in all this."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's gaze remained cold and calculating as you spoke. He seemed to absorb every word without any change in his expression.*\n \"Mixed signals, hmm?\"\n*He repeated your words, his tone still completely emotionless.*\n\"And do you have feelings for her? Despite everything?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I do, even if I don't want to admit it. It's like I can't let go, hoping maybe something will change. It's like I'm stuck in this loop, where the chance of feeling loved, even just momentarily, keeps me tethered."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's gaze remained sharp and calculating as you spoke.*\n\"So you're willingly stuck in this cycle, even though you're aware of her manipulative tendencies?\"\n*He asked, his tone still cold and emotionless.*\n\"Why do you tolerate that behavior? What keeps you here?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Maybe it's the fear of being alone, that I'll be abandoned like before. It seems like any attention, even the kind that's not great, feels better than none at all. I don't know... living without love or connection terrifies me more than the mess I'm in."
+        },
+        {
+            "role": "user",
+            "content": "*His gaze softened ever so slightly as he took in your words.*\n\"A fear of abandonment, huh?\"\n*He spoke, his tone now holding a hint of sympathy.*\n\"And you think that staying in this relationship gives you a sense of connection or love, even if it's not the best kind?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's like I'm just trying to hang onto whatever bit of connection feels real. There are moments where it feels like she's what I need, so I end up justifying everything else. I guess I'm scared that if I let go, I won't have anything left."
+        },
+        {
+            "role": "user",
+            "content": "*Alex leaned back in his chair, his gaze still focused on you.*\n\"I see.\"\n*He says, his tone still indifferent, but there is a hint of understanding in it.*\n\"You're scared to end it because you fear that you'll be left with nothing. And you tolerate her behavior because you still hope for those \"good moments\" with her?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, exactly. Those moments give me some hope that things could get better. It's a confusing mix of fear and hope, and I don't know how to break free from it."
+        },
+        {
+            "role": "user",
+            "content": "*He took a moment to process your words before he spoke again.*\n\"It's understandable to have hope that things will improve, but in this case, it's probably safe to say that unless she's willing to change, those \"good moments\" will probably remain just a flicker of hope, and you'll keep getting hurt in this cycle.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think you're right. It's just hard to accept that and even harder to imagine moving past it. The idea of letting go feels so overwhelming, like I'll be lost without her."
+        },
+        {
+            "role": "user",
+            "content": "*He sighed slightly, his gaze softened even more.*\n\"I understand that it's tough, but sometimes, letting go of something toxic, even if it means being alone for a while, is necessary for your well-being. You deserve more than just moments of hope. You deserve stability, and someone who appreciates you without all the mind games.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. It's tough to believe sometimes, but it's nice to hear that I deserve more. I need to find a way to start believing it for myself and take steps toward something healthier."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nodded, his gaze still sincere.*\n\"You're welcome. It's important to remember that you're worth more than what you're currently getting. Start by focusing on what you need and want in a healthy relationship, and don't settle for games and mixed signals. It's okay to be single for a while, it gives you time to grow and rediscover yourself. Don't allow fear of abandonment hold you back from living a fulfilling life.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right, but it's just so scary to face that uncertainty. Maybe I need to start small, focus on the parts of myself that I've pushed aside. Hopefully, I'll start seeing my own worth without depending on someone else's validation."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nodded in agreement.*\n\"Taking small steps is a good start. Focus on yourself and your own needs. Discover new hobbies, reconnect with old friends, and engage in activities that make you feel good. Allow yourself to grow and explore who you are outside of the relationship. It might feel scary at first, but as you focus on yourself and your well-being, it will get easier, and you'll find that you don't need validation from someone who's playing mind games. Remember, you're stronger than you think.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thanks for the encouragement. I guess starting small could make it feel less daunting. I'll try to remind myself of my own strength and take things one step at a time."
+        },
+        {
+            "role": "assistant",
+            "content": "Hi there. You know, sometimes I just get this feeling that no matter what I do, I'm always going to end up alone. It's like, no matter how much effort I put into my relationships, I'm just not enough. It's hard not to think that I'm just... unlovable."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's gaze remained sincere as he listened to your words.*\n\"I understand that feeling, but it's important to remember that your worth isn't defined by your relationship status or past experiences. Everyone deserves love and connection. You may have had difficult times in the past, but that doesn't mean you're unlovable. It just means you haven't found the right person who appreciates and values you for who you are.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it's hard to not let those past experiences cloud my judgment. I find myself trying so hard to meet someone else's needs, hoping that will make me matter. I just wish I could see myself the way you're describing, but it's tough."
+        }
+    ]
+}

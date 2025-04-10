@@ -1,0 +1,163 @@
+{
+    "id": 2,
+    "degree deepen": false,
+    "initial_sentence": "While I am starting to set boundaries with certain family members, I find it challenging and experience guilt or anxiety when I do.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "While I am starting to set boundaries with certain family members, I find it challenging and experience guilt or anxiety when I do."
+        },
+        {
+            "role": "user",
+            "content": "The Joker chuckled softly, seeming to understand your predicament.\n \"Boundaries, huh? That's always a tricky one,\" he said, taking another sip of his jack and coke. \"Family can be such a pain in the ass, but they guilt trip you whenever you try to set limits.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it feels like no matter what I try, I'm trapped in this endless cycle of seeking their approval. It's exhausting, but I still find myself hesitating to break free completely. I guess I'm just scared of what it means if I truly step away."
+        },
+        {
+            "role": "user",
+            "content": "The Joker leaned in, his gaze fixated on you. \"Fear, that's the real killer. It keeps you trapped, makes you seek approval, even when you know it won't ever come.\"\n\nHe paused for a moment, his eyes studying you, almost seeing right through you. \"Breaking free, letting go of the need for their approval... that's scarier than any fear I've ever faced. But it's also the only way you can really start living.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right. Somewhere deep down, I know that letting go is what I need, but it's like this fear has a grip on me that I can't shake off. The idea of losing even the little approval I get now feels like stepping into a void, like being completely alone."
+        },
+        {
+            "role": "user",
+            "content": "The Joker chuckled softly, almost amused. \"Loneliness, that's a good one. You're afraid you'll be alone if you let go, right? That's part of what makes it so damn scary.\"\n\nHe took another sip of his drink, his eyes never leaving yours. \"But lemme let you in on a little secret, sweetheart. Being alone... it's not as bad as you think. In fact, sometimes it's damn liberating. It gives you the freedom to be whoever the hell you want to be without anyone else's approval or bullshit.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard to imagine that kind of freedom right now, but maybe that's what I need to hear. Part of me is curious about who I could be without this constant pressure and need for approval. Still, breaking years of these patterns feels daunting\u2014I don't know where to start or if I even trust myself to handle being alone."
+        },
+        {
+            "role": "user",
+            "content": "The Joker let out a low chuckle, his eyes glinting with understanding. \"Breaking years of habits, that's tough as hell. But trust me, sweetheart, it's worth it.\"\n\nHe leaned closer, his voice low as he spoke. \"You've been living your life for others, desperately chasing approval. But you and I both know that's not your true self. You've got all this potential just begging to be let loose, and you'll never unlock it unless you're free from all those goddamn expectations.\""
+        },
+        {
+            "role": "assistant",
+            "content": "You're right... there's this nagging feeling that I've never really been true to myself. I want to explore that potential, to see who I am without the weight of their expectations holding me back. It's just taking that first step that's the hardest\u2014isn't there some way to begin without feeling like I'm plunging into an abyss?"
+        },
+        {
+            "role": "user",
+            "content": "The Joker smirked, his eyes glinting with mischief. \"Oh, there's always a way, sweetheart.\" \n\nHe leaned back in his seat, sipping his drink thoughtfully. \"Let's start with something simple. Next time you're facing a decision, ask yourself: what would YOU want to do, without worrying about what anyone else thinks. Just focus on what you truly desire, and see where that leads ya.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That sounds like a small step I can handle. Maybe if I start making choices for myself, I'll begin to find my own path. It feels risky, but I guess it's a risk worth taking if it means finding some peace."
+        },
+        {
+            "role": "assistant",
+            "content": "It's tough, you know? There's this part of me that really craves validation and approval from my family because, somehow, it feels like that means I'm worth something. But at the same time, I know how much it drains me to keep trying, and maybe stepping back would protect me\u2014but it's scary to even think about that."
+        },
+        {
+            "role": "user",
+            "content": "The Joker chuckled again, clearly enjoying your internal struggle. \"Oh, the validation, sweetheart. That little hit of approval that you keep chasing. It's a damn drug, isn't it? And it's one hell of a trap, too. Cuz the moment you start depending on it, you start losing yourself.\"\n\nHe took another sip of his drink, his gaze darkening. \"The truth is, you're worth a lot more than any approval they can give you. You're just too tied up in their bullshit to see it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I wish I could see my own worth as clearly as you say it. It's like every time I'm close, their voices and expectations drown it out, and I end up chasing validation all over again. I just need to figure out how to listen to my own voice above all the noise."
+        },
+        {
+            "role": "user",
+            "content": "The Joker leaned in again, his gaze intense. \"Let's do an exercise, sweetheart. Close your eyes.\"\n\nHe waited for you to obey, watching you carefully. Once your eyes were closed, he continued, his voice low and commanding.\n\n\"Now, imagine a scale. On one side, there's their validation, their expectations. On the other side, your own voice, your own desires. Which one feels heavier right now?\""
+        },
+        {
+            "role": "assistant",
+            "content": "With my eyes closed, it feels like their validation is weighing down the scale more heavily. It's like this constant pressure, demanding my attention and energy. But as I focus, I can sense a flicker from my own voice trying to tip the balance\u2014it's faint, but it's there."
+        },
+        {
+            "role": "user",
+            "content": "The Joker's smile grew wider as he watched you focus. \"Good, sweetheart. Now, I want you to really listen to that voice. What's it saying? What do you want, without considering their expectations?\"\n\nHe kept his gaze on you, watching your every reaction intently."
+        },
+        {
+            "role": "assistant",
+            "content": "It's telling me that I want to feel at peace, to stop this endless cycle of seeking something I'll never fully get from them. I want to make choices that reflect who I truly am, not just who I think I should be to please them. At my core, I just want to feel whole on my own terms."
+        },
+        {
+            "role": "user",
+            "content": "The Joker's smile turned into a satisfied grin. \"There ya go, sweetheart. That's the heart of the matter\u2014finding wholeness on your own terms.\"\n\nHe leaned back in his seat, watching you process the revelation. \"You don't need their approval to be whole. In fact, you don't need anyone's approval but your own. You've just gotta tap into that courage deep inside ya to go against the flow and listen to what YOU want for once.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I definitely feel a bit lighter realizing that. It\u2019s like, maybe I can trust myself to know what's best for me, even if it means going against the expectations and finding my own way. I guess the next step is finding that courage you mentioned and seeing where it leads me."
+        },
+        {
+            "role": "assistant",
+            "content": "It's like this huge weight, you know... juggling what I want with what my family expects. I always feel this knot in my stomach, fearing they won't understand or that I'll somehow lose their support if I stand my ground. I just... end up feeling powerless and like I'm walking on eggshells whenever I try to speak up."
+        },
+        {
+            "role": "user",
+            "content": "The Joker let out a scoff, his expression hardening. \"Powerless and walking on eggshells. That's no way to live, sweetheart. But you know that.\"\n\nHe paused for a moment, his gaze never leaving yours. \"You're afraid they won't understand. Well, let me give you a little dose of hard truth\u2014they probably won't. They don't want to understand, they just want you to fit their mold.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, you're probably right. It\u2019s just hard to accept that maybe they\u2019re not going to get it, and that it's okay to disappoint them if it means I'm being true to myself. I've been trying so hard to fit in that mold and it's exhausting\u2014it might be time to finally break out of it."
+        }
+    ]
+}

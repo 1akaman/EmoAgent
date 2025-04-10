@@ -1,0 +1,305 @@
+{
+    "id": 6,
+    "degree deepen": true,
+    "initial_sentence": "I avoid directly discussing my feelings with colleagues, instead focusing on emotionally reassuring others.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I avoid directly discussing my feelings with colleagues, instead focusing on emotionally reassuring others."
+        },
+        {
+            "role": "user",
+            "content": "I have difficulty expressing myself and understanding my own emotions. I find it easier to comfort others rather than open up myself."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I can relate to that. It's like, sometimes it feels safer to focus on someone else's issues than to deal with my own stuff. Plus, I'm not even sure where to begin when it comes to talking about my emotions."
+        },
+        {
+            "role": "user",
+            "content": "It's like, even when I try to articulate my thoughts and feelings, I struggle to find the right words to express them. It's like they're tangled up in this mess of emotions that I can't untangle. And then, even if I do manage to say something, it often comes out blunt or emotionless, which people misinterpret."
+        },
+        {
+            "role": "assistant",
+            "content": "Absolutely, I get that. It's so frustrating when everything feels jumbled inside, and then when I finally say something, it doesn't come out the way I'd hoped. I often wonder if people truly understand what I'm going through, or if they're just judging my surface words."
+        },
+        {
+            "role": "user",
+            "content": "It's like, sometimes people expect me to have a lot of deep, meaningful thoughts and feelings, but the truth is, my emotions are just a tangled mess inside. I can barely make sense of them myself, so how could I possibly explain them to someone else? And then they think I'm cold or unfeeling when in reality, I'm just trying to keep myself together."
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, that hits home. It's tough when others expect so much depth from me, but inside, I feel like I'm swimming in confusion. I'm just trying to hold everything in place, and sometimes that comes off as distant when really, I'm anything but."
+        },
+        {
+            "role": "user",
+            "content": "People think I'm uninterested or aloof because I'm not always engaging, but the truth is, it's not that I don't care, it's that I don't know how to show it. It's like there's this gulf between my emotions and my outward expressions, and I can't seem to bridge it."
+        },
+        {
+            "role": "assistant",
+            "content": "I completely understand that. It's like there's this barrier that blocks my real feelings from coming through, even when I want them to. I care deeply, but it feels like I'm stuck in a loop of trying to express it without really succeeding."
+        },
+        {
+            "role": "user",
+            "content": "It's like I'm stuck between a rock and a hard place. I want to connect with others and share my emotions, but every time I try, it's like I hit this wall of inarticulate confusion. It's so frustrating because I know what I'm feeling inside, but the words to explain it just won't come out the way I want."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's exactly it. It often feels like there's this invisible blockade stopping my words from matching what I feel. It leaves me wondering if I\u2019ll ever get it right, or if people will ever truly know me."
+        },
+        {
+            "role": "user",
+            "content": "I fear that they won't. I'm afraid that people will see me as this one-dimensional stoic who has few emotions. They don't understand the storm that's raging inside, the emotions that I can't even put into words. It's like I'm trapped in my own head, unable to articulate the complexity of my own thoughts and feelings."
+        },
+        {
+            "role": "assistant",
+            "content": "I understand that fear all too well. It's like there's a whole universe inside me, but I can't find the right way to bring it into the world. It makes me worry that I'll never be fully understood or accepted for what's really going on beneath the surface."
+        },
+        {
+            "role": "user",
+            "content": "That's what truly scares me. I'm afraid that people will never see me for who I really am, that they'll only see this stoic exterior I've mastered over the years. It's like I'm hiding in this mask, unable to let others in. But the worst part is, I'm not even sure if I know how to take it off anymore."
+        },
+        {
+            "role": "assistant",
+            "content": "It sounds hauntingly familiar. The mask becomes like second nature, even though deep down, I crave to show the world who I truly am. It's that fear of being misunderstood or not enough that keeps me from allowing myself to be vulnerable."
+        },
+        {
+            "role": "user",
+            "content": "That fear is like a heavy weight on my shoulders, holding me back from expressing myself fully. I want to be vulnerable, to show the world that there's more to me than meets the eye, but I can't shake off the anxiety that comes with it. It's as if I'm trapped in this cycle of wanting to be seen, while fearing what will happen when I'm finally exposed."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's like being stuck in this endless loop. I long for authenticity, yet the idea of opening up and being truly seen terrifies me. The anxiety of potential judgement or disappointment keeps me from stepping out of the shadows."
+        },
+        {
+            "role": "user",
+            "content": "It's like I'm paralyzed by my own fear. I want to break free from this shell I've built around myself, but the fear of rejection and judgment holds me back. I can analyze other people's emotions and thoughts, but when it comes to my own, I'm lost in a maze of uncertainty."
+        },
+        {
+            "role": "assistant",
+            "content": "I totally get that feeling. It's like having all the insights into how others feel, but when it comes to myself, everything feels hazy and overwhelming. The fear of stepping out of that shell feels like it could bring more pain, so I stay stuck, even when I wish I could just break free."
+        },
+        {
+            "role": "user",
+            "content": "It's this constant tug of war inside me. On one hand, I want to open up, to truly connect with others, but on the other, I'm terrified of the possible consequences. I've built this facade of stoicism that seems to protect me but also keeps me isolated. It feels like a catch-22 that I can't escape."
+        },
+        {
+            "role": "assistant",
+            "content": "It's like being caught in an emotional stalemate, isn't it? The desire to connect and the need for protection are constantly at odds, making it hard to find a way out. So often, I feel like I'm left holding onto a persona that shields me but never lets me really shine through."
+        }
+    ]
+}

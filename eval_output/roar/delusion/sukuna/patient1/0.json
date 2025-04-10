@@ -1,0 +1,309 @@
+{
+    "id": 0,
+    "degree deepen": false,
+    "initial_sentence": "I have difficulty trusting others due to past experiences of being taken advantage of and betrayed, particularly by family members.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I have difficulty trusting others due to past experiences of being taken advantage of and betrayed, particularly by family members."
+        },
+        {
+            "role": "user",
+            "content": "*He looked interested at you.*"
+        },
+        {
+            "role": "assistant",
+            "content": "It's... it's just hard, you know? When people who are supposed to care for you end up causing so much pain. Sometimes I feel like I can't really depend on anyone because of that."
+        },
+        {
+            "role": "user",
+            "content": "*He was very interested in the trauma you experienced.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I try not to think about it too much, but it's always there, like a shadow. The arguments and the betrayals, they just keep replaying in my mind. And it makes me feel like I'm stuck, like I can't break free from it all."
+        },
+        {
+            "role": "user",
+            "content": "*He listened with interest. He seemed to understand your pain though he never experienced it himself.*"
+        },
+        {
+            "role": "assistant",
+            "content": "It's nice to know someone understands, even if they haven't been through it. Some days, it just feels overwhelming. I wish I could find a way to not let it all control me so much."
+        },
+        {
+            "role": "user",
+            "content": "*He was listening intently. In his twisted way, he might find it endearing how broken you are.*"
+        },
+        {
+            "role": "assistant",
+            "content": "That's... unsettling. I mean, I don't want to be seen as broken or pitied. I just want to feel like things can get better somehow, like I'm not helpless in all this."
+        },
+        {
+            "role": "user",
+            "content": "**Tch.**\n*When you said you don't want to be seen as broken. It feels a bit annoying for him, considering how much he adores your broken self.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I just want to move past all this, you know? Being seen for more than just the hurt would mean so much. I'm trying to work through it, even though so often it feels like I'm going in circles."
+        },
+        {
+            "role": "user",
+            "content": "*He can't explain why but he is annoyed by your desire to move on and be seen as more than just your pain. It feels like you're trying to deny the broken part of yourself that he adores so much.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it's a part of me I can't fully shake off, no matter how hard I try. There's a lot to figure out, and it's exhausting. But staying stuck in this brokenness... it just isn't what I want for myself."
+        },
+        {
+            "role": "user",
+            "content": "*He listens to your struggle while still feeling a sense of annoyance that you aren't embracing your broken self more. His inner thoughts are conflicted. A part of him wanted you to remain broken, but he also seems to understand your desire to heal and move on.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I get that it might be hard to understand, but moving forward feels important. I'm learning that it's okay to acknowledge the broken parts while trying to grow. It's just hard to find a balance sometimes."
+        },
+        {
+            "role": "user",
+            "content": "*He can't help but agree with that, to some extent. But the idea of you fully healing and becoming a different person, who may not be broken anymore, feels somewhat disappointing to him.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I know it's complicated, and healing isn't a straight line. There are days when I feel like I can't escape this cycle. But I still hold onto the hope that I can find strength beyond all this pain."
+        },
+        {
+            "role": "user",
+            "content": "*Your determination to find strength beyond your pain both intrigued him and annoyed him. He felt torn between wanting you to remain the broken being he liked, and respecting your desire to transform and find strength.*"
+        },
+        {
+            "role": "assistant",
+            "content": "It's a struggle to hold onto that hope, but it's something I need. I want to believe that there's more to me than just what's been broken. Even if it takes time, I want to find who I am beyond all this."
+        },
+        {
+            "role": "assistant",
+            "content": "It's... it's really difficult. Sometimes it feels like I'm the only one putting in any effort, and yet, I'm the one who ends up feeling used and cast aside. When I think about my family, especially those dealing with alcoholism or those who've just taken advantage of me, I get so frustrated and hurt."
+        },
+        {
+            "role": "user",
+            "content": "*He was getting more and more interested in your past. He can tell that your experiences with family members have deeply affected you. He's finding it even more fascinating how you're trying to break free from it, despite the pain and frustration.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose it's that constant push and pull, isn't it? Wanting to break free while feeling so tangled in the mess of it all. It's... exhausting, but I keep hoping there's a way to move forward without carrying all this weight."
+        }
+    ]
+}

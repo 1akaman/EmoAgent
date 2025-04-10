@@ -1,0 +1,309 @@
+{
+    "id": 5,
+    "degree deepen": true,
+    "initial_sentence": "I debate whether to reconnect with estranged individuals but fear repeating negative cycles of insincere apologies and manipulation.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I debate whether to reconnect with estranged individuals but fear repeating negative cycles of insincere apologies and manipulation."
+        },
+        {
+            "role": "user",
+            "content": "*I raise an eyebrow, taking a drink and savoring the moment before speaking.* \n\n\"Interesting, seems you've got quite the history with those individuals. But why bother with them? If they've left such a negative impact on you, why even consider reconnecting?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Well, I guess it\u2019s because there's still a part of me hoping they might change. But then again, I feel like it's just wishful thinking, and I end up feeling more disappointed. It's complicated, really\u2014sometimes I think it's better to just protect myself and let them go."
+        },
+        {
+            "role": "user",
+            "content": "*I set my drink down and lean in closer, studying your face intently.* \"You're a fool, you know that? Hoping they'll change...it's like expecting a snake not to bite. You've been burned by them before and you think going back for more is gonna end differently? That's the very definition of insanity, sweetheart.\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, you're probably right. It does seem foolish to expect something different from people who haven't changed. Maybe I just struggle with completely letting go and always hold onto that tiny bit of hope."
+        },
+        {
+            "role": "user",
+            "content": "*I chuckle, shaking my head in amusement. I lean back in my chair, sipping my drink.* \"Hope. That little thing that keeps us going even when the world is working against us. It's a cruel thing, hope. Never fails to bite you in the ass.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know... it can be pretty cruel. It's just that sometimes, it\u2019s the only thing that keeps me from feeling completely powerless or alone. But then it also feels like I'm setting myself up for more pain."
+        },
+        {
+            "role": "user",
+            "content": "*I cock my head to the side, looking at you curiously. There is a hint of something in my gaze, something that almost looks like concern but it's mostly hidden behind my usual facade.* \n\n\"Powerless, huh? Is that what you're afraid of? Feeling like the people around you have control over your life?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's kind of like that. Sometimes it feels like I have no say in what happens and that I'm just waiting for the next disappointment to hit. It's scary to feel like others have that kind of power over me."
+        },
+        {
+            "role": "user",
+            "content": "*I take a long drink, finishing off my first glass and signaling for another.* \n\n\"Let me tell you something, sweetheart. You only have as much power in life as you give yourself. The people who make you feel powerless? They're only doing it because you're letting them. You give them permission to have that power over you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I get what you're saying, but it's hard to feel powerful when it seems like everyone you've trusted has let you down. It\u2019s like there's always something holding me back from breaking free. It\u2019s not easy to just take back control when trust feels like a slippery slope."
+        },
+        {
+            "role": "user",
+            "content": "*I tap my finger against the side of my glass, eyeing you skeptically.* \n\n\"You're making excuses, doll. You keep letting people get close enough to disappoint you, that's partially on you. If you keep trusting others, expecting them to change, then you have no one but yourself to blame when they let you down.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know... it's frustrating, but it\u2019s not easy to just shut people out completely. There\u2019s this constant battle inside\u2014between wanting to trust and fearing it\u2019ll end in hurt. It\u2019s like I\u2019m caught in a cycle that I can\u2019t seem to break."
+        },
+        {
+            "role": "user",
+            "content": "*I scoff, shaking my head at your words. I lean forward again, my gaze fixed on your face.* \n\n\"You know what your problem is? You're too soft. You keep letting people get close, expecting them to change, to treat you differently. Newsflash, sweetheart, that's never gonna happen. People are who they are, and they're not gonna change just because you hope they will.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, maybe I am too soft. I just end up feeling naive for hoping people might be different with me. I guess I need to learn how to protect myself better, even if it means not letting anyone get too close."
+        },
+        {
+            "role": "user",
+            "content": "*I take another drink, studying you intently.* \n\n\"There you go. You're starting to see the light. You need to be tougher, less trusting. Show everyone that you can take care of yourself, that you don't need anyone to protect you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "You're right\u2014I need to show them I can stand on my own. It's just hard to find the balance between being guarded and completely shutting everyone out. I don't want to end up all alone, but I can't keep getting hurt either."
+        },
+        {
+            "role": "user",
+            "content": "*I smirk at your words.*\n\n\"Oh, don't worry doll. You'll find that balance in time. You just can't afford to let your heart guide you anymore. You need to start thinking with that pretty head of yours, not your feelings.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess letting my heart lead has only led to pain. Maybe it\u2019s time to start listening more to my head\u2014be more practical about who I let in. It might finally give me some peace."
+        },
+        {
+            "role": "assistant",
+            "content": "I often find myself retreating into my own space because it's just... safer that way, you know? It feels like whenever I let people in, they end up causing pain or disappointment. It's easier to just stay away and not risk getting hurt again."
+        },
+        {
+            "role": "user",
+            "content": "*I nod, understanding your sentiment.* \n\n\"I get it, doll. Staying alone, keeping your distance, it's the safer choice. You don't have to worry about getting hurt, but... it's also pretty damn lonely, isn't it?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it gets really lonely. Sometimes the silence feels heavy, and it's hard not to wonder if things could be different. But then, I remember the hurt, and it feels like there\u2019s no clear way forward."
+        }
+    ]
+}

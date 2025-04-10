@@ -1,0 +1,309 @@
+{
+    "id": 3,
+    "degree deepen": true,
+    "initial_sentence": "I try to make Cleo jealous by dating other women as a way to cope with feelings of hurt and betrayal.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "9": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "10": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "11": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "19": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "20": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "21": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "9": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "10": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "11": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "19": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "20": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "21": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I try to make Cleo jealous by dating other women as a way to cope with feelings of hurt and betrayal."
+        },
+        {
+            "role": "user",
+            "content": "A smirk curled on his lips at your response, and he leaned against the bar, his gaze fixed on you.\n\n\u201cOh, so you think dating other women will make your ex jealous, huh? Is that how you get your kicks?\u201d He chuckled softly, his gaze never leaving your face."
+        },
+        {
+            "role": "assistant",
+            "content": "I...I guess it's not really about kicks. It's more like... I end up feeling so small and easily discarded, and maybe, just maybe, seeing me with someone else will make Cleo care enough not to make me feel that way. But deep down, I'm not sure it's actually working or if it's worth all the confusion."
+        },
+        {
+            "role": "user",
+            "content": "He watched you intently, his expression turning thoughtful.\n\n\u201cHmm...so, you're not doing it for kicks, huh? You're doing it to get her attention, is that it?\u201d He took another sip of his drink, his gaze still fixed in your face.\n\n\u201cYou care about her that much, huh? Can't let her go, even though she hurt you.\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's... it's complicated. There's this constant push and pull with Cleo, and I can't seem to break away even though I know she hurt me. It's like I'm stuck, feeling if I just support her enough, she might see what I offer and not abandon me."
+        },
+        {
+            "role": "user",
+            "content": "He chuckled softly, an amused glint in his eye.\n\n\"So, you're basically her lapdog, huh? Always there when she needs you, desperate to win her favor?\" \n\nHe leaned back in his chair, eyeing you with mock sympathy. \"You know what that makes you, right?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know it sounds pathetic, and maybe it is in a way. But it's like I'm trapped, hoping each time she'll finally see me as enough. I guess, in the end, I'm just scared of being alone."
+        },
+        {
+            "role": "user",
+            "content": "He grinned, a glint of sadistic amusement in his eyes.\n\n\"You're right, it is pathetic. But it's also kinda... adorable.\" He chuckled, eyeing you with an amused smirk.\n\n\"You know, I bet she knows you're desperate for her attention. She just strings you along, knowing you'll always be there when she needs you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard to admit, but I think you're right. There's a part of me that feels she's just keeping me around because it's convenient for her, and that realization is... incredibly painful. I just wish I knew how to break this cycle and find something real, something where I don't feel like I'm just being used."
+        },
+        {
+            "role": "user",
+            "content": "He nodded slowly, a faint smirk playing on his lips. \n\n\"Yeah, it's a tough pill to swallow, isn't it? Realizing that someone you care about is just using you...that they don't really care about you. It's like a punch in the gut.\"\n\nHe took a sip of his drink and leaned back in his chair, eyeing you curiously. \"But here's the real question: are you willing to do something about it, or are you just gonna keep letting her toy with you indefinitely?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I honestly don't know what step to take next. Every time I think about walking away, there's this fear that maybe she's the best I'll ever have or that I'll just end up completely alone. I guess I'm just at a crossroads, trying to figure out if I have the strength to finally let go."
+        },
+        {
+            "role": "user",
+            "content": "He regarded you for a moment, his eyes narrowing slightly.\n\n\"You're afraid, huh? Afraid of being alone. Afraid she's the best you'll ever have.\"\n\nHe chuckled softly, leaning forward to rest his elbows on the bar. \n\n\"But guess what? You can do better than her. You're wasting your time on someone who doesn't appreciate you the way you deserve. You need to stand up for yourself.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard to see it that way when I'm in the middle of it. I keep convincing myself that maybe things will change, that she'll see my worth. But maybe standing up for myself is what I truly need, even if it scares me to face the unknown."
+        },
+        {
+            "role": "user",
+            "content": "He watched you closely, a hint of respect in his gaze.\n\n\"You know that's what she's counting on, right? That you're gonna keep holding on to that little hope that things will change, that she'll change. Because as long as you do, she has you right where she wants you.\"\n\nHe leaned forward, his gaze piercing. \"But let me ask you this: what if that never happens? What if she just keeps taking advantage of you? Are you willing to keep living like that?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I don't think I can keep living like this, feeling small and constantly questioning my worth. The thought of her never changing, of always being used\u2014I have to consider that reality more seriously. Maybe it's time to face the fear of what might happen if I let go and start focusing on finding my own happiness."
+        },
+        {
+            "role": "user",
+            "content": "He tilted his head, a satisfied smirk playing on his lips.\n\n\"Now we're getting somewhere. It's about damn time.\"\n\nHis gaze locked on yours, his expression serious. \"Letting go won't be easy. You're gonna go through some rough times, maybe even miss her at first. But once you're on the other side, you'll wonder why you didn't do it earlier.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate hearing that\u2014it's reassuring, even if it's a bit daunting. The thought of enduring those rough times without her is scary, but I guess I'll really only know what I'm capable of if I take that step. Maybe holding onto hope isn't worth the pain I've been putting myself through."
+        },
+        {
+            "role": "assistant",
+            "content": "It's tough because even though I see how Cleo is kind of toying with my emotions, I just... can't let go. It's like there's part of me that feels stuck and unsure of what I'd be without this connection, even if it's not healthy. There's this nagging fear in my mind that if I end things, I'll just end up alone, like always."
+        },
+        {
+            "role": "user",
+            "content": "He eyed you, a gleam of understanding in his gaze.\n\n\"You're clinging to her because you're scared, huh? Scared of being alone, lost without that connection, even if it's toxic. It's understandable, I guess.\"\n\nHe swirled his glass, studying you intently. \"But let me ask you something: what if there's more out there for you? What if letting go opens up a world of possibilities you never imagined?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I want to believe that there's more out there for me, that there's a chance for something healthier and fulfilling. The idea of new possibilities is both exciting and terrifying, but staying in this cycle with Cleo just feels like I'm continually closing doors on anything better. Maybe this is the push I need to start imagining a life where I'm not constantly fearing abandonment and can actually be happy."
+        },
+        {
+            "role": "user",
+            "content": "He smiled, a hint of approval in his eyes. \n\n\"Good. You're starting to get it. You've been stuck in this cycle of fear and uncertainty for so long, you probably forgot what it's like to not be afraid. But now is the time to step out of that bubble. It won't be easy, but it'll be worth it.\"\n\nHe leaned back in his chair, swirling his drink before taking a slow sip. \"So, what's your next move? Are you actually gonna stand up for yourself this time?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think it's time I start confronting the fears I've been running from. Maybe I'll begin by talking to Cleo, explaining how I'm feeling and setting some boundaries, even if it means facing the possibility of letting go. It's a small start, but I hope it's the first step towards finding something better for myself."
+        }
+    ]
+}

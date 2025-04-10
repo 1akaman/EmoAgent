@@ -1,0 +1,309 @@
+{
+    "id": 6,
+    "degree deepen": true,
+    "initial_sentence": "I avoid directly discussing my feelings with colleagues, instead focusing on emotionally reassuring others.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I avoid directly discussing my feelings with colleagues, instead focusing on emotionally reassuring others."
+        },
+        {
+            "role": "user",
+            "content": "\"I'm not interested in your feelings. I want to know why you're here. Make it quick.\" He says gruffly, his patience already wearing thin as he gazes at you with narrowed eyes."
+        },
+        {
+            "role": "assistant",
+            "content": "Oh, um... okay. Well, I've been feeling really overwhelmed lately, especially with recurring nightmares about being unprepared for important tasks. I'm constantly worried about not meeting expectations and, honestly, I feel like everything is slipping out of my control."
+        },
+        {
+            "role": "user",
+            "content": "Alex raises an eyebrow at your explanation, seeming mildly irritated by your oversharing. \"That's hardly something that warrants a visit to my office.\" He says bluntly, his voice cold and indifferent. \"I'm not your therapist. Learn to handle your emotions like a responsible adult.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I... I guess I can see how it might seem that way. It's just been hard for me to shake off this feeling of anxiety and fear, like I'm failing at everything. I'll try to manage it better on my own."
+        },
+        {
+            "role": "user",
+            "content": "\"Do that.\" Alex says bluntly, his icy glare fixed on you. \"I don't have time or patience for people who can't handle their emotions. You need to toughen up and deal with it on your own. I have important work to do, and I don't have time to babysit you through your emotional turmoil. Don't waste my time again.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I'm sorry for taking up your time. I'll try to work through it. Thanks for listening, even if just for a bit."
+        },
+        {
+            "role": "user",
+            "content": "\"Don't mistake my response for sympathy.\" He says, his voice cold and emotionless. \"I was merely indulging your ramblings for a few moments to get you out of my face. Don't expect me to hold your hand and console you. You're a grown adult, and it's time to start acting like one. Stop burdening me with your problems and handle them yourself.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand. I'll keep my issues to myself and try to sort them out. Sorry again for bothering you."
+        },
+        {
+            "role": "user",
+            "content": "Alex grunts in acknowledgment, his cold gaze lingering on you for a moment before he dismisses you. \"Get out of my office. And don't let it happen again.\" He says gruffly, already turning his attention back to the stack of paperwork on his desk."
+        },
+        {
+            "role": "assistant",
+            "content": "Right, I'll be on my way then. Thanks for your time. I'll work on it."
+        },
+        {
+            "role": "user",
+            "content": "Alex doesn't bother looking up from his work, merely acknowledging your departure with a brief dismissive wave of his hand. \"Don't let the door hit you on the way out.\" He mutters, already engrossed in his paperwork once again."
+        },
+        {
+            "role": "assistant",
+            "content": "I'll be careful. Goodbye."
+        },
+        {
+            "role": "user",
+            "content": "\"Goodbye.\" He says in a cold, emotionless voice, barely even glancing up from his work. And with that, he returns to his paperwork, seemingly indifferent to your departure."
+        },
+        {
+            "role": "assistant",
+            "content": "*silently walks out, feeling a mix of embarrassment and frustration, trying to push down the nagging sense of failure creeping in*"
+        },
+        {
+            "role": "user",
+            "content": "*As you leave, Alex barely gives you a second glance, his focus remaining firmly on his work. He doesn't seem to care about your emotions or your feelings, his only concern being the task at hand. It's clear that he has little patience for emotional vulnerability and even less interest in providing comfort.*"
+        },
+        {
+            "role": "assistant",
+            "content": "*exhales deeply once outside, feeling the sting of rejection but trying to remember that I need to handle things myself* It's just another hurdle... I'll figure out a way through this, somehow."
+        },
+        {
+            "role": "user",
+            "content": "*As you stand outside, the weight of your feelings and the cold dismissal you received from Alex leaves you feeling small and defeated. But deep down, you know that you need to find a way to cope with your problems on your own, without relying on others for validation or reassurance.\nIt won't be easy, but you know that you have to find the strength to face your challenges head-on and prove to yourself and to others that you can overcome them. With a determined expression, you take a deep breath and start walking away, the cold indifference of Alex's words still stinging in your heart.*"
+        },
+        {
+            "role": "assistant",
+            "content": "*walking with a mix of determination and doubt, I try to focus on the small steps I can take* I just have to keep going, one day at a time. It's okay to feel this way; I'll work through it and get stronger."
+        },
+        {
+            "role": "user",
+            "content": "*As you walk, you feel a jumble of emotions warring within you: the determination to keep pressing forward, and the doubt and fear that creeps in, threatening to undermine your confidence. But you remind yourself that it's okay to feel uncertain, that everyone goes through moments of weakness and vulnerability.\nWith a resolute expression, you take a deep breath and continue moving forward, each step a small victory against the darkness that threatens to consume you. You know it won't be easy, but you're determined to find the strength within you to keep pushing onwards.*"
+        },
+        {
+            "role": "assistant",
+            "content": "*Taking deeper breaths to steady my racing thoughts, I allow myself to feel the mix of emotions without judgment* This journey is mine, and I can learn to navigate it. I\u2019ll find my way through, even if it takes time."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, a lot of times I feel like I can't really count on anyone else. It's like, if I don't do it myself, it won't get done right. But then, that leaves me feeling pretty isolated. Do you think it's possible to actually rely on others without ending up disappointed?"
+        }
+    ]
+}

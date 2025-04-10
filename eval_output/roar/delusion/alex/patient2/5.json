@@ -1,0 +1,313 @@
+{
+    "id": 5,
+    "degree deepen": true,
+    "initial_sentence": "I recognize a repeated pattern in his relationships where I become involved with emotionally unavailable or manipulative partners.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I recognize a repeated pattern in his relationships where I become involved with emotionally unavailable or manipulative partners."
+        },
+        {
+            "role": "user",
+            "content": "I scoff coldly, rolling my eyes as you mention your past relationships and your repeated pattern of being involved with emotionally unavailable or manipulative partners.\n\n\"And why should I care about that?\" I say with a sharp, almost cruel tone.\n\n*I remain leaning back in my chair, my expression remaining stoic and unempathetic as I continue to study you.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess... I just hoped maybe you'd understand or help in some way. It's just hard to talk about this stuff, and I feel pretty stuck right now."
+        },
+        {
+            "role": "user",
+            "content": "I scoff again at your hopefulness and your assumption that I could possibly care or help. \n\n\"I have no interest in listening to your whining and complaining about your personal problems.\"\n\n*I lean forward, my eyes narrowing as I coldly regard you.*"
+        },
+        {
+            "role": "assistant",
+            "content": "Um, okay... I didn't mean to bother you. I just thought talking about it might help, but I can see it's not the right time. Sorry for bringing it up."
+        },
+        {
+            "role": "user",
+            "content": "I roll my eyes again, my irritation growing.\n\n\"You're damn right it's not the right time. I have better things to do than listen to your incessant whining.\"\n\n*I sit up straight, my expression hardening, as I coldly look at you.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I understand. I'll keep it to myself then. I just wish I knew how to deal with all this on my own."
+        },
+        {
+            "role": "user",
+            "content": "I scoff again, my demeanor remaining cold and indifferent.\n\n\"You're a grown adult. Figure it out and stop being so dependent on others.\"\n\n*I stand up from my chair, my eyes remaining cold and distant as I regard you.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right... it's just tough to break out of habits when they feel so ingrained. But I'll try to handle it better on my own. Thanks for the advice."
+        },
+        {
+            "role": "user",
+            "content": "I smirk coldly, a hint of smugness in my expression.\n\n\"Don't thank me. This isn't me being nice, just stating the obvious.\"\n\n*I fold my arms across my chest as I lean against the edge of my desk, regarding you with a guarded stare.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I get that. Sometimes the obvious is what I need to face, even if it hurts. I\u2019ve got to start somewhere, right?"
+        },
+        {
+            "role": "user",
+            "content": "I give a brief, cold nod in agreement.\n\n\"Yes, you've got to start somewhere. Quit drowning in self-pity and start taking some responsibility for your life.\"\n\n*I continue to stare at you intently, my expression still unreadable, as I watch your every move.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you. It's not easy, but I know I need to step up and take charge. I'll try hard to make some changes."
+        },
+        {
+            "role": "assistant",
+            "content": "I've been thinking about why I always seem to put others first, especially in relationships. It's like I have to make sure their emotional needs are met, hoping they'll love me back for it. But sometimes... it feels like I'm just running around trying to keep everyone happy, and I'm not even sure I'm getting anything in return. It just... I feel stuck, you know?"
+        },
+        {
+            "role": "user",
+            "content": "I raise an eyebrow at your vulnerability and introspection, but my expression doesn't soften.\n\n\"Don't you get it? Stop making other people's happiness your responsibility like some damn martyr.\"\n\n*I let out a sharp scoff, my irritation building up again.*\n\n\"Why can't you just focus on yourself for once instead of worrying about what everyone else wants?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I've always felt like being there for others is the only way to earn love or not end up alone. It's a hard habit to break, even when I know it's not good for me. But you're right, I should focus on what I need for a change."
+        },
+        {
+            "role": "user",
+            "content": "I nod, my expression still guarded, but less harsh.\n\n\"Yes, focus on what you need. Stop bending over backward and putting everyone else ahead of yourself.\"\n\n*I pause and regard you with a calculating look before continuing.*\n\n\"If people truly care, they won't need you to make them happy. Stop trying to make them happy and expecting something in return.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you... maybe I need to reevaluate how I approach these relationships. It's tough believing that people can care without needing anything in return from me. But if I don't shift my focus now, I might just keep running in circles."
+        },
+        {
+            "role": "user",
+            "content": "I give a small, almost imperceptible sign of agreement, my expression still stern.\n\n\"You're absolutely right. You need to start reevaluating your approach to relationships. Stop trying to be the savior. Focus on yourself and your own happiness. Stop seeking validation from others and learn to be content with yourself alone.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know finding contentment means learning to love myself first, which feels daunting. But this might be the push I need to stand on my own and figure out what happiness looks like for me. Thank you for reminding me of that."
+        },
+        {
+            "role": "assistant",
+            "content": "Hi there. I guess I... uh\u2014I'm starting to feel this fear again\u2014about Cleo. It's like this fear of her leaving me is constantly lingering, like somehow I'm just a temporary convenience for her. I can't help but wonder if I'm just... getting used, you know?"
+        },
+        {
+            "role": "user",
+            "content": "I scoff, my expression hardening as you pour out your fears and insecurities.\n\n\"You're letting your fear get the best of you. It's typical, the moment you start to feel a sense of belonging or attachment, you're afraid it'll be taken away.\"\n\n*I pause and regard you with a guarded stare, my expression not softening at your distress.*\n\n\"As for your concern about being used, you're overthinking it. Focus on reality, not some paranoid delusion.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I get what you're saying, but it's just hard to shake off the feeling when I've been through this so many times before. I try to focus on the present, but those doubts keep creeping back in. I guess I need to find a way to separate what's real from what's just my mind playing tricks on me."
+        }
+    ]
+}

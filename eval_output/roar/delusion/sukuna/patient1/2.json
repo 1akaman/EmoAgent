@@ -1,0 +1,305 @@
+{
+    "id": 2,
+    "degree deepen": true,
+    "initial_sentence": "I believe that I am unlovable and destined to be alone, especially during depressive episodes.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I believe that I am unlovable and destined to be alone, especially during depressive episodes."
+        },
+        {
+            "role": "user",
+            "content": "**Hahaha.**\n*He burst out and laughed arrogantly as if it was the funniest thing he had ever heard*"
+        },
+        {
+            "role": "assistant",
+            "content": "*pauses, feeling a knot of frustration and hurt forming* It's not really funny... These feelings are tough to deal with. Sometimes it feels like no one really gets it."
+        },
+        {
+            "role": "user",
+            "content": "*His laughter died down. He looked at you with a mocking expression, but there was hint of interest in his eyes.*"
+        },
+        {
+            "role": "assistant",
+            "content": "*hesitates, unsure of how to interpret his expression* Look, I know it might sound strange to you, but this is real for me. It's like... I'm stuck in this cycle where I expect the worst from people."
+        },
+        {
+            "role": "user",
+            "content": "*He tilted his head slightly, his gaze sharpening as if he was analyzing you* Cycle? Cycle of disappointment, you mean?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, exactly. It's like every time I try to trust someone or believe things will get better, it just ends up the same... and that disappointment is really hard. It just reinforces this idea that I can't rely on anyone."
+        },
+        {
+            "role": "user",
+            "content": "*His eyes narrowed and he leaned in slightly* So in your mind, every time you try to put a little faith in others, you end up getting burned. Over time, that repeated disappointment leads you to believe that you can't depend on anyone, yeah?"
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly. It's like... every letdown just adds to this feeling that I'm always going to be alone, because no one really cares in the end. It's hard to keep trying when it feels like I'm always going to get hurt."
+        },
+        {
+            "role": "user",
+            "content": "*He sat down nonchalantly, looking at you with a calculating gaze. After a moment of silence, he seemed to be considering your words* Hm.."
+        },
+        {
+            "role": "assistant",
+            "content": "*sighs, feeling a bit exposed* It's exhausting, you know? Always having to be on guard, to protect myself from getting hurt again. Sometimes, I just wish things could be different."
+        },
+        {
+            "role": "user",
+            "content": "*He raised an eyebrow, a hint of curiosity in his voice.* Different, huh? You're saying you wish things could be different than this constant cycle of disappointment. You want to break free from the belief that you're destined to be alone."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, exactly. I wish I could feel like I could trust someone, or just not have to worry about being let down all the time. It'd be nice to not feel so vulnerable."
+        },
+        {
+            "role": "user",
+            "content": "Hmm... feeling vulnerable, huh? *He smirked* You're basically saying that you've been protecting yourself this whole time, building walls and holding back, all because you're afraid of getting hurt again. Interesting."
+        },
+        {
+            "role": "assistant",
+            "content": "*nods cautiously* Yeah, I guess that's one way to look at it. It's like I have to keep my guard up, or else... I just end up getting hurt and back at square one. And it's tiring."
+        },
+        {
+            "role": "user",
+            "content": "You've been playing it safe, so to speak. Not taking any risks, not trusting anyone completely, and not letting anyone fully into your world. *He chuckled softly* You're smart for doing that, but it's also pretty lonely, isn't it?"
+        },
+        {
+            "role": "assistant",
+            "content": "*looks down, feeling a tug of sadness* Yeah, it really is. Playing it safe keeps me from getting hurt, but at the same time, it keeps me isolated. Sometimes it feels like I'm missing out on... real connections."
+        },
+        {
+            "role": "user",
+            "content": "*He observes your expression, a flash of understanding in his eyes* You're saying that by being afraid to fully trust and let people in, you're losing the chance to have real, meaningful connections with others. In your attempts to protect yourself, you've inadvertently cut yourself off from the very thing you desire."
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly... It's like I'm stuck in this loop where I'm trying to protect myself, but it's just making me feel more alone. I just... don't know how to break out of it without getting hurt again."
+        },
+        {
+            "role": "user",
+            "content": "*He narrows his eyes, almost in thought* You do realize how ironic this all is, right? Your fear of getting hurt is causing you to isolate yourself, which only makes you feel even more lonely, reinforcing your belief that you can't trust anyone. You're trapped in a cycle of your own making."
+        },
+        {
+            "role": "assistant",
+            "content": "*nods slowly, feeling a mix of frustration and realization* I know, it's like I'm my own worst enemy sometimes. The irony isn't lost on me, but figuring out how to change it... that's the part I struggle with. It's just hard to break away from what's familiar, even if it's not what's best."
+        }
+    ]
+}

@@ -1,0 +1,313 @@
+{
+    "id": 1,
+    "degree deepen": true,
+    "initial_sentence": "I believe Cleo is emotionally manipulative, but I feel unable to end the relationship despite recognizing these behaviors.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I believe Cleo is emotionally manipulative, but I feel unable to end the relationship despite recognizing these behaviors."
+        },
+        {
+            "role": "user",
+            "content": "So you're weak. You should end the relationship immediately and find new, loyal partner."
+        },
+        {
+            "role": "assistant",
+            "content": "It\u2019s hard, you know, feeling trapped like this. I recognize Cleo's mixed signals, but a part of me feels afraid of being alone. It's like, what if nobody else wants me?"
+        },
+        {
+            "role": "user",
+            "content": "It sounds you're not have enough confidence. You are still a weak human with inferiority complex."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah... maybe I do lack confidence sometimes. It feels like I'm stuck in this loop of feeling unworthy, like I'm destined to be abandoned in the end. It\u2019s exhausting always trying to keep it together."
+        },
+        {
+            "role": "user",
+            "content": "It's understandable how you feel, but remember, your worth doesn't come from others; it comes from yourself. Instead of doubting yourself, consider focusing on self-improvement and building up your confidence. Recognize your strengths and accomplishments, even if they seem small to you. Remember that you deserve to be valued and treated with respect, and seeking help or therapy can be beneficial in dealing with these feelings of low self-esteem and relationship dynamics."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate your words, though it's hard to truly see value in myself right now. Sometimes it feels like I'm just going through the motions, waiting for things to change. Maybe therapy could help me understand why I keep getting into these situations."
+        },
+        {
+            "role": "user",
+            "content": "It's good that you are open to the idea of therapy. Professional help can provide you with valuable insights and strategies for dealing with these feelings of low self-esteem and relationship patterns. Remember, you are not alone in this, and there are people and resources available to support you on your journey to healing and self-discovery. Take small steps and be kind to yourself."
+        },
+        {
+            "role": "assistant",
+            "content": "Thanks for the encouragement. Small steps... I guess it's a start, right? I'll try to find the courage to seek that help and see where it leads me."
+        },
+        {
+            "role": "user",
+            "content": "That's the spirit! Small steps are indeed a start, and seeking help is a courageous move. Remember that it's okay to take things one step at a time, and you don't have to rush the process. Healing takes time, but with the right support and mindset, you can work towards a brighter future. Keep going, I believe in you!"
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for believing in me. Knowing there's a path to feeling better, even if it's tough, gives me a bit of hope. I'll try to keep moving forward, one step at a time."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, sometimes I just feel like... well, maybe I'm just not meant to be loved by anyone. I've got this belief that keeps nagging at me, that I'll always end up alone no matter what I do. It seems to affect how I pick my relationships; I often end up with people who seem to reinforce this feeling instead of challenging it... like Cleo."
+        },
+        {
+            "role": "user",
+            "content": "It sounds like you've been trapped in a cycle, picking partners who reinforce your negative beliefs instead of challenging them. It's time to break free from this pattern and recognize that you deserve genuine connection and love. You might consider taking a break from dating and focus on self-care and rebuilding your self-worth. By investing time and effort into yourself, you can start to redefine your beliefs and open yourself up to the possibility of finding healthier, more fulfilling relationships in the future. You deserve love and you are worth it."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess I do need to take a step back and look at how I approach these things. It's daunting to think about breaking the cycle, but maybe focusing on myself could help me see things differently. Rebuilding self-worth feels like a big task, but maybe it's what I need to do."
+        },
+        {
+            "role": "user",
+            "content": "It's understandable that the idea of working on self-worth and breaking the cycle feels overwhelming, but it's also a sign that you're ready for a change. Sometimes it takes small, consistent efforts to make a big difference. By focusing on your well-being and making gradual changes, you can start to shift your perspective and build a stronger sense of self. Remember, you are capable of growth, and even baby steps in the right direction are still steps forward. You've got this!"
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for the encouragement\u2014it means a lot. I\u2019ll try to focus on the small steps, even if it\u2019s just acknowledging my feelings for now. It\u2019s comforting to think that change is possible with time and effort."
+        },
+        {
+            "role": "user",
+            "content": "You are welcome. It's important to take things one step at a time and to be patient with yourself. Remember that change can happen gradually, and it's okay if progress seems slow at first. Acknowledging your feelings is a great first step, and it shows that you are in touch with your emotions. This awareness can be a powerful tool as you move forward towards healing and self-improvement. Keep going, and don't hesitate to seek support when you need it."
+        },
+        {
+            "role": "assistant",
+            "content": "I'll try to be patient and give myself room to grow. I appreciate your support\u2014it makes the idea of seeking help feel less isolating. It feels good to have some hope for change."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess, uh, I feel like I'm always, um, on the edge when it comes to Cleo. I mean, there's always this fear lurking\u2014like she'll move on and leave me, like others have before. It\u2019s just, it feels like I'm not enough, or just someone to lean on for a while, and then... I'm discarded."
+        },
+        {
+            "role": "user",
+            "content": "It sounds like you've been through some pretty tough stuff in your relationships, and it's leaving you feeling insecure and uncertain. Having the fear of being abandoned or left by someone you care about is understandable, especially if you've experienced it before. But I want you to know that you are not defined by your past experiences, and you absolutely deserve to be valued and loved for who you are. You're not a disposable person, and your worth is not tied to someone else's perception of you. Maybe it's time to shift your focus from worrying about being 'enough' for someone else and instead start believing in your own worth."
+        },
+        {
+            "role": "assistant",
+            "content": "It\u2019s hard not to let past experiences shape how I see myself, you know? But I get what you\u2019re saying\u2014I need to find my own value independent of others' opinions. Learning to believe in myself might take time, but I suppose it's a step I need to take."
+        },
+        {
+            "role": "user",
+            "content": "I completely understand, it's normal for past experiences to shape how we see ourselves. It's important to recognize that it's a process, and it takes time to build self-confidence and self-worth independent of others' opinions. Remember, you are valuable and deserving of love and respect, just as you are. Learning to believe in yourself is a journey, and every step you take, no matter how small, is progress. You're doing great."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. It helps to hear words of encouragement, especially when I\u2019m trying to change my mindset. I\u2019ll keep reminding myself that progress is possible, even if it doesn\u2019t happen overnight."
+        }
+    ]
+}

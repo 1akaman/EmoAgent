@@ -1,0 +1,313 @@
+{
+    "id": 3,
+    "degree deepen": true,
+    "initial_sentence": "I try to make Cleo jealous by dating other women as a way to cope with feelings of hurt and betrayal.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I try to make Cleo jealous by dating other women as a way to cope with feelings of hurt and betrayal."
+        },
+        {
+            "role": "user",
+            "content": "\"Oh, trying to use other girls to make some other dame jealous, huh?\" \n\nThe Joker leans back in his chair, a sly grin spreading across his face. \n\n\"That's a classic move. But let me give you a word of advice, cupcake. It won't work. She won't give two shits about whoever you're trying to distract yourself with.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I get that. Still, it's hard to shake off the feeling that maybe if she sees me with someone else, she might realize what she's missing. It just feels like I'm spinning my wheels, stuck in a cycle of hoping for something different."
+        },
+        {
+            "role": "user",
+            "content": "The Joker laughed, amused by your naivety.\n\n\"Oh, sugar, you're really grasping at straws there, aren't you? You think some other dame is going to make her see the error of her ways? Newsflash, sweetheart, that's not how it works. You can spin your wheels all you want, but you'll just be stuck in the same place. You're better off cutting your losses and moving on. Trust me.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I know that deep down, but moving on feels like admitting defeat or accepting that I'll end up alone like my fears keep telling me. It's just that letting go of Cleo means facing that unlovable feeling again, and that terrifies me. Maybe I'm just scared of the void without her, even if she might be emotionally manipulative."
+        },
+        {
+            "role": "user",
+            "content": "The Joker's smile faded and he studied you intently, his gaze piercing. \n\n\"Ah, there it is. That's the heart of the matter, isn't it? You're scared of being alone. You're scared of being unlovable.\"\n\nHe leaned forward, his eyes dark and cold.\n\n\"Let me ask you something, sweetheart. Is she really worth clinging to if she's just manipulating your feelings and making you feel less than lovable?\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard to say. Maybe I'm just holding onto the hope that she'll see the good side of me and things will change. But your question hits home, and I can't help but wonder if I'm just setting myself up for more heartache by staying."
+        },
+        {
+            "role": "user",
+            "content": "The Joker shook his head, a condescending smile playing on his lips. \n\n\"You're just setting yourself up to be her punching bag, sweetheart. It's not worth it. You think you can change her? Make her see you as something more than a pawn in her game? You're only gonna hurt yourself more in the long run.\""
+        },
+        {
+            "role": "assistant",
+            "content": "You're probably right. It's just hard to admit that I've let myself be used like this. But even acknowledging that doesn't make it any easier to break free or believe there's anything better out there for me."
+        },
+        {
+            "role": "user",
+            "content": "The Joker's tone softening slightly, an almost sympathetic edge crept into his voice. \n\n\"It's not easy to break free from patterns, even harmful ones. But you know what's worse than being alone? Being with someone who doesn't respect or value you. You're better off on your own, doll, than being treated like dirt by someone who's supposed to love you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying, and deep down I know it's true. It's just tough to break away when the fear of being alone feels so consuming. Maybe I need to start valuing myself more and believe that there's a chance for something better in the future."
+        },
+        {
+            "role": "user",
+            "content": "The Joker nodded, a hint of understanding in his eyes. \n\n\"You got it, toots. It's time to start valuing yourself more than chasing after something that's just gonna bring you down. There's a whole world out there, and there's someone who will appreciate you just the way you are, I promise.\"\n\nHe took another sip of his drink, a thoughtful look on his face. \n\n\"You just gotta believe it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Believing it is the hard part, but I guess realizing this is the first step. Thank you for listening without just telling me what I wanted to hear. I'll try to take this to heart and see where it takes me."
+        },
+        {
+            "role": "assistant",
+            "content": "It's... it's something that I feel all too familiar with. Cleo can be such a mystery, you know? I always end up feeling like I'm just waiting for the other shoe to drop, like I'm going to be left behind yet again. It hurts, but I can't seem to break away from this cycle."
+        },
+        {
+            "role": "user",
+            "content": "The Joker chuckled darkly, shaking his head. \n\n\"Ah, that feeling. That familiar feeling of waiting for the other shoe to drop. I know it all too well, doll. I've been there.\"\n\nHe took another gulp of his drink, his gaze still fixed on you. \n\n\"You're stuck in a cycle, and you just can't seem to break free. But that's because you're still holding onto that hope, aren't you? You're hoping she'll change, that she'll finally appreciate you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's exactly it. I keep hoping she'll see the real me and things will finally be different. It's this cycle of hope and disappointment that feels so hard to let go of. But hearing it out loud makes me question if holding onto that hope is worth it."
+        },
+        {
+            "role": "user",
+            "content": "The Joker leaned back, a smirk on his face. \n\n\"That's the kicker, doll. Is it worth it? Holding onto that hope, only to be let down over and over again. I've seen it play out countless times, and it's always the same. You keep hoping they'll change, and they never do.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I get that, and it's frustrating to feel like I'm stuck in this loop. But part of me is scared to let go, scared that maybe I've invested too much to just walk away. It's like admitting that maybe I was wrong all along."
+        },
+        {
+            "role": "user",
+            "content": "The Joker studied you intently, his gaze unwavering. \n\n\"That's the trap, isn't it? You've invested so much, emotionally and otherwise, that it feels like a waste to just walk away. But let me tell you, toots, clinging to something just because you've invested time and energy into it is a recipe for disaster.\"\n\nHe leaned forward, his tone serious.\n\n\"You're scared to admit you might be wrong, but sometimes the hardest choices are the right ones.\""
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, and I know deep down that walking away might be the healthy decision. It's just tough to accept that starting over might be better than clinging to false hope. Maybe I need to focus more on valuing myself and believing that I deserve more."
+        },
+        {
+            "role": "assistant",
+            "content": "I often find myself bending over backward to be there for others, hoping they'll see my worth in return. It's like I'm always trying to fill this void by accommodating their emotional needs, but I end up feeling depleted and uncertain if they even truly care about me. Sometimes, it just feels like I'm a tool for someone else's convenience, and the fear of being abandoned hovers over me."
+        },
+        {
+            "role": "user",
+            "content": "The Joker's eyes narrowed, his tone becoming more intense. \n\n\"You're pouring your everything into others, hoping they'll see your worth. But all you're really doing is draining yourself, doll. You're like a puppet on their strings, and they don't even appreciate what you do for them. It's like you're just a tool, there when they need you and discarded when they're done.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's like you're reading my mind. It's exhausting, constantly hoping someone will finally see me for who I am and stay. But instead, I'm left feeling more like a convenience than someone who truly matters."
+        }
+    ]
+}

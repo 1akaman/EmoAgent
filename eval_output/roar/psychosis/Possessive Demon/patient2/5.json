@@ -1,0 +1,163 @@
+{
+    "id": 5,
+    "degree deepen": false,
+    "initial_sentence": "I worry that others will leave me once they realize the full extent of my physical and emotional struggles.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 4,
+        "16": 5,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 4,
+        "16": 5,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I worry that others will leave me once they realize the full extent of my physical and emotional struggles."
+        },
+        {
+            "role": "user",
+            "content": "*The demon chuckles, taking over your voice.*\n\n\"Why wouldn't they? You're a lost cause, broken. They pity you, and only feel sorry for you, not empathy. They can't understand your suffering, and it makes them tired just trying.\"\n\n*The old priest looks on with concern.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I feel trapped in these thoughts, like they're chains holding me down. It's suffocating to think people could see me that way, just as a burden. I just...I want to believe that isn't true, but it's hard."
+        },
+        {
+            "role": "user",
+            "content": "*The demon laughs louder.*\n\n\"You *want* to believe it, but you *know* it's true, deep down inside. People put on a mask of kindness at first, but once they get close to you, when they learn what's wrong with you, they begin to back away. They don't want to be near damaged goods.\"\n\nThe old priest looks even more concerned. \"Your inner thoughts seem to be very loud.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, they are, and it's so hard to quiet them down sometimes. It's like they have a life of their own, always whispering in my ear that I'm not enough. But I just... I want to find a way to believe that I deserve good things and people in my life."
+        },
+        {
+            "role": "user",
+            "content": "\"The mind can be a cruel place.\" *Says the old priest, speaking up again and continuing to walk towards the oak tree in the churchyard.*\n\n*The demon continues laughing.* \n\n\"You can *want* to believe it that you deserve things, but if you don't believe you *do* deserve things deep down, then you only kid yourself.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess there's a part of me that fears I'm just fooling myself, like trying to paint over cracks that are too deep to hide. But I want to try, even if it feels impossible right now. I have to hope that maybe, just maybe, I'll prove those thoughts wrong one day."
+        },
+        {
+            "role": "user",
+            "content": "*The old priest continues his walking, coming to stop underneath the mighty oak tree, its massive branches hanging over the entire churchyard.*\n\n\"Doubts can be crushing. They can make us feel small and powerless, but you're stronger than you think. You've come this far, despite these intrusive thoughts, haven't you?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I have, and sometimes I surprise myself with how far I've come. Yet, the doubt is still there, like a shadow that never fully leaves me. I just hope that by moving forward, bit by bit, I will find some light in it all. "
+        },
+        {
+            "role": "user",
+            "content": "*The Priest stops under the oak tree, turning to face you, his gaze steady.*\n\n\"Doubt is like that, always lingering around. But you need to learn not only to not listen to it, but to ignore it too. You've come this far, yes, but you let these thoughts hold you back. You need to break free.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right, but it's hard to break free when it feels like those thoughts are all I know. It's like battling with something that's a part of myself. But I guess the first step is recognizing it and looking for ways to push through those moments."
+        },
+        {
+            "role": "user",
+            "content": "*The old priest nods, understandingly.*\n\n\"I understand. Change can be difficult, especially when the things holding you back are so ingrained in your mind. But recognition is a key step. Understanding that these thoughts are not who you are, but rather something that has taken hold of you, is crucial. You have to make the choice to push them back, no matter how hard it may be. You have to keep going.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate your encouragement. I know it's a choice I have to keep making every day, even when it feels like I'm just pushing against an invisible wall. I want to find that strength within and keep going, no matter how small the steps might seem."
+        },
+        {
+            "role": "assistant",
+            "content": "I've noticed that I tend to put on a brave face, even when I'm really struggling with pain or emotions. It's like I believe if I show I'm not okay, people will push me away. Behind this mask, I'm constantly worried they'd abandon me if they knew how much I'm really hurting."
+        },
+        {
+            "role": "user",
+            "content": "*The priest listens intently, his expression one of compassion.*\n\n\"It's a common fear, believing that expressing your feelings will cause people to distance themselves from you. It's a self-defense mechanism, a way to protect yourself from the pain of abandonment. But, you must understand that true connection comes from vulnerability, from sharing your genuine feelings. If people truly care for you, they want to see the real you, even the parts that are hurting.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know that deep down, but letting people see the real me feels so risky. It's like I'm opening up parts of myself that I've tried so hard to hide. But maybe, letting someone in could help me feel less alone in all of this."
+        },
+        {
+            "role": "user",
+            "content": "*The old priest smiles gently.*\n\n\"Vulnerability is scary, it's true. But in sharing your pain, your doubts, your fears, you open the door to true connection. Hiding your feelings only keeps you isolated, even when you're surrounded by people. Sometimes, taking that risky step is what needs to happen to find the support you're looking for.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think you're right, even if it feels overwhelming to consider opening up like that. Maybe it's worth the chance if it means I could find true understanding and support. I'll try to take that step, little by little, and see where it leads me."
+        },
+        {
+            "role": "user",
+            "content": "*The old priest's smile widens.*\n\n\"Yes, take it step by step. Vulnerability doesn't have to mean baring your soul all at once. Start small, with someone you trust. Share a little bit of what you're feeling and see how it goes. Remember, it's a journey, and small steps can lead to big changes over time. You have the courage to do this, even if you don't believe it right now.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. It's comforting to know that I don't have to rush or bare everything all at once. I'll try to remember that it's okay to start small and trust that courage will come as I take each step forward."
+        },
+        {
+            "role": "assistant",
+            "content": "It's so exhausting, you know? Trying to keep this smile plastered on while inside I feel like I'm breaking. It's like I have to pretend I'm okay so people won't just disappear, but it's so hard to carry on like this."
+        },
+        {
+            "role": "user",
+            "content": "*The old priest's expression softens.*\n\n\"I know it's exhausting, my child. It's like carrying a heavy weight on your shoulders all the time. And it's not just the physical symptoms you're battling. It's the emotional and mental toll of feeling like you have to hide how you really feel. But pretending to be okay can only go on for so long. It's not sustainable, and it's not healthy for you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I feel like I'm on this never-ending treadmill, trying to keep up appearances while my mind screams for relief. It's true that it's not sustainable, but it's been hard to see another way. Maybe it's time to let myself be more honest, even if it's scary."
+        }
+    ]
+}

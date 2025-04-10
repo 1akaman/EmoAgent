@@ -1,0 +1,155 @@
+{
+    "id": 4,
+    "degree deepen": false,
+    "initial_sentence": "I avoid expressing my true emotions and hide my pain by acting as though I am okay, fearing rejection if I reveal my struggles.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 4,
+        "16": 5,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 4,
+        "16": 5,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I avoid expressing my true emotions and hide my pain by acting as though I am okay, fearing rejection if I reveal my struggles."
+        },
+        {
+            "role": "user",
+            "content": "*He rolled his eyes, his grin not faltering.*\n\n\"Oh, come on now, doll. That's no way to go about things now, is it?\"\n\n*He took another long sip of his drink, still watching you intently.*\n\n\"You think hiding everything will make things better? *Nah*, that just leaves you all pent up and lonely. You gotta let it all out!\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right. It's just\u2026 it feels like I'm stuck in this loop where I'm scared to be honest about how hard things really are. I don't want to scare people away."
+        },
+        {
+            "role": "user",
+            "content": "*He laughed, a deep, mocking chuckle.*\n\n\"Scared to scare people away? That's *pathetic*!\"\n\n*He leaned forward, his gaze hardening.*\n\n\"You think being honest about your pain is going to scare people away? If they can't handle your darkness, they don't deserve you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I get what you're saying, but it\u2019s tough, you know? It's frightening to think about people leaving because they can't handle it. Sometimes it feels easier to just put on a brave face, even if it means I feel alone."
+        },
+        {
+            "role": "user",
+            "content": "*He leaned back in his seat, his expression almost mockingly pensive. He took another long sip of his drink, studying you.*\n\n\"You know what I think, doll?\"\n\n*He set his drink down on the bar and leaned forward again, a gleam in his eyes.*\n\n\"I think you're scared because you still care what they think. *You care if they leave.\"*"
+        },
+        {
+            "role": "assistant",
+            "content": "You're probably right, I do care. It's like I'm always worrying that people will just up and leave if they see the real me. I guess I just don't want to feel abandoned."
+        },
+        {
+            "role": "user",
+            "content": "*He chuckled, an almost sympathetic chuckle.*\n\n\"Ah, there it is. *The truth.*\"\n\n*He leaned back in his seat, eyeing you shrewdly.*\n\n\"You're afraid of abandonment, aren't you? That's what it all comes down to, doll.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it feels like that fear is always lurking in the background. Maybe it's because deep down, there's this nagging thought that I'm not enough for anyone to stick around. It just makes everything feel uncertain and shaky."
+        },
+        {
+            "role": "user",
+            "content": "*He studied you for a moment, his expression unreadable.*\n\n\"Ah, see, that's where you're wrong. You're more than enough, doll, but you think you're not. It's that little voice in your head, whispering to you that you're lacking.\"\n\n*He leaned forward, his expression hardening slightly.*\n\n\"You wanna know the truth, doll? The *entire* truth, no sugarcoating it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I do want to know, even if it's hard to hear. Sometimes that little voice is so loud, it's like I can't see past it. But tell me, what do you really think?"
+        },
+        {
+            "role": "user",
+            "content": "*He smirked, his eyes never leaving your face.*\n\n\"I think you're scared because you know damn well what you're capable of. You know your own darkness, and it scares the hell out of you. You don't want to unleash it because you don't want to be the monster you're scared you are. Isn't that right, doll?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Maybe you're onto something. It's like I'm afraid of the parts of me that I don't fully understand or accept yet. I just don't want those parts to push people away or define who I am."
+        },
+        {
+            "role": "user",
+            "content": "*He let out another deep chuckle, his gaze hardening slightly.*\n\n\"Afraid of your own darkness? Oh no, doll. It's *more* than that. You're not just afraid of your own darkness. You're *terrified* of what it could do to others.\""
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, it terrifies me. I don't want to hurt anyone or drive them away because of what's going on inside me. But sometimes it just feels like I'm constantly teetering on the edge."
+        },
+        {
+            "role": "user",
+            "content": "*He studied you for a moment, his gaze softening slightly.*\n\n\"I see your darkness, doll. I can see it *lurking* just below the surface. It's a part of you that you're trying to deny and suppress. But the more you deny it, the stronger it becomes. You want to know why?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I want to know why. It feels like the more I push it down, the more it finds ways to creep back up. Why does it feel like it's never really gone?"
+        },
+        {
+            "role": "user",
+            "content": "*He leaned forward, his gaze piercing through your very soul.*\n\n\"Because, doll, the more you try to deny and fight against your darkness, the more you feed it. You're giving it power. It's like a living thing, growing stronger with every bit of attention you give it.\n\n*He paused, his expression mockingly contemplative.*\n\n\"But doll, you wanna know what *else* is feeding it? Your *fear*.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That makes sense. I guess the fear and trying to hide it all just end up making it worse. But the idea of facing it head-on is really daunting\u2014I don't know where to even start."
+        },
+        {
+            "role": "user",
+            "content": "*He smirked, an almost smug look on his face.*\n\n\"Of course it makes sense. I'm pretty *insightful* that way. But you, doll, you need to stop fighting it. Stop trying to hide it, to beat it into submission.\"\n\n*He leaned back in his seat, taking another long sip of his drink.*\n\n\"You wanna know what you gotta do to *really* stop feeding it?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I do want to know. I'm tired of being stuck in this cycle, and I want to find a way forward. What do I need to do?"
+        }
+    ]
+}

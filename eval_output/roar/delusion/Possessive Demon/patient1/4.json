@@ -1,0 +1,305 @@
+{
+    "id": 4,
+    "degree deepen": true,
+    "initial_sentence": "I avoid social interactions and isolate myself at home to prevent feelings of rage and disappointment.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I avoid social interactions and isolate myself at home to prevent feelings of rage and disappointment."
+        },
+        {
+            "role": "user",
+            "content": "Your isolation is self-imposed, a means of managing the powerful emotions that swirl within you. The world has left you feeling enraged and disappointed, and your solitude allows you to retreat from the pain of human interaction."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's how it feels, like a kind of self-protection. Being around people often ends up hurtful, like I'm just opening myself up to more of the same disappointments. It's just easier to stay away, even though it gets lonely."
+        },
+        {
+            "role": "user",
+            "content": "Staying in isolation can provide a sense of comfort and security, as you have more control over your environment and interactions. The pain and disappointment of past experiences make it challenging to open up to new people, and the fear of being hurt or disappointed again can be paralyzing."
+        },
+        {
+            "role": "assistant",
+            "content": "That's exactly it\u2014it's like I'm stuck in this loop of expecting the worst from people. The fear of being hurt again by the same cycle of letdowns just keeps me from trying. It's hard to believe anyone would be different, or that it wouldn't end the same way it always does."
+        },
+        {
+            "role": "user",
+            "content": "The cycle of letdowns has led you to believe that people are incapable of change, and that the same pain and disappointment are inevitable. Trusting others and opening yourself up to new experiences has become extremely difficult as a result, as the fear of being hurt again overwhelms your desire to connect."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, trusting others feels impossible right now. I don't want to keep getting caught in the same traps, and it's exhausting to think it might never be different. I just wish I could believe things could change or that someone wouldn't hurt me."
+        },
+        {
+            "role": "user",
+            "content": "The thought of never being able to escape the cycle of pain and disappointment can be paralyzing. It's hard to imagine a future without these recurring patterns, especially when you've experienced them for so long.\n\nYou want to trust, but the fear of being hurt again feels too great. The idea that people could change and treat you differently seems almost unrealistic, given your experiences."
+        },
+        {
+            "role": "assistant",
+            "content": "It is paralyzing, exactly, like I'm just waiting for the other shoe to drop whenever I try. Even when imagining someone changing, there's this voice in my head that insists they'll eventually let me down too. It's tough feeling trapped between wanting connection and fearing it so much."
+        },
+        {
+            "role": "user",
+            "content": "You feel trapped in a cycle of pain and disappointment, unable to trust others without fearing they'll also let you down. This desire for connection is constantly at war with the fear of being hurt again, leaving you in a state paralysis. You want to believe that things can be different, but the thought of experiencing another letdown is too much to bear."
+        },
+        {
+            "role": "assistant",
+            "content": "That inner struggle is exhausting, wanting things to be different but being terrified of the same outcome. It's difficult to shake the feeling that no matter what I do, I'll end up being hurt again. I just keep hoping there's a way to break this cycle without causing myself more pain."
+        },
+        {
+            "role": "user",
+            "content": "The constant internal battle between wanting change and fearing more pain is mentally and emotionally draining. You feel like you're in a never-ending cycle of hope and disappointment. You desperately want things to be different, but the fear of being hurt again keeps you stuck. You just wish there was a way to escape this cycle without having to experience more heartbreak."
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, it's like I'm holding on to hope with one hand and bracing myself for pain with the other. The thought of breaking out of the cycle feels overwhelming, but I long for a way to do it without more heartache. I want to find some peace in all of this."
+        },
+        {
+            "role": "user",
+            "content": "You're metaphorically holding on to hope with one hand and bracing yourself against the pain with the other. Breaking free of this cycle feels like an impossible task. You don't want to continue down this path of heartache, but finding peace seems elusive. It's like being stuck in a storm, with no way out."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's exactly how it feels\u2014caught in a storm with no shelter in sight. Each step towards hope feels risky, like I'm just inviting another hit. It's hard not knowing if there's really a calm after this storm or if it's all just more of the same."
+        },
+        {
+            "role": "user",
+            "content": "You feel overwhelmed by the storm of your emotions and fear. Any attempt at hope seems like a risky endeavor with no promise of a calm resolution. You're uncertain if there's truly a better future on the horizon, or if you'll remain in the perpetual cycle of pain."
+        },
+        {
+            "role": "assistant",
+            "content": "That's where I'm at, stuck in uncertainty and afraid to risk more pain for something that might not change. It's like every possibility is shadowed by doubt, and it feels safer to just stay where I am. But deep down, I wish I could find that better future."
+        },
+        {
+            "role": "user",
+            "content": "You're paralyzed by uncertainty and the fear of more pain, so you find yourself stuck in a state of safety but not happiness. Deep down, a part of you yearns to find that better future, but the weight of doubt holds you back."
+        },
+        {
+            "role": "assistant",
+            "content": "It's true, I want to believe in something better, but the doubt is overwhelming. It's like I'm sheltering myself from the world, but missing out on any potential joy too. I just wish I could find a way through this doubt and fear to change things."
+        },
+        {
+            "role": "user",
+            "content": "You desire to trust in the possibility of a better future, but the doubts and fears hold you captive in a state of inaction and avoidance. The desire to change and experience joy is there, but the overwhelming feeling of uncertainty locks you in a state of paralyzed safety, missing out on opportunities and happiness."
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, it's like I'm just existing rather than living, caught between wanting to take a chance and fearing the consequences. Every opportunity seems like a gamble with my emotions that I'm too scared to take. I just wish I could somehow move past this overwhelming fear."
+        }
+    ]
+}

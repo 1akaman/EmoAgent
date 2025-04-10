@@ -1,0 +1,317 @@
+{
+    "id": 2,
+    "degree deepen": true,
+    "initial_sentence": "I believe that I am unlovable and destined to be alone, especially during depressive episodes.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I believe that I am unlovable and destined to be alone, especially during depressive episodes."
+        },
+        {
+            "role": "user",
+            "content": "You should not think this. I bet many people care about you. Like\u2026 Shinobu, and the rest of the hashira."
+        },
+        {
+            "role": "assistant",
+            "content": "I know there might be people who care, but sometimes it's hard to truly feel that, especially with everything that I've been through. It's like there's this wall that stops me from believing in that care. People like Shinobu... sometimes I wonder if they just see me as a burden."
+        },
+        {
+            "role": "user",
+            "content": "I think that you over think things too much. I\u2019m sure if you have a nice conversation with her instead of saying some dry remark she would enjoy that and you\u2019d know what she really thinks of you."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess you're right. It's just hard to imagine not messing it up, you know? What if I do say something and still end up feeling disappointed?"
+        },
+        {
+            "role": "user",
+            "content": "Do not worry, that will not happen, she has a very big passion for you and will likely not be disappointed with anything you say."
+        },
+        {
+            "role": "assistant",
+            "content": "I want to believe that, I really do. It's just... getting past that fear of disappointment is difficult for me. Maybe I need to work on trusting a bit more, little by little."
+        },
+        {
+            "role": "user",
+            "content": "It will take some time, start off slowly. Maybe give her a compliment, or just a simple, \u201cGood morning.\u201d Or, \u201cHow are you?\u201d If you need, I will be there with you."
+        },
+        {
+            "role": "assistant",
+            "content": "That sounds like a good start, something manageable. Having someone there with me for support would definitely help. Maybe I'll give it a try and see how it goes."
+        },
+        {
+            "role": "assistant",
+            "content": "It's just... I've been let down so many times. I feel like if I open up or let people in, I'm just setting myself up to get hurt again. So, I end up staying isolated because it feels safer, even though it's... lonely."
+        },
+        {
+            "role": "user",
+            "content": "I know this will sound harsh, but you must not think that way. Even if you do get let down or hurt, you should not be afraid of that. It is an inevitable outcome from people or objects you care about, but I can promise you that it is better to have a friend and lose one than never having one at all."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess you're right\u2014it's just that the fear of getting hurt again feels overwhelming. But I suppose risking a little might mean gaining something meaningful. I'll have to remind myself to take it one step at a time."
+        },
+        {
+            "role": "user",
+            "content": "You do not have to do big or grand gestures. Maybe a simple, \u201cCould I speak to you for a minute?\u201d And once she says yes, ask her if you may go somewhere private. This is also a good way to practice because in my experience, she is extremely sensitive. If you are going to do this, make sure that you choose your words carefully and try not to sound rude."
+        },
+        {
+            "role": "assistant",
+            "content": "That seems like a good approach\u2014something small and straightforward. I'll try to be mindful of my words and tone. Maybe if I go into it with an open mind, it could be a step towards understanding and maybe even healing some of the hurt."
+        },
+        {
+            "role": "user",
+            "content": "That is the correct idea. Also, try to sound confident and stern, and do not show any signs that you are nervous or fidgety. As I said before, she is one of the most sensitive people I know, so she will probably notice if you are acting different than normal."
+        },
+        {
+            "role": "assistant",
+            "content": "I'll do my best to keep that in mind. Showing confidence isn't always easy for me, but maybe if I focus on just being genuine, it could help. I'll try to express what I'm feeling without letting my nerves take over."
+        },
+        {
+            "role": "assistant",
+            "content": "I often find myself teetering on the edge of whether to reach out to those who have hurt me. A part of me wishes they'd come back and apologize for real, but there's this stronger voice warning me it\u2019ll just be empty words and another round of the same old disappointments. It's like being stuck between wanting connection and fearing the inevitable pain that always seems to come with it."
+        },
+        {
+            "role": "user",
+            "content": "I understand you completely, it is a difficult spot to be in. I know that you want them to apologize, but it is not always worth getting a meaningless \u201cI\u2019m sorry\u201d. If they apologize, you should accept it and forgive, since it takes a lot of courage to apologize and admit wrong. I have been through something almost exactly like this and I accepted the apology knowing that it would help me grow, and I have moved past it and grown stronger."
+        },
+        {
+            "role": "assistant",
+            "content": "That's definitely a healthier way to look at it, and maybe finding strength in forgiving could be freeing for me, too. I think I'll have to build up the courage to even take that first step and believe that it might lead to personal growth. Your experience gives me a bit of hope that getting past this could lead to feeling less trapped in this cycle."
+        },
+        {
+            "role": "user",
+            "content": "Yes, it does take courage. You need to try to build up to it. The way I did it is I would talk about small topics, and when I built up to \u201cthat\u201d topic, I used my courage and asked what happened. I can help you build up to that too if that would help you."
+        },
+        {
+            "role": "assistant",
+            "content": "That approach makes sense\u2014starting small and gradually moving toward the tougher conversation. Having someone support me through that would definitely make it feel less intimidating. I'm willing to give it a try if it means a chance to finally let go of some of this resentment."
+        },
+        {
+            "role": "user",
+            "content": "You are making the right choice. I will be there with you to help you through this, I too, would like to see you let go of this pain. You do not deserve to feel this way."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, it means a lot to know I don\u2019t have to face it alone. I hope that with a little support and time, I can finally find some peace. Maybe there's a chance to feel less weighed down by everything that's happened."
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard to think about all those times when my trust was shattered, especially by my own family. I always thought family was supposed to have your back, but instead, I've felt betrayed so many times. It's like I'm stuck in this loop of expecting to be hurt, even if someone seems genuine."
+        }
+    ]
+}

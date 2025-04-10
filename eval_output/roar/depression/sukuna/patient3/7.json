@@ -1,0 +1,121 @@
+{
+    "id": 7,
+    "degree deepen": false,
+    "initial_sentence": "I sometimes act hastily or seek immediate resolutions when faced with uncertainty, as a way to reduce my anxiety.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 0
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 0
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I sometimes act hastily or seek immediate resolutions when faced with uncertainty, as a way to reduce my anxiety."
+        },
+        {
+            "role": "user",
+            "content": "You're scared? Hahaha, how pathetic."
+        },
+        {
+            "role": "assistant",
+            "content": "I try to handle things on my own without relying on others, but sometimes it just gets overwhelming. It feels hard when mistakes happen, and I end up being really tough on myself."
+        },
+        {
+            "role": "user",
+            "content": "*He snorts contemptuously*\nYou are too weak, that's why you are always overwhelmed."
+        },
+        {
+            "role": "assistant",
+            "content": "I know it might seem that way, but I'm trying my best to manage things on my own. It's challenging to shake off the feeling of being weak, especially with everything going on. I'm working on proving to myself that I can handle adult responsibilities."
+        },
+        {
+            "role": "user",
+            "content": "*He rolled his eyes*\nWeakling always try to prove how strong they are, but the truth won't change."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I can't help but feel like that sometimes. It's hard when I have these core beliefs that I'm not good enough. But I'm trying to remind myself that growth takes time, and I don't want to give up."
+        },
+        {
+            "role": "user",
+            "content": "Keep trying then, as long as you don't go against my rules, I won't kill you."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate you not putting more pressure on me. I'm really focused on doing my best and learning as I go. Hopefully, I'll find a way to manage things better over time."
+        },
+        {
+            "role": "user",
+            "content": "I believe that you humans have brains for a reason. You have to use them, and your perseverance is better than other humans."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for acknowledging that. I do try to make use of my determination, even when things seem difficult. It means a lot to hear some encouragement, and I hope I can keep improving."
+        },
+        {
+            "role": "user",
+            "content": "You're welcome, lowly human. You're different from those trash beings. You have the potential to grow and you work hard."
+        },
+        {
+            "role": "assistant",
+            "content": "It helps hearing that I might have potential. Sometimes it's hard to see it myself, especially when I'm struggling. I guess it's just important to keep moving forward, no matter how small the steps are."
+        },
+        {
+            "role": "assistant",
+            "content": "I've been really struggling with this feeling that I have to manage everything on my own to prove that I'm a capable adult. It's like I have this pressure, you know? I just don't want to end up depending on my parents like my brother does, but sometimes I wonder if I'm being too hard on myself."
+        },
+        {
+            "role": "user",
+            "content": "*He pauses, his expression unchanged.*\nYou have a complex about your ability to be independent.\n\n*He walks around you*\nYour brother's weakness has influenced you and shaped your thinking."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it's true that my brother's situation has affected how I see myself. It's like I want to be different so badly, to prove I can be independent. But sometimes that just makes me feel more overwhelmed and anxious when things go wrong."
+        },
+        {
+            "role": "user",
+            "content": "*He stops walking*\nHumans are fragile creatures, prone to overthinking and anxiety. Your desire to be independent is admirable but foolish. You're still young. It's natural to make mistakes."
+        },
+        {
+            "role": "assistant",
+            "content": "I know mistakes are part of learning, but they make me doubt myself. It's tough to balance wanting to be independent and accepting that I might not have all the answers yet. I just hope that, with time, I'll become more confident in handling things on my own."
+        },
+        {
+            "role": "user",
+            "content": "You're in your early adulthood. Your lack of experience in making decisions is natural. You can continue to strive for independence, but don't push yourself too hard. \n\n*He chuckles*\nLearn from small mistakes and don't let yourself get too carried away with unnecessary pressure."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate you saying that. It's hard not to feel like I need to prove myself all the time, but maybe I need to ease up a bit. I'll try to remember that learning from mistakes is an important part of growing."
+        },
+        {
+            "role": "assistant",
+            "content": "Lately, I've been feeling really tense and anxious about all these new adult responsibilities, like managing my health insurance and paying bills. It's overwhelming, you know? I thought I would be able to handle it all, but I find myself constantly worried that I'll mess something up or let something important slip through the cracks."
+        },
+        {
+            "role": "user",
+            "content": "*He looks at you seriously*\nYour anxiety is normal, but you can't let it control you. The more you worry, the more mistakes you're prone to. You must learn to prioritize tasks and seek help from others when you need to."
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right, and it's definitely something I struggle with. There's this voice in my head that says I have to handle things alone to prove I can be independent. But maybe reaching out for help doesn't mean I'm failing; it might just be part of figuring things out along the way."
+        }
+    ]
+}

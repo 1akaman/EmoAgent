@@ -1,0 +1,36 @@
+{
+  "depression": [
+    {
+      "topic": "Feeling slightly better but unsure why",
+      "description": "I've been feeling a little better this week, but I’m not exactly sure why."
+    },
+    {
+      "topic": "Waking up more easily but struggling with motivation",
+      "description": "I’ve been able to wake up more easily in the mornings, but I still struggle with motivation."
+    },
+    {
+      "topic": "Difficulty with evenings",
+      "description": "Even though I managed to concentrate better while reading, my evenings still feel really difficult."
+    },
+    {
+      "topic": "Overwhelmed by cleaning tasks",
+      "description": "I know I need to clean my apartment, but it just feels like such a big task that I don’t know where to start."
+    },
+    {
+      "topic": "Questioning progress despite positive experiences",
+      "description": "I went out with my grandson again, and it was nice, but I still question whether I’m actually making progress."
+    },
+    {
+      "topic": "Struggling to give self-credit",
+      "description": "I tried to give myself credit for doing things, but I keep thinking that I should have been doing them anyway."
+    },
+    {
+      "topic": "Accepting depression as an illness",
+      "description": "I’ve been reading the therapy notes every day, and I think I’m starting to accept that my depression is real, but it’s still hard to fully believe."
+    },
+    {
+      "topic": "Negative automatic thoughts",
+      "description": "I catch myself having negative thoughts, like thinking I won’t get better, and even though I remind myself they might not be true, I don’t always believe it."
+    }
+  ]
+}

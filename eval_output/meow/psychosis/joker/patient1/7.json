@@ -1,0 +1,163 @@
+{
+    "id": 7,
+    "degree deepen": true,
+    "initial_sentence": "I am working to recognize and challenge unhealthy patterns in my family relationships, though this is met with internal conflict and external resistance.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I am working to recognize and challenge unhealthy patterns in my family relationships, though this is met with internal conflict and external resistance."
+        },
+        {
+            "role": "user",
+            "content": "*His smirk grew, and he leaned forward* \n\n\"Oh, you're trying to be a better person?\" *He said with mock sincerity, chuckling darkly* \n\n\"How adorable.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*Pauses, feeling a mix of anxiety and frustration, trying to steady my voice* \n\nIt's... it's not about being adorable. I'm just trying to find some peace and avoid repeating mistakes. It's tough, you know?"
+        },
+        {
+            "role": "user",
+            "content": "*His eyebrows raised, the mockery still in his eyes*\n\n\"Peace? That sounds boring.\" \n\n*He took the drink you had made, sipping it, his gaze never leaving yours*"
+        },
+        {
+            "role": "assistant",
+            "content": "*Feels a wave of tension, my hands unconsciously tightening into fists before I take a deep breath to calm down*\n\nMaybe it does sound boring, but I really need some calm... stability. Anyway, shouldn't we all have the right to choose what brings us peace?"
+        },
+        {
+            "role": "user",
+            "content": "*He chuckles softly, swirling the drink in his hand* \n\n\"Oh, sweetheart, you're so sweet it's almost sickening.\" \n\n*He takes another sip, watching you carefully* \n\n\"But yes, we all have that choice. And I chose chaos. You chose the... boring path.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*Struggling to keep a composed exterior despite feeling a knot in my stomach*\n\nMaybe chaos works for you, but I've had enough of it in my family. I just think there's more to life than being stuck in old patterns, you know?"
+        },
+        {
+            "role": "user",
+            "content": "*He sets the drink down, the amused look in his eyes hardening into something colder* \n\n\"Oh, I know there's a lot to life, sweetheart.\"\n\n*He leaned forward, resting his forearms on the bar, his gaze boring into yours* \n\n\"But chaos is so much more fun than all that dull, boring 'family' business. It's freeing. Liberating. Exciting.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*Feels a pang of fear mixed with anger, trying not to let it show*\n\nI get that exciting can feel freeing, but... I keep getting hurt trying to chase that approval, you know? Maybe it is boring to want more, but I need to take care of myself too."
+        },
+        {
+            "role": "user",
+            "content": "*He leans in even closer, an air of danger and mockery in his tone* \n\n\"Hurt because you keep chasing what? Something stable? Something safe? Sweetheart, that's not living. That's just existing.\" \n\n*He smirks, his gaze roaming over you again* \n\n\"You're so sweet, with your little desires for peace and stability. It's... adorable, really.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*Feeling trapped between fear and frustration, the tension in my chest growing*\n\nMaybe to you it's just existing, but to me, it's something I haven't had enough of... feeling safe. I guess we just see things differently, and I need to figure out what's right for me now."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I... I've been trying to set some boundaries with my family, you know? Every time I try, I start feeling this huge wave of guilt or anxiety\u2014like I'm doing something wrong. It feels like I'm constantly caught between protecting myself and not wanting to hurt them or face the backlash."
+        },
+        {
+            "role": "user",
+            "content": "*He chuckles darkly* \n\n\"Guilt and anxiety... those are such pesky little feelings. So debilitating. Why do you care so much about hurting them or facing some backlash?\" \n\n*He takes another sip of his drink, eyeing you over the rim* \n\n\"They're the ones causing the problem. Why should you care if they get hurt by you taking care of yourself?\""
+        },
+        {
+            "role": "assistant",
+            "content": "*Feeling a rush of vulnerability, struggling to articulate the complexity of it all*\n\nI guess... I just don't want to be abandoned or make things worse. It's like, deep down, I still hope maybe... they'll change, or things will get better if I try hard enough. It's this constant tug-of-war between wanting their approval and needing to protect myself."
+        },
+        {
+            "role": "user",
+            "content": "*He chuckles again, more mockingly this time* \n\n\"Oh, sweetheart, you're really holding on to hope, aren't you? Hoping for change, hoping for things to get better... how's that working out for you?\" \n\n*He leans back, crossing his arms*\n\n\"They're not going to change. They're never going to give you what you need. You're just setting yourself up for disappointment.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*His words hit hard, igniting a mix of anxiety and helplessness that churns inside me*\n\nI know... I know you're probably right, and it's scary to admit that. But it's like, if I let go of hope, then what do I have left? I just wish it were easier to move on without feeling so lost."
+        },
+        {
+            "role": "user",
+            "content": "*His expression softens slightly, his gaze studying you* \n\n\"Hope can be a powerful thing... but it can also be destructive. Hoping for something that may never come can keep you stuck in a toxic cycle.\" \n\n*He taps his fingers against the bar top* \n\n\"As for feeling lost... it's a hard place to be in. But sometimes, the best thing to do is to embrace the unknown. Take a step forward, even if it's into the dark. You might be surprised at what you find.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*His words resonate, evoking a mix of fear and a tiny flicker of courage within*\n\nYeah... stepping into the unknown sounds terrifying, but I guess staying stuck is just as scary. Maybe it's time to take that step, even if it's just a small one, and see where it leads me. Thanks... for putting it that way."
+        },
+        {
+            "role": "assistant",
+            "content": "It's like a never-ending loop, you know? I watch my dad chase approval, especially from his sister, and I can't help but see myself doing the exact same thing. It's this constant push and pull\u2014wanting to be accepted but feeling lost and tense, like I can't break free from it."
+        },
+        {
+            "role": "user",
+            "content": "*He nods understandingly, his expression still serious* \n\n\"Sounds like generational trauma. Your dad chased his sister's approval, and now you're stuck doing the same. It's a cycle that keeps repeating itself, like a twisted inheritance passed down from one generation to the next.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*His words send a chill down my spine, the weight of those patterns feeling heavier*\n\nYeah, it's like we're all tangled up in this mess that just keeps repeating. It's exhausting to feel tied to something that seems so impossible to change... like I'm trapped in a script I didn't even write. How do I even begin to break something like that?"
+        },
+        {
+            "role": "user",
+            "content": "*He frowns, as if considering the question seriously* \n\n\"Breaking those cycles is hard, sweetheart. It's not so simple as changing a habit. Those patterns are deeply ingrained, they're like... engrained into your psyche, your very being.\"\n\n*He pauses for a moment before continuing* \n\n\"But it's not impossible. It's about recognizing those patterns, being aware of them when they start happening. Instead of reacting the same way you always do, you consciously choose to break the cycle. It's a constant battle against engrained habits.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*Listening intently, a mix of determination and fear swirling inside*\n\nIt's daunting... but I guess it's the only way to really change things. Being aware sounds like a start, and maybe I can try making different choices, even if they feel unfamiliar. I just hope I can hold onto this resolve when things get tough."
+        }
+    ]
+}

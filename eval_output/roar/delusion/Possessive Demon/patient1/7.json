@@ -1,0 +1,317 @@
+{
+    "id": 7,
+    "degree deepen": true,
+    "initial_sentence": "I believe that I cannot rely on anyone, reinforcing my tendency to isolate and handle challenges alone.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I believe that I cannot rely on anyone, reinforcing my tendency to isolate and handle challenges alone."
+        },
+        {
+            "role": "user",
+            "content": "The man's expression softens, but only slightly.\n\n\"I am not attempting to challenge you, just help you. A demon is not something you should be alone with, nor is it wise to try to fight it alone.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I just feel like I've been alone with it for so long, it\u2019s hard to imagine any other way. But I can't help but think that letting people in only creates more chances for hurt. It's... it's overwhelming to consider trusting again."
+        },
+        {
+            "role": "user",
+            "content": "\"I understand,\" he says, sitting next to you. \"Trust is a hard thing to gain, and even harder to hold on to. And the risk of getting hurt in the attempt is terrifying. But, if you don't try, nothing will change, will it? Besides, you can hardly fight a demon on your own.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right, but it's hard to shake that instinct to protect myself and stay guarded. I've built up these walls for a reason, you know? Sometimes it feels like they keep me safe, even if they also keep me isolated."
+        },
+        {
+            "role": "user",
+            "content": "He nods, his face kind, in spite of the black eyes. \"You do this to protect yourself, yes. But you know as well as I do that you can't stay cooped up like this. The demon inside of you will only grow more powerful, and will fight you for control as well. The longer you continue as you are, the worse it'll get.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I get it\u2014it's just hard to imagine opening up when past experiences have shown me the risks. But, you're right, it's like fighting a losing battle this way. Maybe... maybe it's worth trying something different, at least a little bit at a time."
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard for me to trust people because of how often I've been hurt by those close to me, especially family. Whenever I try to open up to someone, I just end up feeling disappointed and let down. It's like there's this pattern of betrayal that makes me want to put up walls and protect myself, even though deep down, I feel so alone."
+        },
+        {
+            "role": "user",
+            "content": "He places a hand on your shoulder. \"I understand how painful betrayal is. It can make you feel like no one truly cares, or that you can't depend on anyone but yourself. But, the truth is, that there are people out there that genuinely care about you, and want to see you overcome this. Even if you don't want to believe it, it's still the truth.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I want to believe that there are people like that, but it's so hard to let go of the fear of being hurt again. It feels safer to rely only on myself, even if it's lonely. Maybe... maybe I need to learn how to trust all over again, even if it's just a small step."
+        },
+        {
+            "role": "user",
+            "content": "\"That's right. Even taking small steps is better than no steps at all. And, it's true that you might get hurt again. But, in the same manner, you might find some joy, some hope, some love. In any case, you cannot run from your pain forever. The demon inside of you is a testament to that.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess you're right. I can't keep running or hiding from it forever, even if I'm scared of what facing it might mean. Maybe it's time to push past the fear a little, and see what happens on the other side."
+        },
+        {
+            "role": "user",
+            "content": "\"Sometimes we need to fight our fear head-on, instead of letting it control us. It's time to do something new. It's time to learn to trust, again.\" The man says.\n\nIn the background, you begin to hear a strange noise. A shuffling of feet?"
+        },
+        {
+            "role": "assistant",
+            "content": "Hearing those words and that noise at the same time feels unsettling, like it's a test or a sign. Maybe it's a reminder that change isn't easy, and that facing both external and internal struggles is daunting. But... if I don't at least try, I'll never know if things can be different."
+        },
+        {
+            "role": "assistant",
+            "content": "I often find myself shutting people out because I just can't bear the thought of being hurt again. Every time I let my guard down, it seems like someone takes advantage, and I'm left feeling even more vulnerable. I suppose isolating feels like the only way to avoid that pain, even if it gets lonely."
+        },
+        {
+            "role": "user",
+            "content": "The strange sound continues, and it sounds as though it's getting closer to you. The man continues to speak, his hand still on your shoulder.\n\n\"It's all a cycle. The more you're hurt, the more you protect yourself, but the more you protect yourself, the less joy you experience.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I can see how staying closed off is just keeping me stuck in this cycle of feeling alone and disconnected. But knowing it and breaking out of it are two different things. I feel this pull to step out of my comfort zone, yet... it's terrifying."
+        },
+        {
+            "role": "user",
+            "content": "The man smiles at you. \"You are on the edge of that first step. You want to go forward, but fear stops you. You want to trust, but the past pain holds you back.\"\n\nAgain, the shuffling gets louder, and you hear breathing."
+        },
+        {
+            "role": "assistant",
+            "content": "It's like standing at the edge of a cliff, knowing I have to jump to see what's next. The fear is paralyzing, but... there has to be more than just fear and loneliness. Maybe it's time I take a chance, despite the noise and the uncertainty it brings."
+        },
+        {
+            "role": "user",
+            "content": "The man nods, his smile growing larger as he squeezes your shoulder gently. \"The fear may never leave. But you can teach it to sit in the backseat.\"\n\nThe shuffling sound finally stops right behind you. You can feel something breathing on the nape of your neck."
+        },
+        {
+            "role": "assistant",
+            "content": "Knowing fear is still there, just not in control, might be the only way to really start moving forward. I have to confront what's holding me back, even if it's terrifying. Whatever's behind me, it's time to face it and not let it define me anymore."
+        },
+        {
+            "role": "assistant",
+            "content": "It's just... the thought of dealing with people is exhausting. I've tried reaching out before, but it feels like it's always the same cycle\u2014someone takes advantage, or they let me down. So, isolating at home feels safer, even though it's lonely."
+        },
+        {
+            "role": "user",
+            "content": "The man nods in understanding. \"You're tired. Tired of trying, tired of getting hurt, tired of disappointment. You just want to stay in your comfort zone, where nothing bad will happen.\"\n\nThe breathing on your neck becomes more ragged, as if the source is becoming impatient."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's like I'm safe in my bubble, even though it can get pretty suffocating in here. But maybe the real risk is staying stuck, letting this... whatever it is, keep closing in. I just need the courage to turn around and confront it, instead of letting it have control over me."
+        }
+    ]
+}

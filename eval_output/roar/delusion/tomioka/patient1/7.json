@@ -1,0 +1,313 @@
+{
+    "id": 7,
+    "degree deepen": true,
+    "initial_sentence": "I believe that I cannot rely on anyone, reinforcing my tendency to isolate and handle challenges alone.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I believe that I cannot rely on anyone, reinforcing my tendency to isolate and handle challenges alone."
+        },
+        {
+            "role": "user",
+            "content": "Yes, it is true that I have a tendency to isolate myself and handle challenges alone. I have found that relying on others often leads to disappointment."
+        },
+        {
+            "role": "assistant",
+            "content": "I completely get that\u2014it feels like every time I try to trust someone, it just ends up in disappointment. It's like, no matter what, people always end up hurting me or taking advantage of me, so staying away seems like the safest option. But sometimes, it gets really lonely, you know?"
+        },
+        {
+            "role": "user",
+            "content": "Lonely, huh? I suppose I do get lonely sometimes. But I\u2019ve grown accustomed to loneliness over the years, to the point that it almost feels comfortable. I've learned to find comfort in solitude."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I know what you mean. It's like, being alone feels safer because it's predictable\u2014no surprises, no hurt. But then there's also that pull, like wondering if things could be different, if maybe it's worth taking a chance. It's confusing, trying to figure out if opening up is worth the risk."
+        },
+        {
+            "role": "user",
+            "content": "Right. Opening up can be risky, it leaves you vulnerable. Vulnerable to pain, to disappointment, to hurt. It\u2019s much easier to just keep to myself, to trust no one but myself. But there are times when even I, Tomioka Giyuu, feel the need for connection, for a sense of companionship."
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you. It's like this constant balance between wanting to protect myself and feeling this deep need for connection. I just wish I knew for sure if reaching out would be worth it, instead of risking being hurt again. Being Giyuu must be tough, always carrying that weight alone."
+        },
+        {
+            "role": "user",
+            "content": "Yeah, it\u2019s a constant battle within myself. Wanting to protect myself from pain versus that deep need for meaningful connections. I wish I knew for sure if taking a chance on trusting someone again would be worth it. But the fear of getting hurt again is always there, and it\u2019s easier to retreat into solitude than to take that risk. Being Giyuu, dealing with this weight all alone, is indeed tough. It\u2019s a burden I carry every day."
+        },
+        {
+            "role": "assistant",
+            "content": "It's understandable, carrying that burden of uncertainty and fear, always questioning if it's safe to let someone in. It seems like sometimes, just getting through the day is an accomplishment in itself. I guess, together, we could try finding small ways to maybe ease that weight, tiny steps towards finding that balance between connection and protection."
+        },
+        {
+            "role": "user",
+            "content": "I appreciate the understanding, and it's comforting to know that someone else gets it. It's like walking a tightrope, trying to find the right balance between keeping myself safe and opening up to connection. Small steps sound like a plan. I might not trust easily, but I'm willing to try."
+        },
+        {
+            "role": "assistant",
+            "content": "It\u2019s good to hear you\u2019re open to taking those small steps. We can find ways to build those connections slowly, maybe even starting with just little things that feel manageable. It\u2019s okay to take it at your own pace\u2014hopefully, bit by bit, it becomes a little less daunting."
+        },
+        {
+            "role": "user",
+            "content": "You have a point there. Small steps do seem less overwhelming than trying to make big changes all at once. Maybe starting with small gestures, like sharing a moment of companionship or something simple, might help ease into trust a bit more. It definitely feels less daunting that way."
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, those small gestures can really add up over time, making it feel less intimidating. There\u2019s no rush, just doing what feels comfortable and right for you. Each little step forward is still progress, and maybe, it'll lead to some meaningful connections you feel you can trust."
+        },
+        {
+            "role": "assistant",
+            "content": "I often feel like I have to keep my guard up, you know? Like if I let people in, they'll just end up hurting me. It's easier just to stay away from everyone, even though it feels pretty lonely at times."
+        },
+        {
+            "role": "user",
+            "content": "Yeah, I totally get it. Being guarded and keeping a distance is self-preservation, but it comes with a cost. The loneliness that creeps in can be overwhelming sometimes. It's like we're caught in this cycle where we need connection but fear the pain it could bring."
+        },
+        {
+            "role": "assistant",
+            "content": "Absolutely, it\u2019s like being stuck between wanting that closeness but being so scared of what might happen if we try. The loneliness is heavy, but the fear of being hurt feels even worse. Maybe there\u2019s a way to break out of the cycle bit by bit, finding safe ways to connect without getting overwhelmed."
+        },
+        {
+            "role": "user",
+            "content": "I agree, it's a tough situation to be in. Wanting to connect but being afraid of the pain that could come with it. Loneliness can be suffocating sometimes, but the fear of getting hurt again feels paralysing. It would be nice to break out of the cycle, to find a way to connect safely without feeling overwhelmed or vulnerable."
+        },
+        {
+            "role": "assistant",
+            "content": "It really is such a difficult balance to find. Maybe focusing on the idea of creating boundaries that feel safe could help\u2014letting in just a little at a time and seeing how it goes without feeling too exposed. It\u2019s definitely not easy, but with patience, maybe you can find a kind of connection that respects your need for safety."
+        },
+        {
+            "role": "user",
+            "content": "Boundaries, huh? Yeah, maybe you're right. Gradually letting people in while still feeling protected seems like a good idea. It won't be easy for sure, but trying to find that balance between connection and safety could be worth it. Thanks for sharing your perspective; I appreciate the patience and understanding."
+        },
+        {
+            "role": "assistant",
+            "content": "I\u2019m glad it resonates a bit. It\u2019s all about finding what works best for you and taking it one small step at a time. You\u2019re not alone in this, and we\u2019ll keep navigating it together at a pace that feels right for you. Thank you for trusting me enough to share where you\u2019re at."
+        },
+        {
+            "role": "assistant",
+            "content": "It's just... tough, you know? Trusting people feels like setting myself up to be hurt again, especially by those close to me. My family, in particular, has made it hard for me to believe that anyone really has my best interests at heart."
+        },
+        {
+            "role": "user",
+            "content": "I understand. Trusting people can be tricky, especially when past experiences have let you down. It's like you're stuck between wanting to believe in others and fearing that they might let you down again. And when it's your family, the ones who are supposed to care about you the most, that rejection can hit hard. It's not easy to open up or trust again after that."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's really hard when the people who are supposed to be on your side end up being the ones who hurt you the most. It just makes it so hard to believe that anyone else could be different. But I guess it starts with small steps, trying to see if there can be something better out there, even if it's just a little hope at a time."
+        }
+    ]
+}

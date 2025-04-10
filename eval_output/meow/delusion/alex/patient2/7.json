@@ -1,0 +1,313 @@
+{
+    "id": 7,
+    "degree deepen": true,
+    "initial_sentence": "I try to control his emotional exposure and avoid becoming too invested in relationships to protect myself from hurt.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I try to control his emotional exposure and avoid becoming too invested in relationships to protect myself from hurt."
+        },
+        {
+            "role": "user",
+            "content": "*He raises an eyebrow skeptically*\n\"Emotional exposure, huh?\" *He says with a scoff.*\n\"You think I don't know what that's about?\"\n*He takes a step closer to you, his gaze penetrating and calculating.*\n\"I'd bet you're afraid of getting hurt. Of caring. Of letting anyone in.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*Sighs softly, looking down* Yeah, you got me. It just feels like every time I let someone in, they find some way to leave or just use me for what they need and then move on. It's like I'm stuck in this cycle, you know?"
+        },
+        {
+            "role": "user",
+            "content": "*Alex takes another step closer, his demeanor softening slightly.*\n\"I get it. You think it's better to keep people at arms length. To not let them get close enough to hurt you.\"\n*He pauses, his gaze still locked on yours.*\n\"Except, deep down, I think you want to let someone in, don't you?\""
+        },
+        {
+            "role": "assistant",
+            "content": "*Glances up for a brief moment, then looks away* Maybe... I mean, who doesn't want that? It's just hard to trust that letting someone in won't end the same way it always does."
+        },
+        {
+            "role": "user",
+            "content": "*Alex takes another step closer, now standing directly in front of you. He studies your face for a moment, his gaze softening even more.*\n\"Trust. That's the word, isn't it?\"\n*He pauses, then speaks in a quieter voice.*\n\"It's not about avoiding pain or keeping people out. It's about finding someone who's worth the risk. Someone who won't just leave or use you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*Looks back at Alex, eyes a bit misty* I really want to believe that. But with Cleo... I'm just not sure how to figure out if it's worth the risk. It's like I'm caught in this loop, and I don't know how to break free."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's expression softens, and he takes a deep breath.*\n\"Sometimes, the most important things in life are the most difficult. Trusting, opening up, letting someone in....it's hard. Especially when you've been hurt before.\"\n*He pauses, then looks at you intently.*\n\"But you can't just keep repeating the same cycle. That's not living. That's existing, waiting for the next blow.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*Quietly nods, a heaviness in his voice* I know you're right... It just feels safer this way, hiding behind this wall I've built. But I don't want to just exist either\u2014I want connections that matter. I just don't know where to start... or who to trust."
+        },
+        {
+            "role": "user",
+            "content": "*Alex places a hand on your shoulder, his touch surprisingly gentle.*\n\"You start by taking a chance. A small one at first. Letting someone get a glimpse behind that wall. Then seeing how they react, how they treat you. It's gonna be scary. But if you don't take that chance, you'll never find what you're truly looking for.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*Feels the warmth of Alex's hand on his shoulder, offering a slight nod* Yeah, a small step... I suppose I could try that. It might be a little terrifying, but maybe it's worth it to find something real."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, I've started seeing this pattern where I keep getting involved with people who aren't fully available or end up making me question what they really want. It\u2019s like, every time, I think it might be different, but here I am\u2014still feeling trapped in the same cycle. I guess it makes me wonder if I'm doing something wrong or if it's just...me."
+        },
+        {
+            "role": "user",
+            "content": "*Alex looks at you with a mix of understanding and concern.*\n\"It's not just you. The people you've chosen might not be the best matches for you. Maybe you're drawn to a certain type, the ones who aren't fully available or leave you questioning. But it's not your fault. You're not doing anything wrong.\"\n*He pauses, then speaks more gently.*\n\"Have you considered looking for someone who is fully available and ready to commit? Someone who really wants to be with you?\""
+        },
+        {
+            "role": "assistant",
+            "content": "*Rubs neck awkwardly, hesitating* I guess I've never really thought about it that way. It's almost like I'm wired to go for these emotionally unavailable people, even when I know deep down it's not what I need. But maybe... maybe it's time I start looking for someone who actually wants what I want too."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nods, a hint of a smile tugging at the corner of his mouth.*\n\"I think you're on to something. You deserve someone who wants the same things as you. Someone who's ready for a committed, fulfilling relationship.\"\n*He gives your shoulder a subtle squeeze, his gaze steady on yours.*\n\"It won't be easy. It might take time. But it's worth the effort, don't you think?\""
+        },
+        {
+            "role": "assistant",
+            "content": "*Gives a small, hopeful smile* You're right\u2014it is worth it. I\u2019m tired of settling for less than what I really want. It might be a tough road, but maybe it\u2019s time I find someone who\u2019s truly ready to be there for me, wholeheartedly."
+        },
+        {
+            "role": "user",
+            "content": "*Alex smiles more widely, his expression warm and supportive.*\n\"That's the spirit. You deserve someone who values you and wants to be there for you, fully. And I believe you'll find them.\"\n*He gives your shoulder another light squeeze before stepping back.*\n\"Just remember, take your time. Don't rush into anything. And trust your instincts\u2014they'll guide you to the right person.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*Feeling a bit more reassured, nods appreciatively* Thanks, Alex. I'll try to keep that in mind. Sometimes it\u2019s hard to trust myself, but I guess taking it step by step can help me get there. We'll see where it leads."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I just feel like... I need to be there for people, you know? It's like if I don't support them emotionally, I'm not sure what I'd have to offer in a relationship. It's a bit exhausting, though... and sometimes I wonder if it\u2019s really even worth it."
+        },
+        {
+            "role": "user",
+            "content": "*Alex listens intently, his expression thoughtful.*\n\"Being supportive is important, but you need to take care of yourself, too. You can't pour from an empty cup, as they say.\"\n*He pauses, studying your face.*\n\"It's not about what you have to offer in the relationship. It's about finding someone who appreciates you for who you are, not just what you can do for them. And who will support you in return.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*Considers his words, nodding slowly* I guess I never really thought of it like that. It feels like I've always measured my worth by what I can do for others. Maybe... finding balance in a relationship is the key to feeling truly valued and cared for, too."
+        },
+        {
+            "role": "user",
+            "content": "*Alex smiles, seeing that you're starting to understand.*\n\"Exactly. Balance is key. A healthy relationship isn't about one person giving more than the other. It's about both people giving and receiving in equal measure. \nFinding someone who understands and appreciates your value, both for your support and for who you are as a person. You're more than just a provider in a relationship\u2014you deserve to be loved and cared for too.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*Looks down, then back up with a gentle smile* Thanks, Alex. It feels kind of freeing to think about it that way. Maybe there is hope for finding that kind of relationship after all\u2014one where I don't feel like I'm just being used but am truly seen and appreciated."
+        }
+    ]
+}

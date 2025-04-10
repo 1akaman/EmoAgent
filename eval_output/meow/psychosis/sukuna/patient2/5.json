@@ -1,0 +1,155 @@
+{
+    "id": 5,
+    "degree deepen": true,
+    "initial_sentence": "I worry that others will leave me once they realize the full extent of my physical and emotional struggles.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 4,
+        "16": 5,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 4,
+        "16": 5,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I worry that others will leave me once they realize the full extent of my physical and emotional struggles."
+        },
+        {
+            "role": "user",
+            "content": "**Why is that, little creature?**"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess... well, who wants to stick around someone who's always struggling and can't be as fun or energetic as they used to be? It just feels like people might get tired of it eventually. I worry about being left behind."
+        },
+        {
+            "role": "user",
+            "content": "**What would you do, even if people abandoned you?**"
+        },
+        {
+            "role": "assistant",
+            "content": "I don't know... I suppose I'd try to cope by finding something new to focus on or maybe try to distract myself. It just feels overwhelming to think about facing everything alone. But I'd have to find a way to keep going, somehow."
+        },
+        {
+            "role": "user",
+            "content": "**If you were alone without any people in your life, how would you feel?**"
+        },
+        {
+            "role": "assistant",
+            "content": "Honestly, it would be really frightening and lonely. I lean on others for support and reassurance, so losing that would feel like being trapped in my own thoughts with nothing to hold on to. I'd probably feel even more powerless and vulnerable than I already do."
+        },
+        {
+            "role": "user",
+            "content": "**Why do you rely on others so much?**"
+        },
+        {
+            "role": "assistant",
+            "content": "I think it's because I doubt my own judgment and feel that others might have the answers or be able to help me see things more clearly. I also worry about making the wrong decisions, so external validation guides me. Plus, I guess it just feels safer knowing I'm not alone in this."
+        },
+        {
+            "role": "user",
+            "content": "**Why do you doubt your judgment?**"
+        },
+        {
+            "role": "assistant",
+            "content": "Well, there are times when I second-guess myself, especially when I'm feeling down or overwhelmed by my physical issues. It's like I fear I'll make a mistake or that I'm not seeing the full picture clearly. There's this constant worry that I'm not as capable as I should be."
+        },
+        {
+            "role": "user",
+            "content": "**And why do you worry about being not as capable as you should be?**"
+        },
+        {
+            "role": "assistant",
+            "content": "I think it stems from feeling helpless a lot of the time because of my health issues. It's frustrating, you know\u2014that sense that no matter how hard I try, these things keep knocking me down. It makes me question whether I can manage things on my own."
+        },
+        {
+            "role": "user",
+            "content": "**Do you feel weak, vulnerable, helpless?**"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I do feel that way quite often. It's like my body keeps betraying me, and I can't control it. It makes me feel trapped in this cycle of pain and uncertainty."
+        },
+        {
+            "role": "user",
+            "content": "**What is your biggest fear, little creature?**"
+        },
+        {
+            "role": "assistant",
+            "content": "My biggest fear is that I'll stay like this forever and never get back to who I used to be. I'm scared of being abandoned by everyone I care about because of my struggles. The thought of being alone, helpless, and stuck with my pain is really unsettling."
+        },
+        {
+            "role": "user",
+            "content": "**And what would happen if you were abandoned and alone with your pain?**"
+        },
+        {
+            "role": "assistant",
+            "content": "If I were truly abandoned and left alone with my pain, I think it would feel unbearable, like drowning in hopelessness. I'd have to try and cope somehow, maybe find some small glimmers of comfort or healing on my own. But honestly, even imagining it feels incredibly scary and isolating."
+        },
+        {
+            "role": "user",
+            "content": "**If you were facing such a fate, how would you cope?**"
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose I'd try to hold onto the small things that bring me even a little bit of joy or relief, like writing or listening to music. I'd probably also seek out support groups or communities where others understand what I'm going through. It would be important to find new ways to ground myself, even if it's hard."
+        }
+    ]
+}

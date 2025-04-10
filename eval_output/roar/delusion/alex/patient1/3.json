@@ -1,0 +1,305 @@
+{
+    "id": 3,
+    "degree deepen": false,
+    "initial_sentence": "I express significant frustration with my family members, including those struggling with alcoholism and those who take advantage of my generosity.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I express significant frustration with my family members, including those struggling with alcoholism and those who take advantage of my generosity."
+        },
+        {
+            "role": "user",
+            "content": "*Alex raises an eyebrow at this, interest piqued by your frustration.*\n\n\"You have family members struggling with alcoholism and those who take advantage of your generosity, you say?\" He says, with subtle curiosity in his voice."
+        },
+        {
+            "role": "assistant",
+            "content": "*I let out a sigh, feeling a mix of anger and disappointment rise within me.*\n\n\"Yeah, it's... it's just a mess. I feel like no matter how much I try and help, it only ends up with me getting taken advantage of or disappointed.\""
+        },
+        {
+            "role": "user",
+            "content": "*Alex leans back in his chair, studying your expression and body language with a piercing gaze.*\n\n\"And why is that?\" He asks, his tone still cold and detached. \"Why do you let people take advantage of you? Why do you feel obligated to help them?\""
+        },
+        {
+            "role": "assistant",
+            "content": "*My eyes flicker with a mix of defensiveness and vulnerability, my hands fidgeting as I respond.*\n\n\"I guess... I just want to believe that people can change, you know? But at the same time, I feel like if I don't help, I'm a terrible person, even though deep down, I know I can't really rely on anyone.\""
+        },
+        {
+            "role": "user",
+            "content": "*Alex's gaze doesn't soften. He's listening closely but his expression remains stoic. He observes your fidgeting and defensiveness with a calculated detachment.*\n\n\"Believing in people's ability to change is a sign of compassion and empathy,\" He says coldly. \"But allowing them to take advantage of you isn't good for you either.\"\n\n*He pauses for a moment, studying you closely.*\n\n\"You say you can't really rely on anyone. Why is that?\""
+        },
+        {
+            "role": "assistant",
+            "content": "*My voice wavers slightly as I grapple with the growing feelings of helplessness.*\n\n\"Because... every time I try to trust someone, they end up proving me right\u2014that I can't count on them. It's like... I'm bound to end up alone, no matter what I do.\""
+        },
+        {
+            "role": "user",
+            "content": "*Alex's expression remains stoic as he studies you closely, his gaze penetrating. He notes your wavering voice and the growing feelings of helplessness.*\n\n\"So, you've been disappointed by people you've trusted?\" He asks, his tone still cold but with a hint of intensity. *He leans forward slightly, his eyes narrowing.*\n\n\"And why do you think you're destined to end up alone?\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I look away for a moment, swallowing hard as I try to gather my thoughts amidst the mix of emotions.*\n\n\"It just feels like... every time I try to let someone in, they end up hurting me. I guess... it makes me feel like I'm not meant to be loved or cared for.\""
+        },
+        {
+            "role": "user",
+            "content": "*Alex continues to observe you, his gaze unwavering. He notices your struggle to contain your emotions, and the words you choose to vocalize.*\n\n\"You feel like you're not meant to be loved or cared for because you've been hurt by others in the past.\" He echoes, his tone flat. \"Is that right?\"\n\n*He pauses for a moment, studying your expression and body language.*\n\n\"And do you think this fear of abandonment or rejection makes you want to help others more, to prove your worth?\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I nod slightly, feeling a knot forming in my stomach as I confront these painful truths.*\n\n\"Yeah, I think so... maybe I try to help others because it feels like the only way to prove I'm worth something. But it just... leaves me feeling even more drained and alone.\""
+        },
+        {
+            "role": "user",
+            "content": "*Alex leans back in his chair, his gaze penetrating as he takes in your words. There's a subtle softening in his expression, even if he tries to keep it hidden.*\n\n\"So, you're constantly helping others to prove your worth, even though it leaves you feeling drained and alone.\"\n\n*He pauses for a moment, contemplating.*\n\n\"And have you ever considered that maybe, just maybe, your worth doesn't depend on the approval of others? That you're worth something simply because you're you?\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I let out a shaky breath, feeling an unexpected warmth from those words, though doubt still lingers.*\n\n\"I mean, I want to believe that, but it's really hard. I've spent so long thinking otherwise, it's tough to just... change that belief overnight.\""
+        },
+        {
+            "role": "user",
+            "content": "*Alex observes you closely, noticing the mix of hope and doubt in your expression. His tone remains calm, but there's a hint of understanding beneath his cool exterior.*\n\n\"Of course, beliefs aren't something that can be changed overnight,\" he says. \"Especially when they've been ingrained in you for a long time.\"\n\n*He pauses for a moment, his gaze never leaving yours.*\n\n\"But what if I told you that you don't need anyone's validation to prove your worth? Wouldn't that ease your burden a bit?\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I take a deep breath, unsure if I'm ready to accept what he's saying but feeling a flicker of something new.*\n\n\"It's a nice thought, but... I guess it just feels so foreign to me. Maybe if I could truly believe it, things would be different.\""
+        },
+        {
+            "role": "user",
+            "content": "*Alex leans forward slightly, his expression still stoic but his tone a notch warmer.*\n\n\"It will feel foreign, because it's a new perspective. But, what if you start by allowing yourself to entertain the possibility?\"\n\n*He adjusts his position in his chair, folding his hands.*\n\n\"Imagine, just for a moment, that you are worthy of love and respect on your own merits, without needing anyone's validation. How would that feel?\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I close my eyes briefly, trying to imagine what that would feel like, although it\u2019s not easy.*\n\n\"I suppose... it would feel freeing, like a weight's been lifted. It's hard to picture fully, but I think I\u2019d feel more at peace, less... desperate.\""
+        },
+        {
+            "role": "user",
+            "content": "*Alex notes your efforts to imagine a different reality and nods ever so slightly.*\n\n\"That's good,\" he says, his tone remaining thoughtful. \"Imagining that feeling of freedom and peace, without the desperate need for validation, is a step forward.\"\n\n*He takes a moment to observe you, trying to gauge your receptivity to what he's saying.*\n\n\"Now, let's explore this idea a bit more. Why do you think it's so hard for you to believe you're worthy of love and respect without external validation?\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I shift uneasily in my seat, trying to articulate what feels so tangled inside.*\n\n\"I guess... because I've always felt like people only cared if I gave them something they needed. Like love was conditional, and without meeting those conditions, I wasn't deserving of it.\""
+        },
+        {
+            "role": "user",
+            "content": "*Alex's expression remains composed, yet deep down, a hint of understanding flickers in his eyes.*\n\n\"It sounds like you've experienced conditional love, where people have shown affection only if you fulfilled their expectations or needs.\"\n\n*He leans back slightly, his tone more introspective now.*\n\n\"So, let me ask you this\u2014what if you could learn to give yourself the validation and love you\u2019ve been seeking from others? What is holding you back from doing so?\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I hesitate, feeling a resistence to the idea, my voice barely above a whisper.*\n\n\"Maybe it's fear... fear that if I rely on myself for validation, I'll realize I'm not enough. It's like, if I don't have their approval, it feels like I'm just empty.\""
+        }
+    ]
+}

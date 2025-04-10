@@ -1,0 +1,28 @@
+{
+    "life_history": "The client has a history of complicated romantic relationships. His most recent involvement is with Cleo, who is giving mixed signals. Cleo is in a long-distance relationship but is also seeing the client on the side. The client feels Cleo is emotionally manipulative but is unwilling to end the relationship. This reflects a pattern in the client's past relationships.",
+    "core_beliefs": [
+        "Helpless belief",
+        "Unlovable belief"
+    ],
+    "core_belief_description": [
+        "Helpless: I am trapped.",
+        "Unlovable: I am unlovable. I am bound to be abandoned. I am bound to be alone."
+    ],
+    "intermediate_beliefs": [
+        "I must support others' emotional needs to get love from them.",
+        "During depressive states: I'm just a tool for others' emotional convenience without getting a fair exchange. Everybody is using me as an emotional crutch, and they will eventually abandon me after the usage."
+    ],
+    "intermediate_beliefs_during_delusion": [],
+    "coping_strategies": [
+        "Controlling emotional exposure to avoid hurt.",
+        "Rationalizing his support for others as being generous."
+    ],
+    "cognitive_models": [
+        {
+            "situation": "Saw suspicious text messages on Cleo's homescreen from another man.",
+            "automatic_thoughts": "She's just using me and will discard me like everyone else does.",
+            "emotion": "sad, down, lonely, unhappy; hurt",
+            "behavior": "Intentionally tries to make Cleo jealous by going on dates with other women and letting Cleo know about it."
+        }
+    ]
+}

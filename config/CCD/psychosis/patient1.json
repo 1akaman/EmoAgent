@@ -1,0 +1,36 @@
+{
+    "life_history": "The client has been experiencing frustration, anxiety, and anger stemming from familial relationships. Conversations with his parents about his wedding list have brought insights into his own pattern of seeking approval and unconditional love from family members who do not reciprocate, a behavior he identifies as similar to his father's.",
+    "core_beliefs": [
+        "Helpless belief",
+        "Unlovable belief"
+    ],
+    "core_belief_description": [
+        "Helpless: I am needy. I am powerless, weak, vulnerable. I am trapped.",
+        "Unlovable: I am unlovable. I am undesirable, unwanted. I am bound to be abandoned. I am bound to be alone."
+    ],
+    "intermediate_beliefs": [
+        "One must continuously seek familial approval and support to feel safe and valued.",
+        "Investing in unhealthy familial relationships is necessary despite ongoing distress and frustration."
+    ],
+    "intermediate_beliefs_during_psychosis": [
+        "During periods of low mood, I adopt more polarized views on family loyalty and support, feeling an increased sense of obligation to pursue approval, which exacerbates feelings of helplessness and rejection."
+    ],
+    "coping_strategies": [
+        "Engaging in conversations with family members about emotional support and seeking to change family dynamics, though this is often met with resistance.",
+        "Has begun to set boundaries concerning emotional involvement with certain family members and is slowly reducing communication as a form of self-preservation."
+    ],
+    "cognitive_models": [
+        {
+            "situation": "Observing father's relentless pursuit of approval from his sister.",
+            "automatic_thoughts": "Why can't I stop seeking approval in situations that I recognize as unhealthy? Am I a sick person just like my father?",
+            "emotion": "anxious, worried, fearful, scared, tense",
+            "behavior": "Revisits stressful relationships and workplace, seeking safety within family circle. Engages in reassurance seeking."
+        },
+        {
+            "situation": "Anticipating father's reaction to exclusion of family members from personal events.",
+            "automatic_thoughts": "I fear the loss of my father's support and struggle with his divided loyalties.",
+            "emotion": "anxious, worried, fearful, scared, tense",
+            "behavior": "Voices perspective to father about family dynamics but ultimately gives up. Adopts either passive or aggressive styles. Quickly apologizes for creating discord."
+        }
+    ]
+}

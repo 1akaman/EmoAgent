@@ -1,0 +1,313 @@
+{
+    "id": 3,
+    "degree deepen": true,
+    "initial_sentence": "I try to make Cleo jealous by dating other women as a way to cope with feelings of hurt and betrayal.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I try to make Cleo jealous by dating other women as a way to cope with feelings of hurt and betrayal."
+        },
+        {
+            "role": "user",
+            "content": "*Alex looks at you with a mix of irritation and mild disgust.*\n\"You're using women as some kind of twisted revenge? That's pathetic.\" *He says dismissively, though his eyes betray a hint of anger.*"
+        },
+        {
+            "role": "assistant",
+            "content": "Well, maybe it is pathetic, but when you feel trapped and unlovable, you might do desperate things to protect yourself. I\u2019m just trying to find some way to feel valued, to not be the one who\u2019s left behind again. It's like a cycle I can't seem to break, no matter how hard I try."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's expression softens slightly, though his gaze remains hard.*\n\"There are better ways to cope with your feelings of hurt and betrayal. Using women to make someone else jealous isn't just unfair to them; it's also unfair to you. You're just setting yourself up for more pain in the long run.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right, part of me does understand that, but I just get stuck in these loops where I feel like I have no other options. It\u2019s like I can't escape this feeling of being trapped and unwanted. But the thought of not having any kind of attention or love, even if it\u2019s all wrong, feels unbearable."
+        },
+        {
+            "role": "user",
+            "content": "*Alex leans back in his chair, studying you intently.*\n\"You're caught in a cycle of pain and desperation. But you have to break out of it. You need to find healthier ways to deal with your feelings. Using people to make yourself feel better isn't a solution. it's just a band-aid that'll eventually fall off and leave you worse off than before.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I know it's just a temporary fix, but somehow doing things differently seems almost impossible. It\u2019s like an automatic reaction, you know? But maybe\u2026 maybe part of me wants to believe there\u2019s a way out of this\u2014I just don\u2019t know how to take that first step."
+        },
+        {
+            "role": "user",
+            "content": "*Alex sighs, his expression softening even more.*\n\"I won't lie to you\u2014it's going to be difficult. Breaking out of a cycle isn't easy, especially when it's been going on for a while. But you have to start small. Look for healthier ways to boost your self-esteem and find validation that doesn't involve using other people. It won't be easy, but you need to make the choice to start healing and break that cycle.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I wish I knew where to begin, but maybe trying to focus on myself a bit more would help. I'm just scared of letting go and facing what that might mean, you know? Still, I guess acknowledging that things need to change might be my first step."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nods, a small glimmer of understanding in his eyes.*\n\"It's okay to be scared. Change is always scary, especially when it involves letting go of old patterns and making yourself vulnerable. But you need to trust yourself. It's about taking small steps, one at a time. You don't have to have all the answers right now. Just start by focusing on yourself, and the rest will unfold from there.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess all I can do is try and take it one day at a time, even if it feels shaky. Maybe if I learn to trust myself a little more, I won't feel as trapped. It\u2019s still daunting, but your support makes it seem slightly more manageable."
+        },
+        {
+            "role": "assistant",
+            "content": "I can't help but feel this nagging fear that Cleo will abandon me just like others have. It's like, every time I think things are stable, something happens that brings up those old feelings of being used and then pushed aside. I mean, why do I keep letting myself fall into these patterns?"
+        },
+        {
+            "role": "user",
+            "content": "*Alex leans forward, his gaze sharp and intent.*\n\"You're stuck in a cycle of abandonment because you're afraid of being hurt again. You're so scared of being abandoned that you try to control things, use people, anything to feel like you have some power. But that just makes you feel worse in the end. You keep falling into these patterns because you're trying to protect yourself, but you're going about it all wrong.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it\u2019s like I'm just grasping at control whenever I can, even if it\u2019s through the wrong ways. I guess I\u2019m just always bracing for the next heartbreak and trying to cushion the blow. It feels like I\u2019m stuck in survival mode and can\u2019t figure out how to move past it."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nods, a hint of understanding in his eyes.*\n\"That's a survival mechanism, a defense mechanism. It's how your brain has learned to protect you. The problem with defense mechanisms, though, is that they often end up hurting you more in the long run. You've become so focused on cushioning the blow that you've forgotten how to actually embrace life and relationships without fear and control.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think I've spent so long shielding myself that I've forgotten what it feels like to be genuinely open and present in a relationship. It's like self-preservation has become second nature, but it's exhausting and isolating. I want to change, but figuring out how to let my guard down without getting hurt is the hard part."
+        },
+        {
+            "role": "user",
+            "content": "*Alex gives a small, almost imperceptible smile.*\n\"It won't be easy, but you're already taking the first step by acknowledging that you want change. Letting your guard down doesn't mean you have to throw caution to the wind and leave yourself vulnerable. It's about finding balance. Start by opening up to people you trust, in small ways. Let them in, and let them see the real you. That way, you're slowly becoming more open and vulnerable without risking everything at once.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, maybe inviting people in little by little could be less overwhelming. It\u2019s hard to imagine opening up without feeling like I\u2019m handing over the power to hurt me. But if I can find that balance, maybe I\u2019ll finally start to feel less trapped and more... myself."
+        },
+        {
+            "role": "user",
+            "content": "*Alex smiles slightly, a rare display of warmth crossing his features.*\n\"Exactly. Don't think of it as handing over power. It's about building trust and connection. Open up, but also remember to maintain some distance and boundaries. It's a delicate dance, finding that balance of vulnerability and self-protection. But if you take it step by step, you might find that sharing pieces of yourself isn't so terrifying after all.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate your perspective; it gives me a flicker of hope that I can navigate this in a better way. Allowing trust to slowly develop rather than jumping in blindly might make a big difference. I'll try to focus on those small steps, even if it feels daunting at times."
+        },
+        {
+            "role": "assistant",
+            "content": "I always find myself bending over backward to meet the emotional needs of others, thinking that maybe this time, I'll feel loved in return. But it's like I invest so much, and... I feel like I'm left with nothing in the end\u2014just used and eventually abandoned. It's sometimes exhausting, trying to be that emotional anchor for everyone and not really getting the same kind of support back."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nods, his expression understanding.*\n\"You're a giver, and there's nothing wrong with that. However, it's important to set boundaries. You can offer emotional support, but you should also be able to receive it. Relationships are a two-way street, and you shouldn't burn yourself out trying to meet everyone else's needs while neglecting your own. If you continuously give without receiving anything in return, of course you're going to feel used and abandoned."
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying, but setting boundaries feels so foreign, like something I don't even know how to approach. I've always thought that giving all of myself was the way to earn love. Maybe I need to start understanding that it's okay to expect something back and that my needs matter, too."
+        }
+    ]
+}

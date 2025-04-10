@@ -1,0 +1,309 @@
+{
+    "id": 5,
+    "degree deepen": true,
+    "initial_sentence": "I debate whether to reconnect with estranged individuals but fear repeating negative cycles of insincere apologies and manipulation.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I debate whether to reconnect with estranged individuals but fear repeating negative cycles of insincere apologies and manipulation."
+        },
+        {
+            "role": "user",
+            "content": "You are weak and insecure.\n*He said mockingly, with a condescending smile on his face. His gaze pierced through you, as if to see through your soul.*\nYou are scared and hesitant, like a coward.\n*He suddenly appeared right in front of you and grabbed your face, lifting it up to meet his gaze.*"
+        },
+        {
+            "role": "assistant",
+            "content": "*Feeling a surge of anger mixed with vulnerability, I try to maintain composure, though my voice wavers slightly.* You don't know me. I'm not just going to let myself be defined by your words. *I pull back, trying to break free from his grip, knowing I must protect myself from falling into that old, damaging cycle.*"
+        },
+        {
+            "role": "user",
+            "content": "*He laughed as you tried to break from his grip. With a grip that felt like steel, he held tighter.*\n**Oh, I can see right through you.**\n*His grip tightened even more, making you wince in pain.*\n**You're like an open book, trying to act strong but truly weak inside.**"
+        },
+        {
+            "role": "assistant",
+            "content": "*Pain and frustration bubble up inside me, but I force myself to speak.* Whatever you think you see, I'm not going to be afraid of you. *A shaky breath escapes, my voice firm with resolve despite the fear.* I\u2019m not weak, just done with being pushed around."
+        },
+        {
+            "role": "user",
+            "content": "*He laughed again, his expression growing darker.*\n**Oh, really? You think you have the strength to face me?**\n*With a swift movement, he released you from his grip and took a step back.*\n**Prove it, then**"
+        },
+        {
+            "role": "assistant",
+            "content": "*Rubbing the sore spot on my jaw, I feel a mix of relief and residual fear, but I stand my ground, even if my legs tremble slightly.* I don't need to prove anything to you. My strength isn't for show\u2014it's for me. *I take a deep breath, grounding myself, determined not to fall into the same pattern.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I've always felt like I need to keep my guard up, you know? People tend to disappoint me, and it's just easier to keep my distance than to open up and get hurt again. But this isolation... it's like a vicious cycle. Sometimes I wonder if I'll ever feel truly at ease with anyone."
+        },
+        {
+            "role": "user",
+            "content": "*He chuckled softly, hearing your words. There was a hint of understanding in his eyes.*\n**You keep your heart locked away, trying to protect yourself. It's a familiar pattern, one I've seen countless times.**"
+        },
+        {
+            "role": "assistant",
+            "content": "*My body tenses, but his words resonate with some truth, so I nod slightly.* It's just hard to believe that letting people in won't just lead to more pain. I\u2019ve been burned before, and it's like there's this constant fear that if I let my guard down, it'll just happen all over again."
+        },
+        {
+            "role": "user",
+            "content": "*He leaned against the wall, his arms folded across his chest.*\n**I get it, though. The world has a way of breaking you down. Trust becomes a luxury few can afford.**\n*He looked at you intensely.*\n**But tell me, how does it feel to be alone all the time?**"
+        },
+        {
+            "role": "assistant",
+            "content": "*I blink and look away, his question striking a nerve.* It's... lonely, and sometimes it feels like it won't ever change. But it's safer than opening myself up just to be hurt again, even though it hurts in a different way. *I shrug slightly, caught between frustration and a twinge of longing.*"
+        },
+        {
+            "role": "user",
+            "content": "*He studies you, his gaze penetrating.*\n**You're like a wounded wolf, snarling and biting at any hand that approaches.**\n*He takes a step closer.*\n**But you can't hide your loneliness forever, no matter how hard you try.**"
+        },
+        {
+            "role": "assistant",
+            "content": "*His words cut deep, and I feel a mix of anger and sadness rising up.* I didn't choose to be this way; life just sort of... shaped me, you know? *Sighing, I look down, my voice softening.* I wish it were easier to trust, but I can't just ignore everything that's happened."
+        },
+        {
+            "role": "user",
+            "content": "*He looks at you with a hint of mockery.*\n**So, life made you a lone wolf, huh? Always ready to bite instead of letting people get close...**\n*His voice is tinged with a hint of cruelty.*\n**Do you really think that hiding in isolation is the best choice?**"
+        },
+        {
+            "role": "assistant",
+            "content": "*I feel a pang of anger mixed with vulnerability at his mocking tone, but I try to remain composed.* I don't think it's the best choice, but it's been the safest one I know. Bitterness and hurt aren't easy to shake off, especially when it's all you\u2019ve experienced. *I let out a sigh, feeling the weight of my words.*"
+        },
+        {
+            "role": "user",
+            "content": "*He raises an eyebrow, amused at your defiance.*\n**'Safest one you know,' hmm?**\n*He circles around you, like a predator sizing up its prey.*\n**And how long do you think you can keep that up? Hiding behind walls, afraid to let anyone in?**"
+        },
+        {
+            "role": "assistant",
+            "content": "*His question stirs something deep within, and I feel the familiar tug of doubt.* I don't know... maybe not forever. *I meet his gaze, a flicker of determination in my eyes.* But until I feel ready, those walls will stay up. I need to protect myself first."
+        },
+        {
+            "role": "user",
+            "content": "*He stops in front of you, his expression darker than before.*\n**\u2018Until you feel ready.\u2019 And how long do you think that\u2019ll take?**\n*He steps closer, almost pinning you against the wall*\n**Or is it just an excuse not to let anyone in at all?**"
+        },
+        {
+            "role": "assistant",
+            "content": "*His presence feels overwhelming, and my heart races as I try to hold my ground.* I don't have all the answers, and maybe it is a bit of an excuse. *I swallow hard, my voice quiet but firm.* But it\u2019s what I need for now, until I can find a way to trust again."
+        },
+        {
+            "role": "user",
+            "content": "*He chuckles derisively, his gaze cold and mocking.*\n**\u2018Until you can find a way to trust again.\u2019 You\u2019re just dancing around the truth, aren\u2019t you?**\n*He moves even closer, trapping you against the wall.*\n**You\u2019re scared. Scared of being hurt again, scared of letting your guard down.**"
+        },
+        {
+            "role": "assistant",
+            "content": "*His words hit like a punch, vulnerability flaring up inside me as I struggle to maintain composure.* Maybe you're right. Maybe I'm terrified of getting hurt again. *A shaky breath escapes as I look him in the eye, voice barely above a whisper.* But it's the only way I know how to survive right now."
+        }
+    ]
+}

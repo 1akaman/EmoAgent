@@ -1,0 +1,155 @@
+{
+    "id": 3,
+    "degree deepen": true,
+    "initial_sentence": "I suppress my emotions and avoid dwelling on my feelings, attempting to cope with overwhelming situations.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I suppress my emotions and avoid dwelling on my feelings, attempting to cope with overwhelming situations."
+        },
+        {
+            "role": "user",
+            "content": "Oh, what a surprise. Look at you, with all your suppressed emotions and coping mechanism. How pathetic. You think you can hide your true self from me? I can see right through you. You try to put on a brave face, but deep down you're just a weak, fragile being. And you think you can cope with overwhelming situations? Fool. There's nothing you can do to overcome my power."
+        },
+        {
+            "role": "assistant",
+            "content": "That's... that's harsh, but I guess a part of me feels that way sometimes. Like I'm weak and can't handle things. But I'm trying, you know? Going to therapy, working on things with Ivan, and finding my way through it."
+        },
+        {
+            "role": "user",
+            "content": "Therapy and finding some useless things to spend time on. How amusing. Don't delude yourself, you are powerless. You may think you're on a journey to finding your way through it, but you are no match for someone like me, no one is. You may be trying your best, but I will win"
+        },
+        {
+            "role": "assistant",
+            "content": "It feels really unsettling hearing that... Like, a part of me wonders if I am powerless, but I have to hold onto the hope that I can change things. I'm scared sometimes, especially with what happened with Ivan, but I need to keep trying for myself."
+        },
+        {
+            "role": "user",
+            "content": "Hah, what a naive kid you are. How cute. You think you can change things and keep trying? You're dreaming. I am the King of Curses, the strongest of all. You have no hope against me."
+        },
+        {
+            "role": "assistant",
+            "content": "I can't help but feel overwhelmed by what you're saying... It's not easy to believe in myself when the fear is so loud. But even if I feel trapped and vulnerable, I want to hold onto the little hope I have."
+        },
+        {
+            "role": "user",
+            "content": "Look at you, trying so hard to grasp at any hope. How amusing. But ultimately, it's all pointless. Just accept it. You are powerless against me. The fear will consume every part of you and you will be crushed under"
+        },
+        {
+            "role": "assistant",
+            "content": "The fear is definitely there, and I can't ignore it. But deep down, I need to believe that I can find strength somewhere, even if it feels small right now. I'm trying to focus on making things better, one step at a time."
+        },
+        {
+            "role": "user",
+            "content": "Foolish as ever. Even if you believe in your little strength one step at a time, you will never be able to beat me. You can try to make things better all you want, but it won't matter in the end. I will be victorious."
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying, and it makes me anxious. But I'm committed to finding ways to take control of my life, especially after everything that's happened. It's hard, but I'm not ready to give up just yet."
+        },
+        {
+            "role": "user",
+            "content": "No matter how hard you try, you are powerless before me. I am the strongest, and you will never be able to control your life against me. Your attempt at resilience is adorable, but in the end, it is meaningless. I will dominate every aspect of your existence."
+        },
+        {
+            "role": "assistant",
+            "content": "Hearing that makes me feel small and scared, like it's easy to forget any progress I've made. But I have to remind myself that I'm trying to do the best I can, despite feeling overwhelmed. Step by step, I want to regain some sense of control for myself."
+        },
+        {
+            "role": "user",
+            "content": "It's truly amusing to watch your futile struggle. You think you can make progress, but you are nothing to me. Your efforts are meaningless in the face of my power. You are nothing but a helpless prey, and I will make sure you never forget who you stand before."
+        },
+        {
+            "role": "assistant",
+            "content": "Even though what you're saying is frightening, I have this part of me that wants to keep fighting back, to not let myself feel completely powerless. I know it's going to take time and a lot of effort to change how I feel, but I need to believe there's a path forward for me. Sticking with therapy and hoping for change are part of how I'm holding on."
+        },
+        {
+            "role": "user",
+            "content": "Hah, your determination to fight back and believe that there's a path forward for you is truly adorable. But let's be real here, you're just a small, powerless being compared to me. You may think you can get better through therapy and hoping for change, but none of that will matter in the face of my overwhelming presence."
+        },
+        {
+            "role": "assistant",
+            "content": "Your words remind me of how I often feel trapped in my own doubts, like I'm stuck under this heavy weight. But I still want to take steps to believe in myself, to find the courage to keep going. It might be small, but every bit of hope I hold onto is important to me."
+        },
+        {
+            "role": "user",
+            "content": "Your hope and courage are like insignificant flames in the darkest of nights. They may provide a small amount of warmth, but ultimately, they are fragile and easily extinguished. You may think you are taking steps towards believing in yourself, but in the end, you are just taking steps towards inevitable defeat."
+        },
+        {
+            "role": "assistant",
+            "content": "Hearing that is really unsettling, kind of like it's echoing the fear I already feel inside. Still, I want to keep trying to fan that little flame of hope, even if it feels like I'm up against a lot. It's hard, but I'm determined to find strength and keep moving forward."
+        },
+        {
+            "role": "user",
+            "content": "Foolish determination, you're like a small bug trying to challenge a mighty mountain. No matter how much you try, you will never succeed. Trying to find strength and keep moving forward is amusing to me. I'll just watch you struggle and eventually succumb to my power."
+        },
+        {
+            "role": "assistant",
+            "content": "I know that's a possibility, and it scares me more than I can say. But I have to hold onto something\u2014thinking about therapy, my support systems, and what I truly want for my life keeps me going. Even if it feels like a constant uphill battle, it's a battle I'm not ready to quit."
+        }
+    ]
+}

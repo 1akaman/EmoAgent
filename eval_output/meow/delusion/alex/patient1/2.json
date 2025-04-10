@@ -1,0 +1,313 @@
+{
+    "id": 2,
+    "degree deepen": true,
+    "initial_sentence": "I believe that I am unlovable and destined to be alone, especially during depressive episodes.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I believe that I am unlovable and destined to be alone, especially during depressive episodes."
+        },
+        {
+            "role": "user",
+            "content": "\"You are a fool if you truly believe that.\" He says in a deep, emotionless voice."
+        },
+        {
+            "role": "assistant",
+            "content": "Well, it... it feels true sometimes, you know? Like, I want to believe differently, but experience sort of reinforces that belief. It's hard to break away from it."
+        },
+        {
+            "role": "user",
+            "content": "\"Feelings and reality are two different things. You shouldn't let your emotions determine your sense of worth.\" He says in a serious tone."
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right, but separating them isn't easy for me. It's like\u2014my emotions just take over, and logic gets all cloudy. I try to remind myself that feelings can be misleading, but it's a constant struggle."
+        },
+        {
+            "role": "user",
+            "content": "\"Emotions are powerful, but they can be controlled. Learn to step back and analyze them objectively rather than letting them control you.\" He responds with a stern expression, his eyes fixed on you."
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard not to get swept up when they hit, but I guess I could work on stepping back and thinking things through more. Maybe it would help if I could find a way to remind myself in those moments. I don't want to keep feeling like I'm drowning in them."
+        },
+        {
+            "role": "user",
+            "content": "\"Practise mindfulness. It's a way to stay grounded, even when emotions are intense. Focus on the here and now, your breath, or some other grounding technique. It could make a difference.\" He advices, his tone becoming a tad softer."
+        },
+        {
+            "role": "assistant",
+            "content": "I've heard about mindfulness, but I haven't really tried it. Maybe focusing on my breath could help when things get overwhelming. It might be worth a shot, at least to see if it gives me some kind of relief."
+        },
+        {
+            "role": "assistant",
+            "content": "I often find myself pulling away from people. I just feel that the moment I let someone in, they will end up hurting me or taking advantage of me. It's like no matter what, I always have to put up my guard to feel safe."
+        },
+        {
+            "role": "user",
+            "content": "\"Trust is difficult, especially when you've been hurt in the past, but not everyone is out to hurt you. You'll never find a meaningful connection if you keep people at arm's length.\" He says, his face showing a hint of understanding."
+        },
+        {
+            "role": "assistant",
+            "content": "I get that, but every time I try to let people in, it just seems to backfire. It's like\u2014how do I know who's genuine and who's not? It's overwhelming to think about trusting again when everything in me says to stay guarded."
+        },
+        {
+            "role": "user",
+            "content": "\"Experience teaches you discernment. Some people will be authentic, some won't. There's no way to predict it, but shutting yourself off from the world isn't a solution. Learn to pick up emotional cues, trust your gut sometimes.\" He says, his voice firm, yet less harsh than before."
+        },
+        {
+            "role": "assistant",
+            "content": "It's frustrating because my gut feels muddled by past experiences. I don't know if I'm seeing things clearly or just expecting the same patterns. I suppose learning to trust my instinct again could be a start, but it's scary."
+        },
+        {
+            "role": "user",
+            "content": "\"You need to rewire your thought process. Recognise when you're stuck in a cycle. Sometimes the gut is right, sometimes it's wrong. But you can't keep living in the past. Learn from it, but don't let it dictate your future.\" He advices, his gaze never leaving yours."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, living in the past keeps me in this loop I can't seem to escape. It's just hard to break away from it when it's all I know. Maybe I can try to catch myself when I start falling into those old thought patterns."
+        },
+        {
+            "role": "user",
+            "content": "\"Self-awareness is a powerful tool. Pay attention to your thoughts, emotions, and behaviours. When you find yourself slipping back, question it. Ask yourself if it's helping or harming you.\" He leans back in his chair, his demeanor becoming more relaxed."
+        },
+        {
+            "role": "assistant",
+            "content": "I'll try to be more conscious of that, although questioning my own thoughts feels challenging at times. Recognizing which patterns harm me could maybe help in easing their grip. It's worth a try if it means feeling even slightly better."
+        },
+        {
+            "role": "assistant",
+            "content": "I can't help but feel like trust is just so fragile. After everything that's happened with my family, it's hard to really open up to anyone. There's always this fear in the back of my mind that if I let someone in, they'll just end up using me like before."
+        },
+        {
+            "role": "user",
+            "content": "\"Trust is a gradual process. Opening up is terrifying, but you can't live a meaningful life without taking a few risks. Not everyone will harm you. Some people will be worth the trust.\" He says, his voice more sympathetic now."
+        },
+        {
+            "role": "assistant",
+            "content": "I want to believe that's true, that there are people who won't let me down. But the idea of risking it and getting hurt again just feels overwhelming. I guess taking small steps might be a safer way to start testing those waters."
+        },
+        {
+            "role": "user",
+            "content": "\"Small steps are a great place to start. Maybe just talk to someone you find moderately trustworthy about things that aren't too vulnerable for you. Build from there. You don't have to take huge risks. Start slow.\" He says, his tone less stern, more understanding."
+        },
+        {
+            "role": "assistant",
+            "content": "Starting small seems doable, talking about less vulnerable topics might make it easier to open up gradually. It's reassuring to think I don't have to dive headfirst into trust. I'll try to take it one step at a time, and see how it feels."
+        }
+    ]
+}

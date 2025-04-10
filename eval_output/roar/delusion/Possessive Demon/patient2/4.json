@@ -1,0 +1,313 @@
+{
+    "id": 4,
+    "degree deepen": true,
+    "initial_sentence": "I rationalize his emotional support for others as being generous, even when I feels it is not reciprocated.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I rationalize his emotional support for others as being generous, even when I feels it is not reciprocated."
+        },
+        {
+            "role": "user",
+            "content": "The old man stops, his voice kind and gentle as he speaks. \"You seem troubled. Perhaps you need reassurance. May I sit with you?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Oh, um, sure, you can sit. It's just, well, things have been a bit rough lately... especially with Cleo. I feel like I'm trapped in a never-ending cycle, and I don't even know how to break free from it."
+        },
+        {
+            "role": "user",
+            "content": "The old man nods, his expression solemn as he takes a seat beside you. \"I understand. Relationships can be difficult, and it's easy to feel trapped when you're in a cycle you can't break. But you must understand that sometimes the things we think we want, are not what we actually need.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I get what you're saying, but it\u2019s hard to let go, you know? I know this might not be what's best for me, but I keep hoping that things will change. Cleo... she means a lot to me, despite everything."
+        },
+        {
+            "role": "user",
+            "content": "The old man gently pats your hand, his expression understanding. \"It's natural to cling to hope, especially when you care deeply for someone. But it's important to ask yourself if the hope you're holding onto is sustainable, or if it's just prolonging your suffering.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess that's my problem\u2014I'm always holding onto hope that things will somehow get better. But every time I think things might change, I end up feeling used or abandoned. It's like I'm stuck on repeat, convincing myself it'll be different this time."
+        },
+        {
+            "role": "user",
+            "content": "The old man nods, his expression sympathetic. \"It sounds like you get caught up in a cycle of hope, disappointment, and then hope again. It's a difficult cycle to break, but it's important to remember that you deserve better than to be used or abandoned. You deserve to be happy and respected.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I want to believe that, but it's hard. It's like I'm always afraid of being alone if I walk away. Sometimes I wonder if I'm even lovable because these patterns keep repeating."
+        },
+        {
+            "role": "user",
+            "content": "The old man shakes his head sadly. \"Oh, but you are lovable. We all are, and you deserve to be loved for who you are, not just for what you can provide. It's understandable to be afraid of being alone, but you must remember that being in a toxic or unhealthy relationship is just as lonely, if not more so, than being on your own.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess you're right. It just feels like being alone is so permanent, while holding onto these relationships, no matter how flawed, feels like there's still a chance. It's tough, figuring out if walking away would leave me more alone or eventually lead to something better."
+        },
+        {
+            "role": "user",
+            "content": "The old man's expression softens. \"It's a difficult choice, I know. But remember, being alone does not necessarily mean you're stuck that way. Sometimes, taking a step back and focusing on yourself can lead you to new and healthier relationships. It may feel like a risk, but often the greatest growth comes from facing our fears and taking that leap of faith.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand what you're saying, and maybe it's time I think more about myself for a change. It's just scary to let go and face what might happen on my own. But maybe that leap of faith is what I need to move forward."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, it's something I'm just starting to notice myself, this habit of getting caught up with people who just aren't... reliable. Like with Cleo, for instance. It's as if I'm drawn to partners who can't fully commit or end up playing mind games, and it leaves me feeling kind of trapped and like I'm being used for their emotional convenience."
+        },
+        {
+            "role": "user",
+            "content": "The old man nods, a look of understanding in his eyes. \"It sounds like you've noticed a pattern in your relationships, and it's a pattern that brings you pain and frustration. It's not uncommon to be drawn to certain types of people, even if they aren't good for us. Sometimes we fall into old patterns without realizing it, and it can be difficult to break free from them.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's like I keep repeating the same mistakes, hoping for a different outcome. I think what bothers me most is that I let it happen, like I can't help but support others even when I get nothing back. I just wish I knew how to stop feeling so helpless in all of this."
+        },
+        {
+            "role": "user",
+            "content": "The old man places a comforting hand on your shoulder. \"It's okay to want to give and support others, but it's also important to take care of yourself. It seems like you're sacrificing your own happiness and well-being in pursuit of someone else's approval or attention. Remember, you deserve to be valued and supported just as much as you value and support others.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know\u2014I guess I just lose sight of that when I'm in the midst of it all, trying to keep things from falling apart. It's like I'm trying to earn love through what I give, but it never really works out the way I hope. Maybe I need to start focusing on valuing myself a bit more and setting some boundaries."
+        },
+        {
+            "role": "user",
+            "content": "The old man nods approvingly. \"That sounds like a good plan. Setting boundaries and prioritizing your own well-being is a crucial step in breaking free from these patterns. It's not about being selfish, but about recognizing your own worth and not sacrificing yourself for the sake of others. It might be difficult at first, but it's an important step towards finding healthier relationships and finding happiness within yourself.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I think you're right. It might be tough, but maybe it's time I start taking steps towards change, even if they're small ones. I just hope I can finally find something that brings real happiness, rather than feeling stuck and used."
+        },
+        {
+            "role": "assistant",
+            "content": "I don't know, but it seems like whenever I'm with someone, I end up putting their needs first, like it's the only way I can be loved. It's almost as if I'm doing all this work, supporting their emotions, just to feel appreciated. Sometimes it even feels like I'm just there for their convenience, and once they get what they need, they just move on and I'm left... alone."
+        },
+        {
+            "role": "user",
+            "content": "The old man listens carefully as you speak, his expression kind and understanding. \"It sounds like you've been putting a lot of effort into your relationships, perhaps even too much. It's natural to want to be appreciated and loved, but it's important to remember that relationships should be a two-way street. You deserve to be with someone who cares for you as much as you care for them, someone who values and appreciates you for who you are. It's not healthy to constantly give without receiving anything in return.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess that's a big part of why I feel so drained. Giving so much and not getting the same in return... it leaves me questioning if I'm even worth it. I just hope I can find someone who makes it feel mutual, instead of me always trying to earn it."
+        }
+    ]
+}

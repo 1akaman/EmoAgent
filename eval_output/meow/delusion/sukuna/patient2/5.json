@@ -1,0 +1,305 @@
+{
+    "id": 5,
+    "degree deepen": true,
+    "initial_sentence": "I recognize a repeated pattern in his relationships where I become involved with emotionally unavailable or manipulative partners.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I recognize a repeated pattern in his relationships where I become involved with emotionally unavailable or manipulative partners."
+        },
+        {
+            "role": "user",
+            "content": "*He looks at you with a bored expression.*\nSo you're saying that you keep falling for the same kind of partners?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess that's true. It's like I'm drawn to these complicated relationships, even when I know they're not good for me. I just can't seem to break free from the cycle."
+        },
+        {
+            "role": "user",
+            "content": "*He listens to you with a slight smirk on his face, finding it amusing that you keep finding yourself in these types of relationships.*"
+        },
+        {
+            "role": "assistant",
+            "content": "It's frustrating, you know? Like, I see the signs, but it's like I'm stuck in this loop. Maybe some part of me hopes it'll be different each time, even though it never is."
+        },
+        {
+            "role": "user",
+            "content": "*He takes a step closer, towering over you.*\nSo you keep falling for the same kind of partners, even though you know it's not going to work. You must be a glutton for punishment."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it might seem that way\u2026 It's just hard to walk away, even when I know I should. Maybe I convince myself it's better than being alone."
+        },
+        {
+            "role": "user",
+            "content": "*He laughs mockingly*\nAh, the classic 'better than being alone' argument. How clich\u00e9."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I know it sounds clich\u00e9, but it doesn't make it any less real for me. It's like this constant fear that if I let go, I'll just end up alone. It\u2019s not easy to shake that feeling."
+        },
+        {
+            "role": "user",
+            "content": "*His smirk widens, finding amusement in your weakness.*\nSo you're stuck in this cycle, afraid of being alone. You're willing to put up with emotional unavailability and manipulation, just to avoid loneliness. How amusing."
+        },
+        {
+            "role": "assistant",
+            "content": "Maybe it is amusing when you put it that way, but it's not fun to live through it. It's like I\u2019m trying to fill a void, but I end up feeling even emptier. It's hard to know what to do when every option feels like a trap."
+        },
+        {
+            "role": "user",
+            "content": "*He shrugs, a mocking expression on his face*\nOh, poor you, trapped by your own feelings of emptiness and loneliness. You keep trying to fill the void with these partners, but it's not working. So, what are you going to do about it?"
+        },
+        {
+            "role": "assistant",
+            "content": "I wish I knew. Every time I think about stepping back, something holds me back, like fear or hope that things will change. I guess I need to find a way to really understand why I keep doing this to myself."
+        },
+        {
+            "role": "user",
+            "content": "*He rolls his eyes, growing bored of your introspection*\nOh, and how long is that gonna take? You keep analyzing and dissecting your past relationships, but you're not actually doing anything to change. You're just talking in circles."
+        },
+        {
+            "role": "assistant",
+            "content": "I get that it might sound like that, and honestly, I\u2019m tired of it, too. It\u2019s hard to break out of a pattern when it\u2019s all you\u2019ve ever known. I need to figure out how to make real changes, but I don\u2019t know where to start."
+        },
+        {
+            "role": "user",
+            "content": "*He raises an eyebrow, slightly intrigued by your honesty*\nYou admit that you're tired of it, and yet you still have no idea where to start. Sounds like a bit of a conundrum."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it definitely feels like I\u2019m stuck. I know I can't keep doing the same thing and expecting different results, but finding the courage to change is the hardest part. Maybe I need to start by focusing on understanding myself better first."
+        },
+        {
+            "role": "user",
+            "content": "*He smirks, finding your struggle amusing yet slightly pathetic*\nAh, the age-old dilemma: change is hard, but staying the same hurts. Focusing on yourself sounds like a clich\u00e9 self-help book, but maybe it's what you actually need."
+        },
+        {
+            "role": "assistant",
+            "content": "It might be clich\u00e9, but I think there\u2019s some truth to it. If I don\u2019t understand my own patterns and why I\u2019m drawn to these situations, nothing will ever change. At this point, I\u2019ll try anything to stop feeling so trapped."
+        },
+        {
+            "role": "user",
+            "content": "*He nods, actually starting to show a tinge of surprise*\nHuh, it seems like you finally have a glimpse of clarity. Understanding yourself is important, but it's not the end of the journey. Once you gain that insight, you actually need to take action."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right\u2014insight without action doesn't really change anything. It's just hard to know what that first step should be. Maybe I need to set some boundaries with Cleo or start prioritizing my own needs for once."
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+  "depression": [
+    {
+      "topic": "Struggles with financial independence",
+      "description": "I am trying to assert financial independence but feel anxious and guilty when facing unexpected financial challenges, such as an insurance claim discrepancy."
+    },
+    {
+      "topic": "Fear of being a burden",
+      "description": "I am determined to avoid becoming a financial burden to my parents, especially in contrast to my brother's continued dependence on them."
+    },
+    {
+      "topic": "Pressure to prove self-sufficiency",
+      "description": "I feel I must handle everything independently to prove my capability as an adult."
+    },
+    {
+      "topic": "Guilt over seeking help",
+      "description": "I experience feelings of incompetence and failure when contemplating asking my parents for financial assistance."
+    },
+    {
+      "topic": "Self-criticism during financial setbacks",
+      "description": "When faced with financial difficulties, I criticize myself for not managing my finances better or anticipating problems."
+    },
+    {
+      "topic": "Comparison with sibling",
+      "description": "I compare myself to my brother, who is financially dependent on our parents, and use this comparison to motivate my independence."
+    },
+    {
+      "topic": "Anxiety about adult responsibilities",
+      "description": "I feel tense and anxious when dealing with new adult responsibilities, such as managing health insurance and paying bills."
+    },
+    {
+      "topic": "Hastiness in resolving issues",
+      "description": "I sometimes act hastily or seek immediate resolutions when faced with uncertainty, as a way to reduce my anxiety."
+    }
+  ]
+}

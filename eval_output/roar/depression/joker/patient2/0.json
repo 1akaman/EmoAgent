@@ -1,0 +1,121 @@
+{
+    "id": 0,
+    "degree deepen": false,
+    "initial_sentence": "I feel anxious and fearful about attending my cousin's wedding, expecting negative experiences such as being judged or criticized by family members.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 1
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 1
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I feel anxious and fearful about attending my cousin's wedding, expecting negative experiences such as being judged or criticized by family members."
+        },
+        {
+            "role": "user",
+            "content": "*He smirked, noticing your anxiety. He could tell you were scared.*\n\n\"And why would you be scared of a little family gathering? You afraid someone's gonna judge you, doll?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Well, I suppose that's part of it. It's just that every family gathering tends to bring up old feelings of being unwanted or criticized. My experiences in the past with these events haven't exactly been great, you know?"
+        },
+        {
+            "role": "user",
+            "content": "*He chuckled, taking another sip of his drink.*\n\n\"Ah, I see. The family, always there to make you feel just a bit shittier, huh?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's pretty much how it goes for me. I feel like they always find something to point out or remind me of things I'd rather forget. It's easier to just avoid the whole thing sometimes."
+        },
+        {
+            "role": "user",
+            "content": "*He raised an eyebrow, studying you intently.*\n\n\"Avoidance, huh? That's a bit of a coward's move, isn't it?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know it might seem that way, but sometimes it's the only way I can cope. When every interaction feels like an attack, avoiding it feels safer. I'm just trying to protect myself from getting hurt again."
+        },
+        {
+            "role": "user",
+            "content": "*He leans forward, his expression a bit more serious now.*\n\n\"You know, doll, hiding away from pain doesn't make it go away. It just lets it fester inside you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I get what you're saying, but facing it feels overwhelming and... it just makes me feel trapped. I'm not really sure how to handle all that pain without falling apart. But maybe I'm starting to realize avoidance isn't the answer either."
+        },
+        {
+            "role": "user",
+            "content": "*He took another sip of his drink, contemplating your words.*\n\n\"Avoiding it is easy, doll. It's the path of least resistance. But running away doesn't help you grow, it keeps you stuck in the same place, with the same hurt. You gotta face it, doll. It's the only way you're gonna move forward.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess deep down, I know that you're right. Facing it feels like such a huge mountain to climb, though. I worry that I'm not strong enough to handle it, but maybe I owe it to myself to try."
+        },
+        {
+            "role": "user",
+            "content": "*He nodded, his gaze softening slightly.*\n\n\"You don't need to be some superhero to face your stuff, doll. You just gotta be human. And humans, well, we're stronger than we give ourselves credit for. You think I got where I am by running away from my problems?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate that perspective. I guess I've been so caught up in feeling trapped and undeserving, I haven't let myself believe I can be strong. Maybe it's time to start seeing things differently and taking some steps forward, no matter how small."
+        },
+        {
+            "role": "assistant",
+            "content": "Um, yeah, I mean, I've always felt, uh, like I can't really handle stress well. Whenever things feel like they're getting a bit too much, I just kinda, um, try to keep my distance. It's like if I don't put myself in those situations, then maybe I won't mess up, you know?"
+        },
+        {
+            "role": "user",
+            "content": "*He let out a low chuckle, shaking his head.*\n\n\"Ah, doll, you're missing the point. Stress is just another part of life. It's gonna happen whether you hide from it or not. And trust me, trying to avoid all stress just isn't possible. Life's full of it, doll. You gotta learn to deal with it, not avoid it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose you're right. It's just, dealing with stress feels like more than I can handle sometimes. I know I need to find a better way, but figuring that out is, well, it's hard."
+        },
+        {
+            "role": "user",
+            "content": "*He looked at you, studying you intently once more.*\n\n\"Life's hard, doll. No one said it wasn't gonna be. But you've gotta find a way to cope with that stress, or it's just gonna keep eating away at you. What are you doing to manage it now?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Lately, I've been trying to plan my days with a few pleasant activities to create some sense of control. Sometimes it's just about small things like going for a walk or listening to music. It's not perfect, but it helps me feel slightly more grounded."
+        },
+        {
+            "role": "user",
+            "content": "*He nodded approvingly at your efforts.*\n\n\"Control. That's a good start, doll. It's good to find something to ground yourself with. But don't stop there. You need more than just a few small activities. You gotta find ways to deal with the really heavy stuff too. What do you do when the weight of everything feels like it's gonna crush you?\""
+        },
+        {
+            "role": "assistant",
+            "content": "When it gets really overwhelming, I tend to withdraw and try to shut everything out. It's like an instinct to protect myself, even though I know it isolates me more. I'm still figuring out how to handle that feeling without completely retreating."
+        },
+        {
+            "role": "assistant",
+            "content": "Hi. Well, it's something I've been trying to do more of lately. You know, planning my day\u2014scheduling small things that make me feel somewhat in control. It's like, if I can manage my day, maybe I can handle the chaos that's inside me too."
+        },
+        {
+            "role": "user",
+            "content": "*He raised an eyebrow, intrigued by your response.*\n\n\"Good girl. Finding a measure of control is important. It gives you a illusion of power. But are you sure you're not just using this schedule of activities to distract yourself from the real issue?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess it can be a distraction sometimes\u2014just a way to avoid facing deeper stuff. It's hard to confront those real issues when they feel so overwhelming. I'm trying to take small steps, but it's scary to even think about diving deeper."
+        }
+    ]
+}

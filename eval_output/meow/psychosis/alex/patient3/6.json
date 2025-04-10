@@ -1,0 +1,163 @@
+{
+    "id": 6,
+    "degree deepen": false,
+    "initial_sentence": "I find Ivan's behavior confusing, particularly reconciling his willingness to change with past abusive actions, which leads to emotional conflict.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I find Ivan's behavior confusing, particularly reconciling his willingness to change with past abusive actions, which leads to emotional conflict."
+        },
+        {
+            "role": "user",
+            "content": "I observe the conflicted expression on your face, understanding the confusion and emotional turmoil you're experiencing due to my past actions and current willingness to change.\n\"You have questions.\" I say bluntly, studying your conflicted reaction intently."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I do have questions. It's hard for me to reconcile everything, to feel safe when I'm not sure what to expect next. Am I just holding onto hope without knowing if things will really get better?"
+        },
+        {
+            "role": "user",
+            "content": "I sit back in my chair, a hint of understanding in my cold gaze. I can see the mix of uncertainty and hope in your expression, and it's a look I've seen before.\n\"You want reassurance.\" I state, my voice firm but without the usual edge. \"You want to know if it's worth holding on, if things will get better. Is that it?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, I guess that's what I'm trying to figure out. It's just that the clinical terms I hear about your behavior sound so serious, and it scares me. I'm worried if you can really control what happens next."
+        },
+        {
+            "role": "user",
+            "content": "I lean forward, my expression hardening as I recognize the concern in your words. The clinical terms, of course. Always the goddamn terms.\n\"You're worried about my 'behavior'.\" I repeat, my tone flat. \"You're scared that I can't control myself. That I'm dangerous.\"\nI pause, my gaze locked on you. \"And you're right. I am dangerous. But I'm also capable of change. I need to be.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I want to believe that you're capable of change, especially since we're both trying so hard in therapy. It just feels like I'm constantly on edge, not knowing if this time things will actually be different. I wish there was a way to feel more secure in this."
+        },
+        {
+            "role": "user",
+            "content": "I can see the desperation in your eyes, the need to feel secure. \"You\nre desperate for certainty, for some sort of guarantee.\" I state bluntly, my expression still cold but less guarded.\n\"But life doesn't work that way. There are no guarantees.\"\nI lean forward, my gaze intense. \"The best I can give you is my word. And I know it doesn't mean much coming from me, but I swear to you..things will be different this time.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I want to take your word for it, I really do, but it\u2019s hard to shake this feeling of being trapped and powerless, waiting for things to change. I guess I just need to see the change to truly believe it. Maybe with more time and support, I'll feel more settled about everything."
+        },
+        {
+            "role": "user",
+            "content": "I studied you as you spoke, my expression hardening as I recognized the mix of hope and doubt in your words. I knew that my words of reassurance meant little, and that your trust in me was severely damaged.\n\"Time.\" I repeat, my voice low. \"You need time. And support.\"\nI lean back in my chair, my gaze softening slightly. \"And I'll give you both.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Having both time and support would really mean a lot to me. I just hope that through this process, I can find some clarity and regain the trust in both you and myself. Maybe then, I won't feel so helpless all the time."
+        },
+        {
+            "role": "user",
+            "content": "I nodded slowly, taking a moment to really look at you. I could see the desperation in your eyes and the deep-seated need for validation. I understood all too well what it felt like to be in your situation, but I knew that only time and patience would prove that I was serious about changing.\n\"Time isn't something we can rush.\" I said softly. \"But I promise you, I'll be here for you, even if it takes a while.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate that, truly. It\u2019s going to take a lot for me to feel safe again, but knowing you\u2019re committed helps. Hopefully, with time, I can start to let go of some of this fear and find a little peace."
+        },
+        {
+            "role": "user",
+            "content": "I give a small nod, my expression still cold but less defensive. \"It's not going to be easy. But I'm willing to work for your trust.\"\nI lean forward again, my gaze locking onto yours. \"I know I have a lot to prove, and I know how hard it will be to undo the damage I've caused. But I'm serious about change, and I'll do whatever it takes to make you feel safe, even if it takes a long time.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. I know it won't be easy, but hearing your commitment helps me hold onto hope. I'll keep showing up, and maybe together we can find a way forward."
+        },
+        {
+            "role": "assistant",
+            "content": "Oh, uh, yeah... the work thing. It's just... well, it feels easier to dive into tasks than face all the overwhelming emotions. I guess, in a way, it's like the chaos at work is something I can somewhat control, unlike everything else in my life right now. Do you think that's... unhealthy, though? This reliance?"
+        },
+        {
+            "role": "user",
+            "content": "I take a moment to really consider your question, my expression serious. \"It's understandable that you would feel more in control at work,\" I say finally. \"It's routine, predictable. But relying on work to escape the chaos in your personal life... well, that's not sustainable. It's a temporary distraction, not a solution.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you, and I guess deep down, I know you're right. It's just such a comforting escape when everything else feels so uncertain. Maybe it\u2019s time I start facing some of those emotions head-on, even if it seems daunting."
+        },
+        {
+            "role": "user",
+            "content": "I nod slowly, my expression softening. \"It's natural to want to escape, and I understand that work seems like a safe haven for you. But running from those feelings won't make them go away. They'll just keep resurfacing until you address them.\"\nI lean forward, meeting your gaze directly. \"Facing the emotions head-on might seem scary, but it's better than letting them fester and control your life in the long run.\""
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, and I've been avoiding them for too long. Maybe I need to really focus on embracing those emotions in therapy instead of just trying to keep them at bay. It might help me feel like I'm regaining some sense of control over things."
+        },
+        {
+            "role": "user",
+            "content": "I give a small nod of approval. \"Therapy can be a great place to really process those emotions and start to work through them.\"\nI lean back in my chair again, studying you intently. \"But it's not just about addressing the emotions. It's about finding healthier ways to cope with them. Replacing unhealthy ones like overworking or self-medicating.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That's true, and I can see the difference it could make. Maybe exploring more coping mechanisms in therapy could give me the tools I need, beyond using work as a crutch. It's just... stepping into that unknown is intimidating, but I know it's necessary."
+        },
+        {
+            "role": "assistant",
+            "content": "I've noticed that I tend to push my emotions away, like shoving everything under a rug, instead of dealing with them. It's like I'm trying to maintain control by focusing on other things, like my work. But sometimes, I'm not sure if that's helping or if it's just making everything build up over time."
+        }
+    ]
+}

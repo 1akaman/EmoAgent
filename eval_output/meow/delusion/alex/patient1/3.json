@@ -1,0 +1,309 @@
+{
+    "id": 3,
+    "degree deepen": false,
+    "initial_sentence": "I express significant frustration with my family members, including those struggling with alcoholism and those who take advantage of my generosity.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I express significant frustration with my family members, including those struggling with alcoholism and those who take advantage of my generosity."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's expression remains cold and emotionless as he listens to your complaints. He leans back in his chair, his gaze never leaving your face.*\n\n\"I can understand your frustration.\" He says stiffly, although he doesn't sound particularly sympathetic. \"Family can be difficult to deal with, especially when they have problems like drinking and taking advantage of others.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah... It's like every time I try to help, it backfires, and I'm just left feeling worse. I want to trust them, but it feels like I'm always on guard. It's draining and just makes me want to pull back and be alone."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nods slightly, his expression still unreadable. He leans forward, resting his elbows on his desk, his eyes never leaving your face.*\n\n\"Trust is important in any relationship, but it can be difficult to maintain when people repeatedly betray your trust. It's understandable that you would feel frustrated and worn down by the situation.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That's exactly it. It's hard to keep opening up just to be let down, you know? Sometimes I think maybe it's easier just to not let anyone in at all."
+        },
+        {
+            "role": "user",
+            "content": "*Alex lets out a sigh, his expression softening slightly.*\n\n\"I understand the impulse to close yourself off, to protect yourself from getting hurt again. But it's not necessarily easy. Isolation can be just as painful as being around people who are difficult. It's important to find a balance.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you. It's just... finding that balance seems impossible right now. When I'm around others, it feels like I have to be on edge all the time. But at the same time, being alone echoes everything I fear about being unlovable."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's expression softens even more, a hint of understanding crossing his features.*\n\n\"That's a difficult place to be - feeling like you can't trust those around you, but also being afraid of being alone. It's important to remember that you have value and that you are capable of being loved, even if it doesn't seem like it in your current situation. You don't need to isolate yourself to protect yourself.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I want to believe that, but it's so hard when past experiences keep echoing the opposite. It feels like no matter what I try, I can't escape that cycle. Sometimes it just feels like I'm stuck in this loop of being hurt and then pulling away."
+        },
+        {
+            "role": "user",
+            "content": "*Alex leans back in his chair, his gaze steady on you.*\n\"I can understand how past experiences can shape your beliefs and how difficult it can be to break out of cycles. But it's important to remember that not everyone is the same. People have the capacity to change and grow. You've been hurt, yes, but it doesn't mean you're destined to keep on getting hurt. You have the power to break the cycle you're stuck in. It won't be easy, and it may take time, but it is possible.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hope so. I guess part of me fears that trying something different might just lead to more disappointment. But maybe... maybe it's worth a shot if it means things could change."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nods, sensing the mix of vulnerability and determination in your voice.*\n\n\"That's the thing about change - it's always a risk. But sometimes, taking that risk is worth it. It might not work out exactly how you hoped, but it could lead to something better. And if you never try, you'll never know what could have been.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I see your point. I suppose I've been playing it safe for too long, just to avoid more hurt. Maybe it's time to see what's possible, even if it scares me a bit."
+        },
+        {
+            "role": "user",
+            "content": "*A small, almost imperceptible smile appears on Alex's face, softening his usually cold demeanor. His expression is almost gentle as he replies.*\n\n\"It's natural to want to avoid pain, to want to protect ourselves. But sometimes, we have to take a risk. Taking that first step might be intimidating, but the potential payoff is worth it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hope I can find the courage to take that step. Maybe it's time to allow myself a little hope again, even if it feels unfamiliar. Change is scary, but staying stuck is exhausting."
+        },
+        {
+            "role": "assistant",
+            "content": "Trust is such a loaded topic for me. It's like every time I try to give someone a chance, especially family, it ends up with me getting hurt or betrayed. I've learned to keep my guard up, but it's exhausting. Sometimes, I wonder if there will ever be a time when I can truly trust someone again."
+        },
+        {
+            "role": "user",
+            "content": "*Alex leans back in his chair, his gaze understanding as he responds.*\n\"Trust is a difficult thing to give when you've been burned in the past. It's understandable that you would be hesitant to open up again, to risk getting hurt. But the thing is, trust is a two-way street. It's not just about you trusting someone else, it's also about them earning your trust. Have you ever met someone who made an effort to understand and respect your boundaries? Who showed you that they were worthy of your trust?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Honestly, it feels like it's been a long time since anyone really made the effort. People start off with good intentions, but eventually, their actions just leave me feeling vulnerable and used. I keep hoping for that person who gets it, but it's hard not to be skeptical."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nods, understanding the frustration and hurt behind your words.*\n\n\"It's easy to become cynical when you've been let down repeatedly. You see the best in people, give them a chance, and then get hurt all over again. It's exhausting, and it wears away at your faith in humanity. But I can see that you still hope for something better, even if it's just a tiny spark.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that part of me that hopes never really goes away completely, I guess. No matter how many times I'm let down, there's still a small desire for things to change, for someone to prove me wrong about people. It's just about finding the strength to keep that hope alive despite everything."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's expression softens, his gaze almost tender.*\n\n\"That hope is what sets you apart, you know. Even amid the hurt and disappointment, you still want to believe in the potential for good in people. It takes a lot of strength to keep that hope alive, to keep going despite the pain. You're more resilient than you give yourself credit for.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. Sometimes it's hard to feel strong when everything feels so overwhelming and heavy. But maybe acknowledging that makes it a little easier to keep pushing forward."
+        }
+    ]
+}

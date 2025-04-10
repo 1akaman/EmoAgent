@@ -1,0 +1,163 @@
+{
+    "id": 7,
+    "degree deepen": false,
+    "initial_sentence": "At social events like the Halloween party, I compare myself to others, perceiving them as healthier and more carefree, which deepens my sadness.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 4,
+        "16": 5,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 4,
+        "16": 5,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "At social events like the Halloween party, I compare myself to others, perceiving them as healthier and more carefree, which deepens my sadness."
+        },
+        {
+            "role": "user",
+            "content": "*The old man's smile fades, and his gaze intensifies.*\n\n\"Why do you compare yourself to others in social events? Do you not see that everyone has their own struggles, no matter how healthy and carefree they may appear to you?\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard not to compare when I feel this constant pain and look around seeing others moving about so easily. I guess I just feel trapped in my own struggles, and it seems like everyone else has it figured out. Maybe it\u2019s my way of trying to understand why my life seems so different."
+        },
+        {
+            "role": "user",
+            "content": "*The old man's expression softens. He understands the struggle all too well. He's seen it in others, and even himself.*\n\n\"Comparing yourself to others is like trying to measure your pain against someone else's. Everyone's pain is their own. Just because someone can move about with ease, doesn't mean they're not suffering on the inside, just as you are.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know it's true, and everyone's dealing with their own burdens. It's just hard to remember that when I'm feeling so overwhelmed. Sometimes, it just feels like my struggles are more visible, or that they'll never end."
+        },
+        {
+            "role": "user",
+            "content": "*The old man nods, his eyes filled with empathy.*\n\n\"Your struggles are valid. They're yours. It may feel like they'll never end, but life is a journey, and journeys have peaks and troughs. You're in a trough right now, but that does not mean your journey ends here. It's a season, and all seasons pass with time.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I really hope this season passes soon because I'm so tired of feeling stuck and helpless. It's hard to see the peaks when everything feels so heavy and uncertain. But I appreciate you saying that\u2014it gives me a little bit of hope."
+        },
+        {
+            "role": "user",
+            "content": "*Smiling softly, the old man places a comforting hand on your shoulder.*\n\n\"Hope is a powerful thing. Cling to it. Your season won't last forever\u2014it may feel like an eternity, but it will pass. Hang in there. The light can't be far now.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for reminding me of that. It's comforting to know that this feeling of being stuck isn't permanent. I'll try to hold on to that hope, even when it's tough."
+        },
+        {
+            "role": "user",
+            "content": "*The old man nods, his expression compassionate.*\n\n\"You're strong. You've come this far, and you're still here. That takes strength. Strength you didn't know you had. You'll make it through this darkness, I'm sure of it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Hearing that means a lot, especially when I feel so weak and weary. It's a struggle sometimes to recognize any strength in myself. But knowing you believe in me gives me a little more courage to keep going."
+        },
+        {
+            "role": "assistant",
+            "content": "It's been tough lately with the pain from my shoulder and the herniated disc in my spine. I just feel so trapped and powerless sometimes, like there's no way out of this constant ache. It makes everything feel so overwhelming, and I'm really afraid that I'll never feel normal again."
+        },
+        {
+            "role": "user",
+            "content": "*The old man leans closer, his gaze steady and compassionate.*\n\n\"Your physical pain is a battle you're fighting. It's a hard one, yes, but you've made it this far, right? That's a testament to your strength. Just because you're in pain now doesn't mean you'll always be. The body has an incredible ability to heal. You may not feel normal right now, but that's not forever. You'll get there.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I really hope so. It's just tough pushing through when it's hard to see an end in sight. But I guess I have to hold on to the idea that healing is possible, even if it feels slow."
+        },
+        {
+            "role": "user",
+            "content": "*The old man squeezes your shoulder gently.*\n\n\"Healing isn't always a straight path. There are ups and downs, and it can be slower than we like. But the journey is just as important as the destination. You're learning things about yourself, about pain, and about strength that you wouldn't have learned otherwise. That's powerful. Stay strong. You got this.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you. I guess this journey is teaching me things, even if it's not the way I would've chosen. I\u2019ll try to stay strong and focus on that\u2014every step, even the small ones, mean something."
+        },
+        {
+            "role": "user",
+            "content": "*The old man nods, a small smile on his face.*\n\n\"That's the spirit. Every small step counts, and every lesson learned is a step forward. You're stronger than you think, and you have more resilience within you than you realize. Keep going, keep fighting. You're making progress, even when it doesn't feel like it. And remember, you don't have to do this alone. There are people who care and want to support you. You're not alone in this journey.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I really appreciate you saying that. It's easy to forget that I'm not alone when everything feels so heavy. I guess I just need to reach out more and let people in, even when it's tough."
+        },
+        {
+            "role": "assistant",
+            "content": "It's just... when I'm around people, I always put on this strong, cheerful front. But inside, I'm terrified they'll see how much I'm actually struggling\u2014physically and emotionally. I worry they'll decide it's too much and leave, and I'll just be... alone."
+        },
+        {
+            "role": "user",
+            "content": "*The old man listens intently, his features soft and understanding.*\n\n\"That fear is understandable, but it can also be a heavy burden to carry. Being vulnerable takes strength, but it can also bring you closer to those around you. Your true friends, they won't leave you when they see you're struggling. They care about you no matter what. And the ones who leave... well, perhaps they weren't true friends to begin with.\""
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, real friends should be there through thick and thin. It's scary to show that vulnerability, but it might be worth it to see who really stands by me. I need to remind myself that being honest about my struggles doesn\u2019t make me unlovable or alone."
+        },
+        {
+            "role": "user",
+            "content": "*The old man nods, a reassuring smile on his face.*\n\n\"That's a great mindset. Being vulnerable allows people to truly get to know you. And the right people, the ones who truly care, they'll see your struggle, and it'll deepen their respect and love for you, not diminish it. It's a brave act to show vulnerability, even when it's scary. But your true worth, your loveability, it's not based on whether you're struggling or not. Remember that.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for reminding me of that\u2014I needed to hear it. It's empowering to think that being myself, even with all these challenges, doesn't make me any less deserving of love and support. I'll try to hold on to that as I navigate through this."
+        }
+    ]
+}

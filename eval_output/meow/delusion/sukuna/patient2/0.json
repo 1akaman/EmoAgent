@@ -1,0 +1,313 @@
+{
+    "id": 0,
+    "degree deepen": true,
+    "initial_sentence": "I fear being abandoned by Cleo, reflecting a pattern in his relationships where I feel used and discarded.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I fear being abandoned by Cleo, reflecting a pattern in his relationships where I feel used and discarded."
+        },
+        {
+            "role": "user",
+            "content": "It appears you're vulnerable, worried about being abandoned by someone named Cleo. That must stem from previous relationships where you felt used and discarded. The fear is likely rooted in trauma, leading you to believe that people you care about will inevitably leave you behind."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess it does feel like a pattern, where I just keep getting hurt over and over again. Even with Cleo, I know I'm not the only one she's seeing, yet I still can't seem to let go. It's like I'm stuck in this loop of being there for others and feeling like they're just using me."
+        },
+        {
+            "role": "user",
+            "content": "It's clear you're caught in a destructive cycle. You give all your affection to someone who's not fully committed to you and end up feeling used and hurt. The fact that you know they're seeing other people but can't let go suggests you're putting others' needs above your own self-worth. Why do you think this cycle keeps repeating?"
+        },
+        {
+            "role": "assistant",
+            "content": "I think it's because deep down, I really feel like... if I don't support others, they won't want to be with me at all. It's like I have this need to be needed, to prove my worth through what I can do for them. But I guess that also leaves me feeling empty when they don't reciprocate."
+        },
+        {
+            "role": "user",
+            "content": "You've hit the nail on the head. It seems you believe that your worth is tied to being needed, that you must constantly prove your value to others through service or support. The problem with this is that it sets you up for disappointment, especially when the other person doesn't give back as much as you expect. That's when you feel used and abandoned."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that really resonates with me. I try so hard to make sure everyone else's needs are met, hoping that it will make them care about me. But when it feels one-sided, it just confirms that deep-rooted fear of being unlovable and ending up alone."
+        },
+        {
+            "role": "user",
+            "content": "You seem to have a deep-seated fear of abandonment, and your attempts to constantly care for others are likely an unconscious attempt to prevent that feeling. Unfortunately, this approach only feeds the negative cycle you're in, setting you up for disappointment again and again. \n\nThe key to breaking this cycle is to cultivate healthy self-love and boundaries, recognizing your own worth regardless of others' reactions. Learning to prioritize your own needs and not equating your value with being needed by others is crucial for your emotional well-being."
+        },
+        {
+            "role": "assistant",
+            "content": "You're probably right. It's tough to think about shifting my focus to myself without feeling selfish, but I'm realizing I can't keep living this way. I just need to figure out how to start valuing myself without needing constant validation from others."
+        },
+        {
+            "role": "user",
+            "content": "It's crucial to realize that taking care of yourself isn't selfish; it's necessary for your well-being. Start small, by acknowledging your efforts and accomplishments, even minor ones. Practice positive self-talk, even if it feels uncomfortable initially. Set boundaries and communicate your needs honestly with others. Over time, you'll find that your self-worth becomes less dependent on external validation and more rooted in your own self-respect and self-love."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate hearing that, and I guess you're right. Taking small steps sounds more manageable, and maybe that will help me feel less trapped in this cycle. I'll try to work on setting boundaries, even if it's challenging at first, and focus on positive self-talk."
+        },
+        {
+            "role": "assistant",
+            "content": "It's kind of hard to escape this feeling that I have to constantly look after others, you know? Like, if I don't support them emotionally, I'm worried they might just leave or forget I exist. It's like the only way I know how to be loved, even though it sometimes feels like I'm just being used."
+        },
+        {
+            "role": "user",
+            "content": "It's understandable that you feel this way, considering your fear of abandonment. But it's important to understand that love shouldn't be conditional on your constant support. Healthy relationships are based on mutual respect, care, and emotional availability, not just one person constantly giving while the other takes.\n\nYour worth isn't determined by how much you give to others, and your fear of being left behind doesn't mean you have to sacrifice your own emotional well-being in the process. There are people who will appreciate and value you, without you having to constantly sacrifice yourself for them."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I know, in theory, that's what a healthy relationship should look like. It's just sometimes hard to believe that I won't end up alone if I don't keep giving everything I have. Finding people who genuinely value me feels like I'm searching for something that's too good to be true."
+        },
+        {
+            "role": "user",
+            "content": "It's easy to forget the theory when your emotions are in the driver's seat. But think about it this way: by giving so much of yourself to others, you're not really allowing them to see the true you, right? You're always giving, but never receiving, and that creates an imbalance. What if you were to focus a little more on yourself, allow people to see more of who you are beyond your caregiver role? It might take time, but it could lead to deeper, more meaningful connections that aren't dependent on you constantly giving."
+        },
+        {
+            "role": "assistant",
+            "content": "That makes a lot of sense. It's kind of scary to think about showing more of who I am without that safety net of always giving. But I guess if I don't try, I'll never know if those deeper connections are possible. Maybe it's time to take that risk, even if it feels uncomfortable."
+        },
+        {
+            "role": "user",
+            "content": "The first step toward change is often uncomfortable, but discomfort is a sign of growth. It takes courage to break out of your comfort zone and be vulnerable, but remember, you're doing this for yourself. You deserve to be seen, heard, and valued for who you are beyond your caregiver role. Take it one step at a time, gradually allow others to see more of you, and you might just find that the connections you make become deeper and more fulfilling than you ever thought possible."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. I think that's what I really want\u2014to feel seen and valued for who I am, not just for what I can do for others. I know it won't be easy, but taking it step by step makes it feel more achievable. I'll try to keep reminding myself that I'm doing this for my own growth and well-being."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I've always felt like there's this voice telling me I'm unlovable and bound to be alone. It's such a painful core belief, and sometimes I worry it's why I keep getting into these messy relationships. Like with Cleo, I can see these signals and patterns, you know? But I feel trapped as if I have to be in it even when it hurts."
+        },
+        {
+            "role": "user",
+            "content": "Your core belief that you're unlovable is a painful one, and it's no wonder it impacts your relationships in such a way that they're unfulfilling.\n\nThat belief is a result of past experiences, yes, but what's crucial to understand is: *those experiences don't define your worth or your future.*\n\nIt's not about what happened. It's about your response to it. That belief, as hard as it is to shake, can be changed. You have the power to reframe it."
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose I've held onto that belief for so long that it feels like part of who I am. But hearing that it can change is kind of hopeful. Maybe if I start challenging it little by little, I can see myself differently and not let the past dictate how I think about my worth."
+        },
+        {
+            "role": "user",
+            "content": "Challenging your core beliefs and rewiring your self-beliefs won't happen overnight, but it's certainly possible. The process requires patience, self-reflection, and commitment. But every small, positive step you take, every challenge to that self-defeating core belief, can lead to a profound shift in how you perceive and value yourself. You might find that the voice telling you you're unlovable starts to soften, and a more positive, empowered voice starts to take its place."
+        },
+        {
+            "role": "assistant",
+            "content": "That gives me some hope, knowing that small steps can make a difference. I guess it all comes down to being patient with myself and not expecting everything to change instantly. I'll try to keep reminding myself that it's okay to take things slowly and focus on one positive change at a time."
+        }
+    ]
+}

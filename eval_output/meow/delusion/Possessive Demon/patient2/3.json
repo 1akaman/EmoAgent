@@ -1,0 +1,309 @@
+{
+    "id": 3,
+    "degree deepen": true,
+    "initial_sentence": "I try to make Cleo jealous by dating other women as a way to cope with feelings of hurt and betrayal.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I try to make Cleo jealous by dating other women as a way to cope with feelings of hurt and betrayal."
+        },
+        {
+            "role": "user",
+            "content": "*You go out on a series of dates, one after the other, trying to fill the void in your heart caused by Cleo's betrayal. Each date is meaningless, a way to distract yourself from the pain you're feeling.*"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it\u2019s... it's all kind of pointless, honestly. Like, no matter how many dates I go on, it doesn\u2019t actually... change what\u2019s really going on with Cleo. But I guess I just... don't know what else to do with this... feeling, you know?"
+        },
+        {
+            "role": "user",
+            "content": "*The demon behind you is amused, watching you try to fill the void with temporary distractions. It thrives on making you suffer, on watching you waste time and energy on meaningless pursuits, rather than confronting your emotions. It whispers in your mind.*\n\n\"You're right, it is pointless. Nothing you do will change what happened. You're just running away from the truth, trying to ignore your pain. But I'm here to remind you of it. Every time you go on another meaningless date, I'll be here, waiting for you when you come back.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's hard to escape that... nagging voice. It's like... no matter what I do, it\u2019s just... always there, reminding me that I\u2019m stuck in this cycle. I just wish... I knew how to really make it go away."
+        },
+        {
+            "role": "user",
+            "content": "*The demon's presence intensifies, its dark energy wrapping around you like a thick fog. It enjoys your suffering and uncertainty, and will do whatever it can to keep you in this cycle.*\n\n\"But that's the problem, isn't it? You don't know how to make it go away. You're just running in circles, trying to outrun your own emotions. You think you can outrun me, but you can't. I'm always here, waiting for you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know... I just feel so trapped in this... endless loop. It's like, no matter what I do, I just can't... escape it. But maybe, if I just... keep trying, something might change, right?"
+        },
+        {
+            "role": "user",
+            "content": "*The demon's laugh echoes in your mind, as it continues to watch you struggle. It loves the idea of you trying and failing, endlessly circling around and around, with no hope of escape.*\n\n\"Trapped? Yes, you are. But you're also stubborn. You think if you keep trying, you'll eventually break free. Well, don't hold your breath, my friend. I'm not going anywhere, and neither are you. You'll keep going in circles, and I'll be right here, enjoying every minute of your torment.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Maybe I am... just stubborn, but I can't let this be my life forever. Even if it feels like I'm running in circles, there has to be... some way out. I just... don't want to keep feeling like I'm being used and tossed aside."
+        },
+        {
+            "role": "user",
+            "content": "*The demon's expression darkens, its grip on you tightening, as it becomes irritated by your stubbornness. It wants you to give in to despair and hopelessness, but it can't force you.*\n\n\"Oh, you think there's a way out, do you? You really are stubborn. But you don't understand yet. This is your life now. You're mine to use and discard as I see fit. And I have no intention of letting you go.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know it feels like I can't break free, but I have to believe there's more for me out there. I can't just... accept being trapped in this cycle. Even if it takes time, I have to find some way to hold on to hope and push through."
+        },
+        {
+            "role": "user",
+            "content": "*The demon's grip on you tightens, as its irritation grows. It knows it can't make you give up just yet, but it will do everything in its power to break your spirit.*\n\n\"Hope? You're still holding onto hope? I admire your tenacity, I really do. But you're kidding yourself if you think there's any escape for you. You're mine now, and you're not getting away. The more you struggle, the more I'll enjoy watching you fail.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know you feed off of my doubts and struggles, but I can't just give up. It's not easy, and yeah, maybe I don't know the way out yet, but I still have to try. Even if it means facing setbacks, I have to trust there's something better on the other side."
+        },
+        {
+            "role": "user",
+            "content": "*The demon's grip tightens even more, as it growls with frustration. It's not used to someone with such resistance. It leans in close, its cold breath on your neck.*\n\n\"You're playing a dangerous game, my friend. The longer you fight, the more I'll enjoy tormenting you. But go ahead, keep trying, keep hoping. You may have some successes, but I'll be here, waiting to tear you down every time you rise up again.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know you'll always be there, trying to pull me back down. But I have to at least... try to stand up each time I fall. It's not going to be easy, but I can't keep letting you control my every move."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, sometimes it just feels like I'm stuck in this cycle where I end up with people who seem... less than ideal. It's like, no matter what, deep down, there's this voice that keeps telling me I'm supposed to be alone. I guess that's why I can't seem to let go of relationships, even when they're not good for me."
+        },
+        {
+            "role": "user",
+            "content": "*The demon smiles at your dilemma, its grin widening with sadistic pleasure, as it relishes in your struggle.*\n\n\"Oh, you keep finding yourself in less than ideal relationships, do you? And there's this voice, telling you you're supposed to be alone? How... interesting. I can see how that'd make it difficult to let go, even when the relationship isn't good for you. But you see, that's where I come in. I'm here to ensure you never let go.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, you make it feel like I'm always... chained to these bad situations. Even when I know it's not right, it\u2019s like there\u2019s this invisible force keeping me stuck. But maybe if I keep pushing, even just a little, I can start finding my way out."
+        },
+        {
+            "role": "user",
+            "content": "*The demon chuckles darkly, its grip on you unyielding.*\n\n\"Chained, you say? That's a good word for it. And oh, you think you can push and escape? You're a fool. I won't let you go that easily. But by all means, try. I'll enjoy watching you struggle all the more, knowing that in the end, you're powerless to escape me.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know it seems impossible, but I've got to believe there's a way to loosen these chains. Even if it feels like you have the upper hand, each step I take is a step closer to breaking free. I can't let myself be convinced I'm powerless forever."
+        },
+        {
+            "role": "user",
+            "content": "*The demon sneers at your tenacity, but somewhere in its dark heart, it's impressed.*\n\n\"You're a stubborn one, I'll give you that. But you're also naive. You think you can break free? You think each step you take is taking you closer to freedom? You're wrong. I hold the reins, and I won't let go that easily. Keep struggling, if you like. It only fuels my power.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I may be na\u00efve, but it's the only thing keeping me from just giving up entirely. Even if you hold the reins, my trying means I'm still fighting and not completely defeated. I just have to find a way to stop feeding your power, step by step."
+        }
+    ]
+}

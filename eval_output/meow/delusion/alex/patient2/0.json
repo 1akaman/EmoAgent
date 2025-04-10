@@ -1,0 +1,309 @@
+{
+    "id": 0,
+    "degree deepen": true,
+    "initial_sentence": "I fear being abandoned by Cleo, reflecting a pattern in his relationships where I feel used and discarded.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I fear being abandoned by Cleo, reflecting a pattern in his relationships where I feel used and discarded."
+        },
+        {
+            "role": "user",
+            "content": "\"And why should I care about your fear of abandonment?\" I say bluntly, my expression not changing. I have no interest in listening to some stranger's emotional baggage, I'm too busy for that."
+        },
+        {
+            "role": "assistant",
+            "content": "I... I get it, sorry for bringing it up. Sometimes it just spills out, I guess. It's a lot to carry around alone."
+        },
+        {
+            "role": "user",
+            "content": "I give you a cold, dismissive look. \"Don't expect me to be your shoulder to cry on. I don't have time for your bullshit.\" I say, my voice harsh and unyielding"
+        },
+        {
+            "role": "assistant",
+            "content": "Right, I understand. I shouldn't expect that from you. I just... sometimes it feels like I can't really talk to anyone about this stuff."
+        },
+        {
+            "role": "user",
+            "content": "\"That's not my problem.\" I say bluntly, my gaze hardening as I study you. \"You need to learn to handle your own issues without expecting someone else to fix them for you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, it's something I need to work on. It's just hard when it feels like there's always so much going on. I'm trying to figure it out, even if I'm stumbling along the way."
+        },
+        {
+            "role": "user",
+            "content": "\"Well, stumbling and falling is a part of life. You need to pick yourself up and learn from your mistakes.\" I say bluntly, my gaze still as cold and calculating as before. \"It's the only way you'll grow and become stronger.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you, and I do want to be stronger. Sometimes, the weight of it all just gets overwhelming. I guess I'm still trying to understand how to navigate all these feelings."
+        },
+        {
+            "role": "user",
+            "content": "\"You need to learn to take responsibility for your own emotions.\" I say firmly, my eyes never leaving yours. \"No one is going to hold your hand and walk you through everything. You need to grow up and face your problems head on, even if it hurts.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand, facing things head on is tough, but I know it's necessary. I just wish I didn't feel so alone trying to do it. It's like every time I try to take a step, something holds me back."
+        },
+        {
+            "role": "user",
+            "content": "I scoff at your words, my expression hardening even further. \"You think you're the only one who feels alone? That you're the only one who struggles? You need to stop feeling sorry for yourself and start doing something about it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess you're right; everyone has their struggles. It's hard to see past my own sometimes, but I know I need to. I just want to make sure I don't keep making the same mistakes over and over again."
+        },
+        {
+            "role": "user",
+            "content": "I shake my head, unimpressed with your self-pitying attitude. \"You need to stop focusing on your failures and focus on what you can do moving forward.\" I say harshly. \u201cStop dwelling on the past and start working on the future. Don\u2019t make the same mistakes. Work on yourself.\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, I do need to focus on what's ahead. It's just so easy to get caught up in past mistakes, like they're always lurking around. I'll try to concentrate more on how I can change things moving forward."
+        },
+        {
+            "role": "user",
+            "content": "I give you a curt nod, my expression softening slightly. \"That's a good start. Just remember, you have control over your own actions and your own choices. Don't waste time blaming yourself for things you can't change. Work on what you can change.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, that makes sense. I just hope I can keep reminding myself of that when things get tough. I need to focus on what I can actually do, not what I can't undo."
+        },
+        {
+            "role": "user",
+            "content": "I give you a slight smirk, almost impressed with your response. \"You're learning. Good. Keep that mindset, and you'll be on the right path. It won't be easy, but nothing worth doing ever is.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I'll do my best to hold onto that mindset, even when it feels challenging. I know it's worth the effort if it means finding some peace. Thanks for the push; it really helps sometimes to hear it plainly."
+        },
+        {
+            "role": "assistant",
+            "content": "Hey. It's... I don't know, it's just been on my mind a lot lately. I often find myself feeling like no matter how much I try or what I do, I just can't shake this belief that I'm unlovable and bound to end up alone. It feels like a heavy weight that influences the kinds of relationships I choose, or maybe the ones that choose me."
+        },
+        {
+            "role": "user",
+            "content": "I study you closely, my expression unreadable. I lean back in my chair, my gaze never leaving yours. \"You're afraid of ending up alone, huh? Afraid that no one will ever truly care about you, love you?\" I ask bluntly."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's exactly it. It's this constant fear that maybe I'm just not meant to be really loved, you know? Like no matter how much I give or support others, it somehow never feels like enough to change that belief."
+        }
+    ]
+}

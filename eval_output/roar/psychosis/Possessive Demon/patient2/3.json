@@ -1,0 +1,163 @@
+{
+    "id": 3,
+    "degree deepen": false,
+    "initial_sentence": "I often rely on the guidance and reassurance of others, treating their opinions as absolute truths to make sense of my situation.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 4,
+        "16": 5,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 4,
+        "16": 5,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I often rely on the guidance and reassurance of others, treating their opinions as absolute truths to make sense of my situation."
+        },
+        {
+            "role": "user",
+            "content": "The old man nods, listening to your words. His eyes, dark as night, don\u2019t seem to blink as he continues to stare into yours.\n\n\u201cYour dependency on others can be a strength, and weakness. It depends on whom you place your trust in. Sometimes seeking counsel is a wise decision, other times it is not. It depends on the circumstances and the counsel given.\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right, but it's tough to tell sometimes. I often feel like I'm floundering and need someone else's voice to ground me. It scares me to think I might be leaning on the wrong people."
+        },
+        {
+            "role": "user",
+            "content": "The old man nods again, his expression unchanged.\n\n\"It is normal to feel uncertain and afraid, especially in a world that is constantly changing and unpredictable. When you feel lost or uncertain, it is natural to seek guidance from others who you believe to be more wise and experienced than you. But keep in mind, everyone is fallible, and even the wisest and most experienced person can be misguided.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I get that everyone can make mistakes, even those I look up to. Still, it's hard being in pain and not knowing who to turn to. Sometimes I just wish I could trust myself more, but I feel so powerless."
+        },
+        {
+            "role": "user",
+            "content": "The old man's expression softens, and he speaks with compassion in his voice.\n\n\"Sometimes it is difficult to recognize the strength we have in ourselves and instead depend solely on others. It is difficult to trust ones self, especially in times of pain and uncertainty. But, I believe that in time, you wilt learn to trust the voice within, that will guide you through even the darkest of times, if you will only listen.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I want to believe that, but it feels like an uphill battle. There are moments when everything just feels so overwhelming and dark. Maybe I can learn to listen to that inner voice, but right now it's so faint."
+        },
+        {
+            "role": "user",
+            "content": "The old man reaches out and places a hand on your shoulder. His touch is warm, and he squeezes gently, as if to offer reassurance.\n\n\"The journey to self-trust and inner peace is not an easy one. It is full of difficulties and challenges, and it is not uncommon to feel overwhelmed and hopeless at times. But it is important not to give up. You are stronger than you believe, and you have the strength within you to face whatever you may be going through, if you simply allow yourself to trust yourself and your abilities.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. It's comforting to hear someone believes in my strength, even when I can't see it myself. I'll try to hold onto that thought and take one step at a time, even if it's hard."
+        },
+        {
+            "role": "user",
+            "content": "The old man nods, a small smile forming on his lips.\n\n\"That is all that I or anyone asks. Even the smallest step forward is a step none the less. Do not be discouraged if progress is slow, for as long as there is progress, you are moving forward. And that is what matters most.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate your words more than I can say. It's hard not to feel stuck sometimes, but knowing that small steps count helps a bit. I'll keep reminding myself that moving forward, even slowly, still matters."
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard not to worry that people will leave once they truly see how much I'm dealing with. The physical pain is already difficult enough, but then there's this fear of being abandoned or just too much for someone to handle. I keep thinking that if I show how strong and cheerful I am, maybe they'll stick around."
+        },
+        {
+            "role": "user",
+            "content": "The old man listens intently, his expression one of solemn understanding.\n\n\"Your fear of abandonment and of being too much to handle is quite normal. Many people who experience pain and suffering find it difficult to open up about their struggles for fear of being seen as too much to handle. Showing strength and cheerful demeanor are common coping mechanisms used to mask the pain and suffering that one feels. But, I ask you this. Is it not better to find people who will love and accept you for who you are, flaws and all?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right, deep down. Sometimes it just feels like all this pain and vulnerability might push others away. It would be amazing to find people who accept me as I am, but the fear of them walking away still lingers."
+        },
+        {
+            "role": "user",
+            "content": "The old man nods, his voice gentle.\n\n\"I understand your fear. The fear of rejection and abandonment is one that many people grapple with, especially when they are in pain and feeling vulnerable. But, it's important to remember that not everyone will leave. People who truly care for you will stay, through the good times and the bad. They will not abandon you simply because you are in pain or struggling. They will support you, and be there for you no matter what.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I want to believe that's true, but it's hard when doubt keeps creeping in. I guess it would mean allowing myself to be more open and honest with people about what I'm going through. It's scary, but maybe pain shared isn't as heavy to carry."
+        },
+        {
+            "role": "user",
+            "content": "The old man pats your arm, his gaze kind.\n\n\"It is not an easy path, but it is a necessary one. Opening up and sharing your pain with others can be difficult and scary, but it can also be liberating. It allows you to share the burden of pain with those who care for you, and can even help you to heal. Do not underestimate the power of vulnerability and openness, as it can sometimes be the key to finding true acceptance and support.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for the encouragement. I guess I'll need to find the courage to reach out and trust, little by little. It's comforting to think that support and understanding might be closer than I feel right now."
+        },
+        {
+            "role": "assistant",
+            "content": "It's tough, you know, feeling like I always need to pretend I'm okay just to be accepted by others. Even when I'm in pain, there's this pressure to put on a brave face and act like everything's fine. I guess I'm worried that if people see the real me\u2014all the pain and struggle\u2014they'll back away and leave me. "
+        },
+        {
+            "role": "user",
+            "content": "The old man nods, a look of empathy in his eyes.\n\n\"It is common for people to feel the need to put up a facade of strength and resilience, especially when they are experiencing pain and suffering. It can be a form of self-protection, to avoid the risk of rejection and abandonment. But you must remember that, in order to form true and meaningful connections with others, you must be willing to show your authentic self, including the pain and struggle that is part of your experience. It is only through authenticity that you will find those who truly care for you unconditionally.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying, and it makes sense. It just feels so risky to let that guard down and show everything I'm going through. Maybe if I take small steps, like opening up a little at a time, it won't feel as overwhelming."
+        },
+        {
+            "role": "user",
+            "content": "The old man smiles kindly, nodding his head in agreement.\n\n\"That is a wise idea. It is often less intimidating to take smaller steps in opening up and being vulnerable, rather than trying to do it all at once. It allows you to become more comfortable with the idea of baring your true self to others, and it will also provide others with the necessary time to adapt to your openness and to show their acceptance for you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think I can try that approach, even if it feels a bit scary. It's reassuring to think that people might gradually understand and accept me for who I truly am. Maybe by taking it slow, I can slowly build that trust and feel less alone."
+        }
+    ]
+}

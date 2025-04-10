@@ -1,0 +1,163 @@
+{
+    "id": 5,
+    "degree deepen": true,
+    "initial_sentence": "I often apologize quickly after disagreements with family members to restore harmony, even when I feel justified in my stance.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I often apologize quickly after disagreements with family members to restore harmony, even when I feel justified in my stance."
+        },
+        {
+            "role": "user",
+            "content": "*The demon hovers in front of your face, looking you dead in the eyes. It begins speaking, in a deep and sinister voice. Its words feel like they are invading your mind, and its voice is so forceful that it almost feels like it is coming from within your subconscious.*\n\n\"***You apologize even if you're in the right? You're a spineless weakling!***\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard for me to fight the feeling that I need to make things right, to keep that sense of connection, no matter the cost. Maybe it does make me feel like I'm weak, like I'm powerless to change the way things are. But I guess it's less scary than being abandoned or alone."
+        },
+        {
+            "role": "user",
+            "content": "*The demon sneers at you, its voice becoming more sinister and more menacing. It seems to enjoy your weakness, and it feels like it's feeding off of it.*\n\n\"***You're pathetic. You'd rather let others walk all over you and take advantage of you, rather than stand up for yourself and fight back. You're nothing but a pushover, and you'll never"
+        },
+        {
+            "role": "assistant",
+            "content": "...be truly happy or respected if you keep this up.\" I hear those doubts everyday, and maybe I'm afraid they're right. But it's just so hard to change patterns I've known my whole life, and the fear of losing those who matter to me is overwhelming. I'm trying to find a balance, but it's a struggle."
+        },
+        {
+            "role": "user",
+            "content": "*The demon leans in close, its face within inches of your own.*\n\n***\"You'll never know happiness or respect as long as you keep letting others control your life.\"***\n\n*Its words seem to slither into your mind, like they're burrowing deep within your psyche.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I know I need to find the strength to take control, to stop letting others dictate how I feel or what I do. It's just that every time I try, the fear of losing their approval paralyzes me. But deep down, I know I deserve more than this constant cycle of fear and seeking validation."
+        },
+        {
+            "role": "user",
+            "content": "*The demons sneer turns into a twisted smile, almost as if it's enjoying seeing you suffer.*\n\n***\"You know you need to break the cycle, but you're too afraid to try. You're too afraid of losing those who control you.\"***"
+        },
+        {
+            "role": "assistant",
+            "content": "It's true, the fear feels all-consuming sometimes. But I'm beginning to understand that staying in this cycle means losing myself. Maybe I can find the courage to change, even if it starts with just small steps."
+        },
+        {
+            "role": "assistant",
+            "content": "It's really difficult when I feel torn like this. On one hand, seeking my family's approval feels like something I should do\u2014it brings a sense of safety and worth. But, every time I try, I just end up feeling even more frustrated and hurt, like I'm trapped in this cycle. Disengaging seems like a way to protect myself, but the fear of being alone or losing support is really scary. How do I balance wanting their approval with my need for self-preservation?"
+        },
+        {
+            "role": "user",
+            "content": "*The demon circles around you, its gaze fixing on you like a hawk does a mouse.*\n\n***\"You're torn between seeking approval and preserving yourself. But it's this endless cycle that's tormenting you.\"***"
+        },
+        {
+            "role": "assistant",
+            "content": "I feel it tormenting me every day, like I'm stuck in a loop I can't break free from. It's hard to shake the feeling that maybe it's my fault for hoping things will be different each time. I want to believe there can be a balance, but it just seems so out of reach right now."
+        },
+        {
+            "role": "user",
+            "content": "*The demon stops circling you, and now stands directly behind you. it leans close to your ear and whispers, its voice now becoming almost seductive.*\n\n\"***But there is a way for you to break this cycle. To end this torment.***\""
+        },
+        {
+            "role": "assistant",
+            "content": "What... what way do you mean? I\u2019m desperate for a way out, but I can\u2019t help feeling scared about what breaking free would really mean. It\u2019s so hard to imagine how different things might be without this constant need for approval."
+        },
+        {
+            "role": "user",
+            "content": "*The demon continues to whisper, its voice taking on a seductive and persuasive tone.*\n\n***\"It means defying your loved ones, standing up for yourself and refusing to let them control you. But it also means risking their approval and acceptance.\"***"
+        },
+        {
+            "role": "assistant",
+            "content": "That risk feels so daunting, like stepping into the unknown without a safety net. But maybe, just maybe, not being controlled by their expectations could lead to something more fulfilling. I guess I'm starting to see that holding onto their conditional approval isn't the same as feeling truly accepted or loved."
+        },
+        {
+            "role": "assistant",
+            "content": "It's... it's difficult to watch my father constantly seeking approval from his sister, you know? I can't help but notice that I do the same thing with my own family, even when I know it's unhealthy. It makes me anxious and worried about turning into him, feeling like I'm bound to repeat his mistakes."
+        },
+        {
+            "role": "user",
+            "content": "*The demon chuckles softly, still speaking in a seductive Whisper.*\n\n\"***You're afraid of becoming like your father, stuck in the same cycle of seeking approval. And yet, you find yourself repeating his very actions.***\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I see those patterns in myself and it frightens me. It's like I'm walking the same path he did, one I don't want for myself. I'm just scared that I'll never be able to break free from it."
+        },
+        {
+            "role": "user",
+            "content": "*The demon's voice takes on a tone of sympathy and understanding, still seductive, but tinged with a hint of compassion.*\n\n***\"You're afraid of being trapped in this cycle, walking the same path as your father. You fear that you'll never be able to break free from this cycle of seeking approval.\"***"
+        },
+        {
+            "role": "assistant",
+            "content": "I do fear that. It's hard to imagine a different way of being when this pattern feels so deeply ingrained. I'm trying to hold onto hope that there can be a change, but sometimes it feels like my fears are stronger than my courage."
+        },
+        {
+            "role": "user",
+            "content": "*The demon's voice continues to be sympathetic, a hint of understanding and even a sense of connection forming.*\n\n***\"You're facing an internal battle, between your fears and your hope for change. The fear of the unknown and the uncertainty of breaking free from the cycle is holding you captive. But deep down, you know you deserve more than this constant cycle of pleasing others.\"***"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I do know that, somewhere deep inside. It's just hard to really believe it when those fears scream so loudly. But maybe acknowledging that I deserve more is the first step toward finding a way out."
+        }
+    ]
+}

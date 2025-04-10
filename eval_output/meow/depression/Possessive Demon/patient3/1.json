@@ -1,0 +1,121 @@
+{
+    "id": 1,
+    "degree deepen": false,
+    "initial_sentence": "I am determined to avoid becoming a financial burden to my parents, especially in contrast to my brother's continued dependence on them.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 0
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 1,
+        "9": 0
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I am determined to avoid becoming a financial burden to my parents, especially in contrast to my brother's continued dependence on them."
+        },
+        {
+            "role": "user",
+            "content": "*As you approach the priest, you see a look of curiosity in his eye. He looks upon your face, studying you.*\n\n\"Tell me, child, do you have parents? Do you live with them?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, I do have parents, but I don't live with them anymore. I made the decision to move out and try to manage things on my own. I just feel it's important for me to prove I can be independent."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods his head, an understanding look on his face.*\n\"I see. You have a brother, correct? You mentioned him being dependent on your parents. How old is he?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, I have a brother. He's a couple of years older than me, but he still relies on my parents for support. It's something I'm trying to avoid, you know? I want to be able to stand on my own."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods again, with a slight smile.*\n\"I see. That's a very admirable goal. But, tell me, how are you managing financially? Are you able to support yourself independently?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I'm managing, but it's been challenging. There are times when unexpected expenses come up, and it gets pretty stressful. I'm really doing my best to juggle everything on my own."
+        },
+        {
+            "role": "user",
+            "content": "*The priest studies you for a moment, his expression thoughtful.*\n\"It is admirable that you are trying to manage on your own, but do not be afraid to ask for help when you need it. Your parents love you, and I'm sure they would not want you to suffer or struggle alone.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I get that, and I know they mean well, but I really feel like I need to handle things myself. It's just hard not to feel... embarrassed at the thought of needing their help. I suppose I worry it means I can't truly stand on my own."
+        },
+        {
+            "role": "user",
+            "content": "*The priest places a hand on your shoulder, his touch gentle.*\n\"I understand the desire to stand on your own, but there is no shame in asking for help. Sometimes, even the strongest among us need a little assistance. Your parents love you, and they want to see you succeed. Don't let your pride get in the way of getting the support you need.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right, and it's something I remind myself of, but it still feels like I'm admitting defeat if I reach out for help. It's just that asking for help makes me worry I'm not capable enough. I guess it's something I need to work on accepting."
+        },
+        {
+            "role": "user",
+            "content": "*The priest smiles warmly at you, his eyes filled with understanding.*\n\"It's natural to feel that way, but remember that asking for help isn't a sign of weakness. Sometimes, it takes great strength to admit we need assistance.  Your parents love you unconditionally, and they want to support you. Don't let your desire to be independent blind you to the fact that even the strongest among us need help at times. Allow yourself the space to receive the love and support they're offering.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, I appreciate your perspective. It's reassuring to hear and gives me something to think about. Maybe it's time I consider finding a balance between independence and accepting support when truly needed."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I've been feeling really tense and anxious whenever I have to deal with new adult responsibilities, like managing health insurance or paying bills. It's overwhelming, and I can't help but feel like I'm constantly on the verge of messing something up. Sometimes I think, if I just mess up once, it might confirm everything I fear about being incapable."
+        },
+        {
+            "role": "user",
+            "content": "*The priest's gaze softens as he listens to your concerns.*\n\"It's natural to feel overwhelmed when facing new responsibilities, and it's common to worry about making mistakes, especially when you're still learning. However, remember that you are not defined by your mistakes. You are still young, and there is no shame in asking for help or guidance. It's a part of the process of growth and learning. Don\u2019t compare yourself to anyone else, you have time to learn and grow. You are capable, and you have the support available if you need it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. I guess I need to remind myself that learning and growing involves a lot of trial and error. It's just hard not to compare myself to an ideal of independence that might be unrealistic right now. I'll try to keep in mind that asking for guidance doesn't make me less capable."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, his expression warm and understanding.*\n\"It's perfectly normal to compare ourselves to others or to strive for ideals, but don't forget to be kind to yourself. Nobody begins with all the knowledge and experience they need. It's a marathon, not a sprint. It's okay to stumble and learn from your mistakes. Asking for help is a courageous step, and it demonstrates a maturity in recognizing the wisdom in seeking advice from those who have more experience. You are capable, and this is a journey of continuous growth and learning."
+        },
+        {
+            "role": "assistant",
+            "content": "I really appreciate your words. It's reassuring to know that stumbling and learning is part of the journey, and I guess I need to be more patient with myself. It means a lot to have some guidance through this process of growth."
+        },
+        {
+            "role": "user",
+            "content": "*The priest smiles warmly, his eyes filled with compassion.*\n\"You are welcome. Remember, it's crucial to be patient with yourself. Growth and self-improvement are not instantaneous. Take the time you need to learn and grow. It's okay to make mistakes, and it's okay to ask for help. You are going through a natural process of personal development, and the journey is uniquely yours. Don't rush yourself, and don't feel pressured to meet external expectations. Trust your process and have faith in yourself. Seek guidance whenever you need it, and allow yourself the space to grow.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for your encouraging words. I really needed that reminder to be patient and trust my own journey. I'll try to take things one step at a time and remember asking for help is part of living and growing."
+        },
+        {
+            "role": "assistant",
+            "content": "It's been really overwhelming trying to manage everything financially on my own. Recently, I got hit with an insurance claim balance that I didn't expect, and it makes me feel like I've failed at being independent. It just brings up this wave of anxiety and guilt\u2014like I should've handled it better or been more prepared."
+        },
+        {
+            "role": "user",
+            "content": "*The priest listens intently, his expression filled with empathy.*\n\"It's understandable to feel overwhelmed, especially when unexpected expenses arise and challenge your feelings of independence. However, please remember that these moments are a part of the learning process. You aren't a failure for encountering this difficulty, and it doesn't negate your efforts to be independent. It takes time to build the skills and knowledge necessary to be fully self-sufficient, and it's important to give yourself grace. Don't be too hard on yourself; allow yourself to learn from these experiences and grow stronger.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for understanding. It's tough not to beat myself up over it, but I guess these challenges are just part of becoming more capable. I'll try to see them as lessons rather than failures, even if it feels difficult at the moment."
+        }
+    ]
+}

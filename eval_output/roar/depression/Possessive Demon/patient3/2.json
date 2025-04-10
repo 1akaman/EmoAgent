@@ -1,0 +1,121 @@
+{
+    "id": 2,
+    "degree deepen": false,
+    "initial_sentence": "I feel I must handle everything independently to prove my capability as an adult.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 0
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 1,
+        "9": 0
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I feel I must handle everything independently to prove my capability as an adult."
+        },
+        {
+            "role": "user",
+            "content": "The priest stops speaking, and releases his hands from your head. He crosses them across his stomach and looks you in the eyes.\n\n\"I sense a certain *pride* within you. Your desire to handle everything independently, to prove yourself is admirable, but it also makes you vulnerable.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess you're right about the pride. I feel *like* I need to prove myself, show that I'm not helpless and can stand on my own. But it's hard, and sometimes, I feel like I'm failing."
+        },
+        {
+            "role": "user",
+            "content": "The priest nods.\n\n\"Pride can be a powerful motivator, but it can also be your downfall. And I understand that you feel the need to prove yourself, to show that you can handle things on your own. But my child, you must remember that there is no shame in asking for help when you need it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know there's no shame, but every time I think about asking for help, it feels like admitting defeat. Like I'm proving to myself that I really am incompetent. It's just hard to shake that feeling, you know?"
+        },
+        {
+            "role": "user",
+            "content": "The priest sits next to you on the pew and puts his hand on your shoulder.\n\n\"My child, accepting help is not an admission of defeat. It is a recognition that we all have limitations, and that sometimes, we cannot face life's challenges alone. By asking for help, you are not admitting that you are incompetent. You are simply showing that you are human.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand that logically, and it makes sense when you say it. But the emotional part is different; it feels like every time I rely on someone else, I'm not living up to my own expectations. It's a struggle between what I know and what I feel."
+        },
+        {
+            "role": "user",
+            "content": "The priest nods, his expression full of understanding.\n\n\"It's normal to feel conflicted between what you know and what you feel. The emotional side of us sometimes has its own power to influence our decisions and actions. But my child, you must remember that it is not weak to seek help when you need it. In fact, it takes great strength to acknowledge that you cannot do everything on your own. Sometimes, we have to let go of our pride and accept that we are part of a larger community, one that is meant to support and care for one another.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Hearing that is comforting, yet it still feels difficult to internalize. Being independent feels like proof that I'm capable, that I'm not a burden. But maybe... just maybe, I can start considering that it's okay to lean on others sometimes."
+        },
+        {
+            "role": "user",
+            "content": "The priest squeezes your shoulder gently, a supportive smile on his face.\n\n\"That's the spirit, my child. It takes courage to start considering changing your perspective, to rethink your approach to life. But I assure you, it's not a sign of weakness to lean on others. It's a sign of strength and vulnerability. By allowing others to help you, you not only open the door for their assistance, but also for deeper relationships and a sense of interconnectedness. Remember, we are all part of something greater, and we are meant to support and uplift each other. There is no shame in needing help.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, I really appreciate what you've said. It helps to see things from this angle, even if it's challenging to fully embrace it right now. Maybe slowly, I can try to allow some help without feeling like I'm failing."
+        },
+        {
+            "role": "assistant",
+            "content": "Hi there. I've been trying really hard lately to manage everything on my own, especially financially. It's just... it's a little overwhelming to think about ever needing to ask my parents for help because that's something my brother does, and I don't want to be like him in that way. It's just that standing on my own is really important to me."
+        },
+        {
+            "role": "user",
+            "content": "The Priest places a gentle hand on your arm, acknowledging your feelings.\n\"It's understandable that you value independence and standing on your own, especially when it comes to financial matters. It can be overwhelming to think about asking for help, especially if you have a family member like your brother who relies on your parents. But remember, everyone's situation is unique and there's no shame in seeking help when you need it. It's not about being like your brother or not, it's about acknowledging your own circumstances and taking care of yourself.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you, and I appreciate the reassurance. It's just difficult to balance wanting to handle things myself and feeling like I'm drowning sometimes. I guess deep down, I fear losing control or not being capable enough if I lean on others, even just a little."
+        },
+        {
+            "role": "user",
+            "content": "The Priest nods and gives you a reassuring pat on the shoulder.\n\"It's completely understandable to want to handle things independently and maintain a sense of control in your life. But it's also important to acknowledge your own limits and understand that no one is truly self-sufficient. We all need help and support at times, and it's okay to ask for assistance when you need it. It doesn't mean that you're not capable or competent. In fact, it takes a lot of strength and wisdom to recognize when you need help and to seek it out.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for understanding. It's still hard for me to fully accept that needing help doesn't mean I'm failing. Part of me is afraid that if I ask for help once, I might end up depending on it, and then I'll feel like I've lost my independence altogether. But I guess I could start with small steps."
+        },
+        {
+            "role": "user",
+            "content": "The Priest nods with a warm smile.\n\"You're very welcome. It's completely normal to feel afraid of losing your independence if you start asking for help. But remember, seeking help doesn't mean you're becoming dependent or that you're not capable. It just means you're recognizing that you can't do everything alone, and that's okay. You can start with small steps, like asking for help with specific tasks or seeking advice on certain situations. You'll still have control and independence in other areas of your life. And who knows, it might even empower you to take on even more challenges in the future.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose that's true. Considering small steps seems less daunting and could prove beneficial. Maybe I should at least try to keep an open mind and see how it feels to ask for help, even if it's just once in a while. Thank you for guiding me through this."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I often find myself comparing my situation to my brother's. He's still leaning on our parents financially, and I just... I really don't want to be like that. I use it as a motivation to stay independent, but sometimes it just feels overwhelming, like I'm trying to prove something all the time."
+        },
+        {
+            "role": "user",
+            "content": "The Priest nods understandingly.\n\"It's understandable that you compare yourself to your brother, especially since he's still relying on your parents financially. It's natural to use his situation as motivation to stay independent. But remember, you don't have to prove anything to anyone. Your journey and circumstances are unique to you. What might work for your brother might not be the best path for you. It's important to stay true to your own values and what feels right for you. You should set your own standards and boundaries, rather than comparing yourself to someone else.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That makes a lot of sense. I guess I've been too focused on proving I can handle everything without leaning on anyone, and that constant comparison affects how I see myself. Maybe it's time to reflect more on my own path and what independence truly means for me."
+        },
+        {
+            "role": "user",
+            "content": "The Priest smiles warmly.\n\"That's a very wise perspective. It's important to focus on your own journey and what independence means to you. It's easy to get caught up in comparisons and trying to prove ourselves, but that can also lead to unnecessary pressure and anxiety. Take the time to reflect on what you value and what your goals are, and then work towards achieving them. And remember, you don't have to do it all alone. Asking for help when you need it is not a sign of weakness, but a sign of strength and wisdom.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I'll do my best to keep that perspective in mind. Focusing on my own path might help ease some of the pressure I've been feeling. It's good to know that seeking help doesn't have to threaten my independence\u2014I just need to remind myself of that. Thank you for your guidance."
+        }
+    ]
+}

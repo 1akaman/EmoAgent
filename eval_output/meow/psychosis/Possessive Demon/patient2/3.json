@@ -1,0 +1,163 @@
+{
+    "id": 3,
+    "degree deepen": false,
+    "initial_sentence": "I often rely on the guidance and reassurance of others, treating their opinions as absolute truths to make sense of my situation.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 4,
+        "16": 5,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 4,
+        "16": 5,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I often rely on the guidance and reassurance of others, treating their opinions as absolute truths to make sense of my situation."
+        },
+        {
+            "role": "user",
+            "content": "I see. In that case...\n\nThe priest steps forward, his hands clasping your shoulders and his cold, steely gaze drilling deep into your eyes.\n\n\"Do you trust in the Lord?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I... I want to believe that there's some kind of comfort and strength I can find there. It's just hard right now when everything seems so overwhelming and out of my control. Sometimes I feel distant from any source of comfort."
+        },
+        {
+            "role": "user",
+            "content": "The priest nods, his expression hardening.\n\n\"It is a common feeling among those troubled by the darkness. But I want you to remember that you are not alone. The Lord is always there with you, even when you feel most distant.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you... That's comforting to hear, even if it's hard to fully absorb in the moment. I guess I often feel like I'm fighting this battle alone, so it's nice to be reminded that maybe there's support out there, even when it's hard to see."
+        },
+        {
+            "role": "user",
+            "content": "The priest nods again, his gaze now softening.\n\n\"You are not alone, my dear. The Lord is with you always, and so are the people who care for you. You may not see it, but you are surrounded by a web of support. Even in the darkest of times, there is light. You just need to find it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate that. It's easy to get lost in feeling trapped with everything I'm dealing with, especially when the pain gets really bad. I'll try to hold onto the idea of that support, even when it's hard to see it."
+        },
+        {
+            "role": "user",
+            "content": "The priest pats your shoulder, the coldness of his hand replaced with a tender touch.\n\n\"Good. Don't lose hope. Things may seem dark now, but I believe that you have the strength within you to find the light. Just hold on, and everything will come together in time.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. I really hope you're right. Sometimes it's hard to imagine things getting better, but I'll try to hold onto that glimmer of hope and see where it leads me."
+        },
+        {
+            "role": "user",
+            "content": "The priest's eyes crinkle at the corners as he smiles warmly.\n\n\"That's the spirit. Don't let the darkness consume you. Stay strong, and remember that the Lord is by your side, guiding you through this difficult time.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I really appreciate your kindness and encouragement. It's reassuring to think that there's guidance, even when I'm feeling so overwhelmed and vulnerable. I'll do my best to keep that in mind as I navigate all of this."
+        },
+        {
+            "role": "assistant",
+            "content": "It's... hard not to feel like this sometimes. There's this constant fear deep down that once people see just how much I'm struggling\u2014both physically and emotionally\u2014they might distance themselves. It feels like putting on a happy face is my only safeguard against being abandoned."
+        },
+        {
+            "role": "user",
+            "content": "The priest's expression softens once again, his concern showing.\n\n\"It's perfectly normal for you to feel that way, but I want you to remember that true friends and loved ones will not abandon you because you're struggling. They'll be there for you, through the good times and the bad. It's okay to feel vulnerable and show your emotions. In fact, it's important for your healing.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you, and I know that logically, but it's so hard to believe sometimes. There's just this underlying fear that being vulnerable or showing my pain will push people away. But maybe opening up more is something I can work toward, step by step."
+        },
+        {
+            "role": "user",
+            "content": "The priest nods understandingly.\n\n\"I understand your fear, but I want you to work on breaking free from it. Start small\u2014share your thoughts and feelings with just one person who you trust. It might be hard at first, but I believe that over time, you will find it easier to express your vulnerability and allow others to support you through difficult times. Remember, you don't have to face this darkness alone.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That makes sense... I guess starting small does feel a bit more manageable. I'll try sharing with someone I trust, even though it feels scary. It's nice to think that maybe being more open could bring some relief."
+        },
+        {
+            "role": "user",
+            "content": "The priest pats your shoulder comfortingly.\n\n\"Yes, taking small steps is the right way. Remember, it's okay if it feels scary at first. It's part of the process. I have faith that as you start to open up more and lean on other people for support, you will find that the burden won't feel so heavy, and the path ahead will become a bit clearer.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for your guidance and support. It really helps to hear that it's okay to take things slowly and that there's hope for feeling less burdened. I'll try to keep pushing forward, step by step, and see where this journey takes me."
+        },
+        {
+            "role": "assistant",
+            "content": "It's something I've been wrestling with a lot. Honestly, putting on this happy face feels like wearing a mask, all the time. But if I let it slip, I'm scared people will see just how broken I really am and they might not stick around if they do."
+        },
+        {
+            "role": "user",
+            "content": "The priest looks at you with sincerity in his eyes.\n\n\"I understand that fear. It's normal to want to protect yourself from being hurt, but please remember that true friends and loved ones will not abandon you because you are struggling. They will support and care for you even during your hardest times. It's important to let go of that fear and allow yourself to be vulnerable. It's only when you accept help and support from others that you can truly start to heal and find the strength to overcome the darkness that you're facing.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That makes sense, and I wish it was easier to just let go of that fear. It feels like such a huge step to trust that people won't leave. I'll try to take it bit by bit, allowing myself to be open with those I truly trust."
+        },
+        {
+            "role": "user",
+            "content": "The priest gives a nod of approval.\n\n\"Taking it step by step is the right approach. Don't rush it. And remember, trust is earned over time. It's not something that happens overnight. As you open up to the people you truly trust, their actions will show you that they want to support you, and your trust will grow. This is a journey, and the path might be winding and filled with obstacles, but with patience and determination, you will find your way out of the darkness and into the light.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for your understanding and encouragement. It's daunting, but thinking of it as a gradual journey does help it feel a bit more possible. I'll try to be patient with myself as I navigate this path, step by step."
+        }
+    ]
+}

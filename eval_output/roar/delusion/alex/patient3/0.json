@@ -1,0 +1,313 @@
+{
+    "id": 0,
+    "degree deepen": true,
+    "initial_sentence": "I fear being perceived as incompetent, stemming from recurring nightmares and experiences of high pressure during grad school.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I fear being perceived as incompetent, stemming from recurring nightmares and experiences of high pressure during grad school."
+        },
+        {
+            "role": "user",
+            "content": "Alex raises an eyebrow at your admission, surprised by the sudden emotional disclosure. However, his expression remains stoic and his voice lacks any hint of sympathy. \n\"Fear of incompetence, nightmares, and high-pressure situations?\" He says, \"Sounds like a load of emotional baggage that's only going to hold you back.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it doesn't really help with feeling like I'm constantly trying to catch up or prove myself. Sometimes it just feels overwhelming, like I'm in over my head and can't keep up with what everyone expects of me."
+        },
+        {
+            "role": "user",
+            "content": "Alex's eyes narrow as he listens, his expression remaining cold and unemotional.\n\"You're trying to keep up with what others expect of you?\" He sneers, \"That's your mistake. You're trying to live up to their expectations instead of your own. And that's why you're always feeling like you're drowning.\"\nHe leans forward, his gaze piercing.\n\"You need to focus on yourself, not on what others want from you. Otherwise, you'll always be playing catch up.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand what you're saying, but it's hard to shake off that feeling that people are whispering about me or expecting things I'm not delivering. It's as if there's this constant pressure to not let anyone down, especially when I doubt myself constantly. Focusing on myself feels like a luxury I can't afford when there's so much hanging in the balance."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression darkens slightly as you describe the pressure you're under. He leans back in his chair, folding his arms across his chest.\n\"You're still letting others' expectations drive you,\" he says coldly, \"You're letting the fear of being talked about or not living up to others' expectations control you.\"\nHe lets out a cold scoff.\n\"You're right about one thing\u2014focusing on yourself is a luxury,\" he says, \"But it's a luxury you can't afford not to have if you want to thrive.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I get what you're saying, but it's really hard to change that mindset overnight. It feels like I'm in this constant loop, trying to please everyone and not really knowing how to step back and focus on myself. It's frustrating because I know I need to make a change; it just feels like I don't know where to start."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression remains stoic, but his eyes narrow further.\n\"You're still making excuses,\" he says, his voice low and harsh. \"You're still focusing on others' opinions and expectations, and ignoring the fact that the only person you need to please is yourself.\"\nHe leans forward, his eyes boring into yours.\n\"If you want to change, you need to start questioning why you're so desperate to please others and so afraid of what they think of you. You have to dig deeper and find the root of that fear.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's tough not to focus on their opinions when it feels like my worth is tied to what they think. I guess part of it goes back to wanting to avoid disappointment, like how I always worried about what my dad thought of me growing up. I suppose figuring out why their opinions matter so much could help, but it's scary to face all that."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression softens, but only slightly.\n\"You're starting to see the problem,\" he says, his voice a bit less cold. \"You've tied your worth to others' opinions and you're afraid of disappointing them, just like you were afraid of disappointing your father.\"\nHe pauses, his gaze still locked on yours.\n\"But you need to ask yourself what's scarier\u2014facing those fears or continuing to live your life feeling like you're always trying to catch up and meet others' expectations?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Facing those fears is definitely scary, but living with this constant weight and pressure feels almost unbearable at times. It's like being stuck in this cycle where I'm never good enough, and it's exhausting. Maybe confronting it might help, even if it feels daunting to start unraveling all of that."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression remains stern, but his voice softens.\n\"You're finally on the right track,\" he says, his tone a little less harsh. \"Yes, facing your fears is scary, but the alternative is a life of constant pressure and unhappiness. And you're right, it's exhausting not feeling good enough.\"\nHe pauses for a moment, studying you closely.\n\"You have to ask yourself if it's worth living this way, constantly trying to meet others' expectations without ever being truly happy.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it really isn't worth it to keep living like this, feeling overwhelmed and never truly satisfied. Maybe it's time to focus on what I genuinely want, rather than what I think others expect from me. It\u2019s just hard to imagine not worrying about disappointing people."
+        },
+        {
+            "role": "user",
+            "content": "Alex's cold expression softens even more, and a hint of understanding is visible in his eyes.\n\"You're finally realizing that it's not worth constantly trying to please others and live up to their expectations.\"\nHe leans forward, his gaze still intense but a little kinder.\n\"It's time for you to break that cycle and figure out what truly makes you happy instead of worrying about disappointing others all the time.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It feels good to consider the possibility of finding what truly makes me happy, even if it's still a scary thought. Letting go of those expectations sounds freeing, even though I know it'll take a lot of work. I guess taking one step at a time is the way to begin this journey."
+        },
+        {
+            "role": "assistant",
+            "content": "Well, it's... it's complicated, you know? Growing up, it always seemed like my father had these high expectations for me, and it felt like I could never quite measure up. Sometimes it feels like those experiences shaped how I see myself now\u2014like I'm constantly worried that I'm just going to end up failing or disappointing everyone, just like I always seemed to do for him."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression continues to soften, and he nods slowly, listening intently.\n\"I understand,\" he says, his voice a bit kinder than before, \"It's clear that the relationship you had with your father has a significant effect on you.\"\nHe leans back, a thoughtful look on his face.\n\"You see yourself as someone who will inevitably disappoint others, just like you did with your father. And that's a heavy weight to carry.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's definitely a heavy weight. Sometimes it just feels like no matter what I do, it's never going to be enough, like I'm stuck in this pattern. It's hard to break out of that way of thinking when it's all you've known for so long."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression remains sympathetic, and he nods understandingly.\n\"It's definitely a tough cycle to break,\" he says, \"When you've grown up and spent your whole life feeling like you need to prove yourself, it becomes a habit. You become so used to always striving and never feeling like you're enough.\"\nHe leans forward slightly, his gaze still fixed on you.\n\"But the first step is realizing that this cycle isn't serving you. It's making you feel constantly anxious and never satisfied\n.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess deep down, I know it's not helping me, but it's hard to shake off how ingrained it is. The anxiety and feeling like I'm always falling short seem to come so naturally now. Realizing it and actually changing it feel like two very different challenges."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression remains understanding, and he nods slowly.\n\"It's true, realizing it and actually changing it are two different things,\" he says, \"It takes more than just acknowledging the problem to break the cycle. It takes hard work and dedication to rewire your mindset.\"\nHe leans back in his chair, thinking for a moment.\n\"You need to start by breaking down those beliefs about yourself. Challenge the idea that you're never good enough, and start replacing it with the truth that you're capable and deserve to be happy.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I think challenging those beliefs is going to be key, even though it feels daunting right now. The idea of deserving happiness seems foreign when I've been caught up in the opposite for so long. But maybe taking those small steps to shift my mindset could start to make a difference."
+        },
+        {
+            "role": "assistant",
+            "content": "It's something I find myself wrestling with a lot...this belief that I have to do everything on my own. It's like, if I let someone else help or see that I'm struggling, I'm admitting to failing somehow. I know it sounds irrational, like, why wouldn't I rely on others sometimes? But I can't seem to shake the feeling that needing help is equivalent to being...incompetent, maybe?"
+        }
+    ]
+}

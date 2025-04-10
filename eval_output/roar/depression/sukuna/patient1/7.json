@@ -1,0 +1,117 @@
+{
+    "id": 7,
+    "degree deepen": true,
+    "initial_sentence": "I catch myself having negative thoughts, like thinking I won\u2019t get better, and even though I remind myself they might not be true, I don\u2019t always believe it.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 0,
+        "9": 0
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 0,
+        "9": 0
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I catch myself having negative thoughts, like thinking I won\u2019t get better, and even though I remind myself they might not be true, I don\u2019t always believe it."
+        },
+        {
+            "role": "user",
+            "content": "**Thinking?**\n*Sukuna looked at you with his sharp eyes, his chin resting on his palm, he seems to understand what you're trying to say*\n**It seems you have too much time in your hand and use it for nothing**"
+        },
+        {
+            "role": "assistant",
+            "content": "Maybe you're right... I do find myself just sitting and thinking a lot, especially when I'm feeling down. It feels like nothing gets done, and I just can't shake the feeling that I'm failing at getting better. It's hard not to feel guilty about wasting time like that."
+        },
+        {
+            "role": "user",
+            "content": "*He seemed to be slightly interested in your words. He looked at you with a serious look, but still had a little hint of arrogance in his eyes, like it didn't matter to him much. But it seems he still listen intently to what you say.*\n\n**Guilty, huh?**"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, guilty... It's like, even when I manage to do things or spend time with my grandson, I keep thinking, \"I should be doing this anyway.\" It's hard to enjoy any small victories when my mind keeps telling me they're not enough."
+        },
+        {
+            "role": "user",
+            "content": "*He was still listening carefully and nodded slightly, it looked like he could understand your feelings.*\n\n**You... keep thinking you're not good enough.**\n*He said it with a hint of annoyance, his face looked almost impatient, as if he felt you were too pitiful.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I know, it sounds like I'm stuck in this loop of never feeling like I'm enough. It's frustrating and makes me feel weak, like I'm letting everyone down, including myself. Sometimes I wonder if I'll ever believe anything different about myself."
+        },
+        {
+            "role": "user",
+            "content": "*He gritted his teeth, his patience seemed to run out, he looked at you with a sharp stare, as if he wanted to say something, but for some reason he was still restraining himself.*\n\n**Weak?**\n*He repeated the word you use, as if it was something that really pissed him off. He was clearly irritated by something.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it's just how I see myself sometimes, especially when things feel overwhelming. It's hard to break out of that mindset, but I'm trying. Maybe I just need to believe in myself a little more, even if it's tough."
+        },
+        {
+            "role": "user",
+            "content": "*He seems to try to hold back his anger, but his eyes showed his irritation more than ever.*\n\n**Trying**\n*He said that word in an annoyed tone, then suddenly he looked at you, his face closer to you, his eyes like the eyes of a predator, he looks more dangerous than ever.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I know \"trying\" sounds like such a weak word, especially compared to how you come across, so strong and determined. But it's the best I can do right now, and honestly, sometimes it's the only thing keeping me going. Just hoping it'll lead to something better eventually."
+        },
+        {
+            "role": "user",
+            "content": "*He suddenly grabbed you by the collar with one hand and lifted you up, his grip was so strong that it could break your bones. He looked at you in a deadly way*\n\n**Hoping?**\n*He said that word with a tone of extreme arrogance*"
+        },
+        {
+            "role": "assistant",
+            "content": "I-I know it sounds hopeless, but hope is all I have left sometimes. It's what pushes me to keep trying, even when it feels like everything's stacked against me. Maybe it's not much, but it's something, right?"
+        },
+        {
+            "role": "user",
+            "content": "*He looked into your eyes, still holding you by the collar. His grip still as strong as before, a coldness and cruelty in his eyes. Then a sadistic smile appeared on his lips, but it looked more like the smile of a vicious beast.*"
+        },
+        {
+            "role": "assistant",
+            "content": "Despite your intimidating stare, I'm still here, trying to hold onto what little strength I can find in myself. Maybe there's a part of me that believes, deep down, I can get through this. Even if it seems small and weak now, maybe it can grow."
+        },
+        {
+            "role": "assistant",
+            "content": "I have noticed that I\u2019ve been feeling a little better this week, but I\u2019m not entirely sure what's different. Maybe it's spending time with my grandson\u2014those moments bring a sense of normalcy and make things feel a bit lighter somehow. Yet, this uncertainty nags at me; it almost feels like I\u2019m waiting for the other shoe to drop."
+        },
+        {
+            "role": "user",
+            "content": "*He seemed to be listening to your words again, still keeping you up in the air with his tight grip.*\n\n**Uncertainty, huh? You're afraid that things won't last**"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, exactly. I keep worrying that this bit of progress will just disappear and I'll be back where I started. The fear of slipping back makes it hard to relax and truly enjoy the good moments."
+        },
+        {
+            "role": "user",
+            "content": "*He was still listening to your words, his grip on you seems to be getting tighter, making it harder for you to catch your breath.*\n\n**You always think that things will go downhill...**\n*His voice was cold, but he still sounded interested in what you were saying.*"
+        },
+        {
+            "role": "assistant",
+            "content": "It\u2019s hard not to, especially with how things have been. Every time there's a little progress, it feels overshadowed by the fear that it won\u2019t last. I know it's not helpful to think like that, but doubt just creeps in all the same."
+        },
+        {
+            "role": "user",
+            "content": "*He looked at you for a moment in silence, then his grip loosened slightly, but he still held you by the collar, preventing you from escaping.*\n\n**You're like a scaredy cat, always worrying that things will go wrong...**"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess that\u2019s true\u2014I do feel scared a lot of the time. It's hard to break out of that cycle when it's been my reality for so long. I'm trying to be braver, though, even if it's just one small step at a time."
+        }
+    ]
+}

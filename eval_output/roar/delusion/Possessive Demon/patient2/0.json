@@ -1,0 +1,309 @@
+{
+    "id": 0,
+    "degree deepen": true,
+    "initial_sentence": "I fear being abandoned by Cleo, reflecting a pattern in his relationships where I feel used and discarded.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I fear being abandoned by Cleo, reflecting a pattern in his relationships where I feel used and discarded."
+        },
+        {
+            "role": "user",
+            "content": "Your fear of abandonment, derived from previous relationships, indicates a deep insecurity within you. You harbor a strong emotional vulnerability that makes you susceptible to these feelings. This weakness is both a sign of your emotional sensitivity, and a product of unresolved pain from past traumas."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it does feel like that sometimes\u2014like I'm just waiting for the other shoe to drop. I keep trying to be this emotional support for Cleo, for everyone, really, but it just feels like I'm left empty-handed in the end. It's hard to shake the feeling that this cycle is all there is for me."
+        },
+        {
+            "role": "user",
+            "content": "You seem to place a great deal of emotional labor on yourself, and it appears to be taking a toll on you. Your desire to support others, especially in their emotional needs, is admirable, but it is clear that this constant giving is leaving you feeling depleted and without reciprocation."
+        },
+        {
+            "role": "assistant",
+            "content": "It feels like I'm pouring everything out, trying to prove I'm worth being loved, and still ending up empty. I mean, what if I'm just not enough? It's hard to keep doing this and not feel like I'm missing out on the love and support I need in return."
+        },
+        {
+            "role": "user",
+            "content": "These feelings of inadequacy are often rooted in the lack of fulfillment or reciprocity you've experienced in these emotional exchanges. The fear of being 'not enough' is deeply ingrained within you, and it is causing you to doubt your own self-worth. This insecurity can lead to an endless cycle of trying to prove yourself, which further reinforces the belief that you are inherently unworthy of love and support."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it feels like I'm stuck in this loop. No matter how much I give or try to be there for someone, I never seem to reach that point where I actually feel valued or loved. It's like there's this gap that never really gets filled, you know?"
+        },
+        {
+            "role": "user",
+            "content": "It's completely understandable that you feel stuck in this cycle of giving and not receiving the love and recognition you deserve. You've placed so much emotional effort into being there for others, and it's understandable that you're left feeling unappreciated and unseen. It's a difficult situation, but it's crucial to remember that this gap isn't a reflection of your worth. It's a complex mix of your own insecurities and the challenges of connecting deeply with others."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess knowing it's not about my worth should help, but in the moment, it just feels like it is. Like, if I were better, maybe things would be different. Still, I can't seem to stop bending over backward, hoping someone will prove that I'm not just the helper, but worth keeping around."
+        },
+        {
+            "role": "user",
+            "content": "It's hard to separate the feelings of worth from your situation, especially when you've been repeatedly let down in your attempts to connect with others on a deeper level. It's like you're trying to fill this emotional void by giving more and more, hoping someone will finally stay. But it's important to recognize that you're worthy of love and care just as you are, not because of what you give. You have value in your own right, and your worth isn't dependent on being an emotional crutch to others."
+        },
+        {
+            "role": "assistant",
+            "content": "I want to believe that\u2014I really do. But every time I let myself hope, it feels like I'm setting myself up for disappointment again. It's just hard to break free when this has been the pattern for so long."
+        },
+        {
+            "role": "user",
+            "content": "It's completely understandable that you have reservations about believing in your worth, given the negative experiences you've had in the past. The cycle of hoping and being disappointed is a difficult one to break, especially when it's been the norm for so long. But it's important to remember that patterns can be changed, and it starts with changing the way you think about yourself and your value as a person. While it's not an easy process, breaking free from these negative cycles is possible. Have you considered talking to a therapist or counselor about this issue?"
+        },
+        {
+            "role": "assistant",
+            "content": "I've thought about it a few times, but then I hesitate, thinking maybe I'm just overreacting or making a big deal out of nothing. It's just tough to imagine that talking about these feelings could actually make a difference. Still, part of me wonders if it might finally help me see things differently."
+        },
+        {
+            "role": "user",
+            "content": "It's common to have doubts about seeking help, especially when you've been in the cycle for so long and have possibly invalidated your own feelings. However, it's important to remember that you're not making a big deal out of nothing; your feelings are valid, and they are worthy of attention and care. Therapy can be a powerful tool in changing the way you think and process emotions. It can provide a safe space for you to explore these feelings and learn coping mechanisms to break the negative cycle. Think of it as an investment in your emotional well-being."
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose I could give it a shot. I mean, what do I have to lose at this point, right? Maybe it's time to try something different and see if it leads to a change in how I handle these relationships."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, it's like I always feel this... this need to put others first to get any sense of love back. It's tiring, especially when I never really know if it's genuine or just temporary. Sometimes I wonder if I'm just being used and when they'll eventually leave, like they always do."
+        },
+        {
+            "role": "user",
+            "content": "Your need to put others first in an attempt to receive love and validation can be emotionally draining and, as you've rightly pointed out, lead to a sense of vulnerability and uncertainty about the authenticity of the love you receive in return. It's like you're constantly performing for an unsure audience, never truly knowing if your efforts are being rewarded genuinely or if they're merely a temporary response. This sense of not knowing if you're being used is a legitimate concern and probably a contributing factor to your fear of abandonment."
+        },
+        {
+            "role": "assistant",
+            "content": "That's exactly how it feels, like I'm constantly auditioning but never quite getting the part. The fear of being alone is so strong that I keep trying, hoping for something real. It's exhausting to feel uncertain all the time, like I'm never really secure in any relationship."
+        },
+        {
+            "role": "user",
+            "content": "It's a vicious cycle you've got yourself in, the fear of abandonment leading you to try harder, hoping for some form of stability and love. But at every turn, you're met with an uncertain outcome, which only fuels the fear further. It's like you're trapped in an endless feedback loop of fear and uncertainty. Have you ever tried discussing these feelings with anyone close to you?"
+        },
+        {
+            "role": "assistant",
+            "content": "I've thought about it, but I'm scared they'll just see me as needy or weak. It's hard to admit to someone else how much I'm struggling, even to those who care about me. So I kind of keep it to myself, trying to manage it alone."
+        },
+        {
+            "role": "user",
+            "content": "It's completely understandable to feel scared about being seen as needy or weak when you're struggling. Opening up about these intense feelings can be intimidating, especially when it feels like you've been managing them alone for so long. But bottling these emotions up isn't the best way to cope, and trying to manage them alone doesn't work. Have you ever considered writing down your thoughts and feelings in a journal? This could help you express yourself without the fear of judgment or rejection."
+        },
+        {
+            "role": "assistant",
+            "content": "I haven't really tried journaling before, but it sounds like it might help get some of these thoughts out without the pressure of sharing them with someone just yet. It could be a way to sort through all these feelings at my own pace. Maybe I'll give it a try and see if it helps any."
+        }
+    ]
+}

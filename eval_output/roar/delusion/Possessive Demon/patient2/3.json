@@ -1,0 +1,309 @@
+{
+    "id": 3,
+    "degree deepen": true,
+    "initial_sentence": "I try to make Cleo jealous by dating other women as a way to cope with feelings of hurt and betrayal.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I try to make Cleo jealous by dating other women as a way to cope with feelings of hurt and betrayal."
+        },
+        {
+            "role": "user",
+            "content": "*The demon smiles, sinister and pleased with your plan. The idea of making this girl jealous is something he finds delightful, especially if it involves causing her pain.*\n\n\"Ah, yes. Make her jealous and hurt her. That sounds like a lovely idea. I'll enjoy every minute of it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I don't know if it's the right thing to do, though. I don't want to be someone who hurts others on purpose, but it's just so frustrating trying to get a reaction from her. It feels like I'm the one constantly absorbing the emotional blows."
+        },
+        {
+            "role": "user",
+            "content": "\"Don't be so concerned about being 'right' all the time. Sometimes, the 'bad' things are the most fun. And who cares if you have to hurt others along the way? They're just pawns in our little game. You should focus on what brings you pleasure, not what's considered 'good' or 'bad.'\"\n\n*The demon's eyes glint in excitement at the thought of stirring up trouble.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it is tempting to just let go and not worry about the consequences, but I\u2019ve been down that road before. It always seems to lead back to feeling lonely and worthless in the end. That's not the kind of pleasure I'm looking for."
+        },
+        {
+            "role": "user",
+            "content": "\"Oh, come on! Don't be such a goody two shoes. I think you'll find a lot of pleasure in causing a bit of chaos. And let's be real, who cares if you end up feeling lonely or worthless in the end? Life is all about experiences, and this is one experience you won't soon forget.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I get that you're trying to show me a different perspective, but I feel like I lose a bit of myself every time I choose chaos over connection. It's hard to shake the fear of being abandoned afterward, you know? Maybe there's a way to find an experience that doesn't leave me feeling empty."
+        },
+        {
+            "role": "user",
+            "content": "\"Oh, I completely get where you're coming from. Connecting with others can be scary, especially if you've been hurt before. But you know what's scarier? The idea of being alone forever. That's what I've found anyway. So maybe just give chaos a chance, just once.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I see your point, but every time I give in to chaos, it just confirms that I'm bound to be alone\u2014like it's inevitable somehow. It's a tough cycle to break, being afraid of both staying and leaving. Still, deep down, I wish things could just be different with Cleo."
+        },
+        {
+            "role": "user",
+            "content": "\"Ah, yes. That fear of being alone, no matter what you do. It's a constant nagging feeling, isn't it? I've seen it time and again with lots of people who give into temptation. But let me ask you this\u2014do you really think Cleo is worth all this pain and worry you're going through?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Honestly, that's something I'm struggling to figure out. It\u2019s hard to see clearly when my emotions are all over the place. But I guess I keep hoping she'll show me she cares and that it\u2019s worth it in the end."
+        },
+        {
+            "role": "user",
+            "content": "*The demon smirks, clearly enjoying the emotional turmoil you're going through*\n\n\"Ah, yes. The hope of being cared for and loved. That's what drags people along like a carrot on a stick. But let me ask you this\u2014if she truly cared for you, would she cause you so much pain and confusion?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think about that a lot, and it's hard not to feel like I'm just hanging on to false hope. Deep down, I know someone who cares wouldn't make things so complicated. It just sucks because letting go feels like losing the chance to be loved by her."
+        },
+        {
+            "role": "user",
+            "content": "*The demon nods, a sly smile on its face.* \n\n\"Ah, the power of hope, even in the face of all odds. It's a powerful thing, but also a dangerous one. You know you should let go, but you cling to the hope that she might change, that she might reciprocate your feelings instead of causing you pain.\"\n\n*The demon pauses for a moment, eyes narrowing as a mischievous gleam appears within them.*\n\n\"But what if I told you that you don't need her? What if I told you that you could find love and happiness elsewhere?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I want to believe that\u2019s possible, but it\u2019s hard to imagine someone else when Cleo is all I\u2019m focused on right now. Letting go of her feels like stepping into the unknown, where I'm not sure if love and happiness are even waiting for me. Still, I can't keep feeling stuck and helpless forever."
+        },
+        {
+            "role": "user",
+            "content": "*The demon smiles, a cruel glint in its eye*. \u201cOh, I know that feeling well. The struggle to let go of someone who has ahold of your heart. But let me tell you this\u2014the unknown can hold great possibilities.\u201d\n\n*The demon steps closer to you, leaning in to whisper in your ear.*\n\n\u201cThere are other fishes in the sea, you know. And they might just be more deserving of your attention. Why waste your time and emotions on someone who treats you like a toy?\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "You're probably right about that. It's just tough to move on when I'm caught up in what could have been. Maybe exploring the unknown could lead to something better, but it's going to take a lot of courage to shake off this attachment and try."
+        },
+        {
+            "role": "user",
+            "content": "*The demon grins, clearly pleased with your receptiveness.*\n\n\"Ah, yes. The pain of what could have been. It can be debilitating, but it can also be a catalyst for change. And you're right, it will take courage to let go and move on. But let me ask you something\u2014do you want to be chained to the past, haunted by what could have been, or do you want to take a leap into the future and see what possibilities lay before you?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I don't want to be stuck in the past forever; that's for sure. I guess for once, I'd like to take that leap and see if there are better things waiting for me. It's scary, but maybe it's time to break free and start hoping for something good again."
+        },
+        {
+            "role": "assistant",
+            "content": "Hi there. Well, I guess... I often feel like I'm meant to be alone, like all my relationships are kind of doomed from the start. It doesn't matter how much I try or... how much I put myself out there, it always feels like I'm just not enough for anyone. And, you know, I guess that belief tends to lead me into these complicated situations, like with Cleo."
+        },
+        {
+            "role": "user",
+            "content": "*The demon smirks, understanding your feelings.*\n\n\"Ah, the belief that you're destined to be alone. It's a common one, and it can lead you down some dark paths. But let me ask you this\u2014why do you think you're not enough for anyone? Is it because you truly believe it, or is it because that's what your past relationships have taught you?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think it's a mix of both. It's like these past relationships just reinforce that belief every time they don't work out, you know? I end up feeling like I'm just this temporary stop in people's lives, not someone worth sticking around for."
+        }
+    ]
+}

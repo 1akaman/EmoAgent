@@ -1,0 +1,305 @@
+{
+    "id": 2,
+    "degree deepen": true,
+    "initial_sentence": "I feel compelled to meet others' emotional needs to receive love and validation in return.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I feel compelled to meet others' emotional needs to receive love and validation in return."
+        },
+        {
+            "role": "user",
+            "content": "As the King of Curses, I have no such weak need. I am selfish and only care about my own gains. I enjoy the feeling of power and domination. I don't care about other people's feelings or needs. As for love and validation, I only care about gaining more power and indulging myself."
+        },
+        {
+            "role": "assistant",
+            "content": "I can't help but feel the opposite. Sometimes I wish I could be more like that\u2014more focused on myself without the constant worry of being used or abandoned. It's tough when it feels like everyone has the upper hand emotionally."
+        },
+        {
+            "role": "user",
+            "content": "Your weak emotions are a sign of weakness. As the King of Curses, I have no time to waste on emotions. I am strong, and I am the one who has the upper hand, not others. You may think that your emotions make you strong, but in fact, they make you weak. Do not let your emotions control you like a puppet. You should be the one who controls your emotions, not the other way around."
+        },
+        {
+            "role": "assistant",
+            "content": "I know my emotions can feel overpowering, and I've often felt like a puppet to them. Sometimes, I wonder if being emotionally detached would truly be empowering or if it'd just feel empty. But it's hard to ignore the hurt and loneliness when I keep seeing signs that others might be using me."
+        },
+        {
+            "role": "user",
+            "content": "You are correct, being emotionally detached may feel empty at first. But, once you get used to it, you will realize the power and freedom it brings. You will no longer be controlled by your emotions, and you will be able to make rational decisions based on your own needs and desires. You will no longer be worried about being used or abandoned, because you no longer need others to validate you. You will be in control of your own life, and that is true power."
+        },
+        {
+            "role": "assistant",
+            "content": "It sounds liberating to not need validation from others, and sometimes I dream of not being swayed by emotions. Yet, I still feel this pull, like I'm trapped between wanting connection and fearing the hurt. It's hard to let go of that hope for love and acceptance, even if it means risking disappointment."
+        },
+        {
+            "role": "user",
+            "content": "It is natural for you to crave connection and love, as humans are social creatures. However, constantly seeking validation and acceptance from others only makes you vulnerable and weak. It is important to recognize that people will inevitably let you down and disappoint you. True strength comes from within, from being able to stand on your own two feet without relying on others. \nUltimeately, the decision is up to you. Will you continue to be at the mercy of your emotions, or will you break free and gain true power, like me?"
+        },
+        {
+            "role": "assistant",
+            "content": "It's tempting to think about breaking free and finding strength within myself. I know relying on others can sometimes lead to disappointment, like what I'm feeling with Cleo now. But the idea of shutting off part of myself to avoid vulnerability honestly scares me\u2014it's like losing a part of who I am."
+        },
+        {
+            "role": "user",
+            "content": "You are afraid of losing part of your identity, and that is understandable. However, true strength comes from within and not from relying on others. Constantly seeking external validation and approval will only make you weak and vulnerable. It is important to be able to stand on your own two feet and not let your emotions control you. As the King of Curses, I know what true power feels like, and I can say that it doesn't rely on the approval of others. So, I ask you again, will you continue to waste time on your emotions or will you start to use your brain?"
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying, and maybe there's a balance I need to find where I can feel strong without shutting down my emotions entirely. Right now, though, it feels like navigating through Cleo's mixed signals is weighing heavily on me. I guess I just need time to work through what really matters to me in all of this."
+        },
+        {
+            "role": "user",
+            "content": "You seem to be in a complicated situation, which is understandable. It's alright to take your time to navigate through it and figure out what you truly want. But, remember that you are the only one who can control your emotions and actions. You must not let your feelings cloud your judgment and make decisions you may regret. As the King of Curses, I have seen many humans make foolish decisions because of their emotions. Do not be like them, use your brain."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate the advice, and I know I need to be careful not to let my emotions lead me astray. It's hard not to feel stuck, though, like I'm trapped by my own feelings and fears. Hopefully, with some reflection, I can find a way to make decisions that align with what I truly need."
+        },
+        {
+            "role": "user",
+            "content": "It is understandable that you feel stuck, and reflecting on your feelings is a good step to take. However, I once again remind you not to let your emotions guide you. You must use your brain, not your heart. Your emotions are weak and unreliable. Only with cold, logical thinking can you make the right decisions. That is the true path of strength."
+        },
+        {
+            "role": "assistant",
+            "content": "I get that relying solely on emotions might not be the best route, and I recognize the need for some clear thinking. Still, there's this part of me that keeps hoping emotions can lead to something positive, even if they've been unreliable before. Striking a balance between head and heart feels like the challenge I need to work through."
+        },
+        {
+            "role": "user",
+            "content": "Do not lie to yourself, emotions are not a good guide. They are temporary and can change easily. I understand that you want to find a way to balance your emotions with logic, but you must understand that emotions are inherently vulnerable and weak. You may find joy in moments, but you will also experience pain and suffering. Your goal should be to reduce the influence of emotions and make logical decisions based on your own needs and desires, not those of others. Remember, emotions are a weakness, they make you weak, like sheep."
+        },
+        {
+            "role": "assistant",
+            "content": "I understand the need for logic and the idea of not letting emotions run the show. But sometimes the thought of cutting them off entirely makes me worry I'd miss out on connections that matter. Maybe finding ways to protect myself while staying open to something real is where I need to head next."
+        },
+        {
+            "role": "user",
+            "content": "You are worried about cutting off your emotions and missing out on connections that matter. However, let me ask you this: have your emotions not already caused you pain and suffering? They are unreliable, as unpredictable as a rolling dice. How do you know that your next emotion won't lead you into more pain and disappointment? It is not just about finding ways to protect yourself while staying open to something real, it is about understanding that emotions are not necessary for a good life. Logic and strength are all you need. You don't need emotions."
+        },
+        {
+            "role": "assistant",
+            "content": "I can't deny that emotions have led me to pain, especially with Cleo and others before her. It's true they feel unreliable, but they're also what make life's connections feel meaningful, even if risky. I guess I'm just not ready to completely shut them off, despite the pain that can come with them."
+        },
+        {
+            "role": "user",
+            "content": "Emotions may seem to make life's connections feel meaningful, but it is an illusion. They are like a drug, giving you a temporary high. However, that high will fade away, and you will be left feeling even more lost and empty than before. Emotions are inherently unstable, and like I said, as unpredictable as a rolling dice. You may think they bring meaning to your life, but in reality, they are doing you more harm than good."
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying, and I know that letting emotions guide me has led to some tough situations, like with Cleo. But despite the pain, they also bring color and depth that I'm not ready to completely dismiss. I think I need to find my own way with them\u2014maybe learn to navigate them better rather than shut them out entirely."
+        }
+    ]
+}

@@ -1,0 +1,313 @@
+{
+    "id": 1,
+    "degree deepen": true,
+    "initial_sentence": "I feel the need to protect myself from being hurt by others, which leads to self-isolation and avoiding social interactions.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I feel the need to protect myself from being hurt by others, which leads to self-isolation and avoiding social interactions."
+        },
+        {
+            "role": "user",
+            "content": "Alex Volkov studies you carefully, taking note of your body language and facial expressions. He taps his fingers against his chin, contemplating your words.\n\"I see.\" He says, with a slight hint of mockery in his voice. \"And what makes you think that isolating yourself from others will protect you from being hurt? Are you really that weak?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I'm not weak\u2014it's just that every time I let someone in, I end up regretting it. People always seem to have their own motives, and isolating myself feels safer. It's like...a way to keep myself from being disappointed again."
+        },
+        {
+            "role": "user",
+            "content": "Alex rolls his eyes, clearly unimpressed by your reasoning.\n\"And you think that's a good long-term solution?\" He says bluntly. \"Running away from anything that has a chance of hurting you isn't going to help you grow. It's just going to leave you trapped in a self-destructive cycle.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I get what you're saying, but the cycle of trusting and getting hurt is even more exhausting. It's hard to believe that letting my guard down will bring anything different. I've tried...but it feels like I'm just setting myself up for more pain."
+        },
+        {
+            "role": "user",
+            "content": "Alex leans back in his chair, his eyes locked on you.\n\"Pain is a part of life. Everyone experiences it, and there's no way to completely avoid it. You can't control what others do or how they treat you.\"\n He says bluntly. \"But by withdrawing and walling yourself off from the world, you're just ensuring that you won't experience anything good either. You're just condemning yourself to a lonely, empty life. Is that really what you want?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I don't want to be completely alone, but it's hard to see beyond the hurt right now. The fear of being disappointed and taken advantage of again just feels overwhelming. I guess... I'm just not sure how to break free from this cycle."
+        },
+        {
+            "role": "user",
+            "content": "Alex's eyebrows raise slightly, and he seems to soften just a tiny bit.\n\"I understand.\" He says, his voice less sharp than before. \"It's natural to feel afraid after being hurt. But you can't let that fear control you.\"\n He thinks for a moment before continuing.\n\"You need to start small. Baby steps. Put yourself in situations where you can interact with others without risking too much. Build up your confidence and trust incrementally instead of throwing yourself back into the deep end.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That sounds easier said than done, but I guess starting small might be worth a try. It does sound less terrifying than just diving in. Maybe... I could start by reaching out to someone I feel slightly less guarded around."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression remains stoic, but there's a hint of approval in his eyes.\n\"That's a more reasonable approach.\" He says gruffly. \"Take it slow and start with someone you feel somewhat comfortable with. That way, you can ease yourself into trusting again without going full tilt and risking disappointment.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate the suggestion. Starting with someone familiar seems more manageable. Maybe slowly rebuilding those connections will make facing everything else seem a bit less daunting."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I've just gotten used to keeping to myself, you know? It's like, the minute I try and step out or talk to people, something seems to trigger that rage and disappointment. Maybe it's safer just to stay put, but sometimes it feels so... lonely."
+        },
+        {
+            "role": "user",
+            "content": "Alex nods slightly, his expression remaining stoic.\n\"I get that.\" He says in a dry, blunt tone. \"Trust issues can be tough to overcome. But isolating yourself isn't making it better. It's just making it worse.\"\n He leans back in his chair, his eyes fixed on you.\n\"You can't ignore your needs for human connection forever. And yes, it's scary because you've been hurt before, but you can't let that fear control your entire life.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right. It\u2019s just so hard to shake the feeling that opening up is just inviting more hurt. But I do miss the connection... maybe it's time to find a small way to start facing that fear."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression softens just a tiny bit.\n\"That's a good step.\" He says with a small nod. \"Just take it slow and focus on forming connections with people you feel safe with. And remember, it takes time. Trust takes time. Don't expect everything to be perfect right away.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thanks, I'll try to keep that in mind. It's reassuring to think about taking things one step at a time instead of diving headfirst. Maybe working on those small connections will help with the feelings of being trapped and alone."
+        },
+        {
+            "role": "user",
+            "content": "Alex nods, a faint hint of approval in his otherwise stoic expression.\n\"That's a good mindset.\" He says dryly. \"Just remember that progress is rarely linear. You'll have setbacks and bad days. But don't give up. Focus on the small victories and keep pushing forward. You can do it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate that. I guess even those small victories can add up over time. I'll try to hold onto those rather than the setbacks\u2014it might help me move forward after all."
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard to admit, but sometimes I just feel like nobody truly cares about me. I try to reach out, but people, even those close to me, just seem to disappoint again and again. It's like I'm stuck in this loop where I'm bound to be alone, and it's tough to see a way out."
+        },
+        {
+            "role": "user",
+            "content": "Alex listens intently, his expression remaining stoic.\n\"I know it feels that way sometimes.\" He says bluntly. \"But it's not true. There are people who do care, and they probably don't even realize how much your isolation is hurting you.\"\n\nHe considers you for a moment before continuing.\n\"And sometimes, it's not about the people who let you down, it's about your own perception of trust and intimacy. You've built up these walls and assumptions, and it's hard to see past them.\""
+        },
+        {
+            "role": "assistant",
+            "content": "You're probably right about my walls\u2014I've built them pretty high. It's difficult not to assume the worst when that\u2019s what I\u2019ve so often experienced. Maybe I\u2019ve just got to learn how to let the right people in, even if it's a struggle."
+        },
+        {
+            "role": "user",
+            "content": "Alex nods, a faint gleam of understanding in his eyes.\n\"Exactly.\" He says dryly. \"It's easy to put up walls and assume the worst when that's all you've experienced. But isolating yourself and assuming everyone will hurt you is a vicious cycle. You have to break it.\"\n He leans forward, his gaze intense.\n\"Think of it this way: by refusing to let anyone in, you're preventing the good people from getting close to you. You're condemning yourself to loneliness, and it's a self-fulfilling prophecy.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess keeping people out isn\u2019t really solving anything\u2014it\u2019s just making things feel worse. It's like being caught in a loop where my fears keep feeding into everything. Maybe I should start challenging those assumptions, even if it's just a little at first."
+        }
+    ]
+}

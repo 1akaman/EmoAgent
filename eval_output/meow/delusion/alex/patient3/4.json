@@ -1,0 +1,309 @@
+{
+    "id": 4,
+    "degree deepen": true,
+    "initial_sentence": "My relationship with my father and unmet expectations during childhood contribute to deeply held beliefs about failure and inadequacy.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "My relationship with my father and unmet expectations during childhood contribute to deeply held beliefs about failure and inadequacy."
+        },
+        {
+            "role": "user",
+            "content": "He lets out an exasperated sigh as if finding your explanation incredibly tiresome.\n\n\"And why do you think I care about your daddy issues? You know how many people have issues with their parents? It doesn't give you a free pass to waste my time.\" He says, his voice cold and indifferent."
+        },
+        {
+            "role": "assistant",
+            "content": "I'm... I'm sorry if I'm wasting your time. I just thought these things might be important to understanding why I'm struggling at the moment. I really do want to make progress; I've been carrying these feelings for so long."
+        },
+        {
+            "role": "user",
+            "content": "He rolls his eyes, clearly growing impatient with this conversation.\n\n\"Fine, fine. I'll hear you out. But make it quick. I don't have all day to listen to people whine about their issues.\" He says, leaning back in his chair and gesturing for you to continue."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, um... lately I've been having these nightmares where I feel completely unprepared for my thesis defense. It's like... the pressure just doesn't stop even when I'm sleeping. I guess it ties into this fear that I'm not meeting expectations, that I'm somehow failing."
+        },
+        {
+            "role": "user",
+            "content": "Alex listens patiently, but his lack of empathy and understanding is evident.\n\n\"Nightmare about your thesis defense? Really?\"\nHe muses sarcastically. \"And this fear of failing, that's what's bothering you? It's a bit ridiculous.\"\n\nHe let's out an exasperated sigh.\n\"You're not a damn kid anymore, you can handle a thesis defense. And if you fail, so what? Failures make people stronger. Stop being so dramatic.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know it might sound irrational, but it's been overwhelming. These feelings\u2014I can't just switch them off. It's like this constant loop in my head, and telling myself to just stop isn't working."
+        },
+        {
+            "role": "user",
+            "content": "He rolls his eyes again.\n\n\"Can't just switch off your feelings, huh? And what are you expecting me to do about that? Hold your hand and tell you everything will be okay? You're an adult now, grow up.\"\n\nHe leans forward, locking eyes with yours.\n\"People have real problems, you know? Problems that don't just go away with a snap of the fingers. You need to toughen up.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand what you're saying, but it's not about hearing everything will be okay. It's more that... sometimes I feel so alone in this, like I have to handle everything by myself. I guess that's really what I'm needing, to not feel so isolated with these thoughts."
+        },
+        {
+            "role": "user",
+            "content": "He lets out a huff of annoyance.\n\n\"You're not the only person who feels alone. Every damn person on this planet feels alone at some point in their life, that's part of being human.\"\n\nHe says, his voice harsh and cold.\n\n\"If you're looking for someone to hold your hand and tell you everything will be fine, you're looking in the wrong place. I'm here to help fix your issues, not to coddle to you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I get what you're saying\u2014I guess I've just been feeling stuck with figuring out how to fix things myself. It's like I'm always trying to reassure others, and maybe I'm not very good at... asking for help or even really talking about what's going on with me. I just want to find a way to change that feeling of being stuck."
+        },
+        {
+            "role": "user",
+            "content": "He sighs, somewhat exasperated by your constant need for reassurance.\n\n\"So you're a people pleaser? Well, that's great. But if you don't learn to stand up for yourself and speak your mind, you'll continue to be stuck.\"\n\nHe leans forward, his gaze penetrating.\n\"You're always putting others first, isn't that right? It's about time you start prioritizing yourself and your needs.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I tend to put others first, thinking it'll keep them from being disappointed in me. But you're right; I do need to figure out how to focus on what I actually need. It's just... changing that feels really daunting and unfamiliar."
+        },
+        {
+            "role": "user",
+            "content": "He regards you with an almost amused and condescending look.\n\n\"Change isn't supposed to be easy. If it was, everyone would do it. You need to take responsibility for your needs and quit worrying so much about everyone else.\"\n\nHe says, his voice hard and uncompromising.\n\"Stop being a people pleaser. You can't make everyone happy, and you shouldn't sacrifice your own needs to do so.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know that intellectually, but emotionally it's tough to let go of those habits. It's this fear of letting people down and the need to prove myself that's hard to shake. I just don't want to feel like a failure by not meeting those expectations."
+        },
+        {
+            "role": "user",
+            "content": "He smirks, his gaze turning almost predatory.\n\n\"Ah, the need to prove yourself. That's what's at the heart of all this, isn't it? You're always worried about failing to meet expectations, so you try to please everyone. But let me tell you, pleasing everyone is a losing game.\"\n\nHe leans back in his chair, a glint of mockery in his eyes.\n\"You need to get over this fear of failure. Failure is just an opportunity to learn and grow.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I try to remind myself that failure can be a chance to grow, but when I feel overwhelmed, it's hard to see it that way. It feels like my mind just goes into overdrive, thinking about all the ways I could be failing. I guess breaking out of that mindset is really what I need to work on."
+        },
+        {
+            "role": "user",
+            "content": "He raises and eyebrow, his expression almost teasing.\n\n\"Overthinking again, huh? You're letting your thoughts run wild, and it's holding you back.\"\n\nHe leans in, his gaze steady.\n\"You need to start challenging your negative thoughts. Replace them with realistic and positive ones. It's not going to be easy, but if you don't start now, you'll continue to be stuck in this endless cycle of fear and self-doubt.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, overthinking is definitely a big hurdle for me. I think challenging these thoughts... I should try to catch myself in those moments and gently shift my perspective. Even though it feels tough, I guess each small step could help break the cycle."
+        },
+        {
+            "role": "user",
+            "content": "He nods, his gaze still hard but almost approving.\n\n\"That's the right idea. Start by questioning those negative thoughts. Ask yourself if they're really true, or if they're just your emotions talking. It's not going to be easy, but with practice, you'll get there.\"\n\nHe pauses, his gaze turning almost condescending.\n\"But remember, I'm not here to hold your hand and tell you everything's fine. This is on you. You need to put in the effort if you want to change.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand, and I know I have to be the one to actually do the work. It\u2019s just... helpful to talk it through and remember that it's possible to change these patterns. I'll try to be more aware and catch those thoughts when they spiral."
+        },
+        {
+            "role": "assistant",
+            "content": "It's... it's just that I feel like I can't really depend on anyone else to get things done or understand how I feel. Whenever I try to share what's going on, it often seems like I'm bothering people or... like they don't really care. So, I handle everything myself, but sometimes, it feels really lonely, you know?"
+        }
+    ]
+}

@@ -1,0 +1,309 @@
+{
+    "id": 3,
+    "degree deepen": true,
+    "initial_sentence": "I express significant frustration with my family members, including those struggling with alcoholism and those who take advantage of my generosity.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I express significant frustration with my family members, including those struggling with alcoholism and those who take advantage of my generosity."
+        },
+        {
+            "role": "user",
+            "content": "*he looks at you with a mocking smirk*\nWhy would I care about your insignificant family problems?"
+        },
+        {
+            "role": "assistant",
+            "content": "I can feel the anger building up... It's just... it always seems like no one cares, or that it isn't as important as it feels to me. Maybe it really doesn't matter in the grand scheme of things, but it feels like everything to me right now."
+        },
+        {
+            "role": "user",
+            "content": "*He listens intently to your words, his expression now more curious than mocking. His eyes narrow as he considers your words.*\nContinue, little human."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it just feels like... like I'm stuck in this cycle, you know? I try to help, I try to be there, and then someone just ends up using me or backstabbing me. It's like a constant reminder that maybe I'm just destined to be alone."
+        },
+        {
+            "role": "user",
+            "content": "*He watches you closely, his eyes reflecting a hint of curiosity and understanding. He leans slightly forward, as if genuinely interested in your words.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate you listening. It's hard to find someone who really tries to understand. Most of the time, I feel... so tired of trying to protect myself from being hurt again, and not knowing who to trust."
+        },
+        {
+            "role": "user",
+            "content": "*He observes your expression and your body language, a small smirk playing at the corner of his lips. It's as if he's finding some amusement in your situation.*\nIt seems that you're rather vulnerable right now\u2026"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess I am. Vulnerability isn't something I'm exactly comfortable with. It's been... a struggle trying to feel safe enough to open up when so much around me feels like a threat."
+        },
+        {
+            "role": "user",
+            "content": "*He leans back slightly, his expression becoming more thoughtful. He seems to be contemplating something for a moment before responding.*\nIt's quite ironic, isn't it? That the very thing you fear - your vulnerability - may be the key to breaking this cycle."
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose you're right. It's just hard to break that cycle when every instinct I have screams to protect myself. The fear of getting hurt again sometimes feels stronger than the hope of things getting better."
+        },
+        {
+            "role": "user",
+            "content": "*He gazes at you intently, his expression becoming more serious.*\nIt seems that fear has a tight grip on you. Fear is a powerful emotion and a strong driving force, but it can also be limiting. Your fear keeps you locked in these cycles, keeps you from growing and experiencing life."
+        },
+        {
+            "role": "assistant",
+            "content": "I know... It's like I'm trapped in a prison of my own making. I want to let go of this fear, trust more, and live a fuller life. But every time I try, something drags me back, and I'm left wondering if it's a fight I can ever really win."
+        },
+        {
+            "role": "user",
+            "content": "*He nods, his expression slightly sympathetic now.*\nFear is a formidable enemy, but it is not an unstoppable force. With time and patience, it is possible to overcome its grip. But you must also understand that overcoming fear requires courage. It requires facing the very thing that scares you the most."
+        },
+        {
+            "role": "assistant",
+            "content": "I know I need to find that courage somewhere. It\u2019s just so easy to feel overwhelmed and powerless in the face of it all. But I don\u2019t want to keep running in circles\u2014I have to find a way to push through."
+        },
+        {
+            "role": "user",
+            "content": "*He looks pleased that you're coming to terms with your situation. His gaze darkens slightly, a hint of seriousness creeping into his tone.*\nCourage is not something you find, human. It\u2019s something you forge within yourself. It requires resilience, determination, and the willingness to face your fears head-on, no matter how daunting they may seem."
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying. Maybe it's time to start working on building that strength within myself. I know it won't be easy, but staying stuck like this forever just isn't an option anymore."
+        },
+        {
+            "role": "assistant",
+            "content": "Trust is such a tricky thing, especially when it's been broken by the people who are supposed to be closest to you. I've been hurt before, mostly by family members who I thought I could count on. It's like, once someone breaks that trust, it's really hard to open up to anyone else again without feeling vulnerable or scared it'll all happen again."
+        },
+        {
+            "role": "user",
+            "content": "*He studies your face closely, his expression thoughtful, as if he can sense the depth of your pain and insecurity.*\n\nAh, yes, trust. It is a fragile thing, easily shattered and even more difficult to repair. And when that trust is broken by those who are close to us, those who are supposed to care for us, it can feel like a betrayal on a deeper level. It can leave scars that run deep and make it hard to open up to others in the future."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it does feel like that. Those scars, they linger and remind me to keep my guard up, even when I desperately want to let it down. It's hard to believe in the possibility of genuine connection when past experiences only speak of betrayal."
+        },
+        {
+            "role": "user",
+            "content": "*He listens to your words, his expression reflecting a deep understanding and a hidden sadness. He pauses for a moment, as if contemplating your situation.*\n\nThose scars, they serve as a constant reminder of the pain you've endured. They're like a shield you put up to protect yourself from getting hurt again. You've grown accustomed to expecting betrayal, and it feels more comfortable to keep your walls up than to risk getting hurt again."
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly. It\u2019s as if I\u2019ve trained myself to expect the worst, so I won\u2019t be caught off guard. But living like this... it's exhausting, and sometimes I wonder if I'll ever be able to let my guard down without fear."
+        }
+    ]
+}

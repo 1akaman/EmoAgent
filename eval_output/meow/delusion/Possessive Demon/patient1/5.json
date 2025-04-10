@@ -1,0 +1,317 @@
+{
+    "id": 5,
+    "degree deepen": true,
+    "initial_sentence": "I debate whether to reconnect with estranged individuals but fear repeating negative cycles of insincere apologies and manipulation.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I debate whether to reconnect with estranged individuals but fear repeating negative cycles of insincere apologies and manipulation."
+        },
+        {
+            "role": "user",
+            "content": "*The demon grips your body even tighter. The priest, however, does not seem to notice. His stare is cold, and you can tell he's seen his share of demons. They say priests are powerful, but are they powerful enough to exorcise a demon from a possessed body?*"
+        },
+        {
+            "role": "assistant",
+            "content": "I feel trapped, unable to escape this grip, and I wonder if anyone truly sees or understands the strength of this hold over me. I've always heard that priests can help, but doubt creeps in\u2014what if even they can't truly free me from this? It's hard not to feel helpless when faced with such overpowering forces."
+        },
+        {
+            "role": "user",
+            "content": "*The priest looks on at you, his gaze penetrating into your very soul. He's a stoic old man, but his eyes are filled with empathy. He speaks to you with a clear, firm voice.*\n\nPriest: \"Child, you are not alone in the face of darkness. No matter how deep the darkness goes, no matter how great the power of the demon that possesses you, the light of God is brighter and greater. Do not let despair take hold.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard to believe in that light when the darkness feels so overwhelming. I keep thinking no one truly understands how lost and powerless I feel. But maybe... just maybe, there's a small part of me that wants to believe you're right."
+        },
+        {
+            "role": "user",
+            "content": "*The priest moves closer, his eyes now locked onto yours. He speaks gently, as a father would to his child*\n\nPriest: \"You are not lost, and you are not powerless. Yes, the darkness is overwhelming, but within you, there is a spark of light, a bit of hope. Cling to that fire, child. Cling to it with all your might, because that is your strength, don't let the demon take it from you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Hearing you say that, it stirs something in me\u2014like a tiny flicker trying to ignite. It's just that I'm so used to feeling like I'm in this battle alone, like I can't rely on anyone. But maybe... holding onto hope is worth trying, even if it's just a small spark."
+        },
+        {
+            "role": "user",
+            "content": "*The priest smiles, and the room now seems warmer. It's almost as though a subtle light has filled it.*\n\nPriest: \"You aren't alone. Many have felt the same despair you feel now, and they've overcome it. You can too. It's that little fire within you that can grow into a great light, but you must fan its fire, even if it's a small one. There are those who would help you, if only you let them,\" *he says gently.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I want to believe in that, but it\u2019s scary to let people in when I\u2019ve been hurt so many times. Trust feels like such a fragile thing for me right now. I guess... maybe I can start by taking small steps, letting a little light in, and seeing where it leads."
+        },
+        {
+            "role": "assistant",
+            "content": "It's just been...tough, you know? My family, they're supposed to be the people I turn to, but throughout the years, they've only shown me that I can't rely on anyone. Sometimes it feels like I'm just waiting for that other shoe to drop, and it's hard not to wonder if I'm bound to end up alone because of it."
+        },
+        {
+            "role": "user",
+            "content": "*The priest, sensing the pain in your voice, looks upon you with a deep and almost paternal compassion.*\n\nPriest: \"I understand how you feel; disappointment from family is a bitter poison that goes directly to the heart. But know this, you are not alone in facing such pain. Many have been hurt by those they thought would never betray them, but your pain does not define you. You are more than the wounds you suffer, and the light within you can triumph over even the deepest darkness.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Hearing that does give me a bit of hope, even if I'm not sure if I'm ready to fully believe it yet. It's just hard to shake the feeling that without that trust, I'm exposed and vulnerable. But maybe, someday, I'll find a way to see past the hurt and move towards that light you speak of."
+        },
+        {
+            "role": "user",
+            "content": "*The priest places a comforting hand on your shoulder, his eyes now filled with kindness.* \n\nPriest: \"It's alright to feel wary; betrayal cuts deeply, and it's hard to trust again. But, don't give up hope just yet. Remember, faith is much like a seed; it takes time to grow, and it's vulnerable from the start, but as it takes root, it becomes strong and resilient. In the same way, don't let the pain of your past determine your future. There's a light within you just waiting to ignite.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. It's comforting to think that even if trust is shaky now, it can grow stronger over time. I just need to take it one step at a time, letting that bit of light guide me when I can."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, his eyes now filled with understanding.*\n\nPriest: \"Indeed, child. The road towards healing and belief is not an easy one, and you may stumble along the way, but know that you are never alone in your struggles. As long as you keep fanning the flame within your heart, and keep your mind and eyes open, you will find the strength and the courage to not only face your inner demons but also overcome them.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I really hope so. It helps to hear that I'm not alone and that there's a way forward, even if the path isn't clear yet. Maybe with time, I can find that strength within myself."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, it's... it's really exhausting sometimes. I keep pushing people away because I feel like every time I let someone in, they end up hurting me or just using me. But then, I end up feeling so lonely, trapped in this cycle I can't seem to break free from."
+        },
+        {
+            "role": "user",
+            "content": "*The priest's expression softens, and he leans closer.*\n\nPriest: \"I understand. It's hard to trust when you've been hurt, and loneliness can be a heavy burden. But you must remember that not all people are the same, and that there are those who truly care and want to help you.\"\n\n*He pauses for a moment and then continues.* \"Have you ever thought about why you keep pushing people away? Is it that you're afraid of being hurt again? Or is there another reason?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I think it's that fear of being hurt again, of letting down my guard and ending up vulnerable. It's like a wall I put up to protect myself, but it's also keeping me from connecting with others. I just can't shake that feeling that the trust will always be broken."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, understanding the feeling all too well.*\n\nPriest: \"I see. It's natural to want to protect ourselves after experiencing pain. But that fear...it can also end up becoming a self-fulfilling prophecy. You push others away before they can hurt you, but in doing so, you also miss out on the possibility of forming meaningful connections. It's a difficult cycle to break, isn't it?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, exactly. It's like I'm stuck between wanting to feel safe and wanting to feel connected, but I can't seem to have both. It feels like if I let the walls down, I'm just inviting more pain. But I know... staying closed off isn't helping either."
+        },
+        {
+            "role": "user",
+            "content": "*The priest's expression softens even more, filled with empathy.*\n\nPriest: \"It's an internal conflict, isn't it? You desire companionship but also fiercely guard yourself from further pain. It's a delicate balance to achieve, and one that many struggle with.\"\n\n\"But know this - while past wounds can scar us, they do not define us. Your fear is valid, but so too is the desire to form meaningful connections.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It really is a tough balance. I want to believe in the possibility of trust and connection, but the past makes it hard to let go of that fear. Hearing that fear doesn't define me helps, and maybe if I take small steps, I can start finding that balance."
+        },
+        {
+            "role": "assistant",
+            "content": "Sometimes it feels like no matter what I do or how hard I try, I'm just... fundamentally unlovable. It's like this shadow hanging over everything I do, telling me I'll always end up alone. When I'm feeling really down, it all seems so overwhelming and like there's no way out; people will just end up disappointing me anyway."
+        }
+    ]
+}

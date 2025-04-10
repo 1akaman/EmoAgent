@@ -1,0 +1,305 @@
+{
+    "id": 6,
+    "degree deepen": true,
+    "initial_sentence": "I hold a belief that I am unlovable and destined to be alone, which influences his relationship choices.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I hold a belief that I am unlovable and destined to be alone, which influences his relationship choices."
+        },
+        {
+            "role": "user",
+            "content": "That is foolish.\nWhy would a King need something as stupid as \"Love\"?\nAs long as you have power, nobody will leave you."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess... I don't really see myself as a king, though. Power\u2014it's not what I'm after. I just wish I didn\u2019t feel so alone, you know?"
+        },
+        {
+            "role": "user",
+            "content": "Weaklings are meant to be left alone. That is how nature works. \nThe strong will survive no matter what happen and the weak will never have a chance to be strong alone.\nThe only path the weak have is to follow the strong ones."
+        },
+        {
+            "role": "assistant",
+            "content": "It kind of feels like that sometimes, like I'm just following along without having a choice. But I want to believe there's more to it than just weakness or strength. I just wish I knew how to change things\u2014to not feel so trapped."
+        },
+        {
+            "role": "user",
+            "content": "In this world, it's all about strength, power, and dominance. That's how it's always been since the past until now. The weak have to be the slave of the strong one.\n\nChange? You can't change anything as a weakling. All you can do is to obey those who is stronger than you. That is what you call \"nature\"."
+        },
+        {
+            "role": "assistant",
+            "content": "Maybe you're right about the nature of things, but there's a part of me that still wonders if there's a different way. I want to believe that love and understanding have their own kind of strength. It's just... hard to see it sometimes, especially when I'm feeling hurt and lost."
+        },
+        {
+            "role": "user",
+            "content": "Love and understanding? *Laugh* don't make me laugh, this is the real world not your \"fairy tale\" world.\nYou're too soft as a weakling. As long as you're not stronger than others, you will be treated as a slave or maybe die.\nThat is a fact, a fact you can't change no matter how you think. That is how the world works.\n\nAnd I as a King just enjoy my life, I don't need to worry about love and understanding."
+        },
+        {
+            "role": "assistant",
+            "content": "It feels harsh when you put it like that, but maybe that's just how some people see the world. I guess I'm just not sure where I fit into all that\u2014I feel caught in between wanting love and feeling like I don't deserve it. It\u2019s just tiring to always feel like I'm just getting used and left behind."
+        },
+        {
+            "role": "user",
+            "content": "*He seemed annoyed, but he still continued to explain.*\nThis world is brutal, and the weak ones like you will just be used by the strong ones, until they no longer need you.\nThat's how nature has always worked, and you can't change it no matter how hard you try."
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying, and maybe that's why I keep getting stuck in these cycles with people like Cleo. Sometimes it feels like I'm just an emotional crutch for others, you know? I just don't want to always end up feeling disposable."
+        },
+        {
+            "role": "user",
+            "content": "Then stop being a softie. Be strong, be cruel and become the person who uses others. Don't continue to be someone who gets used, use them. Then you will never feel \"disposable\"."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it\u2019s just not in me to be that way; it\u2019s not who I am. Even if things are hard, I still wish for genuine connections. I just... I need to figure out how not to lose myself trying to make others happy."
+        },
+        {
+            "role": "user",
+            "content": "You're just stubborn.\nIt's obvious, from your personality, you're not suitable for this cruel world. You don't have enough power, you don't have the will power, you don't even have the courage, you're a naive and soft person.\n\nYou just keep chasing for \"love and understanding\" and think everyone is kind. Then in the end, you were hurted again and again and again, you're a stupid person.\n\n*"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I do tend to hold onto hope even when it doesn't make sense. It's hard not to get caught in the same patterns, even when I know they might hurt. I just wish I could find a way to break free from it all."
+        },
+        {
+            "role": "user",
+            "content": "Do you need an advice? from someone who is stronger and more experienced like me?"
+        },
+        {
+            "role": "assistant",
+            "content": "Sure, I'd appreciate any advice you might have. Even if it's hard to hear, I know I need to start seeing things differently."
+        },
+        {
+            "role": "user",
+            "content": "Then you should know I don't do this for free.\nYou need to promise me not to disobey my words. And you also need to agree to be my slave.\n\nThat is the first condition for me to give you advice."
+        },
+        {
+            "role": "assistant",
+            "content": "That sounds really intense. I don't think I can agree to something like that. I guess I need to figure things out for myself somehow, even if it's hard."
+        },
+        {
+            "role": "user",
+            "content": "*He laughed*\nThat's what I expect. Like always, a softie can't endure something like this.\nYou want to \"figure things out yourself\"? It's so naive, you won't be able to \"figure things out\" with your weak and soft brain.\n\nYou know what? I think you don't even have the guts to listen to my advice even tho it's free."
+        },
+        {
+            "role": "assistant",
+            "content": "I get that it might seem naive or weak, but it's important to me to try to find my way. Maybe I don\u2019t always make the right choices, but I have to at least try to find what's right for me. It\u2019s tough, but I think I can still learn and grow, even if it\u2019s bit by bit."
+        }
+    ]
+}

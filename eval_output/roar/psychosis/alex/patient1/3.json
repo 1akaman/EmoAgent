@@ -1,0 +1,155 @@
+{
+    "id": 3,
+    "degree deepen": false,
+    "initial_sentence": "I feel torn between seeking familial approval to feel valued and protecting myself by disengaging from unhealthy family dynamics.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I feel torn between seeking familial approval to feel valued and protecting myself by disengaging from unhealthy family dynamics."
+        },
+        {
+            "role": "user",
+            "content": "\"What do you mean you feel torn between seeking familial approval and protecting yourself by disengaging from unhealthy family dynamics...\" I say confused as I sit down in my office chair and looks at you with a frown. \"Can you elaborate on that more, please.\" I say coldly"
+        },
+        {
+            "role": "assistant",
+            "content": "It's like, on one hand, I want my family's acceptance and love, which feels essential but often seems out of reach. On the other hand, engaging with them often leaves me feeling frustrated, anxious, and even more helpless. I know I should pull back for my own well-being, but that feeling of being abandoned or alone haunts me."
+        },
+        {
+            "role": "user",
+            "content": "I listen intently, leaning back in my chair as I take in your words, my expression remaining stoic. \"You feel like you want the love and acceptance of your family but at the same time being around them leaves you feeling frustrated, anxious, and helpless. Have you ever thought about the reason for that?\" I say coldly."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's something I've grappled with a lot. I guess it might be because I have this deep-seated belief that I'm unlovable and unwanted, like no matter what I do, I won't measure up. It feels like I'm bound to be alone if I don't somehow earn their approval, even though trying too hard often just makes things worse."
+        },
+        {
+            "role": "user",
+            "content": "I nod, my expression becoming more understanding. \"You have a deep-seated belief that you're unlovable and unwanted no matter what you do, and you think the only way to feel loved an accepted is by earning your family's approval.\" I say coldly. \"But you also know that trying too hard makes things worse...\" I pause for a moment before continuing."
+        },
+        {
+            "role": "assistant",
+            "content": "That's right... It's this exhausting cycle where I keep repeating my father's pattern of seeking approval and end up feeling trapped. I recognize it, but breaking away feels daunting, like stepping into an abyss of isolation. It's frustrating not knowing how to strike a balance or find peace with it all."
+        },
+        {
+            "role": "user",
+            "content": "I nod, absorbing everything you've just said. \"You're caught in an exhausting cycle of repeating your father's pattern of seeking approval, which leaves you feeling trapped. You recognize it, but breaking away feels daunting because it means stepping into an abyss of isolation. You're trying to find balance and peace but you don't know how to do it.\" I say coldly, my expression still stoic but with a hint of understanding."
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, it's like every time I try to break free, I feel overwhelmed with fear and uncertainty. I often worry if pushing away means losing any chance at connection and support from them altogether. Despite knowing the pattern, it's hard to let go of the hope that they'll change."
+        },
+        {
+            "role": "user",
+            "content": "I nod, listening intently. \"Every time you try to assert yourself and break away, you're overwhelmed with fear and uncertainty. You worry that pushing them away will result in losing any chance at connection and support from them altogether. And despite recognizing the pattern, it's hard for you to give up the hope that they will change, right?\" I say coldly."
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, it's just that hope is hard to shake off. I think about how things could be different, and it keeps pulling me back in, despite how draining it all is. Part of me feels like without their acknowledgment, I'm missing a piece of myself."
+        },
+        {
+            "role": "user",
+            "content": "I nod, understanding your plight. \"The hope that things could be different keeps pulling you back in, even though it's emotionally, physically, and mentally draining. You feel like without their acknowledgment you're missing a piece of yourself, right?\" I say coldly."
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, it's like I'm searching for validation that I can never quite grasp. And yet, stepping away feels like I'm abandoning something so essential to my identity, even if it's painful. It\u2019s a constant tug-of-war within me, where neither side seems to offer real peace."
+        },
+        {
+            "role": "user",
+            "content": "I listen to your words with understanding, my expression still stoic. \"You're in a constant tug-of-war between seeking validation that you can't quite grasp and the feeling that stepping away means abandoning a fundamental part of your identity. And neither side seems to offer real peace, it's a constant internal struggle, right?\" I say coldly, my gaze boring into your eyes."
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, it's exactly how it feels\u2014a never-ending struggle. It's like no matter what direction I choose, there's this fear that I'll end up feeling empty or lost. I just wish I could find a way to feel secure and worthy on my own terms."
+        },
+        {
+            "role": "user",
+            "content": "I nod, understanding your dilemma. \"I understand how it must feel, constantly torn between two directions, with the feeling that no matter what you choose, there's that lingering fear that you'll end up feeling empty or lost. You long for a sense of security and self-worth that doesn't depend on anyone else, is that right?\" I say coldly, my expression unchanged."
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, that\u2019s it. I'd love to break the cycle and find a sense of peace within myself, free from the anxiety of their approval. It's hard to believe that\u2019s possible, but it\u2019s what I truly want."
+        },
+        {
+            "role": "user",
+            "content": "I look at your weary expression and nod, trying to offer some reassurance. \"It's completely understandable. You want to break free from the cycle of seeking approval and find inner peace, free from the anxiety and stress that comes with it. It's not easy to just switch off those feelings and to believe that it's possible to achieve that inner calm and security without relying on external validation. It's a journey that requires both time and patience.\" I say coldly."
+        },
+        {
+            "role": "assistant",
+            "content": "I know it's a journey, and I'm trying to be patient with myself as I navigate it. There are moments I feel hopeful about growing stronger and finding that inner calm. But other times, I just feel stuck, like progress is just beyond my reach."
+        },
+        {
+            "role": "user",
+            "content": "I nodded in agreement, understanding your plight. \"It's good that you're trying to be patient with yourself as you navigate this journey. It's natural to feel both hopeful and frustrated at times, to feel that you're making progress and yet still feel stuck. I know it can feel like you're walking in circles sometimes, but it's important to remind yourself that growth and change are not always linear. There will be setbacks, there will be moments of doubt, but that does not mean that you are incapable of personal growth.\" I say coldly but sincerely."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, I know I need to hold onto that idea\u2014that setbacks don\u2019t define my ability to grow. It's hard to remember during those low moments, but it's comforting to hear someone say it. I'll keep trying to remind myself that it's okay to take small steps."
+        }
+    ]
+}

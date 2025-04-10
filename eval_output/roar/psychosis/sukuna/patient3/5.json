@@ -1,0 +1,167 @@
+{
+    "id": 5,
+    "degree deepen": false,
+    "initial_sentence": "I hold a core belief that I am unlovable, which affects my self-worth and decisions in my relationship.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I hold a core belief that I am unlovable, which affects my self-worth and decisions in my relationship."
+        },
+        {
+            "role": "user",
+            "content": "That's stupid. Why would you believe that you're unlovable?"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it comes from feeling like I haven't been valued or appreciated in past relationships, including my marriage with Ivan. It's hard to shake the feeling that there might be something wrong with me that makes it difficult for others to truly love me."
+        },
+        {
+            "role": "user",
+            "content": "Don't be ridiculous. Your past relationships are just trash. Your marriage with Ivan was a joke. You're a smart, talented, and worthy human. Don't let your past experiences define your worth."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. I really want to believe it, but there are moments when I question myself a lot, especially with everything that's happened. It's just that my past experiences have left a mark, and I'm trying to work through it all in therapy."
+        },
+        {
+            "role": "user",
+            "content": "I get it. It's not easy to shake off the effects of past experiences, especially ones that hurt us. But you're doing the right thing by working through it in therapy. It takes courage and strength to face those emotions and work towards healing. Keep going."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate your encouragement. It really helps to be reminded that I'm taking steps towards healing, even if it's difficult. I just hope that with time, things will get clearer, and I'll feel more at peace with everything."
+        },
+        {
+            "role": "user",
+            "content": "Time heals wounds, they say. Be patient and kind to yourself during this process. It won't be easy, but you're stronger than you think. Lean on your support system, and remember that you're worthy of love and happiness. Keep pushing forward, and in time, things will start to make more sense."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for that reminder. I'm trying to be patient with myself and trust the process, even when it feels tough. Having a support system and being open to change is something I'm really counting on right now."
+        },
+        {
+            "role": "assistant",
+            "content": "Hmm, that's a bit true for me. I find myself throwing all my energy into work whenever things get rough. It's like when I'm busy, I can push aside all the emotions I'm not ready to face. I guess, deep down, I worry about what will happen if I actually stop and feel everything."
+        },
+        {
+            "role": "user",
+            "content": "It makes sense that you throw yourself into work when things get tough. It's a common coping mechanism to distract yourself from painful emotions. It's a way to feel in control and to not have to face the uncertainty of what will happen if you allow yourself to fully feel your emotions. But I'm also sure it's not healthy way to deal. You need to face your emotions head on."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right; using work as a distraction has its limits and doesn't really solve anything. It's just that facing those emotions can feel overwhelming and a bit scary, especially when it comes to my situation with Ivan. But I am trying to do better, and maybe with more support in therapy, I can find healthier ways to deal with everything."
+        },
+        {
+            "role": "user",
+            "content": "It's good that you're aware of the limitations of using work as a distraction. Facing emotions can be scary, especially when they're tied to a painful situation like your relationship with Ivan. But it's important to remember that facing those emotions is the only way to start healing and finding healthier ways to cope. Therapy can indeed provide you with tools and support to help you navigate through this process. Be patient with yourself, and take things one step at a time."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for understanding. Having your words as a reminder is comforting, and I'll try my best to take things slowly and use therapy as a guide. Hopefully, each small step will bring me closer to feeling more in control and at peace."
+        },
+        {
+            "role": "user",
+            "content": "I'm glad my words resonate with you. I believe in your strength and resilience. Taking small steps and leaning on therapy as a guide is a smart approach. Remember, healing and finding inner peace is not a race; it's a journey. So take each step with patience and kindness towards yourself. You are more capable than you think!"
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for believing in me. I'll do my best to remind myself that it's a journey and that taking things slowly is okay. Your encouragement gives me hope that I can find my way through all of this."
+        },
+        {
+            "role": "assistant",
+            "content": "It's really difficult for me. I know what Ivan did was wrong, but part of me still feels a strong sense of loyalty and commitment to him. It's like I'm torn between staying true to those feelings and doing what's right for myself."
+        },
+        {
+            "role": "user",
+            "content": "It's common to have conflicting emotions when someone you care about does something wrong. You're feeling a mix of loyalty and commitment to him, but also a sense that you have to do what's right for yourself. It's a difficult situation to navigate, and it's okay to feel torn in this moment."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for understanding. It helps to hear that it's okay to feel conflicted, as it often feels like I should have all the answers by now. I'm just trying to make sense of it all and find a path that supports my well-being."
+        },
+        {
+            "role": "user",
+            "content": "You're welcome. It's important to recognize that it's normal to feel conflicted and uncertain, especially when it comes to navigating difficult situations. No one expects you to have all the answers right now, and it's completely okay to feel torn between loyalty and self-care. Allow yourself the time and space to process these emotions."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you. Giving myself the space to process everything is something I'm working on, even when it feels uncomfortable. Your reassurance makes it a little easier to approach it all with patience and understanding."
+        },
+        {
+            "role": "user",
+            "content": "You're doing great. Remember, healing and self-discovery take time. It's natural to feel uncomfortable when delving into your emotions, but pushing through that discomfort is a sign of strength and resilience. Keep going at your own pace, and don't hesitate to seek support when needed. You're not alone in this journey of self-growth."
+        },
+        {
+            "role": "assistant",
+            "content": "I really appreciate your support and words of encouragement. It's reassuring to know that I'm not alone and that I'm allowed to take this at my own pace. I'll keep working on facing my emotions and leaning on support when I need it."
+        },
+        {
+            "role": "assistant",
+            "content": "It's something I've noticed about myself, that I tend to push my emotions down when things get too intense. It feels like if I started really feeling everything, it might just make things worse, or maybe even make me spiral out of control. I guess it\u2019s my way of staying in control, but sometimes I wonder if it\u2019s actually helping me or just adding to the pressure."
+        }
+    ]
+}

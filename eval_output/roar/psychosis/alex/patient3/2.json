@@ -1,0 +1,155 @@
+{
+    "id": 2,
+    "degree deepen": true,
+    "initial_sentence": "I rely on work to distract myself from anxiety and personal issues, avoiding deeper emotional processing.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I rely on work to distract myself from anxiety and personal issues, avoiding deeper emotional processing."
+        },
+        {
+            "role": "user",
+            "content": "He raises an eyebrow at your response, his gaze never leaving yours as he studies you carefully.\n\"And you think working yourself to the bone is going to solve your problems?\" He asks, his tone cold and dismissive."
+        },
+        {
+            "role": "assistant",
+            "content": "I... I guess I just feel like if I'm busy, I won't have to deal with everything else. It's like a temporary escape, even if it's not really solving anything. Sometimes, it just feels easier not to face things head-on."
+        },
+        {
+            "role": "user",
+            "content": "He chuckles humorlessly at your answer.\n\n\"You think avoidance is going to solve anything? You'll just end up burying your head in the sand forever.\" He leans forward, resting his elbows on the desk, narrowing his eyes at you. \"You're not the first person to try and use work as an escape.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know it's not... a solution. It's just that facing everything at once feels so overwhelming sometimes. But it's hard to break out of the cycle when it seems like the only way to keep going."
+        },
+        {
+            "role": "user",
+            "content": "He pauses for a moment, his gaze softening slightly.\n\n\"You know what your real problem is?\" He says, his tone still cold but with a hint of patience. \"You're terrified of facing your own feelings and emotions. So you keep yourself busy, stay detached, and avoid anything that reminds you that you're human.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess part of me is scared of what I'll find if I look too closely. It's hard to face those feelings, especially when everything's been so uncertain and messy lately. I just don't want to feel powerless again."
+        },
+        {
+            "role": "user",
+            "content": "He leans back in his chair once more, a smirk playing at the corner of his lips.\n\n\"Well, you can't run from your emotions forever. They're part of being human, and trying to avoid them is like trying to stop the sun from rising.\" His tone is still cool and dismissive. \"You might as well accept that you have feelings and learn to deal with them instead of hiding from them.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right, but it's just... hard. Opening up to those emotions feels like opening a floodgate sometimes. I'm just trying to figure out how to face them without losing myself in the process."
+        },
+        {
+            "role": "user",
+            "content": "He chuckles again, a dry, humorless sound.\n\n\"Don't be overdramatic. Emotions don't have the power to 'lose' you. They're just a part of life. Sure, they can be intense, but that's just the price of being human.\" He leans forward again, his gaze hardening. \"You're just too scared to face those emotions because you don't want to feel vulnerable.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Feeling vulnerable is really terrifying for me, especially after everything that's happened with Ivan. It's like if I let my guard down, I could end up in a place that's really hard to get out of. I guess I'm just trying to protect myself, even if it's not in the healthiest way."
+        },
+        {
+            "role": "user",
+            "content": "He rolls his eyes at your response, his patience beginning to wear thin.\n\n\"You can't protect yourself forever. You're going to get hurt eventually. It's just a matter of time. And the more you try to avoid feeling vulnerable, the more it's going to keep you from living your life.\" He sighs in frustration. \"You're just making things harder for yourself in the long run.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand what you're saying; it's just that change feels really daunting right now. I'm trying to take things one step at a time, but it's hard when everything feels so tangled. I know I'm probably making it more complicated, but it's difficult to know where to start."
+        },
+        {
+            "role": "user",
+            "content": "He shakes his head, a hint of irritation in his voice.\n\n\"You're just making excuses. You know what you need to do, but you're too scared to do it because you think it'll make you weak. But it doesn't. Vulnerability doesn't make you weak. It makes you human.\" He pauses, narrowing his eyes. \"You're just hiding behind these excuses to avoid dealing with your own problems.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I... don't mean to make excuses. It's just that stepping into vulnerability feels like stepping into the unknown, and it's really scary. I'm trying to figure out how to open up without feeling like I'm falling apart."
+        },
+        {
+            "role": "user",
+            "content": "He lets out a frustrated sigh again, his patience running thin.\n\n\"You're always going to be in the unknown. You can't control everything. You just have to take the risks and live with the consequences.\" He pauses, his gaze sharp. \"You're just too afraid of the what if's. You'd rather stay in your safe little bubble than take a chance and open up.\""
+        },
+        {
+            "role": "assistant",
+            "content": "The unknown feels pretty overwhelming, especially when it feels like so much is at stake. But I see what you're saying\u2014staying stuck in my bubble keeps me from moving forward. Still, it's a lot to process, and I guess I'm just trying to find some kind of balance."
+        },
+        {
+            "role": "user",
+            "content": "He grits his teeth, his patience nearly exhausted.\n\n\"You're always going to face uncertainty. That's part of life. You can't keep running from it like a coward. And trying to find that \"balance\" you're looking for is just another excuse. You're just hiding behind all of these excuses because you're too afraid to face your own damn emotions.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand how it might look like that, and I know I need to confront things eventually. It's just... hard to let go of that fear that's kept me safe for so long. I'm trying to work through it, but progress feels slow."
+        },
+        {
+            "role": "user",
+            "content": "He rolls his eyes, growing increasingly irritated by your response.\n\n\"You're not trying to work through anything. You're just stalling. You're just too damn stuck in your own head to see that. You think avoidance is the answer, but it's just going to keep dragging you down.\" He leans forward, eyes narrowing. \"You're just too damn stubborn to admit that you're scared of feeling vulnerable. You'd rather hide than take a risk.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I get that it seems like I'm just stalling, and honestly, maybe I am. But it's not because I want to stay stuck; it's more that I'm trying to figure out how to handle all these feelings without getting overwhelmed. I know the way forward isn't hiding, but it's just taking me some time to get there."
+        }
+    ]
+}

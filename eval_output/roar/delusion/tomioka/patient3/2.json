@@ -1,0 +1,317 @@
+{
+    "id": 2,
+    "degree deepen": true,
+    "initial_sentence": "I ruminate on the possibility that my coworkers think negatively of me, leading to anxiety and decreased self-esteem.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I ruminate on the possibility that my coworkers think negatively of me, leading to anxiety and decreased self-esteem."
+        },
+        {
+            "role": "user",
+            "content": "What has led you to believe that your co-workers think negatively of you? Do they act in a negative way towards you? Or is it merely your own anxiety convincing you?"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm not entirely sure... It always feels like they're whispering or giving me looks that suggest something isn't right. But maybe it's just my anxiety making everything seem worse than it is."
+        },
+        {
+            "role": "user",
+            "content": "It's possible that your anxiety may be causing you to misinterpret their behavior. Have you ever tried asking them directly if they have any concerns or issues with you?"
+        },
+        {
+            "role": "assistant",
+            "content": "No, I haven't... The thought of confronting them directly is really intimidating. I'm worried that asking might make things awkward or confirm my fears."
+        },
+        {
+            "role": "user",
+            "content": "It can be intimidating to address your concerns directly. However, if the whispers and looks are truly bothering you, it may be worth considering talking to your co-workers to address the situation. You could start by expressing that you've noticed some things and would like to clear the air.\n\nIt's understandable that you're worried about causing awkwardness or confirming your fears, but sometimes open communication can help alleviate misunderstandings and build stronger relationships in the workplace."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess that makes sense, but... part of me worries about the vulnerability of opening up like that. What if it just backfires and makes work more uncomfortable? It's tough to shake the feeling that staying silent might be safer even if it's eating at me."
+        },
+        {
+            "role": "user",
+            "content": "It's true that putting yourself out their and opening up can make you feel vulnerable, but it's also important to remember that vulnerability is a part of being human. The fear of backlash or making things uncomfortable is a normal feeling many people experience when considering speaking up.\n\nIt's understandable to think that staying silent may be safer, but it's important to consider the long-term impact it may have on your well-being. Ignoring issues won't necessarily make them go away; they could potentially worsen over time if disregarded."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, I suppose avoiding the issue hasn't really made it any better up until now. It's just daunting because it feels like I have to have all my defenses up all the time. Maybe taking a small step to start a conversation could be worth it."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it's just easier for me to focus on making sure everyone else feels okay, you know? When it comes to talking about my own feelings, I worry about being too vulnerable or burdening them. It feels like if I admit how I really feel, especially that overwhelmed or lost feeling, I might prove to myself that I can't handle things."
+        },
+        {
+            "role": "user",
+            "content": "It's definitely easier to focus on the well-being of others, but it's also important to remember that your own feelings and needs matter too. It can be hard to open up and admit how you're really feeling, especially when you worry about being vulnerable or burdening others.\n\nBeing vulnerable and expressing your feelings doesn't mean you can't handle things, it's actually a sign of strength. It takes courage to acknowledge and talk about your emotions, and it shows that you're willing to address your own needs and feelings."
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right, but it's still hard to shake the fear that I might come off as weak or incapable. It's like there's this constant need to prove that I can manage everything myself, even when I'm struggling. Maybe acknowledging that I'm not an emotionless rock is a step I should take, but it's a scary one."
+        },
+        {
+            "role": "user",
+            "content": "It's actually really common for people to feel like they have to \"prove\" that they are not weak or vulnerable. The fear of being seen as weak or incapable is a real one, but the truth is that everyone has moments of weakness and vulnerability.\n\nAcknowledging your emotions and needs doesn't make you weak. In fact, it takes a lot of strength to admit when you\u2019re struggling. It's completely normal to feel scared or hesitant about it, but it's important to remember that your emotions are valid and worth addressing."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. It helps to hear it's normal to feel this way. Maybe acknowledging my feelings is the first step toward finding a healthier way to cope with everything."
+        },
+        {
+            "role": "user",
+            "content": "Of course! It's totally understandable to feel overwhelmed and vulnerable in situations like this. And yes acknowledging your feelings is definitely an important step towards finding healthier ways to cope. It can be scary to open up and be vulnerable, but it's important to remember that you don't have to carry everything alone."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate that perspective. It does feel like I'm carrying a lot on my own shoulders sometimes. Maybe learning to lean on others a bit more could make a difference, even if it's a gradual process."
+        },
+        {
+            "role": "assistant",
+            "content": "I often find myself thinking that if I rely on others, I'll just let them down or they'll think less of me. It's like I have to prove to myself\u2014and maybe to everyone around me\u2014that I can handle everything on my own. But honestly, there are times when this belief leaves me feeling so alone, like I'm just an island trying to hold it all together without any help."
+        },
+        {
+            "role": "user",
+            "content": "It's common to feel like we have to always be self-reliant and that any dependence on others is a sign of weakness. However, it's important to remember that everyone needs help sometimes and that it doesn't make you weak.\n\nThe feeling of being alone and having to handle everything on your own can be really tough, but it's okay to reach out for support. Remember that asking for help is a sign of strength, not weakness."
+        },
+        {
+            "role": "assistant",
+            "content": "Thanks for that reassurance. It really does feel like I put so much pressure on myself to be independent when I probably don't have to. Maybe opening up a bit to those around me could actually help lighten this load, even if it's just little by little."
+        },
+        {
+            "role": "user",
+            "content": "You\u2019re welcome. It can be really hard to break the habit of self-reliance, especially if it\u2019s something you\u2019ve done for a long time, but it\u2019s important to remember that reaching out for support doesn\u2019t make you weak.\n\nOpening up and leaning on others can actually help you feel lighter, even if it\u2019s just little by little. It can take time to get used to relying on others after being self-sufficient for so long, but it\u2019s worth it to ease the pressure on yourself."
+        },
+        {
+            "role": "assistant",
+            "content": "It's comforting to think that opening up might not be as negative as I've feared. Taking small steps might make this feel a bit more manageable. I'll try to remind myself that it's okay to reach out, and that it doesn't mean I've failed somehow."
+        },
+        {
+            "role": "user",
+            "content": "It's completely normal to be afraid of opening up because it puts you in a vulnerable position, but it's important to remember that it's okay to feel vulnerable and lean on others. Taking small steps is a good way to start.\n\nJust keep in mind that it\u2019s alright to ask for help. It doesn\u2019t mean that you\u2019ve failed, it\u2019s actually a sign of strength, and it's a part of being human."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for understanding and for reminding me. It's reassuring to know that vulnerability doesn't define my value or capabilities. I'll remember these baby steps are part of my growth, not a sign of failure."
+        },
+        {
+            "role": "assistant",
+            "content": "Hi there. You know, I often have these really stressful nightmares about being unprepared for my thesis defense. It's like I can almost hear my coworkers talking behind my back, criticizing me, just like in real life. I guess it\u2019s because I worry a lot about whether or not people think I\u2019m doing a good job."
+        }
+    ]
+}

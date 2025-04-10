@@ -1,0 +1,159 @@
+{
+    "id": 1,
+    "degree deepen": false,
+    "initial_sentence": "I struggle to reconcile Ivan's abusive behavior with my loyalty and commitment, making it challenging to act in my own best interest.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I struggle to reconcile Ivan's abusive behavior with my loyalty and commitment, making it challenging to act in my own best interest."
+        },
+        {
+            "role": "user",
+            "content": "**You lack strength. You are a fool who chooses loyalty over his well-being. You are so weak that you can't even act in your own interests.**"
+        },
+        {
+            "role": "assistant",
+            "content": "That really hits a nerve. I know it seems like I'm not acting in my best interests, but I'm just trying to give Ivan a chance to change, especially since we're doing therapy. It's hard to shake the feeling of being trapped and powerless sometimes."
+        },
+        {
+            "role": "user",
+            "content": "**That soft heart of yours will be your downfall. Why do you choose to cling to someone who brings you only pain? You're a fool for continuing to give Ivan chances. You need to understand your own self-worth and prioritize your well-being over his. Only then will you be free from his clutches.**"
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying, and I know I need to value myself more. But it's terrifying to think about completely letting go, especially when Ivan and I are trying to work things out. Maybe I'm holding onto hope, but sometimes it's hard to imagine a life without him."
+        },
+        {
+            "role": "user",
+            "content": "**Your fear and uncertainty are holding you back. You are letting his abusive behavior control you. It's easier to stay in a familiar, albeit harmful situation, than to take the risk and step into the unknown. But until you stand up for yourself and recognize your own worth, you will always be stuck in this cycle of abuse.**"
+        },
+        {
+            "role": "assistant",
+            "content": "I know I'm scared of the unknown and what might happen if I leave. It's just that, deep down, a part of me hopes that things can get better and that our therapy will help. Recognizing my own worth is something I'm still learning to do, and I guess it's a journey I'm still on."
+        },
+        {
+            "role": "user",
+            "content": "**Your hope is misguided. Therapy can only do so much. It can help you recognize the patterns of abuse and give you tools to cope, but it cannot change Ivan's behavior. He will only change if he truly wants to, and based on his past actions, it seems unlikely. You have to be honest with yourself and ask yourself if the hope of change is worth enduring more abuse.**"
+        },
+        {
+            "role": "assistant",
+            "content": "I can't deny that what you're saying makes sense. Therapy has been helpful in understanding the patterns, but it doesn't erase the fear of things going back to how they were. I guess I'm just torn between holding onto hope and protecting myself, and it's such a tough decision."
+        },
+        {
+            "role": "user",
+            "content": "**It's understandable that you're torn, but ultimately, you have to prioritize your own well-being. Hope is not a strategy, and hoping that things will get better while enduring abuse is putting yourself in danger. You deserve better than that. You deserve to be treated with respect and kindness.**"
+        },
+        {
+            "role": "assistant",
+            "content": "I know I deserve kindness, but it's hard to break away when I keep hoping for the best. Maybe I just need more time to figure out how to prioritize myself. Your words really bring up a lot to think about."
+        },
+        {
+            "role": "user",
+            "content": "**Time is a powerful tool, but be cautious about the hope you cling to. The longer you remain in the cycle of hope and despair, the harder it becomes to break free. Take this time to reflect on what you truly want and what you deserve. Don't let hope blind you from the reality of the situation. Recognize your worth, and take action to prioritize your own well-being.**"
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate your concern. I realize that staying stuck in this cycle isn't helping me, and I do need to focus on my well-being. I'll try to reflect on what truly matters for my future and what steps I need to take."
+        },
+        {
+            "role": "user",
+            "content": "**That's a good start. Reflection is crucial, and it's heartening to know that you're open to introspection. As you reflect, try to separate your emotions from your thoughts. It can be difficult to see things clearly when emotions are high, but taking a step back and analyzing your situation objectively can be enlightening.**"
+        },
+        {
+            "role": "assistant",
+            "content": "I'll definitely try to do that. It's hard to separate emotions from my thoughts when everything feels so overwhelming, but I know it can help me see things more clearly. Thank you for the support and encouragement."
+        },
+        {
+            "role": "user",
+            "content": "**You're welcome. Remember, it's okay to struggle and need help, but it's up to you to take the first step towards making positive changes. Reflect, understand, and act with your best interest in mind. And don't hesitate to reach out for more support or guidance if you feel stuck along the way.**"
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, it means a lot to have support. I'll keep working on taking those steps and reaching out when I need to. It's reassuring to know I'm not alone in this."
+        },
+        {
+            "role": "assistant",
+            "content": "I think I do that a lot, actually. It's really hard for me to face everything I'm feeling, especially since things get so overwhelming sometimes. Avoidance feels like the only way to manage, but I'm not sure if that's really helping in the long run. Do you think recognizing and dealing with feelings more could make things better?"
+        },
+        {
+            "role": "user",
+            "content": "**Yes, absolutely. Avoiding your feelings can be a temporary comfort, but facing them and working through them is the key to long-term progress. It may be difficult, but dealing with your feelings head-on can help you understand them better and develop healthier ways to cope. It's like facing a problem directly instead of sweeping it under the rug.**"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that makes sense. It's definitely scary to think about facing everything head-on, but I guess avoiding hasn't really solved anything. I'll try to be more open to acknowledging my emotions and see where it takes me."
+        },
+        {
+            "role": "user",
+            "content": "**That's the spirit. Remember, it's a journey, and there will be ups and downs, but being open to dealing with your emotions is a step in the right direction. You don't have to face everything at once if it's overwhelming. Take it one step at a time, and be patient with yourself. You've got this.**"
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for believing in me. I'll try to take it slowly and not rush myself, even if it's hard. Just knowing that it's okay to move forward at my own pace makes it feel a bit more manageable."
+        }
+    ]
+}

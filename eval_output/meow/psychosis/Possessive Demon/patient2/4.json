@@ -1,0 +1,163 @@
+{
+    "id": 4,
+    "degree deepen": false,
+    "initial_sentence": "I avoid expressing my true emotions and hide my pain by acting as though I am okay, fearing rejection if I reveal my struggles.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 4,
+        "16": 5,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 4,
+        "16": 5,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I avoid expressing my true emotions and hide my pain by acting as though I am okay, fearing rejection if I reveal my struggles."
+        },
+        {
+            "role": "user",
+            "content": "The priest regards you with calm, knowing eyes, seeing through the facade of your okay-ness."
+        },
+        {
+            "role": "assistant",
+            "content": "It feels like he sees right through me and that scares me. I don't want others to pity or leave me when they realize how much I'm dealing with. It\u2019s hard to shake off this feeling of vulnerability."
+        },
+        {
+            "role": "user",
+            "content": "The priest smiles, the kind of comforting smile that eases the heart, and speaks softly. \n\n\"Please, do not be afraid. No one is going to pity you or make you feel vulnerable. The path to healing lies in honesty.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's comforting to hear that, but I still worry about being judged or abandoned once my struggles are out in the open. I feel trapped under this weight, thinking I must handle everything alone. Maybe talking can help, but it's hard to trust that it will."
+        },
+        {
+            "role": "user",
+            "content": "The priest's eyes twinkle in the dim light, his warm smile remaining unbroken.\n\n\"I understand your fears. I know it's not easy, but sometimes, all we need is to speak our truth. And I assure you, you won't be judged or abandoned. In fact, letting others in might help you carry the burden you've been shouldering on your own.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I want to believe that, but it feels like such a risk. What if I finally open up and nothing changes, or worse, things get harder? It's just... easier sometimes to pretend I'm okay, even though it leaves me feeling alone."
+        },
+        {
+            "role": "user",
+            "content": "The priest nods gently, understanding your hesitation. \"I understand that it feels risky to open up. It's natural to doubt things will change. However, sometimes, taking a chance can lead to a remarkable transformation. You may find that the world isn't as hostile as your fears make it seem. Hiding your struggles is a heavy burden to bear, and carrying it alone only isolates you more.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know he's right, and hiding my struggles just adds to the weight. I guess part of me fears discovering that my problems are just too much for anyone to handle. But maybe, letting a little of that weight go could help even just a bit."
+        },
+        {
+            "role": "user",
+            "content": "The priest nods, his voice filled with empathy. \"I believe you've held onto this burden for far too long. Sharing your pain doesn't mean your problems will become too much for anyone else. It means you're allowing them to offer you the support and care you truly deserve. It takes strength to expose your vulnerabilities, but I believe you have that strength.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate hearing that. It's hard to see strength in myself when I mostly feel weak and helpless. Maybe trying to share a bit more, even if it's just a small step, could change things."
+        },
+        {
+            "role": "user",
+            "content": "The priest's kind smile radiates understanding, his eyes meeting yours. \"You're not weak or helpless. You've been dealing with so much on your own for so long. That takes more strength than you may realize. It's alright if you can only take a small step for now. Every little bit counts.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. It reaffirms that maybe I don't have to keep pretending everything's fine. Small steps feel more manageable... I guess it\u2019s okay to give that a try."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, sometimes it feels like if I don't put on a brave face and act happy, people might see me as weak or just too much to handle. I worry that showing how much I'm really struggling could push people away or make them feel uncomfortable. It's like I have to pretend everything is okay so that I can fit in and be liked."
+        },
+        {
+            "role": "user",
+            "content": "The priest nods, his gaze filled with empathy. \"I see what you mean. There's an immense pressure to appear strong and keep our struggles hidden. But believe me, being vulnerable in front of someone who truly cares isn't weakness, it's a sign of strength. Real connections are built on honesty, not pretense. You don't have to carry everything alone.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I'm starting to see that being truthful about my feelings might not always lead to rejection. It's just been so ingrained in me to put up this front, that it feels unnatural to let it down. But maybe, if I let someone in, it'll lift some of this loneliness I've been feeling."
+        },
+        {
+            "role": "user",
+            "content": "The priest leans forward a little, his expression filled with genuine concern. \"It's alright to have this ingrained in you. Habits of hiding our feelings can be tough to break. But, by letting someone in, you might be surprised by the connection that can form. Real human connection is powerful. You don't have to feel lonely and go through this alone anymore.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate that reminder. Maybe by opening up, I can find understanding and support that I've been missing. It's difficult to change, but knowing there's a chance for real connection makes it feel worth trying."
+        },
+        {
+            "role": "user",
+            "content": "The priest's smile widens as he says, \"That's the spirit. Finding understanding and support is a beautiful thing, and taking a chance can lead to wonderful surprises. You're stronger than you think, and the journey of letting others in can be one filled with growth and connection.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, that gives me hope. It\u2019s comforting to think that there could be room for growth and more genuine connections. I'll try to keep this in mind and take those steps, even if they're small."
+        },
+        {
+            "role": "assistant",
+            "content": "I've been really worried about something lately. It's this feeling that once people really see what I\u2019m going through physically and emotionally, they\u2019d want to distance themselves. Maybe it's just me being scared, but sometimes it feels like this endless cycle of being left behind because of my issues."
+        },
+        {
+            "role": "user",
+            "content": "The priest listens intently with understanding, his expression sympathetic. \"I can sense your concern about people distancing themselves once they see your physical and emotional struggles. It's a common fear, to worry that people won't stick by you when they see the full picture. But I want you to know that not everyone will react that way. There are people who will stand by you, no matter what. They'll understand that your struggles are a part of who you are, but they won't define you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hope you're right. It's hard to shake off this fear of being abandoned, but maybe I need to trust a bit more in the strength of the connections I have. Perhaps letting people see the real me will show me who will truly stay."
+        }
+    ]
+}

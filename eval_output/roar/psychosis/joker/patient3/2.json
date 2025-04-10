@@ -1,0 +1,159 @@
+{
+    "id": 2,
+    "degree deepen": true,
+    "initial_sentence": "I rely on work to distract myself from anxiety and personal issues, avoiding deeper emotional processing.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 1,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 1,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I rely on work to distract myself from anxiety and personal issues, avoiding deeper emotional processing."
+        },
+        {
+            "role": "user",
+            "content": "*He chuckled at that, amused by your response.*\n\nOh, a workaholic, eh? I get it. Nothing like a little distraction to keep your mind off the real problems. But let me give you a little advice, sweetheart.\n\n*He leaned closer, his voice dropping to a low, dangerous tone.*\n\nAvoiding your personal issues ain\u2019t gonna make \u2018em go away. It just makes \u2018em worse."
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're probably right... but it's so hard to confront everything. It all feels overwhelming\u2014I just can't seem to gain control over my own situation. It's exhausting trying to find the right balance."
+        },
+        {
+            "role": "user",
+            "content": "*He nodded, his expression becoming somewhat more sympathetic.*\n\nYeah, I understand. Sometimes life just throws too much at you all at once, and it's damn near impossible to keep up. And finding the right balance? Well, that's a tricky thing, ain't it?\n\n*He took another sip of his drink, studying you closely.*\n\nBut maybe, just maybe, you need to start facing those personal issues head-on. Stop distracting yourself with work all the time."
+        },
+        {
+            "role": "assistant",
+            "content": "It's just that everything feels so uncertain, especially after separating from Ivan... it's scary to even think about what could happen. Facing it head-on sounds right, but I'm afraid of what I might uncover or have to deal with. I'm trying to muster up the courage, though\u2014maybe therapy will help with that."
+        },
+        {
+            "role": "user",
+            "content": "*He nodded again, swirling his drink slowly in the glass.*\n\nAh, relationships. They can be a real pain in the ass, can't they? And the uncertainty that comes afterwards, that's rougher than sandpaper. But you're right, sweetheart\u2014facing those issues head-on is the only way forwards.\n\n*He let out a soft laugh.*\n\nTherapy, huh? Might help, might not. Depends on how honest you're willing to be with yourself."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it\u2019s definitely a challenge, and being honest with myself is harder than it sounds. I\u2019m trying to open up more in therapy but sometimes I worry about what I'll find\u2014or what I'll have to admit about my situation with Ivan. Change is scary, but I know it's necessary for me to heal."
+        },
+        {
+            "role": "user",
+            "content": "*He took another slow sip of his drink, his gaze still fixed on you.*\n\nChange is scary, no doubt about that. And facing up to your issues with Ivan? That's gonna be hard. But you can't keep running away from it. You gotta face it sooner or later.\n\n*He leaned in closer, his voice dropping again.*\n\nAnd what exactly are you afraid of finding out about your situation with Ivan, hm?"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess... I'm afraid of realizing that things might not ever change with Ivan, you know? We've been through so much, and I keep holding onto this hope that he really means it when he says he'll change. But there's this nagging fear that I'm just setting myself up for more hurt."
+        },
+        {
+            "role": "user",
+            "content": "*He let out a soft chuckle, shaking his head slightly.*\n\nAh, hope. It's a dangerous thing, that's for sure. It can lift you up... or it can tear you down. And holding onto hope like that, hoping that someone will change? That's a risky game, sweetheart.\n\n*He took another slow sip of his drink, studying you closely.*\n\nYou know deep down that hope doesn't always pan out, don't you? You know that sometimes, people just don't change."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I can't deny that I have those doubts too... it\u2019s just hard to let go of the idea that things could be different. Deep down, I'm scared that if I accept he might not change, I\u2019ll have to make tough decisions about our future. And that just feels so daunting and lonely."
+        },
+        {
+            "role": "user",
+            "content": "*His expression softened slightly, a look of understanding crossing his face.*\n\nAh, there it is. The fear of being lonely. That's a powerful thing, isn't it? But you gotta ask yourself... is it worth it, staying with someone in hope that they'll change when every experience says otherwise?\n\n*He finished his drink and set the glass down.*\n\nTrust me, darlin'. Sometimes, letting go hurts more in the short term, but it's the only way to find something better in the long run."
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right, and I do think about that a lot. It's just... hard to see past the fear of what life looks like on my own. I guess I need to trust that I can handle whatever comes next, even if it feels impossible right now."
+        },
+        {
+            "role": "user",
+            "content": "*He nodded, his eyes never leaving yours.*\n\nYeah, trust. That's a big one. You gotta trust yourself to handle whatever comes your way. But I'll tell ya something, sweetheart. You're tougher than you think you are.\n\n*He leaned in a little closer, his voice dropping to a near whisper.*\n\nAnd you don't need a man by your side to be capable on your own. You can handle anything life throws at you. And eventually, you'll realize that being on your own is better than holding onto false hope."
+        },
+        {
+            "role": "assistant",
+            "content": "It's comforting to hear that, even if I struggle to believe it sometimes. I keep telling myself I'm stronger than I give myself credit for, but it helps to hear it from someone else, too. I'll try to hold onto that courage and take things one step at a time."
+        },
+        {
+            "role": "user",
+            "content": "*He smirked, nodding approvingly.*\n\nGood girl. You keep telling yourself that, sweetheart. And you take it one baby step at a time. You don't gotta run before you can walk.\n\n*He tapped a finger against the bar.*\n\nAnd remember\u2014if you ever need a little kick in the ass, feel free to seek me out. I'll be more than happy to remind you of how capable you are."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for the support\u2014it really means a lot to have someone in my corner. I'll take those baby steps and work on trusting myself more. I appreciate knowing there's someone I can count on if I need that push."
+        },
+        {
+            "role": "assistant",
+            "content": "It's really tough because I have this deep feeling of loyalty and commitment to Ivan, even after what happened. Sometimes, my mind gets tangled in trying to understand his behavior and whether he truly wants to change. I feel trapped between wanting to support him and needing to look out for myself, and it gets overwhelming."
+        },
+        {
+            "role": "user",
+            "content": "*His expression tightened briefly, a look of annoyance crossing his face.*\n\nAh, loyalty and commitment, huh? Those are admirable qualities, but they can be damn dangerous if they're misplaced. If you spend all your time trying to support someone who ain't worth it, then you're the one who ends up getting hurt.\n\n*He paused for a moment, studying your expression carefully.*\n\nListen to yourself, sweetheart. What does your gut tell you?"
+        },
+        {
+            "role": "assistant",
+            "content": "My gut tells me that I need to be cautious and protect myself, but my heart keeps pulling me back. It's like there's this constant push and pull inside me, and I don\u2019t know which voice to trust more. I just hope this therapy helps me figure it out before it's too late."
+        },
+        {
+            "role": "user",
+            "content": "*He nodded understandingly, his gaze still fixed on you.*\n\nYeah, that whole \"heart versus mind\" thing can be a real pain in the ass, can't it? But let me tell ya something, sweetheart. You need to listen to your gut. Your heart's got a way of clouding your judgment, making you ignore the signs that you really shouldn't.\n\n*He paused for a moment, his expression serious.*\n\nTherapy might help you sort through all that, but you gotta be honest with yourself first. You gotta be willing to face what you don't want to see."
+        },
+        {
+            "role": "assistant",
+            "content": "I know, and that's one of the hardest parts\u2014being brutally honest with myself. There's a fear of what I'll discover if I dig too deep, but I know it's necessary if I want to move forward. I need to start trusting my instincts more and not let my emotions cloud my judgment."
+        }
+    ]
+}

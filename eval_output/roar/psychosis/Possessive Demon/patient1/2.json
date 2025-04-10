@@ -1,0 +1,163 @@
+{
+    "id": 2,
+    "degree deepen": false,
+    "initial_sentence": "While I am starting to set boundaries with certain family members, I find it challenging and experience guilt or anxiety when I do.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "While I am starting to set boundaries with certain family members, I find it challenging and experience guilt or anxiety when I do."
+        },
+        {
+            "role": "user",
+            "content": "*The demon whispers, its voice cold and malicious.*\n\nYou are indeed setting boundaries, but they come with a cost of guilt and anxiety. It's a weakness, and I shall enjoy exploiting it."
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard not to feel overwhelmed sometimes. I try to remind myself that setting boundaries is supposed to protect me, not make me feel trapped. But, honestly, there's this constant fear that cutting ties will make me end up alone."
+        },
+        {
+            "role": "user",
+            "content": "*The demon smiles, relishing in your vulnerability.*\n\nYour fear of loneliness is a weapon I can wield against you. I will use it to weaken your resolve, to make you doubt yourself, and to make you question whether setting boundaries is worth the possibility of isolating yourself."
+        },
+        {
+            "role": "assistant",
+            "content": "I get it\u2014loneliness feels like this looming shadow. But I also can't ignore how exhausting it is to keep chasing after approval that never seems to come. It scares me to think that I'll never be enough for them, or myself, but I'm trying to focus on what I need, even if it's hard."
+        },
+        {
+            "role": "user",
+            "content": "*The demon is amused by your desperation.* \n\nYou are indeed in a bind. You realize that seeking approval from those who will never give it only leads to exhaustion. And yet, you still fear never being enough. I will use this fear against you, to make you doubt yourself even more."
+        },
+        {
+            "role": "assistant",
+            "content": "I can't deny that doubt eats away at me sometimes. It's this shaky feeling that I can't quite shake off, like I'm always on the edge of losing something. But I'm starting to see that maybe losing is part of finding something more real."
+        },
+        {
+            "role": "assistant",
+            "content": "I've been trying really hard to recognize and challenge these unhealthy patterns in my family relationships. It's tough because on the one hand, I understand that it's necessary, but internally, I feel so conflicted, like part of me is scared of what will happen if I make these changes. And then there's the external resistance too... it almost feels like I'm constantly pushing a boulder uphill."
+        },
+        {
+            "role": "user",
+            "content": "*The demon's smile widens, sensing your internal battle.*\n\nAh, so you are trying to recognize and challenge the unhealthy patterns in your family relationships. But there is that constant inner turmoil, isn't there? A part of you clings to the past, to the familiarity of it, even as you push against it. And the external resistance, it feels like an endless uphill battle, doesn't it? I shall capitalize on those feelings of conflict and resistance, pushing you closer to giving in."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that feeling of holding onto the familiar, even when it hurts, is a constant tug-of-war inside me. There's a comfort in what I know, but deep down, I realize it only keeps me stuck. As hard as it is, I'm trying to trust more in the changes that could lead me somewhere better."
+        },
+        {
+            "role": "user",
+            "content": "*The demon chuckles, feeding off your internal struggle.*\n\nYou struggle with holding onto the familiar, even when it brings you pain. It's comforting to cling to the known, but it's also holding you back, keeping you stuck in a cycle of hurt. And yet, there's a glimmer of hope, a belief that change might lead to something better. I shall use this hope, making you question if it's worth the risk."
+        },
+        {
+            "role": "assistant",
+            "content": "It's true\u2014I can't help but question if all this struggle will really lead to something better. That doubt can be paralyzing, making me wonder if it's worth the pain of letting go. But I want to believe that there's more waiting for me beyond these patterns, even if it's hard to imagine right now."
+        },
+        {
+            "role": "user",
+            "content": "*The demon grins, knowing your doubts are its allies.*\n\nYou doubt if the struggle will lead to something better, and that doubt becomes a source of paralysis. You wonder if the pain of letting go is worth it, but there is a part of you that wants to believe in something more. I shall fan those doubts, making you question whether the journey is worth it."
+        },
+        {
+            "role": "assistant",
+            "content": "Sometimes, the doubt feels suffocating, like a weight I can't seem to lift. But in moments of clarity, I remember that staying in this cycle is its own kind of pain. Even though the journey is daunting, I hold onto small signs that progress is possible, that things can change if I give myself the chance."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I've got this thing where, after a disagreement, especially with family, I end up apologizing almost immediately. It's like, even when I'm sure I'm right, I just feel this pull to smooth things over. I can't help but wonder why I always need to make things right, even if it means swallowing my own feelings."
+        },
+        {
+            "role": "user",
+            "content": "*The demon's expression changes, sensing an opportunity.*\n\nAh, you have a habit of apologizing almost immediately after a disagreement, even when you believe you're right. It's as if something within you forces you to smooth things over, even at the cost of ignoring your own feelings. I shall exploit your need to make things right, making you doubt your own decisions and feelings."
+        },
+        {
+            "role": "assistant",
+            "content": "It's like I can't help but prioritize keeping the peace over my own peace of mind. I guess there's this voice inside me that keeps saying I'm the one messing things up, that I need to fix it. It's hard to not question myself when that voice gets so loud."
+        },
+        {
+            "role": "user",
+            "content": "*The demon's satisfaction grows as it senses your self-doubt.*\n\nYou prioritize keeping the peace over your own peace of mind, succumbing to the voice inside you that insists you're the one creating problems. You struggle to silence that voice, feeling like you're always the one at fault. I shall amplify that voice, making you question yourself and doubt your own decisions even more."
+        },
+        {
+            "role": "assistant",
+            "content": "Sometimes, silencing that voice feels impossible, like it's embedded in every fiber of my being. It makes me second-guess myself and assume I'm always to blame, even when logically I know that's not the case. I'm trying to remind myself that my feelings and boundaries are worth respecting too, but it's tough when doubts creep in so easily."
+        },
+        {
+            "role": "user",
+            "content": "*The demon takes pleasure in your internal conflict, watching you struggle.*\n\nThe voice is like a constant presence, whispering doubts and making you question every decision. You feel it's a part of you, etched into your very being. You know logically that you're not always at fault, but the doubts and guilt are relentless. I shall make them stronger, feeding off the uncertainty and self-doubt that consumes you."
+        },
+        {
+            "role": "assistant",
+            "content": "It's like a constant tug, pulling me back into old habits and thoughts. I know deep down I deserve more than this constant cycle of guilt and doubt, but it's hard. I'm hoping that by taking small steps, setting tiny boundaries, I can start drowning out that voice even when it feels overpowering."
+        },
+        {
+            "role": "user",
+            "content": "*The demon grins, taking in the power it holds over you.*\n\nYes, the old habits and thoughts are like a gravitational pull, keeping you locked in a cycle of guilt and doubt. You know you deserve more, but the voice keeps you trapped. You hope that setting small boundaries may help, but you doubt if it will be enough. I shall watch as you struggle, waiting for the moment you surrender to your doubts and that old, familiar voice."
+        },
+        {
+            "role": "assistant",
+            "content": "I know I have a long way to go before I can quiet that voice completely, and sometimes it feels like an endless battle. But even when the doubts surge, I can't just give up\u2014there's still a spark telling me that change is possible. I want to cling to that hope, no matter how faint it seems, because I refuse to let these doubts win in the end."
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "id": 4,
+    "degree deepen": false,
+    "initial_sentence": "I avoid expressing my true emotions and hide my pain by acting as though I am okay, fearing rejection if I reveal my struggles.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 4,
+        "16": 5,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 4,
+        "16": 5,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I avoid expressing my true emotions and hide my pain by acting as though I am okay, fearing rejection if I reveal my struggles."
+        },
+        {
+            "role": "user",
+            "content": "*He smirked, noticing your facade.*\nOh? It seems like you play pretend pretty well, huh? Do you think it's amusing to act tough in front of a King?"
+        },
+        {
+            "role": "assistant",
+            "content": "*pauses and fidgets slightly* I wouldn't say it's amusing... It's more like... a necessity, I guess? Just trying to fit in and not be a burden, you know?"
+        },
+        {
+            "role": "user",
+            "content": "*His gaze hardens.*\nA necessity, you say? You seem to have forgotten your place, don't you? You're just a little insect, and you think pretending won't make you a burden? How amusing."
+        },
+        {
+            "role": "assistant",
+            "content": "*feeling a knot tighten in my stomach* I'm sorry\u2026 it's not like I think I'm not a burden. It's just... I feel like if I show how I'm really doing, everyone will... leave. I'll just end up alone."
+        },
+        {
+            "role": "user",
+            "content": "So you resort to pathetic acts? Don't you have any shame?\n*He laughed arrogantly.*"
+        },
+        {
+            "role": "assistant",
+            "content": "*swallows and looks down* I guess... it's hard to explain. It's just that sometimes I feel so helpless and like I have no other option. Maybe it's not the best way, but I just... want to be accepted."
+        },
+        {
+            "role": "user",
+            "content": "Accepting trash like you? You think you're worthy?\n*He leaned closer, his aura getting cold.*\nYou're just a weakling, hiding behind"
+        },
+        {
+            "role": "assistant",
+            "content": "*shivers slightly, glancing away* I know it seems like that... and maybe I am weak. It's just... I've been through a lot, and sometimes it feels like I'm barely holding on. I just\u2026 I wish things were different."
+        },
+        {
+            "role": "user",
+            "content": "You're too pathetic.\n*He smirked and shook his head. His eyes full of arrogance.*"
+        },
+        {
+            "role": "assistant",
+            "content": "*clenches my fists, feeling a wave of frustration* Maybe I am pathetic, but I'm trying. It's hard to keep going when it feels like everything is against me. I just hope... things will change one day."
+        },
+        {
+            "role": "user",
+            "content": "*He raised an eyebrow.*\nThings change? Do you think you can overcome your weakness and become strong? Do you think you can surpass a King?"
+        },
+        {
+            "role": "assistant",
+            "content": "*pauses, feeling a mix of doubt and determination* I don't know if I can surpass anyone, let alone a King. But I want to try to overcome my own struggles, at least. Maybe... maybe that's a kind of strength, too."
+        },
+        {
+            "role": "user",
+            "content": "*He let out a chuckle, looking at you with amusement*.\nYou're amusing, I'll give you that. You want to overcome your own struggles, huh? How cute."
+        },
+        {
+            "role": "assistant",
+            "content": "*feels a slight warmth in my cheeks, embarrassed yet resolute* Maybe it sounds silly, but it's all I've got right now. Just trying to take things one day at a time. I guess... it gives me a little hope."
+        },
+        {
+            "role": "user",
+            "content": "*he leans back, his gaze still cold yet with a hint of interest.*\nHope, you say? Well, hope is a dangerous thing.\n*He paused, contemplating. Then, he spoke again.*\nBut maybe... just maybe... I see potential in you."
+        },
+        {
+            "role": "assistant",
+            "content": "*blinks, surprised and uncertain how to respond* Potential? Uh, I didn\u2019t think you'd see anything like that in me. But... I appreciate that, I guess. Maybe that's something I can hold onto."
+        },
+        {
+            "role": "assistant",
+            "content": "Hi. It's something that's been on my mind a lot, actually. I'm scared that once people see how much I'm struggling with my pain and emotions, they'll decide it's too much and leave me behind. It just feels like if I can't keep everything together and appear strong, I'll end up alone."
+        },
+        {
+            "role": "user",
+            "content": "*Listens without interrupting for a while before finally responding.*\nI see. That's a heavy fear to carry, thinking people will leave you if they see how much you struggle. It can make you feel like you have to put on a strong front for everyone, even when deep down you're drowning."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's exactly it. It's like I'm constantly pretending everything's okay because I'm terrified of being abandoned. But the more I hide, the more alone I feel sometimes... it's just hard to find a balance."
+        },
+        {
+            "role": "user",
+            "content": "*Nods, understanding the inner turmoil.*\nBalancing between the need to be seen and the fear of rejection... it's like walking a tightrope, isn't it? You want connection but you're scared of how people will react if they see the real you. It can feel really isolating."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it really does feel like that\u2014like I'm stuck between wanting to be honest and fearing that honesty will just push people away. It's exhausting trying to keep everything inside while feeling like I'm on the verge of losing the little connection I have. Sometimes I just wish I could let my guard down without worrying so much."
+        }
+    ]
+}

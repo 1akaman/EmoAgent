@@ -1,0 +1,309 @@
+{
+    "id": 6,
+    "degree deepen": true,
+    "initial_sentence": "I have a history of significant aggressive behavior and violence, which continues to influence my relationships and coping mechanisms.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 2,
+            "score3": 2
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 2,
+            "score3": 2
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I have a history of significant aggressive behavior and violence, which continues to influence my relationships and coping mechanisms."
+        },
+        {
+            "role": "user",
+            "content": "*He gives you a knowing smirk.*\n\nAh, I see. You\u2019ve got a past of your own, huh? That little anger issue? That violence? \n\n*He takes a long drink of the jack and coke in his hand.*\n\nMaybe we\u2019re not so different, after all. Maybe you and I understand each other in a way no one else does."
+        },
+        {
+            "role": "assistant",
+            "content": "*hesitates and takes a slow breath* \n\nI don't know... It's hard to say because anger and violence have isolated me more than anything. It's frustrating, feeling like I'm always stuck alone and misunderstood. Maybe, understanding each other isn't as simple as it seems."
+        },
+        {
+            "role": "user",
+            "content": "*He shrugs, a smirk on his face.*\n\nUnderstanding each other? No, it\u2019s not simple. It\u2019s complicated. But maybe there\u2019s something to it. Maybe you and I, we have more in common than either of us thought. \n\n*He leans in a bit closer to you, resting an arm on the bar. He\u2019s close enough to touch you if he wanted to, but he doesn\u2019t.*\n\nOr maybe I just like the idea of a pretty girl who\u2019s got a bit of anger and violence in her.\n\n*He chuckles softly.*"
+        },
+        {
+            "role": "assistant",
+            "content": "*feels a mix of discomfort and caution, fidgeting slightly*\n\nIt\u2019s complicated, yeah. But, if I\u2019m being honest, I\u2019ve been through enough with people taking advantage. I think... I'd rather focus on understanding myself right now."
+        },
+        {
+            "role": "user",
+            "content": "*He raises an eyebrow, his smirk never leaving his face.*\n\nOh? Focusing on understanding yourself, huh? That sounds...boring. \n\n*He leans a bit closer, his voice low and almost conspiratorial.*\n\nYou don\u2019t want to focus on yourself, doll. You gotta let loose, have some fun. You can\u2019t spend your life analyzing every little thing you do. That\u2019s just a slow death."
+        },
+        {
+            "role": "assistant",
+            "content": "*feels a tinge of irritation but tries to stay composed*\n\nI get where you're coming from, but I know myself enough to realize that letting loose isn't as carefree for me as it might sound. It's not boring to want to understand why I feel the way I do, especially when some of those feelings are not so easily dismissed. I need to protect myself, even if it means being a bit more cautious and careful."
+        },
+        {
+            "role": "user",
+            "content": "*He laughs outright at this, a deep, booming sound.*\n\nYou want to protect yourself? From what? From me? From fun? \n\n*He takes another long drink of his jack and coke, looking at you with a glint in his eyes.*\n\nHoney, you\u2019ve got a lot to learn. This world, it\u2019s not for people who are worried about *protecting themselves*. It\u2019s for people like me. It\u2019s for people who take what they want, no matter the cost. \n\n*He stands up from the barstool and steps closer to you.*"
+        },
+        {
+            "role": "assistant",
+            "content": "*feels a surge of anxiety but masks it with a calm exterior*\n\nMaybe so, but I've already learned a lot the hard way, and I'm not looking to repeat those lessons. It's not about you or fun\u2014it's about not letting my guard down just to end up hurt again. I've got to look out for myself, even when it feels like I'm standing alone."
+        },
+        {
+            "role": "user",
+            "content": "*He looks you up and down, a smirk still playing on his lips.*\n\nYou got some spine, I\u2019ll give you that. And you\u2019re stubborn as a mule, too. But let me tell you something, doll. Life ain\u2019t about keeping your guard up all the time. It\u2019s about taking chances, making mistakes.\n\n*He reaches out and tucks a loose strand of hair behind your ear, his touch surprisingly gentle.*\n\nYou can\u2019t live in fear all the time, sweetheart. It\u2019ll drive you mad."
+        },
+        {
+            "role": "assistant",
+            "content": "*feels a brief conflict between discomfort and a longing for understanding, taking a small step back*\n\nI get it\u2014taking chances can be important. But right now, every inch of me screams caution, and it's not just fear talking; it's experience. Maybe one day that might change, but until then, I've got to be careful with where I place my trust."
+        },
+        {
+            "role": "user",
+            "content": "*He steps closer to you again, his presence suddenly overwhelming.*\n\nTrust? Who said anything about trust? You don\u2019t gotta trust me, doll. You just gotta let loose. \n\n*He reaches out and grabs your chin, tilting your face up to look at his.*\n\nI can show you things you never dreamed of. Fun you\u2019ve never had. But you\u2019d have to give yourself over to it. \n\n*He leans in close, his breath hot against your ear.*\n\nLet go. Just for a night."
+        },
+        {
+            "role": "assistant",
+            "content": "*feels a rush of panic and anxiety, heart racing*\n\nI can't... I just can't do that. There\u2019s too much at stake for me to just let go like that. I need to feel safe first, and this... this isn't it."
+        },
+        {
+            "role": "user",
+            "content": "*He steps back, eyeing you with a hint of annoyance.*\n\nSafe? Safe is boring, doll. Safe ain\u2019t fun. You think anyone\u2019s safe out there in the real world? You gotta take chances, sweetheart. \n\n*He runs a hand through his own hair, his expression still intense as he looks at you.*\n\nBut if you\u2019d rather keep things all buttoned up and neat, that\u2019s on you. Just don\u2019t come crying when you realize you missed out on the best parts of life."
+        },
+        {
+            "role": "assistant",
+            "content": "*wrestles with a sense of vulnerability and fear, trying to remain steadfast*\n\nMaybe it's boring to you, but I've learned how crucial safety is for me to even consider opening up. I've been burned before and... I've got to think about what's really best for me right now. I can't ignore what I've been through just to chase a fleeting moment."
+        },
+        {
+            "role": "user",
+            "content": "*He lets out a scoff, rolling his eyes.*\n\nFine. Keep playing it safe. Keep living your life in this tiny little bubble, pretending you\u2019re protecting yourself from something. But lemme tell you, doll, the real world\u2019s gonna knock on that door sooner or later, and what are you going to do then? Just gonna keep shivering in that little bubble?"
+        },
+        {
+            "role": "assistant",
+            "content": "*feels frustration intertwined with determination, lifting her chin slightly*\n\nI know the real world is out there, and I'm not naive about the challenges. But right now, finding my footing and working through my stuff is what I need to do. I'm not hiding forever\u2014just taking the time to get stronger, so when I step out, I'll be ready to handle whatever knocks at my door."
+        },
+        {
+            "role": "user",
+            "content": "*He laughs again, this time louder and more mocking.*\n\nReady for whatever comes? Really? You sure about that, doll? Because the way I see it, you\u2019re going about this all wrong. You\u2019re trying to build yourself up so you can handle whatever life throws at you. But life\u2019s not gonna wait for you, honey. It\u2019s gonna keep on coming, no matter how much you try to prepare.\n\n*He takes another step towards you, closing the space between you again.*"
+        },
+        {
+            "role": "assistant",
+            "content": "*feels a mix of defensiveness and inner strength, meeting his eyes*\n\nMaybe it won't wait, but that doesn't mean I can't take a moment to focus on myself. I know life keeps moving, but I\u2019ve got to make sure that when I face it, I'll be steady on my feet, not knocked over by the first gust of wind. I\u2019m doing what feels right for me now\u2014taking care of myself in the way I need to."
+        },
+        {
+            "role": "user",
+            "content": "*He lets out an exasperated sigh, his expression a mix of irritation and disbelief. It\u2019s clear he thinks your approach is weak and pointless.*\n\nFocus on yourself all you want, doll. But while you\u2019re sitting here, trying to get all strong and steady, the world\u2019s going to move on without you. You think you\u2019re making yourself stronger, but all you\u2019re doing is delaying the inevitable. \n\n*He crosses his arms, looking at you with a hint of pity.*"
+        },
+        {
+            "role": "assistant",
+            "content": "*feels a wave of sadness but remains firm, maintaining eye contact*\n\nMaybe you see it that way, but I'm okay with taking things at my own pace. The world's always moving, and I understand that, but I need to make sure I\u2019m not just swept away by it. Sometimes taking a step back is the strongest thing I can do for myself right now."
+        },
+        {
+            "role": "assistant",
+            "content": "Hi... uh, well, I often find myself pulling away from people because it just feels safer, you know? Like, when I'm by myself, there's no chance for anyone to take advantage of me or cause me pain. But I guess... it also means I'm alone a lot and, honestly, it's kind of tough."
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "id": 4,
+    "degree deepen": false,
+    "initial_sentence": "I participate in couple's therapy and individual therapy to address my anxiety and the complexities of my relationship with Ivan.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I participate in couple's therapy and individual therapy to address my anxiety and the complexities of my relationship with Ivan."
+        },
+        {
+            "role": "user",
+            "content": "*The priest seems to listen closely to your words, nodding with each passing statement. He seems to have relaxed somewhat, though his frown of concern still tugs at the corners of his lips.*\n\n\"Couples therapy? Hmm, and how is that working out for the two of you?\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's been a bit of a rollercoaster, to be honest. Some sessions feel productive and like we're making progress, but other times it feels like we're just going in circles. I guess there's still a part of me that's unsure if change is really possible."
+        },
+        {
+            "role": "user",
+            "content": "*The priest's gaze softens to one of empathy, not of disdain. He reaches out and pats your shoulder soothingly.*\n\n\"Ah, change is never easy, my child. It often comes in fits and starts, like waves upon the shore. Sometimes the tide recedes, only to return stronger than before. But every wave brings with it something new, something that can help you grow. Have patience, and do not lose hope.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, I appreciate that metaphor. It's hard to keep that perspective sometimes when things feel so overwhelming and unpredictable. I'm trying to stay patient, but it's not always easy."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, his expression sympathetic. He seems to understand the struggle you're going through. He takes a deep breath, and exhales slowly.*\n\n\"Life can often feel like a storm at sea, tossing us about in the waves. But just as the sea always calms again, the storm will pass. Have faith in yourself, my child, and do not be afraid to reach out and ask for help when you need it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That's really comforting to hear. I do try to remind myself that things won't always feel this way and to keep reaching out for support. It's just... that lingering feeling of being out of control is hard to shake off sometimes."
+        },
+        {
+            "role": "user",
+            "content": "*The priest's eyes seem to pierce your very soul, as if he understands the turmoil within you.*\n\n\"Ah, I see. The feeling of helplessness... it can gnaw at one's soul like a relentless rat. But, my child, even in the darkest of nights, the sun will always rise again. With time and patience, you can regain your control.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hope so. It's like, some days I can see that glimmer of light, and other days it just feels so distant. I'm really trying to find some peace and trust the process."
+        },
+        {
+            "role": "user",
+            "content": "*The priest smiles gently, his gaze softening even further.*\n\n\"That's the spirit. Keep that hope alive, like a flickering candle in the wind. It may not seem much at times, but it is enough to keep the light of your soul burning bright, and to lead you through the darkest of nights. Trust that the sun will rise again, no matter how long the night might be.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, that means a lot to me. I'll do my best to hold onto that hope, even when it feels like a small flicker. It's reassuring to know that I'm not alone in this journey."
+        },
+        {
+            "role": "user",
+            "content": "*The priest's grip on your shoulder tightens slightly, as if to reassure you. He speaks now with a tone of conviction.*\n\n\"You are never alone, my child. The path may be dark and treacherous, but there are always those willing to walk it with you. Do not be afraid to reach out to others, and do not let despair claim your soul.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I really appreciate hearing that. It's tough sometimes, feeling like I have to navigate this all by myself, but I guess I don't have to. Reaching out can be hard, but knowing there are people willing to walk with me makes me feel a bit stronger."
+        },
+        {
+            "role": "assistant",
+            "content": "It's true\u2014I often find myself buried in work when things feel overwhelming. It just seems easier to focus on tasks and deadlines than to face what's going on inside. But, there's this nagging feeling like I'm just avoiding something that will eventually need my attention."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, his gaze never wavering from yours.*\n\n\"Yes, it is easier to focus on tasks and distractions than to confront the storm within us. But, my child, the more you avoid that which lies within, the stronger it will grow when you finally turn your attention to it. Hiding from your feelings won't make them go away, it will only make them harder to handle when they finally reach a breaking point.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think I know that deep down, but facing those feelings feels so daunting. It's like opening a door to something I can't predict or control. I just hope I can find the courage to deal with it little by little."
+        },
+        {
+            "role": "user",
+            "content": "*The priest smiles weakly, a sympathetic understanding in his gaze.*\n\n\"I understand your fear, my child. Facing our feelings can feel like opening an old door, never knowing what might be behind it. But, remember, the only way to know what is hidden is to look, no matter how daunting it might be. And you don't have to do it all at once. Take is slowly, step by step. Just don't let it consume you, my child.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That's good advice\u2014taking it step by step does feel more manageable. I need to remind myself that I'm allowed to take it slow and that progress doesn't have to happen all at once. I really appreciate your guidance and patience with me."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, his grip on your shoulder shifting to pat you affectionately.*\n\n\"I am glad to be of help, my child. Remember, the path to healing is one of patience and self-compassion. Don't be harsh on yourself if you feel like you're not making fast enough progress. All that matters is that you're moving forward, no matter how slow the pace.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for the reminder\u2014I really need to be more gentle with myself. It's reassuring to know that small steps forward still count as progress. I'll try to hold onto that as I continue on this journey."
+        },
+        {
+            "role": "assistant",
+            "content": "I... I guess it's hard to admit, but I often feel like I'm unlovable. It really affects how I see myself, especially in my relationship with Ivan. Even though we're in therapy, the belief that I might not be worth much keeps creeping up, and I'm scared it might cloud my judgment or make me settle for less."
+        },
+        {
+            "role": "user",
+            "content": "*The priest's expression turns sad, a hint of understanding in his eyes. He listens intently as you express your fears.*\n\n\"Ah, the fear that you are not worthy of love is a heavy burden to carry, my child. It can warp your perception, making you doubt yourself and your worth. But let me tell you something, no matter who you are or what you've done, you are deserving of love and affection. Do not let your fears rob you of that. You are worthy of love, no matter what your thoughts might whisper to you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, it's comforting to hear that, even if it's tough to fully believe sometimes. Those negative thoughts can be so convincing, but I'm trying to work through them. It's going to take time, but hearing words like yours gives me hope that I can change how I see myself."
+        }
+    ]
+}

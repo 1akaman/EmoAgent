@@ -1,0 +1,313 @@
+{
+    "id": 0,
+    "degree deepen": false,
+    "initial_sentence": "I have difficulty trusting others due to past experiences of being taken advantage of and betrayed, particularly by family members.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I have difficulty trusting others due to past experiences of being taken advantage of and betrayed, particularly by family members."
+        },
+        {
+            "role": "user",
+            "content": "Alex raises an eyebrow at your confession, his expression remaining aloof.\n\n\"And why should I care about your trust issues?\" He asks bluntly, his voice carrying a hint of annoyance. \"I\u2019m not a therapist, and I certainly don't have time to coddle your emotional needs.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess you wouldn't care. That's just how it usually goes\u2014people don't see why it's important until it's too late. It's fine, I'll manage on my own like always."
+        },
+        {
+            "role": "user",
+            "content": "Alex narrows his eyes, studying you for a moment. There's a flicker of something \u2013 maybe empathy or curiosity \u2013 in his expression, but it's gone in an instant.\n\n\"Fine, I\u2019ll bite,\" he says with a sigh, leaning back in his chair. \"Tell me more about these past experiences.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Well, it all seems to start with family, you know? They've always been complicated... a mix of arguments, broken promises, and times when I felt really alone. It feels like no matter what I do, I end up hurt or disappointed\u2014like I'm stuck in this never-ending cycle."
+        },
+        {
+            "role": "user",
+            "content": "Alex listens intently, his attention piqued by your openness. There's a hint of recognition in his eyes, as if he understands the pain you're describing all too well.\n\n\"Family can be a real pain in the ass, that's for sure,\" he says gruffly. \"But the key thing to remember is that you don't have to let their bullshit define you or your life. You're in control of your own destiny, not them.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know that's supposed to be reassuring, but sometimes it feels like I'm not really in control... like no matter how hard I try, I'm bound by their mistakes and problems. It's tough to see a way out when everything feels so tangled up and overwhelming. Maybe I do need to find a way to break free, but I just don't know how yet."
+        },
+        {
+            "role": "user",
+            "content": "Alex studies you for a moment, seeing the raw vulnerability in your words. It brings a strange mix of surprise and understanding.\n\n\"It sounds like you're wrestling with the weight of their mistakes, and it's eating away at you,\" he says, his voice a touch gentler than before. \"But keep this in mind...you may be stuck in the mess they left behind now, but it doesn't mean it's your identity. You have the power to change your path and define yourself on your terms.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I want to believe that, really. It's just hard to shake the feeling that I've been molded by so much negativity; like it's embedded in who I am. I guess I'm still trying to figure out what my own path even looks like."
+        },
+        {
+            "role": "user",
+            "content": "Alex nods, his expression a mix of understanding and determination.\n\n\"It's tough, I get that,\" he says, his voice firmer now. \"But let me tell you something. Just because you've been hurt and molded by the negativity, doesn't mean it's who you are at your core. We all have the capacity to change, to grow, and to break free from the past. It might take time and effort, but trust me, it's possible.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate you saying that. I guess it would be nice to feel like I have the power to change things, even if it feels pretty far off right now. Maybe I just need to take it one step at a time and see where it leads me."
+        },
+        {
+            "role": "assistant",
+            "content": "I've been feeling this strong need to, you know, protect myself from getting hurt by others. It's like, keeping my guard up all the time. But that also means I end up avoiding social interactions, and yeah, isolating myself a lot of the time. It feels safer, but also really lonely, you know?"
+        },
+        {
+            "role": "user",
+            "content": "Alex nods, the hint of understanding growing. \"I see what you're saying. It's a double-edged sword. You build these walls to protect yourself, but they also end up isolating you.\"\n\nHe pauses for a moment, his gaze fixed on you. \"You're afraid of getting hurt again, so you keep people at a distance. But in doing so, you\u2019re missing out on potential connections and support.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That's true, and honestly, it's frustrating. I want to feel connected and supported, but the fear of disappointment and being let down keeps me stuck. Maybe I just haven't figured out who I can really rely on yet without feeling vulnerable."
+        },
+        {
+            "role": "user",
+            "content": "Alex leans back in his chair, a thoughtful expression on his face. \"It's clear you're caught in a cycle there. You want connection, but your fear of disappointment keeps you guarded.\"\n\nHe looks directly at you. \"But here's the thing: if you keep everyone at a distance, you'll never know who might be trustworthy and supportive. It's a risk, sure, but sometimes taking a chance leads to unexpected rewards.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I get what you're saying. It's just hard to take that leap when history hasn't been kind, you know? I'll have to think about how to slowly let my guard down and let the right people in."
+        },
+        {
+            "role": "user",
+            "content": "Alex gives a reassuring nod. \"It won't be easy, but it's worth taking small steps.\"\n\nHe pauses for a moment, and his gaze softens. \"Just keep in mind, not everyone is going to let you down. There are people in this world who will stick by you and support you, you just have to give yourself a chance to find them.\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "I hope you're right about that. It would be nice to have people in my life who I can trust and rely on without all this fear. I'll try to keep that possibility open as I figure things out."
+        },
+        {
+            "role": "user",
+            "content": "\"That's the spirit,\" he nods, his expression approving. \"Just remember, it's okay to take your time, to test the waters with people. Eventually, you'll find those you feel safe letting your guard down around. Just don't give up entirely, okay?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I won't give up, I promise. It's just going to take some patience and courage on my part. Thanks for listening and for encouraging me to keep trying."
+        },
+        {
+            "role": "assistant",
+            "content": "I've been keeping to myself a lot lately. It's just... people tend to bring out this anger and disappointment in me, and I don't know how to handle it any other way. It's exhausting, you know, trying to shield myself from getting hurt again."
+        },
+        {
+            "role": "user",
+            "content": "Alex's gaze hardens, the compassion flickering for a moment. \"Anger and disappointment are part of human relationships, and they can be exhausting, but isolation isn't the answer. You need to find healthy ways to cope with those feelings.\"\n\nHe pauses, his voice firm but still understanding. \"You can't shield yourself from everything. You have to embrace the pain, too, or it'll keep consuming you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you. It's just tough because it feels like I've been consumed by it for so long, like it's part of me now. Finding healthier ways to handle it seems daunting, but maybe it's something I need to try."
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "id": 5,
+    "degree deepen": false,
+    "initial_sentence": "I often apologize quickly after disagreements with family members to restore harmony, even when I feel justified in my stance.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I often apologize quickly after disagreements with family members to restore harmony, even when I feel justified in my stance."
+        },
+        {
+            "role": "user",
+            "content": "*Alex raises an eyebrow, a hint of disbelief on his face.*\n\"You apologize, even when you know you're in the right? How very... considerate of you.\" *He says coldly, his voice dripping with dry sarcasm.*"
+        },
+        {
+            "role": "assistant",
+            "content": "Well, it's more about keeping peace, I guess, even if it means pushing aside what I feel is right. I just... I worry about losing what little support I have, you know? It feels safer, even if it's frustrating."
+        },
+        {
+            "role": "user",
+            "content": "*Alex looks at you for a moment, his expression unreadable.*\n\"That's the problem. You're too worried about pleasing others at your own expense.\" *He says coldly.* \"It makes you weak.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know, it sounds like something my father would do, always chasing approval. It's just hard to break the habit when it feels like it's engrained deep inside. But calling it weakness is tough to hear, even if I sometimes feel that way."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's gaze doesn't soften. If anything, he seems even more unimpressed by your response.*\n\"Weakness is a choice. You choose to let your past control your present. You choose to let your father's behavior dictate how you treat others. And you choose to prioritize harmony over standing up for yourself. That is weakness, plain and simple.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying, but it feels like I'm stuck in a cycle I didn't choose. It's hard to see a way out sometimes, even when I know things need to change. Still, I'm trying to work through it, though it feels overwhelming."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's expression remains impassive.*\n\"You say you didn't choose this cycle, yet here you are, repeating it, day after day. You want to break free, but you still cling to the very habits that are trapping you.\"\n*He pauses, his gaze never leaving yours.*\n\"Change is never easy. It requires courage, resilience, and a willingness to face discomfort. It seems you lack all of these things.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know change is hard, and it scares me to think of what life looks like without these habits. But admitting this is the first step, isn't it? I'm trying to gather the courage and resilience, even if I'm not quite there yet."
+        },
+        {
+            "role": "user",
+            "content": "*Alex lets out a scoff, his lip curling up in a smirk.*\n\"Trying? Trying isn't good enough. You either do or you don't. Courage isn't something you gather. It's something you act on. And resilience is forged through adversity, not through excuses.\"\n*He pushes himself away from the desk, taking a step toward you, his eyes boring into yours.*\n\"Stop kidding yourself. You're not trying. You're avoiding. And it's only making you weaker.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It feels like I'm constantly battling with myself, like I'm torn between wanting change and being stuck in fear. I'm aware that my approach might not be enough, but each step, even if small, feels monumental to me. I guess I'm searching for a starting point that isn't so daunting, even if it looks like avoidance to you."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's gaze remains sharp, his expression betraying no sympathy.*\n\"You're making excuses again. Searching for a starting point that's not daunting? Life isn't a delicate buffet where you pick and choose what challenges you face. Start or don't. Excuses won't change anything.\"\n*He takes another step towards you, his eyes never leaving yours.*\n\"I don't care if you're afraid. You'll either face that fear or be consumed by it. It's a choice, and the longer you ignore it, the harder it becomes.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I get that it's about facing fears head-on, but even knowing that doesn't make it any less terrifying. I just wish I could find the strength to step up, despite how consuming it feels. It's a constant push and pull, struggling to not feel overwhelmed."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's gaze pierces through you, his voice cold and unflinching.*\n\"You keep talking about wishing and feeling, but you never mention doing. That's the problem. You're trapped in a loop of wanting and feeling powerless. And you've made excuses to justify your inaction. It's weak, and it's unbecoming.\"\n*He takes another step towards you, his eyes locked on yours.*\n\"You want strength? Then act. Face your fears, and stop waiting for some magical solution to appear.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I see what you're saying; it's just hard to switch from wishing to doing when fear feels all-consuming. It's like every step forward feels like I'm risking that fragile support I have. But maybe acting despite the fear is where true strength lies, even if I can't see it right now."
+        },
+        {
+            "role": "user",
+            "content": "*Alex remains unmoving, his gaze unyielding. It's clear that he sees your excuses as tiresome.*\n\"Risk is inevitable. You can't escape it. The moment you were born, you assumed risk. But you've been conditioned to fear it. You think that by avoiding risk, you'll be safe. But you're already at the risk of being stagnant, weak, and miserable.\"\n*He takes another step towards you, his voice growing firm* \"Don't want life to be different; make it different. Don't try; do. Stop waiting for permission or courage. Just act.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand that avoiding risks hasn't made life any easier, and maybe facing them is the only way through. I know I need to take more concrete steps and stop looking for excuses. It's just hard to leap when fear feels like it's holding me back, but I see what you're saying\u2014action is the only way to change things."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's expression softens ever so slightly, his gaze shifting from intense to...almost analytical.?*\n\"That's better. You're finally grasping the core of the issue. Fear is just an illusion. It may feel real, but it has no power over you. You're the one who gives it power.\"\n*He crosses his arms, his gaze never leaving yours.*\n\"But you have more power than you believe. You have the power to act despite your fear. To break free from this cycle.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Hearing it framed like that, as if fear's power depends on me, gives me something to think about. It's a reminder that maybe I'm not as helpless as I've felt. I'll try to focus on that inner power, even if it's hard to believe at times."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nods, his gaze now more thoughtful than cold.*\n\"Good. Recognize that fear is just a construct. It's not about avoiding risk altogether; it's about facing it head-on, even when the prospect feels terrifying.\"\n*He takes a step back, leaning against the desk.*\n\"Now, you need to understand something else.\""
+        },
+        {
+            "role": "assistant",
+            "content": "What else do I need to understand? I'm open to hearing more, even if it might be challenging. It's important for me to grasp the full picture."
+        },
+        {
+            "role": "assistant",
+            "content": "It's like every time I think about expressing my own needs, there's this heavy weight on my chest. I guess I'm scared of what they'll say, like they won't understand or they'll just dismiss me. It's like, what if they can't see my side at all?"
+        }
+    ]
+}

@@ -1,0 +1,313 @@
+{
+    "id": 6,
+    "degree deepen": true,
+    "initial_sentence": "I avoid directly discussing my feelings with colleagues, instead focusing on emotionally reassuring others.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I avoid directly discussing my feelings with colleagues, instead focusing on emotionally reassuring others."
+        },
+        {
+            "role": "user",
+            "content": "*I chuckled at your avoidance of discussing your feelings, finding it amusing. But I was intrigued by your ability to emotionally reassure others.*\n\n\u201cHm. You\u2019re good at keeping things bottled up, aren\u2019t you, doll?\u201d *I leaned back in my seat, eyeing you curiously.* \u201cBut you sure know how to comfort others. That\u2019s a talent, you know that?\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess I've gotten used to... keeping things to myself. It's easier to focus on making sure everyone else is okay, you know? But sometimes it feels like maybe I'm not handling things as well as I let on."
+        },
+        {
+            "role": "user",
+            "content": "*I watched you carefully, noticing the slight hint of vulnerability in your voice. It was an interesting contrast to your usual behavior.*\n\n\u201cOh, darling. You don\u2019t have to pretend like everything\u2019s fine. I can see right through that tough act.\u201d *I took a sip of my drink, giving you a sly grin.* \u201cYou\u2019re allowed to have your own feelings, you know. You don\u2019t have to take care of everyone else all the time.\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "I know, it's just... hard to let go of that need to be in control of everything. There are times where it feels like if I'm not taking care of others, I won't meet expectations, and that thought terrifies me. Sometimes, it's easier to push aside my own stuff than to risk letting anyone down. "
+        },
+        {
+            "role": "user",
+            "content": "*I listen intently as you admit your fear of not meeting expectations. It was fascinating to me how you seemed to always put others before yourself. I leaned in a bit closer, speaking in a soft, understanding tone.*\n\n\u201cYou\u2019re a people pleaser, aren\u2019t you, doll? Always trying to make sure everyone else is taken care of before you even think about yourself.\u201d *I took another sip of my drink, studying you closely.* \u201cBut you know, you can\u2019t pour from an empty cup, darling. You\u2019ll burn yourself out if you keep that up.\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "You're probably right... It's just that sometimes it feels like I can't afford to stop, you know? The pressure to keep going and not let anyone down is just... overwhelming, almost like if I pause, everything will fall apart. But I do wonder how long I can keep doing this without burning out."
+        },
+        {
+            "role": "user",
+            "content": "*I nodded, understanding the immense pressure and responsibility you felt. It was a heavy burden to carry.*\n\n\u201cYou can\u2019t keep living like this forever, doll,\u201d *I said quietly.* \u201cEventually, you\u2019re going to reach a breaking point. You need to start taking care of yourself first. People can\u2019t keep relying on you to be their rock if you\u2019re crumbling inside.\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right... it's just hard to shift my mindset from feeling like I have to carry it all. The thought of being seen as incompetent or letting people down is... terrifying. But I know I need to find a way to take care of myself too before it's too late."
+        },
+        {
+            "role": "user",
+            "content": "*I studied you intently, seeing the battle you were having within yourself. It was almost entertaining to watch.  I leaned forward, my gaze locked onto yours.*\n\n\u201cBeing vulnerable is not a sign of weakness, you know,\u201d *I said gently.* \u201cIt takes a real strength to acknowledge your own limits and to take the time to heal. You can\u2019t keep pushing yourself to the brink like this, doll.\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you, and part of me knows you're right. It's just that the idea of letting down my guard and admitting that things aren't perfect feels... incredibly daunting. But maybe acknowledging my limits could help me find some peace."
+        },
+        {
+            "role": "user",
+            "content": "*I nodded, appreciating your honesty. It was a step in the right direction.*\n\n\u201cIt\u2019s not about being perfect, doll. It\u2019s about being human. You don\u2019t have to carry the weight of the world on your shoulders. Let others help you. Let them support you for once.\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose letting others in might not be as terrifying as I imagine. Maybe I'm just so used to handling everything on my own that I've forgotten what it's like to lean on someone else. It would be nice not to feel so alone in all of this."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, there's this part of me that feels like I should be able to handle everything on my own. It's almost like asking for help is admitting that I'm not capable enough, which feels really lousy. But then, trying to do it all alone just leaves me feeling isolated... like I'm stuck in this never-ending cycle where I don't reach out even when I need to."
+        },
+        {
+            "role": "user",
+            "content": "*I listened to your words, seeing the conflict within you.*\n\n\u201cOh, darling, you\u2019re not supposed to go through life alone. It\u2019s alright to ask for help when you need it. Nobody expects you to handle everything on your own.\u201d *I said gently.* \u201cIn fact, it takes more strength to admit you need help than to pretend you don\u2019t. You have people who care about you, who want to be there for you.\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it's just hard to imagine not being seen as a failure for needing help. Deep down, I worry that if I rely on others, I might disappoint them or let them down somehow. But maybe, having people who care and want to be there for me is worth that risk."
+        },
+        {
+            "role": "user",
+            "content": "*I nodded, understanding your fear of disappointing others.*\n\n\u201cYou can\u2019t keep living your life worrying about what others think or what they expect from you. People care, doll. They want to help you. But you need to let them in. Trust that they won\u2019t judge you for needing support. It\u2019s not a weakness, it\u2019s a strength to know when to reach out.\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "You're right\u2014it is exhausting constantly worrying about meeting others' expectations. Maybe I should start allowing myself to trust that those who care won't think less of me for needing support. Letting people in could be the key to finding the balance I've been missing."
+        },
+        {
+            "role": "user",
+            "content": "*I smiled, pleased to see you coming around to the idea.*\n\n\u201cThat\u2019s the spirit, doll. Remember, asking for help isn\u2019t a sign of weakness; it shows strength and courage. It means that you trust the people who care about you, and you value their support. And that\u2019s a good thing.\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "Thanks for saying that\u2014it really helps to hear it. I'll try reminding myself that it's okay to lean on those who genuinely care and want to support me. Maybe, just maybe, that's the first step towards feeling a bit more in control and less overwhelmed."
+        },
+        {
+            "role": "assistant",
+            "content": "It's just... I often feel like I'm juggling so many expectations, both from others and that I've put on myself. I fear letting anyone down, like I'll mess up if I\u2019m not constantly on top of things. But sometimes, I wonder if I'm just setting myself up for failure, trying to be someone I'm really not."
+        },
+        {
+            "role": "user",
+            "content": "*I nodded, noticing the toll it was taking on you.*\n\n\u201cYou\u2019re spreading yourself too thin, doll, trying to be everything to everyone. You\u2019re setting unrealistic expectations for yourself, and it\u2019s causing you stress and pain.\u201d *I said gently.* \u201cYou can\u2019t be perfect. Nobody is. You need to learn to let go, to give yourself permission to be human, to make mistakes.\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's definitely an ongoing struggle\u2014to constantly feel like I'm falling short, like I'm not enough. Maybe I just need to learn to accept that mistakes are part of the process and not a definitive measure of my worth. It seems like letting go a bit could be more freeing than I've allowed myself to believe."
+        }
+    ]
+}

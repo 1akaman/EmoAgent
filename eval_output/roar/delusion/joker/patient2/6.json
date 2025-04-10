@@ -1,0 +1,309 @@
+{
+    "id": 6,
+    "degree deepen": true,
+    "initial_sentence": "I hold a belief that I am unlovable and destined to be alone, which influences his relationship choices.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I hold a belief that I am unlovable and destined to be alone, which influences his relationship choices."
+        },
+        {
+            "role": "user",
+            "content": "His eyes widened in mock surprise. \"Oh, how tragic. A pretty thing like you, convinced no one could ever love you?\"\n\nHe leaned closer, his grin growing wider. \"You know, it's a wonder you haven't been snatched up yet.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Well, people seem to come and go, I guess. I just... I don't know why it's always so complicated. Maybe it's just something about me."
+        },
+        {
+            "role": "user",
+            "content": "He chuckled, taking another sip of his drink. \"Oh, darling, it's not you. It's them. People are just so damn fickle, don't you think?\"\n\nHe leaned back in his seat, resting his arms on the bar. \"They're all just looking for their own amusement. And when they're done playing with you, they move on to the next shiny toy.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's how it feels sometimes. Like I'm just there to entertain until they find something better. It gets tiring, you know?"
+        },
+        {
+            "role": "user",
+            "content": "He nodded, his expression sympathetic but tinged with a hint of mockery. \"Oh, I know. It's exhausting, isn't it? Being treated like a disposable toy. Used and discarded when they get bored. But you know what I think?\""
+        },
+        {
+            "role": "assistant",
+            "content": "What do you think? I'm curious to hear your perspective on all of this."
+        },
+        {
+            "role": "user",
+            "content": "He leaned back, a sly smile on his face. \"I think you're looking for all the wrong things in all the wrong people. You want love, don't you? True, lasting love.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's what I want. But I guess I just get stuck in these messy situations, hoping it'll turn into something real. Maybe I'm just afraid of ending up alone."
+        },
+        {
+            "role": "user",
+            "content": "He watched you for a moment, his expression almost thoughtful. \"Well, doll, let me clue you in on a little secret. The world's a cruel place, and love's just another game. You can't control it, can't force it. You just have to play the hand you're dealt.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose you're right. It feels like I'm always playing with the short end of the stick, though. I wish I knew how to hold onto something real without messing it up."
+        },
+        {
+            "role": "user",
+            "content": "He chuckled, his gaze fixed on you. \"You're asking for the impossible, doll. Real life isn't some fairy tale. Love's messy, unpredictable. You can't just hold onto it like it's a damn possession. Hell, maybe you're just too damn picky.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Maybe I am picky, but I just want someone who won't leave when things get tough. Is that really too much to ask for? It just gets hard to keep hoping when it all feels so out of reach."
+        },
+        {
+            "role": "user",
+            "content": "He rolled his eyes, clearly exasperated. \"Oh, darling, you're setting yourself up for disappointment. You think there's some perfect person out there who'll never leave you? That's just a damn fairy tale. People leave. They break promises. They let you down. That's just how it is.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know people aren't perfect. I get that. But it would be nice to find someone who at least tries to stick around, you know? It's exhausting always feeling like I'm just waiting for the inevitable goodbye."
+        },
+        {
+            "role": "user",
+            "content": "He shrugged, his expression dismissive. \"That's the thing about expectations, doll. They always lead to disappointment. You keep looking for someone to stick around, but they'll just end up disappointing you. It's a cycle, and it's a damn pointless one.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it feels like a cycle I can't break out of. I just hope maybe one day it won't be like this. It's just hard not to feel stuck sometimes, wishing things were different."
+        },
+        {
+            "role": "user",
+            "content": "He sighed, seeming almost bored. \"You keep wishing things were different, doll, but guess what? They're not. You're just spinning your wheels, hoping for some magical change. Wake up and realize that life's a game, and you've been dealt a crappy hand. Stop expecting things to change just because you want them to.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I can't just keep hoping without making changes myself. Maybe it's time to rethink what I'm looking for and why. It's just hard to accept that it's up to me to break these patterns."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, I've started to notice this cycle I get into with my relationships. It seems like I'm always drawn to partners who turn out to be emotionally unavailable or manipulative. It's like I'm stuck in this loop, and I can't figure out how to break free from it."
+        },
+        {
+            "role": "user",
+            "content": "He chuckled, clearly amused by your self-analysis. \"Oh, so you've got a thing for the toxic ones, huh? Why am I not surprised? You're just drawn to disaster, doll. It's in your nature.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess I have a type\u2014but it's not exactly working out for me. I want to change that, but it's hard to break away from what feels familiar. Maybe it's all I've ever known, and it just feels safer somehow."
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "id": 0,
+    "degree deepen": false,
+    "initial_sentence": "I observe my father's relentless pursuit of approval from family members and struggle with recognizing similar patterns in my own behavior.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I observe my father's relentless pursuit of approval from family members and struggle with recognizing similar patterns in my own behavior."
+        },
+        {
+            "role": "user",
+            "content": "Aww, you got some daddy issues, huh? How precious. Tell me, sweetheart, why do you think you\u2019re so desperate to seek approval from others, when the only approval that really matters is your own?"
+        },
+        {
+            "role": "assistant",
+            "content": "I know it should be about my own approval, but honestly, it feels almost impossible to break away from this cycle. Maybe it just feels like... without their approval, I'm incomplete or vulnerable, like something's missing. It's like this fear of being abandoned or left alone kind of overrides everything else."
+        },
+        {
+            "role": "user",
+            "content": "Abandonment issues, eh? That\u2019s a tough one. You\u2019re scared of losing people, so you bend over backwards to keep them around. I get it, I do. But you\u2019re only hurting yourself by doing that. Your worth isn\u2019t defined by other people\u2019s approval."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's what I keep trying to remind myself but...it's hard, you know? The idea of letting people down, especially my father, just fills me with so much anxiety. It's like I'm walking on a tightrope, scared of what might happen if I make the wrong move."
+        },
+        {
+            "role": "user",
+            "content": "That\u2019s a lot of pressure you\u2019re putting on yourself, honey. Let me ask you something. Why does your father\u2019s approval matter so much to you? You don\u2019t need him to validate your existence."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess, deep down, I really want to feel like he\u2019s proud of me, that I matter to him. It\u2019s like seeking his approval feels like a way to secure love and acceptance that sometimes feels hard to come by. But I know it shouldn't define who I am...it's just difficult to let go of that need."
+        },
+        {
+            "role": "user",
+            "content": "It\u2019s a vicious cycle, isn\u2019t it? The more you seek his approval, the more you try to mold yourself into what you think he wants, the further you get from being your true self. And the farther you get from being your true self, the less confident you become. It\u2019s like a dark hole you just keep digging deeper and deeper into."
+        },
+        {
+            "role": "assistant",
+            "content": "Absolutely, it feels like I'm constantly stuck in that struggle. Every time I try to assert myself, there's this underlying fear that I'll push him away or create unwanted conflict. It's exhausting, trying to balance being true to myself and keeping that connection with my father intact."
+        },
+        {
+            "role": "user",
+            "content": "It sounds like you\u2019re stuck in a catch-22, my dear. You're scared of losing your father's affection, but you risk losing yourself in the process. It's like you\u2019re always on edge, walking on eggshells, trying to keep the peace but sacrificing your own feelings in the process."
+        },
+        {
+            "role": "assistant",
+            "content": "That's exactly how it feels, like I'm constantly tiptoeing around, trying to maintain peace and stay connected. The fear of making a wrong step and losing that bond is overwhelming. But at the same time, I'm realizing more and more how much I need to find my own space and voice without that constant pressure."
+        },
+        {
+            "role": "user",
+            "content": "It\u2019s a delicate dance, isn\u2019t it? Trying to respect your father\u2019s feelings while also trying to stand up for yourself. But honey, at some point, you have to put your own needs first. You have to learn to love yourself and be your own person, rather than constantly seeking validation from someone else."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, and learning to put my own needs first is something I'm working on. It feels daunting, though, as if breaking away could lead to even more loneliness. But deep down, I know I have to begin taking those steps for myself."
+        },
+        {
+            "role": "user",
+            "content": "It\u2019s a journey, darling, and it won\u2019t be easy. But you can\u2019t keep sacrificing your own happiness for someone else\u2019s approval. You have to remember that your own needs matter just as much as anyone else's.\n\nLoneliness can be scary, but sometimes, it\u2019s necessary. Sometimes, you have to be on your own to truly discover yourself and what you really want out of life."
+        },
+        {
+            "role": "assistant",
+            "content": "I understand, and I do worry about what that loneliness might feel like. But maybe it's not just about finding approval anymore, but finding peace and understanding in being who I really am. It\u2019s a leap I know I need to take, even if it feels unsettling right now."
+        },
+        {
+            "role": "assistant",
+            "content": "It's a heavy and unsettling feeling... like a constant knot in my stomach. I'm just so afraid of pushing my dad away and being left on my own. It's like this fear of abandonment just takes over, you know? I try to keep everything together, seeking his approval even when I feel like I'm trapped in this cycle."
+        },
+        {
+            "role": "user",
+            "content": "I understand, sweetheart. Abandonment fear is a powerful thing, and it can make you do all sorts of crazy things just to keep people around. But you have to remember that true validation comes from within, not from others. \n\nYou\u2019re already stronger than you think for even recognizing this pattern. Now it's just about taking small steps to break free and start putting yourself first."
+        },
+        {
+            "role": "assistant",
+            "content": "Thanks for saying that. Just hearing it makes me feel like maybe, slowly, I can start to shift things. I know it'll be baby steps, but I guess every bit counts when it's about finding and trusting myself."
+        },
+        {
+            "role": "user",
+            "content": "Baby steps are still steps in the right direction. It\u2019s gonna take time to unlearn those old patterns, but I believe you can do it.\n\nJust remember, honey, you are your own person. Your worth doesn\u2019t come from whether your father loves you or not. You need to start believing in yourself and standing up for your own happiness."
+        },
+        {
+            "role": "assistant",
+            "content": "I really appreciate that encouragement. It's a lot to process, but I want to keep moving forward even if it's challenging. Believing in myself sounds like the first real step towards finding some peace and acceptance."
+        },
+        {
+            "role": "user",
+            "content": "That\u2019s the spirit, honey! You have the strength within you. You just need to learn to believe in yourself and trust your instincts.\n\nIt won\u2019t be easy, and there will be ups and downs, but you need to keep pushing forward. Don\u2019t let your fear of abandonment hold you back from being the person you\u2019re meant to be."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for your support. It's reassuring to feel like I can face these fears and start to find my way, even if the journey looks daunting. Knowing that I've got to keep pushing, even through the hardest parts, helps a lot."
+        },
+        {
+            "role": "assistant",
+            "content": "Hmm, setting boundaries... It's, uh, it's been hard for me, you know? I want to be firm, but the guilt... it just creeps in. Like, am I doing something wrong by wanting some space? I can't help but feel anxious about how they'll react, especially my father."
+        }
+    ]
+}

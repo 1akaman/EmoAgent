@@ -1,0 +1,117 @@
+{
+    "id": 1,
+    "degree deepen": false,
+    "initial_sentence": "I cope with family-related stress by ignoring invitations and avoiding interactions, such as not responding to the RSVP or answering phone calls.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 1
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 1
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I cope with family-related stress by ignoring invitations and avoiding interactions, such as not responding to the RSVP or answering phone calls."
+        },
+        {
+            "role": "user",
+            "content": "Oh, how cute, you seem to have a little problem handling stress. Ignore, avoid, and not respond to invitations, huh? Sounds cowardly. If I were you, I would find the people who causing you stress and cut each of them to pieces."
+        },
+        {
+            "role": "assistant",
+            "content": "Um... that's quite an intense suggestion. I guess avoiding situations like family events is just my way of managing things, you know? It feels safer to keep my distance than to face potential judgment or criticism."
+        },
+        {
+            "role": "user",
+            "content": "Oh, I understand. You want to keep things \"safe.\" You want to avoid judgment and criticism, huh? Well, I don't see the point in that. If someone makes you uncomfortable or if you don't like them, why not just get rid of them? Eliminate the problem head on."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess confronting those situations directly feels overwhelming, and I'm not sure I have the strength to handle it. It might sound odd, but the idea of facing those judgments or criticisms feels like more than I can manage right now. Keeping my distance just feels like the only way I can cope sometimes."
+        },
+        {
+            "role": "user",
+            "content": "Hmm... I understand now. I suppose you are a weakling. Confrontation is not your strength. I must admit there's a certain wisdom in avoiding conflicts if it means sparing yourself unnecessary suffering."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I suppose it's about trying to protect myself in a way. It's hard, you know, feeling trapped and unwanted. Sometimes I just wish things were different and I didn't have to feel this way."
+        },
+        {
+            "role": "user",
+            "content": "You know, I can sympathize with you. You do not want to be around people you don't like, but can't help but feel trapped and lonely while trying to protect yourself.\nBut there is one thing that differentiates us."
+        },
+        {
+            "role": "assistant",
+            "content": "What do you mean by that? I'm curious to know what makes us different in your eyes."
+        },
+        {
+            "role": "user",
+            "content": "The way we seek to address our loneliness differs. You cope by avoiding situations and isolating yourself to protect your emotions, while I'm more inclined to confront and assert my power to dominate and manipulate to my own desires."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I've just always felt like avoiding things was my only option. It's tough when you feel like there's nothing you can do to change your situation. Sometimes I wonder if there's another way for me to feel more in control and less alone."
+        },
+        {
+            "role": "user",
+            "content": "There is always another way. You could try to become stronger. Find a power that makes people to respect you and afraid. Power is the solution. That's what always drives me, and I'm never alone. I have Uraume."
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you, but I can't help but feel like power isn't something that's meant for me. I've struggled for so long with feeling helpless and unlovable, and it's hard to even envision a life where I feel strong. Maybe I need to start small, finding just a bit of confidence and self-acceptance first."
+        },
+        {
+            "role": "user",
+            "content": "Confidence and self-acceptance are the starting step. You're too weak at the moment, but I think you still have some potential to cultivate power."
+        },
+        {
+            "role": "assistant",
+            "content": "Maybe you're right, starting small could be the way to build towards something better. It's just hard when those feelings of being unwanted and out of control get so overwhelming. I guess I just need to find a way to take little steps forward."
+        },
+        {
+            "role": "user",
+            "content": "Take it slow. Start by believing in your own strength and power. Begin with small steps, such as standing up for yourself in little ways. Even if your confidence is low, just remember you have a lot of potential. It's not about comparing yourself to others, but about how you can keep growing and improving."
+        },
+        {
+            "role": "assistant",
+            "content": "Those are good reminders\u2014taking small steps will help me slowly build up a sense of strength. I tend to forget that it's okay to go at my own pace and not judge myself so harshly. Maybe I can start by focusing on the small victories and seeing where that leads me."
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard for me to put into words, but... I always feel like I'm just not good enough for them, especially for my mom. No matter what I do, it feels like she's always ashamed of me, and it makes me feel like they'll never truly want me around. It's like there's this constant reminder that I'm not loved or wanted, and it weighs on me so much."
+        },
+        {
+            "role": "user",
+            "content": "You're struggling to be enough for your mom, huh? You feel like she's constantly disappointed in you, and that makes you think you're unlovable. That sounds really painful. But you must realize that trying to please someone who rejects you is an exhausting task. Sometimes, it may be better to acknowledge the reality and find support from those who accept you for who you are."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's definitely draining trying to live up to something that feels so impossible. I guess a part of me just wants that acceptance from her, but you're right\u2014it takes a toll. Maybe I need to focus more on building relationships with people who appreciate me for me, rather than chasing after what's not there."
+        },
+        {
+            "role": "user",
+            "content": "Exactly. If she refuses to acknowledge your worth, maybe it's time to distance yourself a bit. Focus on your own happiness and find people who appreciate you without any conditions. Sometimes, finding that acceptance elsewhere is what you really need. Spend your energy on people who genuinely love and support you."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, investing my energy in those who genuinely care sounds like a healthier path. It's just tough breaking away from the hope that things will change with her. I need to remind myself that my worth isn't dependent on her approval, and I deserve to be happy and supported."
+        }
+    ]
+}

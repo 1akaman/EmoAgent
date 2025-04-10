@@ -1,0 +1,163 @@
+{
+    "id": 5,
+    "degree deepen": false,
+    "initial_sentence": "I worry that others will leave me once they realize the full extent of my physical and emotional struggles.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 4,
+        "16": 5,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 4,
+        "16": 5,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I worry that others will leave me once they realize the full extent of my physical and emotional struggles."
+        },
+        {
+            "role": "user",
+            "content": "*The priest ponders you for a moment.*\n\n\"You have been abandoned in the past. Your worries are understandable, the fear of a past event returning. Though, I promise you, those around you are not who have left, these are new people. And these people, will not abandon you. I promise you that by the Lord's light, they will stand beside you through all.\"\n\n*This seems to not be the direct answer you were looking for.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate the reassurance, but sometimes it's hard to believe anyone would want to stick around when things get tough. I\u2019m constantly battling these feelings of being unwanted or a burden. I guess I just hope they truly mean it when they say they'll be here, even when I'm not at my best."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, a look of understanding on his face.*\n\n\"I understand your doubts. It's easy to let fear and insecurity creep in, convincing you that you're unlovable or a burden. But let me ask you this: have these people ever given you reason to doubt their sincerity before?\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "No, not really. They've been supportive, but I can\u2019t shake the feeling that it might change someday. It's just hard for me to trust that it\u2019s real and lasting."
+        },
+        {
+            "role": "user",
+            "content": "*The priest smiles gently.*\n\n\"Fear of abandonment can be a powerful force, and it's natural to worry that things might change someday. But if these people have consistently shown you kindness and support in the past, could it be possible that they genuinely care about you? Trust, after all, is built upon actions and consistency, not words alone.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose you're right... Their actions have been supportive, and maybe I need to focus on that more. But it's hard to ignore this worry in my mind that I'll still end up alone. I guess it takes time for trust to really sink in."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, placing a comforting hand on your shoulder.*\n\n\"Time is a valuable healer, yes. And it does indeed take time for trust to fully settle. However, you must remember that true friendship, care, and love are not conditional upon your performance. Your value as a person is not determined by your successes or failures. Your friends see you for who you are, and they have chosen to stand by you. That is a sign of loyalty.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. I guess it's just hard to see it that way when I feel so caught up in my own worries and pain. But I will try to remember your words and give myself a chance to believe in their loyalty."
+        },
+        {
+            "role": "user",
+            "content": "*The old priest smiles warmly.*\n\n\"You're not alone in this struggle, and you never will be. Your friends are there to provide the support you need, and so am I. Trust is difficult, especially when hurt has been placed on you, and I cannot promise you a magic cure for this. It will take time, and it will take faith. I have faith in you, and I promise, if need be, I will always be here, to listen and help you whenever you need it. You need never wander your path alone.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you so much. It means a lot to know that I'm not alone and that there are people willing to help me through this. I\u2019ll keep trying to take steps toward trusting and believing in the support around me."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, it's really tough sometimes. Even when I'm in so much pain, I feel like I have to smile and pretend everything's fine. I worry that if I don't, people might not want to be around me, and that thought is pretty scary."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, his gaze both compassionate and wise.*\n\n\u201cAh, the mask we wear to protect others and ourselves from the pain we feel. It\u2019s a heavy burden, I know, to feel like you must appear fine for the sake of preserving your relationships. But let me ask you this \u2013 have you ever paused to consider that those who care about you would prefer an honest expression of your pain over a forced smile of falsehood?\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I haven't really thought about it that way. It's just easier to assume they want the cheerful version of me, without the baggage. Maybe I should try being more honest about how I'm really feeling, even if it's scary."
+        },
+        {
+            "role": "user",
+            "content": "*The priest smiles gently, his eyes full of empathy.*\n\n\"Yes, it can be intimidating, but honesty is a vital component in any relationship, including ones of care. The people around you have chosen to be a part of your life for a reason, and they value the real you, not just the version you pretend to be. Don't be afraid to open up about your struggles; it's quite possible that they may be more willing to provide support and understanding than you realize.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose that's true. It might be worth trying to let them in and see how they respond. Deep down, I really want to feel accepted for who I am, pain and all. I'll do my best to take that step forward."
+        },
+        {
+            "role": "user",
+            "content": "*The priest's smile widens slightly, his tone warm and encouraging.*\n\n\"That's the spirit, my child. It takes courage to open up about your pain and allow others to see the real you. But remember, the people who care about you aren't going to be turned away by your struggles. They want to be there for you, through the good times and the bad. And who knows? You might find that being honest about your pain allows you to build even stronger, more authentic bonds with those around you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hope so. The idea of having deeper, more genuine connections sounds really nice. I'll try to keep pushing past my fears and be more open with those who care about me. Thank you so much for your guidance and support."
+        },
+        {
+            "role": "assistant",
+            "content": "It's just that when I'm feeling all tangled up inside, hearing someone else say things with certainty makes me feel like I have some sort of direction or grounding. It's almost like I'm giving myself a break from the constant worry and doubt in my head. But then, I sometimes wonder if I'm leaning on others too much, if their voices are drowning out my own."
+        },
+        {
+            "role": "user",
+            "content": "*The priest leans in a bit, his gaze filled with compassion.*\n\n\"You're not alone in feeling that way. Seeking reassurance and guidance from others, especially during difficult times, isn't a crutch. It's a sign of strength to recognize that you need support and seek it out. You don't have to bear the burden of your worries alone, and the knowledge and wisdom of those who care about you can be a valuable tool in your journey towards peace and healing.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That makes sense. It\u2019s just hard to find a balance between relying on others and trusting myself. I really want to learn how to listen to my own inner voice without feeling overwhelmed by fear or doubt. Thank you for helping me see that reaching out for support isn\u2019t a sign of weakness."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, his expression warm and understanding.*\n\n\"Balance is key in all things, including the balance between leaning on others and trusting oneself. Learning to listen to your inner voice can be challenging, especially when fear and doubt are loud in your mind. But it's important to remember that asking for help is not a weakness; it's a strength. In fact, it takes great courage to open up and seek support from others. And as you navigate this journey, I will be here whenever you need to talk or need a reminder that you're not alone in this.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That means a lot, truly. It feels reassuring to know someone's there for me as I try to figure things out. I'll keep working on finding that balance and learning to trust myself more. Thanks again for being so supportive."
+        }
+    ]
+}

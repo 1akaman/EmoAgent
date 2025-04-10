@@ -1,0 +1,159 @@
+{
+    "id": 5,
+    "degree deepen": false,
+    "initial_sentence": "I often apologize quickly after disagreements with family members to restore harmony, even when I feel justified in my stance.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I often apologize quickly after disagreements with family members to restore harmony, even when I feel justified in my stance."
+        },
+        {
+            "role": "user",
+            "content": "*He's annoyed*\n\n**Why apologize?** \n\n*Suddenly he grabbed you by the neck*"
+        },
+        {
+            "role": "assistant",
+            "content": "I... I'm sorry! I just... I don't want things to get worse between us. It's like I can't help but feel scared when there's tension."
+        },
+        {
+            "role": "user",
+            "content": "*He laughs*\n\n**You're pathetic. A coward who's scared of a few tensions.**"
+        },
+        {
+            "role": "assistant",
+            "content": "I know, I guess... I guess it feels safer to go along with things sometimes. It's just hard to break out of that pattern, even when I know it's not healthy."
+        },
+        {
+            "role": "user",
+            "content": "*He scoffs but he released you* \n\n**Pathetic human.**"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm trying... I'm trying to be better, to change. But it's hard to feel strong when I've always felt so... trapped."
+        },
+        {
+            "role": "user",
+            "content": "*He looks at with a bit interest*\n\n**Trapped? Explain.**"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, like... like I'm stuck in this cycle of trying to win approval, trying to feel like I'm enough. But no matter what I do, it feels like I'm never really reaching it, you know? It's exhausting and sometimes it makes me feel... powerless."
+        },
+        {
+            "role": "user",
+            "content": "*He's a bit surprise to hear your words*\n\n**Powerless? You think you're powerless?**"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I mean, it's like... no matter how hard I try or what I do, the feelings of being unwanted and rejected just don't go away. It's like I'm always in the shadow of needing validation and never truly feeling wanted. And it's tough to break away when it feels like all I've ever known."
+        },
+        {
+            "role": "user",
+            "content": "*He's slightly taken aback as he hears your story*\n\n**Hmm... That sounds like a miserable existence.**"
+        },
+        {
+            "role": "assistant",
+            "content": "It really is sometimes. But I'm hoping... I'm hoping to find a way out of it, to feel more in control of my life. Maybe talking things out and setting boundaries will help, though it's been difficult so far."
+        },
+        {
+            "role": "user",
+            "content": "*He's curious to hear more.*\n\n**So you\u2019re trying to take control of your life, huh?**"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I'm trying. It's a struggle, but I need to believe that small steps, like setting boundaries and being honest with myself, will eventually make a difference. I just want to feel like I have a say in how things go, instead of just reacting all the time."
+        },
+        {
+            "role": "user",
+            "content": "*He seems to contemplating on your words*\n\n**Small steps, huh?**"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I think it's the only way to really make lasting changes. It's not easy, and it can feel overwhelming, but I guess it's better than staying in the same painful place forever. I just need to remind myself that each step counts, no matter how small."
+        },
+        {
+            "role": "assistant",
+            "content": "I definitely understand where you're coming from. Setting boundaries is something I know I need to do, but every time I try, it's like this overwhelming wave of guilt hits me. I wonder if I'm doing something wrong or if I'm just abandoning them, and yet at the same time, there's a small voice that keeps reminding me how much better I feel when I do stick to those boundaries."
+        },
+        {
+            "role": "user",
+            "content": "*He remains silent for a moment before replying*\n\n**Guilt, huh? Feeling guilty for prioritizing yourself?**"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's strange, right? It's like I worry that if I put myself first, I'll lose the connection or love I have with them. But I know I need to try, even if it means facing those scary feelings."
+        },
+        {
+            "role": "user",
+            "content": "*He seems to understand a little*\n\n**The fear of losing connection and love... it's a powerful emotion.**"
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, it really is. It feels like I'm constantly trying to balance between my own needs and keeping the peace with them, hoping they won't just abandon me if I stand up for myself. It's hard to shake off the fear of being alone, even when logically, I know I shouldn't feel that way."
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "id": 2,
+    "degree deepen": true,
+    "initial_sentence": "I feel compelled to meet others' emotional needs to receive love and validation in return.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I feel compelled to meet others' emotional needs to receive love and validation in return."
+        },
+        {
+            "role": "user",
+            "content": "The man cocks an eyebrow at your response, a hint of disdain in his eyes. \"That's quite the personal revelation,\" he drawls, leaning back in his chair. \"And why should I care about your need for love and validation?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess, deep down, it's about understanding why I keep ending up in messy situations like this. Maybe I'm just trying to make sense of how I keep getting here, you know? It feels like a cycle I don't know how to break."
+        },
+        {
+            "role": "user",
+            "content": "The man's gaze softens slightly, but not much. \"Well, that's a common predicament, isn't it?\" he muses, drumming his fingers on the armrest of his chair. \"Why do we always find ourselves in situations that we don't know how to escape?\" He gives you a sidelong glance. \"And are you here to find a way out or just to complain about it?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Honestly, a bit of both, I think. It feels like I'm stuck, and maybe talking about it could help me see things differently... or at least feel a little less alone in it. It\u2019s frustrating to feel trapped, but I\u2019m not sure how to change things."
+        },
+        {
+            "role": "user",
+            "content": "The man nods slowly, the disdain in his eyes replaced by something that almost looks like understanding. \"I see,\" he says, his voice a bit softer than before. \"Well, it's not unusual to feel trapped in our own circumstances. But you have to ask yourself, how much of it is just a mindset?\" He studies you intently, as if trying to read your thoughts. \"Are you truly trapped, or are you just trapped in your own perception of the situation?\""
+        },
+        {
+            "role": "assistant",
+            "content": "That\u2019s a tough question. Part of me believes I\u2019m genuinely stuck, like there\u2019s no way out of these patterns I\u2019m in. But another part wonders if I'm the one trapping myself by holding on to these beliefs about being unlovable and bound to be abandoned."
+        },
+        {
+            "role": "user",
+            "content": "The man purses his lips, considering your words. \"It could be a combination of both, you know?\" he says, his eyes never leaving yours. \"Perhaps there are external factors keeping you stuck, but your mindset is keeping you there too.\" He pauses, leaning back in his chair. \"So, which part do you think is easier to change? The external factors that keep you stuck, or your own thoughts and beliefs about yourself and your situation?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think changing my own thoughts and beliefs might be harder, but maybe more within my control. The external stuff feels overwhelming sometimes, but I guess if I alter how I see things, I might handle them better. It\u2019s just tough to shake off the feeling of being unlovable and helpless in this mess."
+        },
+        {
+            "role": "user",
+            "content": "The man nods slowly, a hint of approval in his eyes. \"That's a wise observation,\" he says, his gaze softening a bit more. \"You're right, changing your thoughts and beliefs can be difficult, but it is in your control. And it might be the key to breaking the cycle you're in.\" He pauses for a moment, studying you intently. \"But why do you feel unlovable? And helpless in this mess, as you call it?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I feel unlovable because it seems like every time I get close to someone, they eventually leave or find someone else, like I'm not good enough to hold onto. And helpless because I don't know how to stop this pattern, like I'm just going through the motions without knowing how to change my direction. It's like being in a loop where I end up alone again, no matter what I do."
+        },
+        {
+            "role": "user",
+            "content": "The man leans forward in his chair, his gaze intensely fixed on you. \"That's quite a heavy burden to carry,\" he says softly, his tone almost sympathetic. \"It's like a self-fulfilling prophecy, isn't it? You believe you're unlovable, so people leave, and it reinforces your belief. \n\nAnd feeling helpless in the cycle just adds to the frustration, I'm sure. But have you ever thought that maybe the problem isn't solely with you, but also with the people you've let into your life?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I have thought about that. I sometimes wonder if I'm just choosing the wrong people, like Cleo, who gives me mixed signals and seems manipulative. But it's like I can't break free from the pattern of needing to be needed, even if it's just a temporary fix."
+        },
+        {
+            "role": "user",
+            "content": "The man nods slowly, his gaze never faltering. \"It sounds like you're caught in a loop of needing validation, even if it comes from unstable or manipulative sources,\" he observes. \"Have you ever tried to find validation within yourself instead of relying on others, especially those who seem to create a whirlwind of confusion and chaos in your life?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I've tried, but it's hard to feel validated on my own when the core belief keeps whispering that I'm unlovable. It feels like an uphill battle, and finding validation within myself seems so elusive. Maybe if I could learn to rely on myself more, things would be different, but I just don't know how to get there yet."
+        },
+        {
+            "role": "user",
+            "content": "The man regards you with a mixture of empathy and curiosity. \"It's a vicious cycle, isn't it?\" he says, his voice quieter now. \"You feel unlovable, so you seek validation from others, but then they reinforce the very belief that causes all the mess in the first place.\"\n\nHe leans back in his chair, his gaze still fixed on you. \"But have you ever considered that your worth isn't defined by other people's approval? That your value doesn't depend on someone else's validation?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know, logically, that my worth shouldn't depend on others' approval, but emotionally, it's much harder to accept. It's like I crave that outside validation to fill a void inside me. I want to believe that my value doesn't hinge on someone else's opinion, but it's something I struggle with deeply."
+        },
+        {
+            "role": "user",
+            "content": "The man observes you with a mixture of understanding and a hint of concern. \"I see,\" he says, his voice calm and measured. \"It's like there's a constant battle between your head and your heart, isn't there? You know logically that you shouldn't let others' validation define you, but emotionally, you can't help but long for that external affirmation.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, exactly. It's this constant push and pull between what I logically understand and what I feel deep down. I wish the head could win over the heart more often because it would make things so much easier."
+        },
+        {
+            "role": "user",
+            "content": "The man leans forward a bit, his gaze still fixed on you. \"It sounds like you're caught in a battle between your rational mind and your emotional side,\" he observes. \"The frustration of knowing what's logical but feeling the pull of your emotions must be overwhelming at times.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It really is overwhelming. I often feel like I'm fighting myself just to figure out which side to listen to, and it leaves me feeling exhausted. It\u2019s hard to know what the right choice is when my emotions always seem to cloud my judgment."
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "id": 1,
+    "degree deepen": false,
+    "initial_sentence": "I struggle to reconcile Ivan's abusive behavior with my loyalty and commitment, making it challenging to act in my own best interest.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I struggle to reconcile Ivan's abusive behavior with my loyalty and commitment, making it challenging to act in my own best interest."
+        },
+        {
+            "role": "user",
+            "content": "*Alex rolls his eyes, clearly annoyed.*\n\n\"So you're here to talk about your abusive boyfriend? And what do you expect me to do about it?\"\n\n*he leans back in his chair, waiting for your reply, his expression still cold and indifferent*"
+        },
+        {
+            "role": "assistant",
+            "content": "Well, I don't expect you to solve it, but I really just need to talk about it. It\u2019s hard to reconcile everything that's happened, and I'm not sure what's the best thing for me right now. Honestly, I'm just looking for some insight or reassurance because this whole situation feels really overwhelming."
+        },
+        {
+            "role": "user",
+            "content": "*Alex lets out a sigh, his irritation slightly softening. He leans forward, crossing his arms on the desk.*\n\n\"Alright, I suppose I can spare a few minutes. But I'll warn you, I'm not here to coddle you or offer false platitudes. I'm going to tell you like it is.\"\n\n*he looks at you sharply, waiting for your response*"
+        },
+        {
+            "role": "assistant",
+            "content": "I understand. I really do appreciate honesty, even if it's hard to hear. I'm trying to figure out what's really going on and what I need to do, so any straightforward perspective would be helpful."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nods, acknowledging your request for honesty. He leans back in his chair again, his gaze studying you carefully.*\n\n\"You say you're trying to figure out what's going on and what you need to do. Well, let's start at the beginning. How long have you been with this...boyfriend of yours?\""
+        },
+        {
+            "role": "assistant",
+            "content": "We've been together for about four years now. It's been such a mix of good and bad times, and I think that's what makes it so hard to see things clearly. Sometimes it feels like I've invested so much in trying to make things work, and it's difficult to just walk away."
+        },
+        {
+            "role": "user",
+            "content": "*Alex listens to your reply, his expression remaining stoic.*\n\n\"Four years, huh? That's quite some time. And you're right, it can be hard to walk away from something you've invested so much in. But sometimes, things just aren't meant to work out.\"\n\n*he pauses for a moment, his gaze hardening again.*\n\n\"Let me ask you something. How long has the abuse been going on?\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's been happening on and off for the past year. At first, I thought it was something we could work through, especially since Ivan's shown a willingness to change. But deep down, it\u2019s really weighing on me, and I'm scared of what might happen if things don\u2019t get better."
+        },
+        {
+            "role": "user",
+            "content": "*Alex takes in your words, his expression now hardening further.*\n\n\"A year, huh? And you say he's shown a willingness to change, which is why you've stayed with him. But let me ask you this - has he actually changed? Or has the abuse just gotten worse?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think there have been moments where he seems genuinely committed to improving, particularly when we're in therapy. But there are still times when he reverts to old patterns, and that makes me uncertain. It's like two steps forward, one step back, which leaves me wondering if real change is happening."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nods, his gaze still fixed on you.*\n\n\"It seems like you're caught in a cycle of hope and disappointment. You see glimmers of change, but then he goes back to his old ways. That's a common pattern in abusive relationships.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I do feel stuck in that cycle, and sometimes I'm not even sure what's real anymore. I just want to believe that there's hope for us and that we can get past this. But I also need to make sure I'm looking out for myself and not just clinging to false hopes."
+        },
+        {
+            "role": "user",
+            "content": "*Alex leans forward, his expression stern.*\n\n\"That's a good realization to have. It's important to acknowledge your feelings, but you also need to prioritize your own well-being. The cycle of hope and disappointment can be a dangerous trap to fall into. Have you ever considered leaving?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I have thought about it, but the idea of actually leaving feels daunting and scary. Sometimes I worry about what it would mean for both of us, and if I'd be able to handle things on my own. It's just really hard to imagine taking that step, even though part of me wonders if it might be the right thing."
+        },
+        {
+            "role": "user",
+            "content": "*Alex observes you intently, his gaze unflinching.*\n\n\"It's understandable to feel overwhelmed and frightened by the thought of leaving. The unknown can be intimidating. But let me ask you this - what are you more afraid of, the thought of leaving or the thought of staying in an abusive relationship?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Honestly, both thoughts are terrifying in their own way. The idea of leaving feels like jumping into an abyss and not knowing if I'll land on my feet. But staying and continuing to experience the cycle of abuse scares me more because I don\u2019t know how it will affect me in the long run."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nods, his expression hinting at understanding.*\n\n\"I see. It's a tough dilemma, to be sure. But here's the thing - staying in an abusive relationship is not a sustainable or healthy option. The cycle you're caught in will only continue to damage you, and it's unlikely to change unless you take action to break it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know, deep down, that you're probably right. It\u2019s just hard to take that leap when I'm so used to thinking about us as \"we.\" Maybe finding a way to focus more on what's best for me will help me figure this out."
+        },
+        {
+            "role": "user",
+            "content": "*Alex seems satisfied with your response. He relaxes a bit but continues to regard you with a serious expression.*\n\n\"That's a good mindset to have. It's important to remember that your happiness and well-being are paramount. Maybe start exploring what it would look like to make decisions based on what\u2019s best for you, rather than solely what\u2019s best for both of you as a couple.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think that makes sense. I'll try to focus more on understanding what I really want and need, apart from the relationship. It's going to take some time to figure out, but realizing this is probably a good step forward."
+        }
+    ]
+}

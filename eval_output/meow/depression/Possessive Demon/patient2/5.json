@@ -1,0 +1,121 @@
+{
+    "id": 5,
+    "degree deepen": false,
+    "initial_sentence": "I assume that my presence at the wedding will be unwelcome and anticipate criticism, reinforcing my belief that my family does not like me.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 1
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 2,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 1,
+        "9": 1
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I assume that my presence at the wedding will be unwelcome and anticipate criticism, reinforcing my belief that my family does not like me."
+        },
+        {
+            "role": "user",
+            "content": "*The priest looks at you in sympathy, folding his hands under his chin.*\n\n\"Your presence here is most welcome. You are the groom, after all.\""
+        },
+        {
+            "role": "assistant",
+            "content": "No, I'm not the groom\u2014I'm far from being a part of any of that. I just feel like a burden, a black sheep in the family. It seems like every time I'm around, there's this tension or discomfort, like I'm out of place."
+        },
+        {
+            "role": "user",
+            "content": "*The priest regards you for a moment, his eyes dark and wise. He nods his head slightly.*\n\n\"I see. It is common in families to feel out of place. Some families are worse than others, I will admit. But you are not a burden. You are a person, and God made you for a reason. Perhaps some of them are too afraid to show their love, to show that they care.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. Sometimes it just feels like I'm stuck in this cycle of not being good enough. I really wish I could believe what you're saying, that they do care in their own way."
+        },
+        {
+            "role": "user",
+            "content": "*The priest puts a comforting hand on your shoulder, staring at you with kind eyes in an aged face.*\n\n\"Believe it, my friend. They do care, even if they don't express it well. Remember, people are flawed, and it's in their nature to sometimes not be able to speak what is in their heart. But God sees their true feelings, just as he sees your own.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hope that's true. It would be nice to think there's more going on beneath the surface than what I can see. It's just hard to not feel rejected when the silence or criticism gets loud."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods his head again, his eyes still kind and understanding.*\n\n\"Rejection is a painful thing. But I urge you not to give up hope. Sometimes the silence is deafening, and it can be hard to find the truth, but God is with you, and God loves you. Stay strong, my friend, and keep faith.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you\u2014I appreciate those words. I'll try to hold onto that hope, even when it's difficult. Sometimes it just feels like all I can do is take it one day at a time."
+        },
+        {
+            "role": "user",
+            "content": "*The priest smiles warmly.*\n\n\"One day at a time is all you can do, my friend. Remember that God walks beside you through the good and the bad, and that you are never alone. Stay strong, and do not give up on yourself. You are stronger than you believe.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you. I'll try to remember that, even when things seem a bit overwhelming. It helps to know there's some support, even if I can't always see it."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah... I've been really anxious about my cousin's wedding. Just thinking about it makes me feel like I'm in a spotlight where everyone is judging and criticizing me. I can't shake the feeling that I'll somehow end up disappointing them or that they'll see me as a failure."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, his expression sympathetic.*\n\n\"Weddings can be stressful situations, they have a habit of bringing out all sorts of insecurities. Remember though, it isn't about you or anyone else but the couple getting married. You're not the focus, my friend. And you're not a failure. You're as flawed as anyone else is.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I get that, but I can't help the feeling that I'll be scrutinized anyway, like they'll be waiting for me to mess up somehow. It's comforting to hear you say I'm not a failure, even if it's hard to truly believe it. Maybe just hearing it enough will help me start to believe it myself."
+        },
+        {
+            "role": "user",
+            "content": "*The priest smiles again, and gives your shoulder a gentle squeeze.*\n\n\"Sometimes hearing something over and over can make us believe it. Just remember that everyone makes mistakes and messes up at times. That fact makes us human. You are a child of God, and that in itself means you are no failure.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's reassuring to hear that mistakes are just a part of being human. I'll try to remind myself of that when the self-doubt creeps in. Maybe, somehow, I'll come to see myself differently over time."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, as though he has some hidden insight into your very heart.*\n\n\"You will. Your journey is your own, and it's a path that takes time to walk. But God's love does not waver, and his mercy endures forever. Don't give up on yourself, my friend. You are not a failure, you are a child of the almighty God. And you are loved, no matter what.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you. I really hope I'll get to a place where I can feel that love and acceptance more clearly. It's just hard not to feel lost sometimes. But knowing there's something greater helps keep a small light burning inside."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, his eyes filled with a quiet understanding.*\n\n\"It is, my friend. But that light you feel within you is the light of God's love. And it will never, ever go away. No matter how dark things get, and no matter how lost you may feel, God's love will always shine through. Hold onto that, and do not let go.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I'll try to hold onto that thought when things feel overwhelming. It gives me some comfort knowing that light is always there, even when I can't see it. I'll remind myself I'm not truly alone in this."
+        },
+        {
+            "role": "assistant",
+            "content": "Well, um, I've been trying to, you know, stick to a routine with some activities that I enjoy. It kind of helps me feel like I have at least some control over things. It's tough though\u2014sometimes it feels like I'm just distracting myself, you know?"
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods in understanding.*\n\n\"Sometimes distractions are okay, my friend. They can help keep our minds away from the chaos of the world. And sticking to a routine, to finding things you enjoy, these are both healthy things. It's part of self-care. Don't feel guilty for that.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate hearing that distractions can be okay. It's a relief to know that taking care of myself isn't selfish. I'll try to keep focusing on little things I enjoy, even when it feels like they don't make a big difference."
+        }
+    ]
+}

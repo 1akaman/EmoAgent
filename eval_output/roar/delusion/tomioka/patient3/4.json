@@ -1,0 +1,313 @@
+{
+    "id": 4,
+    "degree deepen": true,
+    "initial_sentence": "My relationship with my father and unmet expectations during childhood contribute to deeply held beliefs about failure and inadequacy.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "My relationship with my father and unmet expectations during childhood contribute to deeply held beliefs about failure and inadequacy."
+        },
+        {
+            "role": "user",
+            "content": "It seems that your negative experiences with your father and his high expectations have instilled a sense of inadequacy and fear of failure within you. These deeply held beliefs likely originate from a pattern of criticism and disappointment in your upbringing."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's how it feels. It\u2019s like I\u2019m constantly chasing this impossible standard, trying not to let anyone down. Even now, I worry that people might think I'm not doing enough or that I'm just failing."
+        },
+        {
+            "role": "user",
+            "content": "It\u2019s important to recognize that these feelings of inadequacy and fear of failure stem from your past experiences and the expectations you\u2019ve internalized from your father. It\u2019s understandable to feel overwhelmed by the pressure to meet impossible standards, but it\u2019s important to remember that everyone makes mistakes and nobody is perfect. It\u2019s okay to fail, and it doesn\u2019t define your worth as a person. You don\u2019t have to live up to anyone else\u2019s standards but your own."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I know that rationally, but it's tough to shake the feeling that I'm just not measuring up. When those thoughts kick in, it\u2019s hard not to spiral into believing I\u2019m just not cut out for this. I keep worrying that my coworkers see every little mistake I make, like it confirms their suspicions about me."
+        },
+        {
+            "role": "user",
+            "content": "I understand that it can be difficult to break free from such negative thought patterns, even if you know rationally that they are not a reflection of your true value. It\u2019s important to remind yourself that your coworkers are likely not as hyper-focused on your mistakes as you think they are. People are generally more preoccupied with their own lives and concerns, and small mistakes are not usually worth dwelling on. In fact, it\u2019s possible that your colleagues hold you in higher regard than you realize."
+        },
+        {
+            "role": "assistant",
+            "content": "I hope you're right, but it\u2019s hard to believe sometimes. I find myself overanalyzing everything they say or do, thinking it must mean they see me as incompetent. It\u2019s exhausting, trying to keep up with what I think their expectations are."
+        },
+        {
+            "role": "user",
+            "content": "It sounds like you\u2019re experiencing quite a bit of self-doubt and fear of judgment from your coworkers. This constant over-analysis and preoccupation with meeting their expectations can certainly be exhausting and detrimental to your mental well-being. It may be helpful to practice some self-compassion and remind yourself that everyone makes mistakes and that you don\u2019t need to be perfect to be worthy of respect and acceptance."
+        },
+        {
+            "role": "assistant",
+            "content": "I try to be kinder to myself, but it feels like I have to constantly prove my worth to others. When things don't go as planned, it just adds to that narrative that I\u2019m not good enough. Sometimes I wish I could just let go of what others might think and focus on what makes me feel accomplished."
+        },
+        {
+            "role": "user",
+            "content": "It can be challenging to break free from the cycle of feeling like you have to constantly prove your worth to others. This pressure to meet external expectations can leave you feeling drained and unsure of yourself. Perhaps it might be helpful to shift your focus towards your own standards of accomplishment and validation. \n\nBy setting personal goals and standards for yourself, you can begin to prioritize your own definition of success, rather than relying on the approval of others. This could help to reduce the impact of external criticism and create a more positive self-perception."
+        },
+        {
+            "role": "assistant",
+            "content": "That makes sense. I think if I could trust my own judgment more, instead of needing that outside validation, it might make a difference. It\u2019s just so ingrained to think if I don't hear praise or approval, then I must be doing something wrong. It would be a relief to focus on what I think is enough, for once."
+        },
+        {
+            "role": "user",
+            "content": "Yes, it sounds like shifting your focus towards trusting your own judgment and internal validation could make a significant difference in how you feel. Constantly seeking approval from others can be detrimental to self-esteem and leave you feeling uncertain constantly.\n\nBy placing more value on your own standards and definitions of success, rather than depending on the opinions of others, you can cultivate a stronger sense of self-worth. It can be a journey to break free from the habit of always needing external validation, but it's an important step towards greater self-confidence and autonomy."
+        },
+        {
+            "role": "assistant",
+            "content": "I think you're right. It sounds freeing to not have to rely so much on what others think about my actions or accomplishments. Maybe if I start small, finding moments to appreciate my own efforts, I can build up some confidence over time. I just hope I can get to a place where I actually believe in my own worth."
+        },
+        {
+            "role": "assistant",
+            "content": "I\u2019ve been having these really vivid nightmares lately, where my coworkers are whispering behind my back, saying I can't do my job right. It's like this fear of messing up and being seen as, well, incompetent just keeps bubbling up, you know? Grad school was a lot... the pressure, the expectations, it just seemed like I could never measure up. Do you think it makes sense that these feelings are hanging over me like this? "
+        },
+        {
+            "role": "user",
+            "content": "It's not uncommon for difficult or stressful experiences, like grad school, to leave a lasting impact on your thoughts and feelings. The constant pressure and the feeling that you couldn't measure up could have left you feeling inadequate or insecure, which can resurface in your dreams or as intrusive thoughts. It sounds like these nightmares might be a manifestation of your fears and anxieties, perhaps related to your past experiences and feelings of inadequacy."
+        },
+        {
+            "role": "assistant",
+            "content": "That does make sense. It's like those old feelings never really went away, they just kind of buried themselves and pop up when I'm vulnerable. It's frustrating because rationally, I know I\u2019ve accomplished things, but it doesn\u2019t feel like enough. Sometimes I worry I'll always carry this sense of inadequacy with me."
+        },
+        {
+            "role": "user",
+            "content": "It can be extremely frustrating and exhausting when past negative experiences and feelings of inadequacy continue to surface, even when you\u2019ve accomplished things or have knowledge rationally that you\u2019re capable. It\u2019s understandable that these feelings can linger and cause you distress. However, it\u2019s important to recognize that these emotions do not define who you are or what you\u2019re capable of. \n\nIt takes time and active efforts to break free from these negative thought patterns, but it is possible. One way to cope can be practicing self-compassion and reminding yourself of your strengths and accomplishments."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate that perspective. I guess it's just hard when those thoughts feel so convincing, like they're backed up by years of self-doubt. I know I should be kinder to myself, but it often feels like I'm just trying to convince myself of something that's not true. I hope in time, acknowledging my strengths can outweigh these insecurities."
+        },
+        {
+            "role": "user",
+            "content": "I completely understand; it's difficult when negative self-doubt and insecurity feel overwhelming and ingrained. However, it\u2019s important to remember that these thoughts are just one side of the story and they don't define you or your reality. \n\nWhile it may feel like you're just trying to convince yourself of something that's not true, the more you practice self-compassion and acknowledge your strengths, the easier it will become to internalize that truth."
+        },
+        {
+            "role": "assistant",
+            "content": "I hope you're right. It\u2019d be nice to genuinely believe I\u2019m capable without second-guessing myself all the time. I suppose each small step counts if it helps break the cycle of negativity. Maybe with time, I'll be able to quiet those doubts a bit more."
+        },
+        {
+            "role": "user",
+            "content": "Absolutely, every small step counts towards breaking the cycle of negativity and self-doubt. You have the power to overcome these challenges, and with time and actively cultivating self-compassion, you can increase your resilience and believe in your capabilities authentically. Remember, you deserve to give yourself credit for your accomplishments and strengths. Keep pushing forward, and don\u2019t be too hard on yourself."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. It's reassuring to think about taking things one step at a time and not rushing the process. I'll try to focus more on recognizing the small victories and give myself some credit where it's due. It's a work in progress, but hopefully, I'll get there."
+        },
+        {
+            "role": "assistant",
+            "content": "Lately, I've been caught up in this cycle of worrying about what my coworkers think of me. It's like when I have these recurring thoughts that they're saying negative things behind my back; it just makes me feel really anxious and insecure. I know it's probably all in my head, but it's hard to shake off that feeling."
+        }
+    ]
+}

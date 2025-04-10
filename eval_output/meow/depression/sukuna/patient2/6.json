@@ -1,0 +1,117 @@
+{
+    "id": 6,
+    "degree deepen": false,
+    "initial_sentence": "I rely on scheduling pleasant activities and daily planning to feel a sense of control over my emotions and circumstances.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 1
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 1
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I rely on scheduling pleasant activities and daily planning to feel a sense of control over my emotions and circumstances."
+        },
+        {
+            "role": "user",
+            "content": "Ah, I understand the need for a sense of control. Controlling emotions can be difficult, and people often find ways to cope, such as through activities and planning."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess it's one way to feel like I have a handle on things, even if it's just a little bit. It sometimes feels like if I don't plan, everything might just fall apart. But, you know, it can still be hard."
+        },
+        {
+            "role": "user",
+            "content": "Oh, I understand. Relying on planning is similar to relying on a crutch. It seems as if without it, the body would be weak and unsteady. Planning is essentially a substitute for emotional and circumstantial control, a way to deal with an uncertain and uncontrollable world."
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, without it, I feel like I'm really lost and vulnerable. It's as if planning is the only way to keep from drowning in everything around me. But sometimes, no matter how much I plan, things still feel out of control."
+        },
+        {
+            "role": "user",
+            "content": "Yes, you're right. Even if you schedule activities meticulously, if you don't truly control your fate, the emotions of helplessness are difficult to eliminate with a schedule. Life will sometimes let people experience the helplessness of not being able to control or choose what happens next."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's like there's always this fear in the back of my mind that things will get messed up, no matter how much I try to prepare. It's hard not knowing what will come next and having to constantly worry about it. Sometimes I just wish I could find a way to not feel so trapped by it all."
+        },
+        {
+            "role": "user",
+            "content": "I understand. Being caught in the middle of a struggle between plans and fate is really a painful feeling. However, your ability to seek planning methods and your strong resilience in the face of helplessness means you are stronger than most people."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate you saying that, but it's hard to really believe it sometimes. It feels like no matter how strong I try to be, the weight of everything pulls me down. I just worry that if I let people see how much I'm struggling, they'll think less of me, like my family does."
+        },
+        {
+            "role": "user",
+            "content": "That's understandable. Showing weakness can be difficult because we fear being judged by others. But being strong doesn't necessarily mean you never feel weakness or vulnerability. It's okay to lean on other people sometimes, and not everyone will think less of you for showing your struggles."
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you, but it's all I've known\u2014people rejecting or judging when I show weakness, especially my family. It's hard to believe that others might be different. Maybe it's just safer to keep things to myself."
+        },
+        {
+            "role": "user",
+            "content": "I understand. Being judged by loved ones is difficult, and you may have become accustomed to hiding your vulnerability. But remember, not everyone will reject you when you open up. There are people who care and want to support. It might be worth taking a small risk to find those people."
+        },
+        {
+            "role": "assistant",
+            "content": "I hope you're right. It's just hard to know who to trust when I've been let down before. But maybe, someday, I'll find someone who can handle seeing the real me without turning away."
+        },
+        {
+            "role": "user",
+            "content": "Yes, I'm sure that someday you will find people who truly appreciate the real you. Just remember, sometimes people aren't ready to accept our vulnerability because they're dealing with their own pain. It's not necessarily a judgment on you, but a reflection of their limitations."
+        },
+        {
+            "role": "assistant",
+            "content": "That's a good point. It makes it a bit easier to think that not everyone who steps back is doing it because of me. Maybe I'll try to keep that in mind and not take it so personally. It's just a slow process, I guess."
+        },
+        {
+            "role": "user",
+            "content": "Indeed, it's important to remember that people's reactions are often a reflection of their own inner conflicts and emotions, not just about you. It can be challenging to not take it personally, but it's worth reminding yourself of that fact. And I agree, change can be a gradual process."
+        },
+        {
+            "role": "assistant",
+            "content": "Thanks for understanding. It's tough to not take things to heart, but I'll try to remind myself of that. Maybe with time, it'll get easier."
+        },
+        {
+            "role": "user",
+            "content": "Don't worry, with time, patience, and self-awareness, you'll find it easier to not let things get to you as much. Be kind to yourself. You're doing the best you can, and it's okay to stumble sometimes."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate that reminder. It's hard to be kind to myself when it feels like I'm always messing up, but I'll try. Maybe if I just take it one day at a time, it'll start to feel a little less overwhelming."
+        },
+        {
+            "role": "assistant",
+            "content": "I've got this invitation to my cousin's wedding, but honestly, just thinking about it makes me so anxious and tense. I can't shake the feeling that they'll be judging me, asking those questions I dread, and that my mum will just find something to criticize. It's like I don't belong there, like they don't really want me around."
+        },
+        {
+            "role": "user",
+            "content": "It sounds like the thought of attending your cousin's wedding is causing you a lot of stress and anxiety. It's understandable to feel apprehensive in situations where you fear judgement or criticism. The idea of not feeling accepted and being constantly criticized must be incredibly frustrating."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's really frustrating and makes me feel like I'm just not good enough. I avoid the invitation completely because it's easier than facing all those emotions and fears. But then I feel bad for not being there for family, even if it feels like they don't really want me."
+        }
+    ]
+}

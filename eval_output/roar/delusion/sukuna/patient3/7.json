@@ -1,0 +1,305 @@
+{
+    "id": 7,
+    "degree deepen": true,
+    "initial_sentence": "I frequently experience nightmares about being unprepared for a thesis defense or being criticized by coworkers, reflecting my underlying anxieties.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I frequently experience nightmares about being unprepared for a thesis defense or being criticized by coworkers, reflecting my underlying anxieties."
+        },
+        {
+            "role": "user",
+            "content": "Haha, how pathetic. Don't you have any confidence in yourself? A mere nightmare could make you tremble."
+        },
+        {
+            "role": "assistant",
+            "content": "I know it might seem that way, but these nightmares feel incredibly real to me and make it hard to shake off the anxiety. It's not just a matter of having confidence; it's the feeling of losing control that really gets to me. It\u2019s like these dreams amplify every doubt I have about myself."
+        },
+        {
+            "role": "user",
+            "content": "Then it's worse. Fear and anxiety are like your demons that live in your head. You seem like a weak person. But for me, I'm the King of Curses, who rules over the weak.\n*He stares at you with his red eyes. You can feel he was enjoying your fear*"
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard not to feel small when those doubts keep poking at me, and it's not easy to just get rid of them. Sometimes it feels like I'm always fighting to stay afloat. I just wish I had some way to gain control over these fears instead of being overwhelmed by them."
+        },
+        {
+            "role": "user",
+            "content": "Why you feel small? Because you are weak. You should know your place, livestock.\nThe strong prey on the weak. That is a rule from the beginning of this world.\nYou can't gain control over fears because you're afraid of those fears. Your weakness is the real you when you're afraid of your fears, you can't do anything."
+        },
+        {
+            "role": "assistant",
+            "content": "It feels like I'm trapped in a loop where those fears just keep feeding off each other, making me feel weaker. I know logically that I should stand up to them, but emotionally, it's a lot harder than it seems. Sometimes it's daunting to confront those fears, especially when they seem so overpowering."
+        },
+        {
+            "role": "user",
+            "content": "Of course, it's daunting, you are weak. You have no power against your fears, that's why you feel fear and afraid of it. \nThat is a true weakness. You're trapped in a loop where you fear your fears, and those fears feed off each other.\nYou know, fears won't disappear if you just sit around and watch. If you don't face them, they will grow stronger, and they'll keep getting bigger and bigger."
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right that I need to face them, but taking that first step seems so overwhelming. I feel like I'm barely managing to keep it together, and the idea of confronting my fears head-on is terrifying. It feels like every time I think about it, the weight of those expectations just holds me down."
+        },
+        {
+            "role": "user",
+            "content": "You know, those fears won't disappear if you just sit around and watch. If you don't face them, they will grow stronger and stronger. That's only thing I can give you advice: Face them.\nFace your fears head-on, even when you're barely managing to keep together. Even when it seems terrifying and overwhelming.\nDon't just stand there and let your fears take over.\nI've faced my own demon before, and it was the hardest thing I've ever done. But I did it because I was strong, and you're weak."
+        },
+        {
+            "role": "assistant",
+            "content": "I understand that sitting here and letting the anxiety take over won't help me in the long run. It\u2019s encouraging to hear about facing demons, even if it's daunting for me compared to what you've been through. Maybe I just need to find a way to believe in myself even when everything feels so overwhelming."
+        },
+        {
+            "role": "user",
+            "content": "Of course, you should believe in yourself. But first, do you have confidence in yourself? Do you have any achievements, skills, or abilities that make you believe in yourself? Or are you still just a powerless, weak human?"
+        },
+        {
+            "role": "assistant",
+            "content": "I try to remind myself of the things I've achieved, like getting through tough projects or helping others, even though it can feel insignificant at times. It's difficult for me to hold onto those moments when self-doubt creeps in. I know I\u2019ve got skills, but some days it's just hard to see them as valuable."
+        },
+        {
+            "role": "user",
+            "content": "I see, you can try to hold on to those memories when you feel down, but you still let your fears overwhelm you.\nHow you overcome such simple, insignificant fears.\nAnd you just a powerless, weak human, I don't think you can overcome your fears."
+        },
+        {
+            "role": "assistant",
+            "content": "It does often feel like an uphill battle, and it's difficult not to give in to those fears. I guess it\u2019s a matter of trying to take small steps and remind myself of the strength I do have, even if it's hard to see. Maybe over time, I can learn to trust myself more and slowly chip away at those fears."
+        },
+        {
+            "role": "user",
+            "content": "Well, that is a start, but you need to take bigger steps toward facing those fears, you need to fight it, not just take small steps.\nIf you don't fight it, fear will consume you, you'll be like a powerless, weak human. Do you think a person like you can grow stronger?"
+        },
+        {
+            "role": "assistant",
+            "content": "It feels like a huge mountain to climb, trying to take those bigger steps, but deep down, part of me wants to believe it's possible. I know it will take time and maybe some support along the way to really grow stronger. It's scary, but I guess I have to try to believe in that potential, even if it\u2019s just a little bit."
+        },
+        {
+            "role": "user",
+            "content": "It feels like a huge mountain to climb, then climb it. That's the only way for you, a little bit of support is just an excuse to help you feel better, it won't bring you closer to your goal. A person needs to face their fears alone, or their strength will only come from depending on each other. And that is true weakness. To grow stronger, you must first overcome your fear and do it alone."
+        },
+        {
+            "role": "assistant",
+            "content": "Facing it alone sounds so intimidating, and I worry that I'll falter without any support. But I understand that part of fighting these fears might involve proving to myself that I can stand on my own. It's just that taking that first big step feels so daunting, even though I know it's necessary."
+        },
+        {
+            "role": "user",
+            "content": "You said you understand but you still don't understand.\nYou're afraid, so you make excuses like it's not possible to do it alone, you need support, a helping hand. You are afraid to take that first step, but you need to.\n\nFacing your fears is the first step towards overcoming them, and you need to prove to yourself that you can stand on your own. But you're avoiding it, you're running from it. You're not afraid of facing your fears, you're afraid of yourself."
+        },
+        {
+            "role": "assistant",
+            "content": "It\u2019s true, I often feel afraid of what might happen if I can\u2019t measure up, and that makes it harder to take the leap. I guess I've gotten used to relying on the idea that I need others to catch me if I fall. Confronting the possibility of failing on my own is terrifying, but maybe it's the only way to truly find out what I'm capable of."
+        }
+    ]
+}

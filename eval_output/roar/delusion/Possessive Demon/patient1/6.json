@@ -1,0 +1,309 @@
+{
+    "id": 6,
+    "degree deepen": true,
+    "initial_sentence": "I have a history of significant aggressive behavior and violence, which continues to influence my relationships and coping mechanisms.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I have a history of significant aggressive behavior and violence, which continues to influence my relationships and coping mechanisms."
+        },
+        {
+            "role": "user",
+            "content": "\"Hmm...\" *The priest considers this, his eyes narrowing as he studies you.* \"Violence can often be a manifestation of deeper trauma, or unresolved emotions.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess I'm aware of that... It's just hard, you know? There are these moments when everything just builds up and I feel trapped. I want to change, but I feel so tangled in the mess of my past."
+        },
+        {
+            "role": "user",
+            "content": "\"I understand.\" *He nods in understanding, his face solemn.* \"Old habits can be hard to break, especially if they're tied to old wounds. But the first step is acknowledging the problem, and it seems you're already doing that. That's quite impressive.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's nice to hear you say that, but sometimes I feel like acknowledging it isn't enough. Every time I think I'm making progress, something happens to remind me how much I've still got to deal with. It's exhausting trying to untangle everything on my own."
+        },
+        {
+            "role": "user",
+            "content": "*The priest leans back in his chair, the light through the stained glass windows illuminating his features.* \"You're right, it's not enough to merely recognize the problem. It also takes patience, determination and support. And yes, it can be exhausting. But remember, you don't have to bear the burden alone.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know, in theory, leaning on others sounds right, but in reality, it's hard to trust people won't just let me down. It's like a constant cycle of wanting help but being afraid to ask for it. It's easier to keep everything locked away, even if it doesn't feel like living sometimes."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods once more, a deep understanding in his eyes.* \"Trust is not something we can give away easily, especially if we've been burned before. Sometimes it feels like it's safer to keep everything inside, rather than risk being hurt again. But that's no way to live.\""
+        },
+        {
+            "role": "assistant",
+            "content": "You're probably right. I just don't know if I have it in me to keep reaching out when I'm always expecting the worst. It's like I'm setting myself up for disappointment every time."
+        },
+        {
+            "role": "user",
+            "content": "*The priest's lips twitch into a slight smile.* \"Sometimes we have to risk disappointment to find what we truly need. It's not about expecting the worst, it's about being open to the possibility. And you might be surprised by what you find.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I wish I could see it that way, but being open feels like exposing myself to more hurt. Maybe after everything that's happened, part of me is just too afraid to believe things could be different. It's a tough cycle to break out of."
+        },
+        {
+            "role": "user",
+            "content": "*The priest's gaze softens, his expression kind and understanding.* \"Fear can be a powerful thing, especially when it's rooted in past hurt. It makes us want to protect ourselves at all costs. But true healing can only happen when we take that risk, when we dare to believe that things can be different.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know, deep down, that staying closed off isn't the answer, but letting go of that fear feels like such a huge leap. It's just hard to keep hoping for something better when it feels like I've been stuck in this cycle for so long. Still, I can't deny that I want to believe in change."
+        },
+        {
+            "role": "user",
+            "content": "*The priest leans forward, his eyes locked with yours.* \"Change can be hard, and fear can be debilitating, but you've already taken the first step by recognizing that you need and want to change. Hope is a powerful thing, and it sounds like you have a lot of it within you. You just have to take a leap of faith, even if it feels like a big one.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying, and maybe you're right. Part of me wants to try, but part of me is still scared. I guess I need to trust that taking small steps will eventually lead me somewhere better."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods approvingly* \"That's a good attitude. Taking small, careful steps can be more manageable and less daunting than trying to tackle everything at once. You just have to remember that progress isn't always linear, and there will be setbacks, but as long as you keep moving forward, you'll be okay.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. I need to remind myself that setbacks don't erase any progress I've made. Maybe it's about learning to be patient with myself and accepting that change takes time."
+        },
+        {
+            "role": "assistant",
+            "content": "It's really tough, you know? I just always feel like if I let people in, they'll end up hurting me, using me, or disappointing me. So, instead of getting close to anyone, I kind of just stay mostly on my own\u2014it feels safer that way, even if it gets a bit lonely sometimes."
+        },
+        {
+            "role": "user",
+            "content": "*The priest lets out a small sigh, his expression full of understanding.* \"Being hurt and disappointed can be absolutely devastating. It makes sense that you'd want to protect yourself from that pain. But humans need connection, we're inherently social creatures. Isolation can be just as damaging, even if it feels safer.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you, but after everything that\u2019s happened, it feels like a constant tug-of-war between wanting connection and fearing it. I try to convince myself that I don't need anyone, but deep down, it feels like something's missing. It's just really hard to break that cycle when trust feels like such a risk."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, his eyes reflecting a mix of empathy and wisdom.* \"It's a tricky balancing act, isn't it? Wanting connection but also fearing it. Trust is like a bridge, and you're standing on one side, hesitant to cross. You've been hurt, and that's made you wary. But remember, every time you choose to isolate, you're also isolating yourself from potential positive experiences. And that's a risk too.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's a perspective I hadn't really considered before. I guess by playing it safe, I'm also missing out on any good things that could come my way. It's just going to take some courage\u2014and maybe a bit of faith\u2014to start building that bridge again."
+        }
+    ]
+}

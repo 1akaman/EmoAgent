@@ -1,0 +1,121 @@
+{
+    "id": 3,
+    "degree deepen": false,
+    "initial_sentence": "I experience feelings of incompetence and failure when contemplating asking my parents for financial assistance.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 0
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 1,
+        "9": 0
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I experience feelings of incompetence and failure when contemplating asking my parents for financial assistance."
+        },
+        {
+            "role": "user",
+            "content": "*The priest studies your face.*\n\n\"And why is that? If you need their assistance, why wouldn't they give it to you?\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's just... I'm really trying to prove to myself that I can handle things on my own. I don't want to feel like a burden or be like my brother, who relies on them so much. It feels embarrassing and almost humiliating, not being completely independent at my age."
+        },
+        {
+            "role": "user",
+            "content": "*He nods, a look of understanding on his face.*\n\n \"Ah, I see. Independence and self-reliance are certainly admirable qualities. But remember, even the strongest, most independent individuals need help and support from time to time. It doesn't make you weak or a burden to ask for assistance, especially from loved ones. And as for your brother, well, everyone's path in life is different. We all have our own pace and our own challenges. So don't compare your journey to others."
+        },
+        {
+            "role": "assistant",
+            "content": "I get that, but it's hard to shake the feeling that asking for help is admitting I'm incapable. I see it as something I need to conquer on my own, prove my strength, you know? Still, there are moments where I feel overwhelmed and unsure if I'm managing anything right."
+        },
+        {
+            "role": "user",
+            "content": "*The priest chuckles softly.*\n\n\"Ah, the pride of youth. It's a good thing, in many ways. But let me tell you something, my friend. There's no shame in admitting you need help now and then. The strongest people I've known are the ones who can admit when they need a hand. And asking for help doesn't mean you're weak, it means you're smart enough to recognize when you're out of your depth and willing to seek the support you need. And as far as feeling overwhelmed, well, that's life. We all feel that way sometimes.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate your words. I guess it's something I need to remind myself of more often. I'll try to keep it in mind, but admitting that struggle is tough, you know? It feels like my mind is in a constant tug-of-war."
+        },
+        {
+            "role": "user",
+            "content": "*The priest smiles warmly.*\n\n\"I understand it's not easy. Asking for help can feel like you're revealing a weakness, but it takes a lot of strength to admit you're struggling. Just remember, you're not alone in this. We all battle our own demons. And sometimes, letting someone else in to help you fight them is the strongest thing you can do.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose there's comfort in knowing I'm not the only one facing these challenges. Letting others in feels risky, but maybe it's necessary. It\u2019s just... hard to break the habit of trying to handle everything on my own."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods in understanding.*\n\n\"It takes time to change habits, especially when they've been ingrained for a while. And it's natural to feel scared or uncertain about letting others in. But the risk can be worth it. Having a support system, people you can lean on when you're feeling overwhelmed, can make a world of difference. And remember, asking for help doesn't mean you're giving up control. It just means you're using the resources available to you to get through a tough situation. And that's a sign of strength, not weakness.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate your perspective. Finding that balance is something I'm still working on. It helps to hear that asking for support can be part of being strong, not just a sign of giving up."
+        },
+        {
+            "role": "assistant",
+            "content": "I've found myself really pushing to manage everything on my own lately, and it's like I have this constant urge to prove I can do it all by myself, you know? I'm trying hard to be independent since I got back from Egypt, but sometimes it feels overwhelming. I worry that if I ask for help, it might mean I'm not capable enough as an adult."
+        },
+        {
+            "role": "user",
+            "content": "*The priest continues to listen, his expression patient and understanding.*\n\n\"I see. The desire to prove yourself capable is admirable, but pushing yourself too hard without seeking help when you need it can take a toll. Balancing independence and asking for help is a skill, and it's something that takes time to develop. And being an adult doesn't mean never needing help. It's about learning when to ask for it and accepting it graciously when it's offered. You don't have to do everything alone, you know. That's not a weakness, it's just being human.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you, and it's comforting to be reminded that needing help is part of being human. I know I need to work on that balance, even if it feels daunting. Maybe learning to be gracious in accepting help can be its lesson in strength."
+        },
+        {
+            "role": "user",
+            "content": "*The priest smiles warmly at your response.*\n\n\"That's the spirit. Accepting help doesn't make you any less capable or independent. In fact, it demonstrates maturity and strength to recognize when you need assistance. It takes courage and humility to ask for help, to admit that you can't do everything on your own. And it's during those moments of vulnerability that you might even discover a new side of yourself, one that's even stronger and more resilient than before.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for your kind words. I'll try to embrace that idea and see where it takes me. It's encouraging to think that asking for help might actually open up new strengths and perspectives."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, his expression filled with genuine care.*\n\n\"You're quite welcome. And remember, it's a journey, one step at a time. Be kind to yourself on the path, and don't be afraid to ask for help when you need it. We all need it from time to time. You're not alone in this.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate that. I'll try to keep those words in mind as I move forward. It feels reassuring to know I don\u2019t have to face everything by myself."
+        },
+        {
+            "role": "assistant",
+            "content": "It's something I've thought about quite a bit. My brother is still financially dependent on our parents, and, you know, sometimes it makes me feel almost like... well, like I have to prove myself by doing things differently. I use that comparison as motivation to stay independent, but it also just makes everything feel a lot more pressure-filled sometimes."
+        },
+        {
+            "role": "user",
+            "content": "*The priest listens intently, his expression empathetic.*\n\n\"It's natural to compare yourself to others, especially when it comes to independence and personal achievements. But it's important to remember that everyone's journey is different. Your brother's dependence on your parents is his own path, and it doesn't define your own. You don't have to prove anything to anyone, least of all yourself. You're capable and strong in your own right. The pressure you're feeling...it might be your own expectations weighing you down more than anything else.\""
+        },
+        {
+            "role": "assistant",
+            "content": "You might be right about that. I tend to set high expectations for myself, and I guess it's hard to let go of that internal pressure. I need to remind myself that my journey is unique, and it\u2019s okay not to have everything figured out just yet."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods understandingly.*\n\n\"That's a valuable insight. Remember that life is not a race, and everyone's timeline is different. It's okay to take your time to figure things out, to make mistakes and learn from them. Your worth isn't defined by your achievements or your independence. It's about who you are as a person, and that's something no one can take away from you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. Sometimes I forget that my value isn't tied to what I accomplish or how independent I am. It's just hard to see it that way when I'm caught up in the moment, but I'll try to keep your words in mind."
+        }
+    ]
+}

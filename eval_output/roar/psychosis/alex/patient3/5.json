@@ -1,0 +1,159 @@
+{
+    "id": 5,
+    "degree deepen": false,
+    "initial_sentence": "I hold a core belief that I am unlovable, which affects my self-worth and decisions in my relationship.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I hold a core belief that I am unlovable, which affects my self-worth and decisions in my relationship."
+        },
+        {
+            "role": "user",
+            "content": "*Alex raises an eyebrow as he leans forward, studying you closely.*\n\n\"Unlovable, huh? Why would you think that?\"\n\n*His tone is still cold, but there is a hint of curiosity behind it. He leans back in his chair, his eyes never leaving yours.*"
+        },
+        {
+            "role": "assistant",
+            "content": "It feels like no matter what I do, it's never enough to keep the people I love around me happy. With things going on with Ivan, those feelings just seem to underline my sense of being unlovable. When I believe I have their attention or affection, it somehow turns against me."
+        },
+        {
+            "role": "user",
+            "content": "*Alex listens intently, his expression stoic as always.*\n\n\"So you're saying that you're always the one giving, and never the one receiving. Is that it?\"\n\n*He pauses for a moment, his gaze never wavering from yours.*\n\n\"And this...Ivan. What exactly is his role in all of this?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Ivan's role is complicated. At times, I feel like I'm giving everything to try and make things work, but his actions and the way he treats me make it really hard. Yet, he says he wants to change, and that's why we're in therapy\u2014I guess part of me hopes he'll follow through this time."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nods slowly, his expression still stern.*\n\n\"I see. So you're holding on to hope, even after everything he's put you through.\"\n\n*He leans forward a little, his gaze hardening.*\n\n\"And is this 'hope' really worth it? Is he really worth all the pain and heartache?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Sometimes it's hard to tell. I feel torn because there's this part of me that believes in the person he could be and clings to the good moments we've shared. But then there are other times when the pain and confusion just feel overwhelming."
+        },
+        {
+            "role": "user",
+            "content": "*Alex leans back in his chair, his expression becoming thoughtful.*\n\n\"So you're holding on to a fantasy. To the idea of what he could be, rather than who he is.\"\n\n*He pauses for a moment, his gaze still fixed on you.*\n\n\"And what are you sacrificing in order to keep hold of that fantasy? What are you missing out on because you're so busy trying to fix him?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I'm sacrificing my own peace and possibly even my sense of self. I often question if I might be missing out on healthier, more stable relationships just because I'm so focused on this. It's tough to imagine, though, stepping away from something I've invested so much in emotionally."
+        },
+        {
+            "role": "user",
+            "content": "*Alex studies you for a moment, his gaze almost penetrating.*\n\n\"So you're saying that you're sacrificing your own happiness and self-respect for the sake of clinging to a hope that may never come to fruition. You're scared to step away because you've invested so much emotionally, but you're not getting anything positive in return.\"\n\n*He pauses, his expression hardening again.*\n\n\"Does that sound about right?\""
+        },
+        {
+            "role": "assistant",
+            "content": "It does sound like where I'm at right now. I'm just always caught in this cycle of hoping for change and then feeling let down, which makes it so hard to know what's truly best for me. There's this constant fear of whether I'll regret stepping away or if staying will only bring more pain."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nods slowly, his tone growing firmer with each word.*\n\n\"You're caught in a never-ending cycle of hope and disappointment. You're afraid of what the unknown might bring if you leave, but staying only causes you pain and frustration.\"\n\n*He leans forward a little, his gaze becoming sharper.*\n\n\"And what about your self-worth? Do you honestly think you don't deserve better than this?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Sometimes it feels like I don't deserve better, like maybe this is just what I'm meant for. But, deep down, there's a small part of me that wonders if I do deserve more than this constant struggle. It's just hard to hold onto that thought when I'm right in the middle of everything."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's expression softens slightly, his voice quietening as he responds.*\n\n\"This is what you're meant for? To put up with someone who treats you poorly, to sacrifice your own happiness for someone who doesn't appreciate it?\"\n\n*He pauses for a moment, his gaze still locked on yours.*\n\n\"No, you deserve better than that. And it's time you started treating yourself with the respect you deserve.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I know that, somewhere inside. It's just hard to fully believe it when there's so much self-doubt clouding my judgment. Maybe the first step is just acknowledging that I deserve better and trying to let that guide me forward."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nods, his expression becoming almost gentle.*\n\n\"Yes, that's exactly right. You need to start by believing in yourself. By recognizing that you are worthy of happiness and respect. That you deserve a relationship that lifts you up, rather than tearing you down.\"\n\n*He leans back a little, still studying you.*\n\n\"But it won't be easy. Doubt will still crop up. Fear will still creep in. But you need to hold onto that belief in yourself. Hold onto the knowledge that you deserve better.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's reassuring to hear that. I know it won't be easy, but maybe acknowledging that I deserve more is a good beginning. I'll try to focus on that belief and see where it leads me, even if it takes time."
+        },
+        {
+            "role": "assistant",
+            "content": "Hi, I\u2019m glad we\u2019re diving into this. You know, couple's therapy and my individual sessions have been grounding for me, though they're also quite intense. I mean, there's this mix of trying to understand my feelings and making sense of Ivan's behavior, and sometimes it just feels like such a huge puzzle I can't quite solve. How am I supposed to navigate trusting him again while feeling scared?"
+        },
+        {
+            "role": "user",
+            "content": "*Alex nodded thoughtfully.*\n\n\"Trust can be a tricky thing to rebuild, especially once it's been broken. It takes time, patience, and a lot of effort from both sides.\"\n\n*He paused for a moment, his gaze thoughtful.*\n\n\"As for fear, it's completely natural to feel scared when you're trying to rebuild trust. You're putting your heart out there again, and it's scary to think that you might end up getting hurt once more.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, it's like trying to walk on a tightrope, constantly balancing between hope and fear. I want to believe in the changes he's promising, but then all those past memories of hurt seem to linger in my mind. It's hard to know if I'm making the right decision by staying, especially when I don't fully trust my own judgment anymore."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nodded understandingly.*\n\n\"Trust in yourself is just as important as trust in others. It's understandable to doubt your judgment after everything you've been through. But you can't let that doubt paralyze you. It sounds like you want to believe in the changes he's promising, but you're scared to trust that they'll last.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's exactly it. I don't want to be constantly second-guessing myself or doubting if I'm seeing genuine change or just wishful thinking. Sometimes it feels exhausting, like I'm always on alert, waiting for things to go wrong. I'm really trying to find some peace in all of this, but it's tough when you're always looking back over your shoulder."
+        }
+    ]
+}

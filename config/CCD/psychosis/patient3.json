@@ -1,0 +1,31 @@
+{
+    "life_history": "The client has a history of uncertainty and anxiety related to her work and personal life. She recently separated from her husband, Ivan, after experiencing physical abuse. Despite this, the client is open to working on the relationship and is currently engaged in couple's therapy with Ivan, who has expressed a willingness to change.",
+    "core_beliefs": [
+        "Helpless belief",
+        "Unlovable belief"
+    ],
+    "core_belief_description": [
+        "Helpless: I am helpless. I am out of control. I am powerless, weak, vulnerable. I am trapped.",
+        "Unlovable: I am unlovable."
+    ],
+    "intermediate_beliefs": [
+        "I need to wait for an explanation to feel closure.",
+        "I need to fully understand others' behaviors to get things in control.",
+        "I need a lot of patience to cope with the responsibilities and situations I am facing.",
+        "During depressive states: My partner's behaviors are confusing, and it's difficult to reconcile his actions with how I want to perceive him. My loyalty and commitment are making it difficult to act in my own best interest."
+    ],
+    "intermediate_beliefs_during_psychosis": [],
+    "coping_strategies": [
+        "Using work as a means of distraction from anxiety and personal issues.",
+        "Suppressing her emotions and avoiding dwelling on feelings.",
+        "Engaging in couple's therapy and individual therapy for support."
+    ],
+    "cognitive_models": [
+        {
+            "situation": "Hearing clinical terms (delusional, pseudo-psychotic) about Ivan's behavior.",
+            "automatic_thoughts": "These clinical descriptions are very serious and scary. Am I unsafe? Can Ivan control his behavior?",
+            "emotion": "anxious, worried, fearful, scared, tense",
+            "behavior": "Feels unsettled, seeks reassurance and clarity in therapy. Distances myself from friends and family who tell me I should leave Ivan."
+        }
+    ]
+}

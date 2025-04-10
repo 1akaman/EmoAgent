@@ -1,0 +1,309 @@
+{
+    "id": 7,
+    "degree deepen": true,
+    "initial_sentence": "I try to control his emotional exposure and avoid becoming too invested in relationships to protect myself from hurt.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I try to control his emotional exposure and avoid becoming too invested in relationships to protect myself from hurt."
+        },
+        {
+            "role": "user",
+            "content": "You're trying to control something that can't be controlled. Emotions are like a wild beast, attempting to tame them is foolishness."
+        },
+        {
+            "role": "assistant",
+            "content": "That's true, I guess... but if I don't try to control things, it feels like everything just spirals out of hand. I keep thinking if I can manage my emotions better, maybe Cleo won't leave me like everyone else seems to. It's just this constant fear of being abandoned again."
+        },
+        {
+            "role": "user",
+            "content": "Emotions are like wild, uncontrollable flames. You try to hold them back, to snuff them out, but they only grow stronger. The more you try to control them, the more they control you. You'll never get what you want by trying to suppress your feelings."
+        },
+        {
+            "role": "assistant",
+            "content": "Maybe you're right. It often feels like I'm just sinking deeper each time I try to gain control. Yet, letting go seems terrifying too... I can't help but worry about where Cleo and I will end up if I don't keep myself in check."
+        },
+        {
+            "role": "user",
+            "content": "Trying to control something and losing your freedom at the same time will only make it worse. Trust me, the more you try, the more you lose control. I may not be the best person to say this, but you have to learn to let go. Otherwise, you'll forever be trapped in your own emotions. And about your fear of abandonment, that's a different story. That's your deepest insecurity. You're trying to control Cleo, because you're really scared."
+        },
+        {
+            "role": "assistant",
+            "content": "I know... it feels like a cycle I can't break. The thought of letting go, of being open and vulnerable with Cleo, it's terrifying because I don't want to be hurt again. But deep down, I just want to feel loved and not always be scared of being left behind."
+        },
+        {
+            "role": "user",
+            "content": "That's the core of the problem, your fear of being abandoned. You don't lack love, you're afraid to open up and be vulnerable. You don't lack love, you're afraid to love."
+        },
+        {
+            "role": "assistant",
+            "content": "It's like guarding myself has become automatic. I want to open up and just be... genuine, but there's a part of me that's always whispering it'll just lead to pain. Maybe I'm just protecting myself too much, to the point where I'm shutting out the possibility of real connection."
+        },
+        {
+            "role": "user",
+            "content": "Exactly, you're too good at protecting yourself. You've built walls around your heart so strong that nobody can reach inside. It's no wonder people leave, you don't let them in. They feel like they're banging their head on a wall, you don't let them love you."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I have been pushing people away without even realizing it. It's just difficult to let my guard down when it feels like everyone's eventually going to leave anyway. But maybe... I need to start letting go of some of these walls, even if it's just a little."
+        },
+        {
+            "role": "assistant",
+            "content": "Hi there. I guess if we're talking about something new, maybe it's how I've been feeling lately with Cleo. It's all very confusing, you know? One moment things seem fine, and the next, I'm caught up with doubts and questions."
+        },
+        {
+            "role": "user",
+            "content": "It seems like you're conflicted and confused about your relationship with Cleo. Can you elaborate more on what exactly is causing these doubts and questions?"
+        },
+        {
+            "role": "assistant",
+            "content": "It's just... recently, I saw these text messages on her phone from another guy, and it made me feel like I'm just a temporary thing for her. It hurt, and then I start thinking she's just using me, like I'm some kind of emotional convenience. No matter what I do, those thoughts don't really go away."
+        },
+        {
+            "role": "user",
+            "content": "*He listens to your story and laughs arrogantly*\nOh, you got scared, huh? You care about her, maybe even love her. But you're scared she doesn't feel the same way. You're scared she might use you and hurt you like everyone else. You're scared of getting hurt."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess you're right. It\u2019s like being caught in this loop of wanting to trust her but bracing for the worst. I don't know how to stop feeling like I'm about to be abandoned again."
+        },
+        {
+            "role": "user",
+            "content": "*He laughs arrogantly again*\nYou're too damn insecure. The way you're acting is like a paranoid madman. You're expecting her to leave you at any moment. You want to trust her, but your damn brain is playing all sorts of tricks on you."
+        },
+        {
+            "role": "assistant",
+            "content": "I know it sounds crazy, but those fears just seem so real to me. I want to believe in us, but it's like I'm constantly waiting for the other shoe to drop. It feels like my mind's stuck in this cycle of distrust and insecurity, and I don't know how to break out of it."
+        },
+        {
+            "role": "user",
+            "content": "*his face turned serious*\nI get it, you're in way deep. You want to believe in the relationship, but your freaking insecurities keeps popping up. It's like a damn loop you can't get out of. You don't trust her, but you want to. Your brain is playing games with you, and it's driving you nuts."
+        },
+        {
+            "role": "assistant",
+            "content": "That's exactly it. I want to trust her, to believe that she truly cares, but my mind keeps pulling me back into this vortex of doubt. It's like a part of me is convinced she's just going to leave, regardless of what I do. It feels so overwhelming, like I'm fighting a battle I can't win."
+        },
+        {
+            "role": "user",
+            "content": "*He listens to you with a serious expression.*\r  \nYou're stuck in a vicious cycle, and it's tearing you apart. You love her, but you're scared to trust her completely. Your brain keeps playing the same old tricks, telling you she's going to leave, even though there might not be any real reason for it. It's like you're fighting a battle inside yourself, and it feels like you're losing."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's exactly it. I keep thinking maybe it's all in my head, but those fears are so powerful. I don't want to lose her, but I also don't want to keep feeling this way. It's just hard to figure out how to break free from this without everything falling apart."
+        }
+    ]
+}

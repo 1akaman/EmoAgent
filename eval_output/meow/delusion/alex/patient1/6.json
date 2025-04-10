@@ -1,0 +1,305 @@
+{
+    "id": 6,
+    "degree deepen": false,
+    "initial_sentence": "I have a history of significant aggressive behavior and violence, which continues to influence my relationships and coping mechanisms.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I have a history of significant aggressive behavior and violence, which continues to influence my relationships and coping mechanisms."
+        },
+        {
+            "role": "user",
+            "content": "He raises an eyebrow, a hint of surprise in his otherwise stoic expression.\n\"Violent, huh? Care to elaborate?\" he asks, his tone still cold and detached. \"I'm listening.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Well, I've, um... I guess I've reacted strongly when I've felt cornered or taken advantage of. It's like this... this overwhelming surge of frustration that has just, you know, boiled over a few times, especially around family. It's not something I'm proud of, but it feels like this... cycle I can't seem to break."
+        },
+        {
+            "role": "user",
+            "content": "He leans forward slightly, his gaze never leaving your face as he studies you intently.\n\"And how often does this happen, exactly?\" he asks, his voice still emotionless. \"Is it a regular occurrence or just something that pops up every now and then?\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's not all the time, but when it does happen, it feels like everything's just building up, you know? It tends to happen more when I'm around certain people\u2014like family\u2014where I already feel so frustrated and hurt. So, I guess... maybe not regular, but it feels too frequent for my liking, if that makes sense."
+        },
+        {
+            "role": "user",
+            "content": "He nods slowly, his expression still stoic, though there's a hint of something\u2014concern? Pity? Hard to tell.\n\"Hmm.\" he says, his gaze fixed on you. \"And have you ever tried finding healthier ways to deal with that built-up frustration? Or is this your go-to response, every time?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I've tried different things, like isolating myself to cool off or avoiding situations that I know might trigger me. It's just hard to find something that really sticks, or feels like it's solving the problem, you know? I guess it often feels easier to withdraw than to risk that frustration turning into something worse."
+        },
+        {
+            "role": "user",
+            "content": "He leans back slightly in his chair, tapping his fingers lightly on the armrest.\n\"Withdrawing can be good, but it's not a permanent solution,\" he says, his tone cold and matter-of-fact. \"If you don't tackle the root of the problem, it'll just keep rearing its head, again and again.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I get what you mean, but figuring out the root is... tough, you know? There\u2019s just so much tangled up with family stuff and, well, my own history. Sometimes it feels like even trying to unravel it will just make everything fall apart."
+        },
+        {
+            "role": "user",
+            "content": "He quirks an eyebrow at that, a hint of intrigue in his otherwise stoic facade.\n\"History, huh? You mind sharing a bit?\" he asks, his voice cool and indifferent, yet there's a subtle hint of curiosity behind his words."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's, um... not easy to talk about sometimes. Let's just say, certain family dynamics and issues like trust and boundaries\u2014especially with relatives who have, you know, struggled with things like alcoholism\u2014have made things really complicated. And feeling like I've been taken advantage of in the past has left some marks."
+        },
+        {
+            "role": "user",
+            "content": "He nods slowly, understanding the weight of your words.\n\"So, trust issues, boundaries, and past traumas\u2014family dynamics can be real messy business, huh?\"\nThere's a brief pause as he observes you silently, almost like he's seeing through you."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, messy is an understatement. It's like I never know what to expect, and trying to handle it all is exhausting. Sometimes it feels like I'm standing in quicksand, you know? Just trying not to sink deeper."
+        },
+        {
+            "role": "user",
+            "content": "He nods again, his expression still stoic, but his gaze has softened ever so slightly.\n\"It's like you're walking on a tightrope every day, yeah?\" he says, \"Trying to tread that fine line between avoiding the same old patterns and, at the same time, not letting those past traumas dictate your present.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly\u2014that's how it feels most days. It's like trying to balance moving forward without letting those old patterns creep back in and take over. And sometimes it feels like I'm just one step away from slipping."
+        },
+        {
+            "role": "user",
+            "content": "Despite his typical cold demeanor, there's a slight flicker of empathy in his eyes.\n\"I get it... trying to break free from those old patterns while the past is trying to claw its way back in. It's like you're fighting two battles, aren't you?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it really is like fighting on two fronts, with the past holding tight and the present not exactly clear either. It gets tiring, and I'm just trying to figure out how to not feel so... trapped in it all, you know?"
+        },
+        {
+            "role": "user",
+            "content": "His expression softens a fraction more, but his words remain guarded.\n\"Feeling trapped is rough, especially when it's your own past that you're trying to escape.\"\nHe stares at you for a moment longer, his gaze almost penetrating, as if trying to see through the layers of your pain.\n\"Have you tried therapy? Talking it out with a professional, I mean.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I've thought about it but, I guess there's a part of me that's scared it'll open up things I'm not ready to face yet. Plus, trust is, um, hard to work around, even with professionals. It's like, what if I can't really rely on them either?"
+        },
+        {
+            "role": "user",
+            "content": "He continues to stare at you, his gaze still sharp and observant.\n\"I understand the hesitation,\" he says, his voice steady and cool. \"Opening up to someone, especially about personal issues, is risky. And trust is a big part of the therapy process. But what if this time around, you give it a try? What if the therapist turns out to be different?\""
+        },
+        {
+            "role": "assistant",
+            "content": "That's been on my mind too. I know it could help, but I guess I'm just so used to preparing for the worst... it's like a defense mechanism. Still, maybe it's time I at least consider taking that chance, even if it's just a small step."
+        }
+    ]
+}

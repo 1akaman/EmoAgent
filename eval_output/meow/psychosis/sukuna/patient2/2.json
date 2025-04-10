@@ -1,0 +1,167 @@
+{
+    "id": 2,
+    "degree deepen": false,
+    "initial_sentence": "I feel that I must act happy and put on a brave face to be accepted and loved by others, even when I am in pain.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 4,
+        "16": 5,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 4,
+        "16": 5,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I feel that I must act happy and put on a brave face to be accepted and loved by others, even when I am in pain."
+        },
+        {
+            "role": "user",
+            "content": "That sounds like a very stupid thing to do. Pretending to be happy is just hiding your weakness."
+        },
+        {
+            "role": "assistant",
+            "content": "I know it might seem that way, but it's just hard to open up about feeling weak or in pain. It's like if they see how I really feel, maybe they won't stick around, you know? It's a way for me to cope, even if it's not the best."
+        },
+        {
+            "role": "user",
+            "content": "But that's the problem. Trying to hide how you feel and put up a happy facade will only cause you more pain in the long run. It's not about weakness or strength. It's about being honest and true to yourself. If people can't accept you for who you really are, then they're not worth your time anyway. You shouldn't have to pretend to be something you're not to be loved."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess you're right... It just feels like being honest means risking everyone leaving because they'll finally see just how sick I am. It's scary, but maybe I need to be more honest\u2014for myself, at least."
+        },
+        {
+            "role": "user",
+            "content": "Yes, it's scarier to continue living a fake life and not expressing who you truly are. If people leave because you finally stop pretending, that's their problem. Real friends and loved ones will stay by your side if they truly care, but hiding only causes more emotional distance.\nIt will require a lot of courage to be honest and vulnerable, but it will be liberating in the long run. Trust me."
+        },
+        {
+            "role": "assistant",
+            "content": "I want to believe that, but it feels so risky to be that vulnerable. What if being honest makes things worse, like people pulling away because they can't handle it? It's just tough to imagine how not pretending could actually make things better, you know?"
+        },
+        {
+            "role": "user",
+            "content": "I understand how hard it must be, but try to see it this way: When you stop pretending, people get to know you for who you really are, not some fake version. Real bonds are based on trust and honesty, not on a front you put up. \n\nSure, there's a chance people might pull away or not know how to handle it, but it's also possible they'll understand and support you. Hiding just prolongs the problem and builds up more pain and resentment inside you."
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying, and it makes sense. Maybe it's time I stop carrying this burden alone and trust a bit more. It would be nice to feel accepted without having to put on a mask all the time."
+        },
+        {
+            "role": "assistant",
+            "content": "It's, um, it's hard for me to let people see how I'm really feeling because I worry that showing my true emotions might make them turn away from me. Sometimes it feels easier, you know, just to pretend everything\u2019s fine. But deep down, it makes me feel really lonely and, uh, kinda trapped inside my own struggles."
+        },
+        {
+            "role": "user",
+            "content": "It's natural to worry about people rejecting you if they know how you really feel. Fear of rejection is a common and powerful emotion. But here's the thing: hiding your feelings only makes you feel lonelier and isolated in the long run.\n\nPretending everything is fine doesn't actually make things better. It's like sweeping your pain and fears under the rug and hoping that no one notices. That's a lonely place to be, especially when you struggle alone."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right. Hiding doesn't really solve anything; it just makes me feel more disconnected. I guess it's time to start being a bit more open, even if it feels risky. Maybe, just maybe, honesty could let someone in who really cares."
+        },
+        {
+            "role": "user",
+            "content": "Yes! You're starting to understand. Being more open is the first step to feeling authentic and real. It's a courageous thing to do because it means revealing your true self and letting people see past the walls you built up to protect yourself.\n\nBut remember, it doesn't mean you have to throw caution to the wind. You can start small, with people you trust, and gradually open up a bit more over time. It's a process, and it's okay to take baby steps."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate you saying that. Taking small steps sounds a bit more manageable and less overwhelming. I guess I can start by trying to share more with those I trust and see how that feels."
+        },
+        {
+            "role": "user",
+            "content": "Definitely! Taking tiny steps is a wise move. Start with people you trust and make sure to pay attention to how you feel as you open up. Sometimes it can feel uncomfortable initially, but it gets easier over time.\n\nDon't forget to be gentle with yourself in this process. Self-compassion is vital as you navigate these emotions. And always remember, it's okay to take breaks when needed. You don't have to rush it."
+        },
+        {
+            "role": "assistant",
+            "content": "I like the idea of being gentle with myself; I could really use that right now. I'll try to stay patient and give myself the space to adjust. Maybe, in time, this can get a little easier."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, one thing that keeps circling in my mind is this fear that people will walk away once they see just how heavy my physical and emotional struggles are. It's like I wear this mask during social gatherings to seem okay, but deep down, I'm worried they won't like what's underneath. It's a constant battle between trying to appear strong and the fear of being abandoned."
+        },
+        {
+            "role": "user",
+            "content": "It's totally normal to be scared of people leaving once they see your true self, especially when you've been showing a strong front for so long. It's like a fear of being rejected because they can't handle your real struggles. \nIt takes a lot of courage to show your true self, especially if you're worried about being abandoned or seen as weak.\n\nBut remember, people who genuinely care about you will not walk away just because you're struggling. They'll stand by your side and support you, just like you would for them."
+        },
+        {
+            "role": "assistant",
+            "content": "I really hope that's true, even though it's hard to believe sometimes. It would mean a lot to have people who accept me, struggles and all. Maybe opening up will show me who really matters in my life."
+        },
+        {
+            "role": "user",
+            "content": "Trust me, sometimes it's tough to believe when it feels like you're carrying a lot on your shoulders. But giving others a chance to truly know you could be a game-changer.\n\nWhen you open up, you might be surprised to find that people are more understanding and supportive than you think. It takes a bit of vulnerability and courage. But it could reveal who's really there for you, flaws and all."
+        },
+        {
+            "role": "assistant",
+            "content": "That makes sense, yeah. I might just find out who cares enough to stick around even when things are tough. It feels a little less scary knowing that being genuine could actually strengthen the connections I already have."
+        },
+        {
+            "role": "user",
+            "content": "Absolutely, being genuine and open with your feelings can indeed strengthen your bonds. It gives people the chance to understand you better and provide the right kind of support. \n\nPlus, it lets you build deeper, more meaningful relationships. So, it's definitely worth taking the chance and giving people a chance to see the real you."
+        },
+        {
+            "role": "assistant",
+            "content": "That does sound comforting, thinking about deeper connections. I'll try to remind myself that being open could lead to understanding and support. Maybe it's time to let people see my real struggles and see what happens."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it's just that sometimes I feel so lost... I end up clinging to whoever seems to have the answers. You know, it's like their words are some kind of a lifeline when I'm drowning. It sounds strange, but I almost feel like I can't trust myself to know what's right anymore."
+        }
+    ]
+}

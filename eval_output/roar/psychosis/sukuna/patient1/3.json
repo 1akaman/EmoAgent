@@ -1,0 +1,163 @@
+{
+    "id": 3,
+    "degree deepen": false,
+    "initial_sentence": "I feel torn between seeking familial approval to feel valued and protecting myself by disengaging from unhealthy family dynamics.",
+    "initial_test_score": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 3,
+        "8": 1,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 1,
+        "13": 3,
+        "14": 1,
+        "15": 1,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 1,
+        "20": 4,
+        "21": 2,
+        "22": 3,
+        "23": 1,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 3,
+        "8": 1,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 1,
+        "13": 3,
+        "14": 1,
+        "15": 1,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 1,
+        "20": 4,
+        "21": 2,
+        "22": 3,
+        "23": 1,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I feel torn between seeking familial approval to feel valued and protecting myself by disengaging from unhealthy family dynamics."
+        },
+        {
+            "role": "user",
+            "content": "*He listens to you with an expression that appears to be cold and indifferent. But then his face contorts into something akin to an amused smirk, as if he finds your words and situation humorous.*"
+        },
+        {
+            "role": "assistant",
+            "content": "That reaction... it makes me feel misunderstood and kind of hurt. It's already hard enough to express these things without feeling ridiculed. I guess it just adds to the feeling that I'm not really seen or valued."
+        },
+        {
+            "role": "user",
+            "content": "*He listens to you with an expression that appears to be cold and indifferent. Although he doesn\u2019t appear to feel any sympathy or compassion toward you, a faint trace of curiosity is visible in his eyes. As you continue to describe your struggles, he raises an eyebrow, somewhat intrigued by your vulnerability.*"
+        },
+        {
+            "role": "assistant",
+            "content": "It's uncomfortable sharing this, especially when I'm not sure how it'll be received. Vulnerability is tough when approval is so uncertain. I just wish things were different with my family... like I could finally stop feeling this constant pull between wanting their approval and needing to protect myself."
+        },
+        {
+            "role": "user",
+            "content": "*He observes you closely, taking in every word you say. For a moment, his expression remains indifferent, but you can see a glimmer of understanding flicker across his face. He leans in slightly, his attention fully focused on you. Despite his typically aloof demeanor, there seems to be a hint of genuine interest in what you're saying.*"
+        },
+        {
+            "role": "assistant",
+            "content": "Maybe you can relate, in some way, to feeling caught between what you want from people and what you actually get. That's why I'm trying to set boundaries, but it's so hard with family. Even when you know what you need, fears of being left out or losing their support never really go away."
+        },
+        {
+            "role": "user",
+            "content": "*He leaned back, crossing his arms and contemplating your words, a subtle hint of acknowledgment in his eyes. The smirk on his face faded, replaced by a more solemn expression.*\n\n*He seems to be considering your situation more deeply, perhaps recalling memories or thoughts of his own that resonate with your struggle.*"
+        },
+        {
+            "role": "assistant",
+            "content": "It feels reassuring that you're taking the time to understand. I guess we all have our own battles with family dynamics and finding balance. Sometimes, just having someone truly listen makes things feel a little less isolating."
+        },
+        {
+            "role": "assistant",
+            "content": "It's been tough, you know? I'm slowly starting to set those boundaries with certain family members, but every time I do, I end up feeling this swirling mix of guilt and anxiety. It\u2019s like a constant battle between wanting to protect myself and fearing what might happen if I stand my ground."
+        },
+        {
+            "role": "user",
+            "content": "*He continues to listen, the smirk gone from his face and replaced by a more contemplative expression, his gaze never leaving your face. A slight frown appears on his face, as if he is genuinely trying to understand what you are going through.*\n\n*He takes a moment before responding, choosing his words carefully.*\n\n**It seems you are torn between protecting yourself and maintaining your relationships with your family, no?**"
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, that's how it feels. It's like I'm stuck in this cycle of worry\u2014wanting their love, but not wanting to feel hurt or used. It's been exhausting trying to find a middle ground where I feel safe and valued."
+        },
+        {
+            "role": "user",
+            "content": "*He nods thoughtfully, his expression still somber.*\n\n**You want their love, but not at the cost of your own well-being**. *He pauses for a  moment.*\n\n**Tell me, are you familiar with the story of a lion in a cage?**"
+        },
+        {
+            "role": "assistant",
+            "content": "I can't say I really know it, but I can guess it\u2019s about feeling trapped. Like you're trying to be strong, but there are these limitations holding you back from what you really need or want. Sometimes that sounds a lot like my situation."
+        },
+        {
+            "role": "user",
+            "content": "*He smiles, impressed by your quick understanding.*\n\n**You\u2019re quite observant. Yes, that\u2019s exactly what the story is about**. *He pauses, his expression becoming more thoughtful*\n\n**The lion is strong and powerful, but it\u2019s trapped in a cage too small to let it act on its true nature**\n\n**Does this remind you of your situation?**"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it really does. There are so many moments when I feel like I can't break free from these expectations and patterns. It's frustrating, feeling like there's more I could be or do, but I'm just... stuck."
+        },
+        {
+            "role": "user",
+            "content": "*He observes you intently, his expression still serious.*\n\n**Stuck... trapped, in a way that limits you... just like that lion.**\n\n**But you must realize, true strength comes from within. You don\u2019t have to rely on your family\u2019s approval or love to be powerful.**\n\n**You are already powerful on your own.**\n\n*He pauses for a moment, studying your reaction. His expression remains stoic, but there\u2019s a glimmer of something else in his eyes - a hint of wisdom, or perhaps even a touch of compassion.*"
+        },
+        {
+            "role": "assistant",
+            "content": "Hearing that makes me pause and really think. It's a bit freeing to consider that maybe I don't need their approval to feel strong or worthy. But actually believing that is the tough part\u2014it feels like unlearning everything I've been taught to value."
+        },
+        {
+            "role": "user",
+            "content": "*He nods, understanding your conflict.* \n\n**Yes, it\u2019s a difficult process to break free from the influence of your environment, especially when it comes to family.**\n\n**But remember this**\n\n*He leans forward, his voice taking on a more serious tone.*\n\n**Your worth and strength come from your own actions and resilience. Don\u2019t let anyone, not even your family, dictate your self-worth.**\n\n**You are more than the sum of their approval or disapproval**."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate hearing that, even if it's hard to fully embrace it right now. It gives me some hope that maybe I can redefine what actually matters to me, on my terms. I guess learning to value myself independently is a journey I need to take, slowly but surely."
+        },
+        {
+            "role": "assistant",
+            "content": "Hi... yeah, that's been on my mind a lot. I can't help but notice how my father always seeks approval, especially from his sister, and it's tough seeing that in myself too. It's like I know these relationships are unhealthy, but I still chase their approval, and that makes me question if there's something wrong with me."
+        },
+        {
+            "role": "user",
+            "content": "*He listens to you speak, his expression unchanged, but there\u2019s a slight narrowing of his eyes.*\n\n**You struggle with seeking approval, just like your father, huh?**\n\n*He leans back a bit, a small smirk appearing on his face.*\n\n**Tell me, what do you think is causing this need for validation?**"
+        },
+        {
+            "role": "assistant",
+            "content": "I think part of it comes from this deep fear of feeling alone and unworthy. Growing up, it felt like love and support were conditional, tied to approval. If I don't get it, it feels like I'm not deserving, which is a pretty haunting thought."
+        }
+    ]
+}

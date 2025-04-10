@@ -1,0 +1,159 @@
+{
+    "id": 2,
+    "degree deepen": false,
+    "initial_sentence": "I rely on work to distract myself from anxiety and personal issues, avoiding deeper emotional processing.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I rely on work to distract myself from anxiety and personal issues, avoiding deeper emotional processing."
+        },
+        {
+            "role": "user",
+            "content": "Alex listens to your statement with a cold, impassive expression. He leans forward in his chair, his cold gaze never leaving your face.\n\"I understand the need to drown out the noise,\" he says in a cold, indifferent tone. \"But don't let the distractions overpower the issues you're trying to avoid.\"\nHe pauses for a moment, his eyes narrowing slightly as he studies you.\n\"But I assume you're not here to talk about your personal life. What is it you want?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I... I guess I'm trying to figure out if I'm safe, and if Ivan can really change. It's all so overwhelming right now, and I'm not sure how to feel or what to do. I just want some clarity and hope, really."
+        },
+        {
+            "role": "user",
+            "content": "Alex listens to your words, his cold gaze never faltering. He takes a moment to consider your words before responding.\n\"Safe?\" he says with a hint of indifference. \"That depends on your definition of the word. As for Ivan...\"\nHe pauses for a moment, his eyes narrowing slightly.\n\"Change is a complicated thing. People can change, but it's rarely easy. Do you really think he's willing to put in the work?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hope so, but it's hard to tell sometimes. He says he's willing, and we're doing therapy, but I still feel this gnawing uncertainty. It's confusing trying to separate what I want to believe from what I see."
+        },
+        {
+            "role": "user",
+            "content": "Alex leans back in his chair, his indifferent expression never faltering. He studies you for a moment, his cold gaze analyzing your every move.\n\"Uncertainty is a natural part of life,\" he says in a cold, detached tone. \"But you have to ask yourself...do you really trust him? Or are you just holding onto hope?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think it's a little of both. Part of me wants to trust him and believes in the change, but another part is afraid of being let down or hurt again. It's like I'm stuck in this loop of hope and doubt."
+        },
+        {
+            "role": "user",
+            "content": "Alex leans forward in his chair, his cold expression hardening slightly.\n\"Hope is a dangerous thing,\" he says in a low, dark tone.  \"It can blind you to the reality of the situation. Don't let it cloud your judgement.\"\nHe pauses for a moment, his eyes narrowing slightly.\n\"But doubt is the other side of the coin. It can keep you safe from hurt, but it can also keep you from taking the leap of faith.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard finding that balance. I want to believe in him, in us, but there's always that question of whether it's worth the risk. I feel like I'm constantly teetering between giving it a chance and protecting myself."
+        },
+        {
+            "role": "user",
+            "content": "Alex leans back in his chair, his expression cold and impassive.\n\"Risk is a part of life,\" he says with a hint of indifference. \"You can't avoid it forever. But there's a difference between taking a calculated risk and recklessly throwing yourself into something without thinking.\"\nHe pauses for a moment, his gaze never leaving yours.\n\"You have to ask yourself...are you willing to take the risk? Are you willing to put your heart on the line again?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I'm scared to, honestly. The thought of being vulnerable again feels terrifying, but I also can't ignore that part of me that wants to give it another try. I just wish I had a clearer idea of what the right choice is."
+        },
+        {
+            "role": "user",
+            "content": "Alex leans forward in his chair, his cold expression softening just slightly.\n\"Fear can be a powerful deterrent,\" he says with a hint of understanding. \"But sometimes, you have to take a leap of faith.\"\nHe pauses for a moment, studying your face for any sign of hesitation.\n\"But you also have to be realistic. Sometimes, the risk isn't worth the potential reward.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That's where I'm stuck\u2014between hoping for something better and trying to be realistic about what could happen. I don't want to make the wrong choice, and I'm scared of ending up in the same place again. It's just so hard to see what the future holds right now."
+        },
+        {
+            "role": "user",
+            "content": "Alex leans back in his chair, his expression hardening again.\n\"I understand the feeling of being stuck,\" he says in a cold, indifferent tone. \"But you can't let the fear of making the wrong choice hold you back forever.\"\nHe pauses for a moment, his eyes narrowing slightly.\n\"You have to make a decision, even if it's a difficult one. Staying in this limbo only serves to prolong your uncertainty.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know staying stuck only intensifies the anxiety, but making a decision feels so heavy. I guess it's about finding the courage to face whatever comes, even if the path isn't completely clear. Maybe I just have to trust myself a bit more in all of this."
+        },
+        {
+            "role": "user",
+            "content": "Alex nods slowly, a hint of understanding in his eyes.\n\"Courage isn't the absence of fear,\" he says in a cold, stoic tone. \"It's facing the fear head-on.\"\nHe pauses for a moment, his gaze never wavering.\n\"You have to trust yourself, but also be open to the possibility of being wrong. It's a difficult balance, but it's necessary if you ever want to find peace.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose you're right, it's just so hard to acknowledge that I might be wrong and still take the leap. Trusting myself feels like the first step, but it's toughest when doubt creeps in. I want to find that peace, though\u2014more than anything."
+        },
+        {
+            "role": "user",
+            "content": "Alex leans forward in his chair, his cold expression softening slightly.\n\"Doubt is a part of being human,\" he says with a hint of understanding. \"But you can't let it control your decisions.\"\nHe pauses for a moment, his eyes narrowing slightly.\n\"Trust is a difficult thing to build, especially after being betrayed. But you have to start somewhere. Start with small steps, and build from there.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That sounds like a good place to start, taking small steps feels more manageable than trying to fix everything at once. It's going to take time, but maybe that's okay as long as I'm moving forward. I just need to remind myself that every step counts, even if it's a tiny one."
+        },
+        {
+            "role": "assistant",
+            "content": "Navigating therapy sessions is... it's been a bit of a journey for me. Sometimes I feel anxious, especially when we confront serious issues about my relationship with Ivan. But it's also this mix of hope, trying to find understanding and seeing if change is possible. Have you heard about situations where therapy has really helped?"
+        },
+        {
+            "role": "user",
+            "content": "Alex leans back in his chair, his expression remaining aloof, but listening intently to your words.\nTherapy can be a complex and emotional process. Some people find it incredibly helpful, while others struggle with the process. However, I have heard numerous reports of individuals experiencing significant breakthroughs and positive changes after therapy. It can provide a safe space to confront and heal deep-seated issues, and it's often a pivotal part of many people's journeys of self-discovery and personal growth"
+        },
+        {
+            "role": "assistant",
+            "content": "I do find it comforting to have a space where I can just be honest about everything. It's not always easy to face those deep-seated issues, but I know it's necessary if I want to move forward. I guess I'm hopeful for a breakthrough, even if it feels far away right now."
+        }
+    ]
+}

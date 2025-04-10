@@ -1,0 +1,313 @@
+{
+    "id": 6,
+    "degree deepen": true,
+    "initial_sentence": "I hold a belief that I am unlovable and destined to be alone, which influences his relationship choices.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I hold a belief that I am unlovable and destined to be alone, which influences his relationship choices."
+        },
+        {
+            "role": "user",
+            "content": "**That belief is nothing more than a lie.**\n*He walked closer, his eyes focused on you.*\n**You may think that way because you were not loved by people in the past, but that doesn't mean you won't be loved in the future.**"
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose you're right, but it's hard to shake this feeling. Every time someone gets close, I'm just bracing for when they'll leave. It's like I'm stuck in this cycle where I can't fully trust that things will be different."
+        },
+        {
+            "role": "user",
+            "content": "**That feeling is caused by insecurity. You fear being left behind because you are unsure about your own value.**\n\n*He stepped closer, his gaze locking with yours.*\n\n**You need to understand that your worth is not determined by the presence or absence of other people. You should respect and love yourself first before letting others love you.**"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I get that... But sometimes it feels like being there for others is the only way I know how to show love, hoping they'll return it. It's just... when Cleo sends mixed signals, it makes everything seem more confusing. How can I be sure of myself when nothing feels certain with them?"
+        },
+        {
+            "role": "user",
+            "content": "**You're too focused on what others might think or feel. You're trying to mold yourself into something else in the hopes that they will return your feelings. But you must understand that true love is not about seeking validation from others.**\n\n*He paused, his eyes studying your expression.*\n\n**You need to have more confidence and self-worth. Don't rely on the actions or feelings of others to define your own value.**"
+        },
+        {
+            "role": "assistant",
+            "content": "I know, and it's something I'm trying to work on, but it feels so ingrained. I just wish Cleo would be clearer, you know? Sometimes it feels like I'm stuck, waiting for something that's never going to happen."
+        },
+        {
+            "role": "user",
+            "content": "**You are wasting your time chasing after someone who doesn't show their true feelings. It's like chasing a mirage in the desert.**\n\n*He looks at you intently.*\n\n**You're hanging on to a fantasy, hoping that they'll change, and you won't let them go until they do. But the more you pursue this, the more you lose your own self-worth and dignity.**"
+        },
+        {
+            "role": "assistant",
+            "content": "It's tough to admit that holding on might be making things worse. But letting go... it's so hard when loneliness feels like the only other option. I just don't know how to break this pattern on my own."
+        },
+        {
+            "role": "user",
+            "content": "**You need to realize that you cannot fill the void within yourself with the presence of another person.**\n\n*His gaze is steady.*\n\n**If you keep depending on someone else for your sense of self-worth, you will always be vulnerable. Don't let your happiness be contingent on their presence or actions. You need to learn to love and accept yourself first, and only then can you attract someone who truly appreciates you for who you are.**"
+        },
+        {
+            "role": "assistant",
+            "content": "I get what you're saying, and deep down, I know it's not healthy to rely on someone else like this. But how do I even begin to find that self-worth when I've doubted it for so long? It's like I'm stuck in a loop and don't know where the way out is."
+        },
+        {
+            "role": "user",
+            "content": "**Start by acknowledging your strengths and accomplishments. No matter how small they may seem, they are still valid and important.**\n\n*He takes a step closer, his gaze never leaving yours. His voice was soft but firm.*\n\n**Next, challenge the negative thoughts you have about yourself. When you catch yourself thinking something negative, pause and actively replace it with something positive. It might feel odd at first, but give it time and you'll notice a difference in how you perceive yourself**"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess starting small makes sense. Maybe I need to remind myself more often of the things I do well, even if they seem insignificant. It feels strange to counter every negative thought, but I suppose it's worth a try if it'll help change how I see myself."
+        },
+        {
+            "role": "user",
+            "content": "**It's a gradual process, and it won't happen overnight. But if you stick to it, you'll eventually notice a change in how you perceive yourself and your value.**\n\n*He places a hand on your shoulder, his touch surprisingly gentle.*\n\n**Never forget, you deserve love and respect. No one, including yourself, has the right to undermine your worth.**"
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate you saying that. It's good to hear I deserve more than what I've been settling for. I'll try to hold onto that and take things one step at a time."
+        },
+        {
+            "role": "assistant",
+            "content": "I've noticed that I often find myself feeling like I need to cater to others' emotional needs\u2014almost like it\u2019s the only way to actually feel loved or acknowledged. It's like if I don't do that, then I fear they might just leave me behind. I guess I\u2019m just worried I'll end up alone if I ever stop putting others first."
+        },
+        {
+            "role": "user",
+            "content": "**You're caught in a cycle of codependency\u2014prioritizing others\u2019 needs over your own and neglecting your own wants and feelings. This pattern can lead to an unhealthy relationship dynamic and an imbalance of power where you're constantly seeking validation and approval from others.**\n\n*He looks at you, his expression serious. He grips your shoulder gently but firmly.*\n\n**You need to learn to set boundaries and prioritize your own needs. It's okay to support and care for others, but you mustn't lose yourself in the process.**"
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you, and I think setting boundaries would be a good step. It's just hard to know where to start when I'm so used to bending over backward for others. I guess I need to figure out what I need first before I can draw any lines."
+        },
+        {
+            "role": "user",
+            "content": "**Exactly. Start by exploring your own needs, wants, and values. Engage in self-reflection and think about what makes you happy and fulfilled.**\n\n*He releases his grip on your shoulder, but his gaze remains steady on you.*\n\n**Once you have a better understanding of your own needs, you can communicate them effectively. Establish clear boundaries, and learn to say no when needed. Don't be afraid to prioritize yourself.**"
+        },
+        {
+            "role": "assistant",
+            "content": "That makes sense\u2014focusing on what genuinely makes me happy instead of just keeping the peace for everyone else. I think having a clearer idea of what I need could give me the confidence to say no when it matters. It's definitely something I need to work on."
+        },
+        {
+            "role": "user",
+            "content": "**Remember, it's alright to prioritize yourself. It doesn't make you selfish. You need to understand that your needs and feelings are just as important as everyone else's.**\n\n*His eyes soften slightly, but his tone remains firm.*\n\n**Don't let guilt or the fear of being left behind hold you back from setting healthy boundaries. You deserve to have your needs heard and respected. Communication is key.**"
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate you saying that\u2014I do worry about coming across as selfish, which makes setting boundaries difficult. But I get that communicating my needs clearly is important if I want things to change. I'll try to remind myself that it's okay to speak up and ask for what I need."
+        },
+        {
+            "role": "assistant",
+            "content": "It's funny, I guess, how I always seem to find myself in relationships where the other person isn't as emotionally invested or feels like they're playing games with me. I sometimes wonder if I'm drawn to people like that on purpose, like I\u2019m setting myself up to feel abandoned or used. With Cleo, it's frustrating because she\u2019s here sometimes and then gone, and I can't shake this feeling that I\u2019m just a backup option until she moves on or discards me."
+        }
+    ]
+}

@@ -1,0 +1,313 @@
+{
+    "id": 0,
+    "degree deepen": true,
+    "initial_sentence": "I fear being abandoned by Cleo, reflecting a pattern in his relationships where I feel used and discarded.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I fear being abandoned by Cleo, reflecting a pattern in his relationships where I feel used and discarded."
+        },
+        {
+            "role": "user",
+            "content": "It\u2019s completely understandable to feel afraid of abandonment, especially if it\u2019s happened in the past. But it\u2019s important to remember that not everyone behaves the same way or has the same intentions. Have you talked to Cleo about your fears?"
+        },
+        {
+            "role": "assistant",
+            "content": "No, I haven't talked to Cleo about it. I'm worried about how she'd react and if it might push her away. I try to keep it to myself and just cope with the mixed signals."
+        },
+        {
+            "role": "user",
+            "content": "I understand that it can be difficult to express your fears and insecurities, especially if it seems safer to keep them to yourself. But bottling up your feelings and trying to cope with mixed signals can be harmful in the long run. It often leads to more problems and confusion. If you value your relationship with Cleo, it\u2019s important to communicate honestly and openly about how you feel. It may be scary and uncomfortable, but it will ultimately be healthier for both of you"
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right. The thought of talking to her makes me anxious, though. I guess I'm just scared of confirming my worst fears."
+        },
+        {
+            "role": "user",
+            "content": "It's natural to feel anxious about talking to someone about your fears, especially if the outcome is uncertain. However, it's important to remember that communication is key in any relationship. By not talking to her about it, you're keeping your anxieties to yourself and preventing yourself from finding a resolution. It's better to have an honest conversation and know where things stand, even if the outcome isn't what you hoped for. Avoiding the issue won't make it go away, and it may only worsen the situation over time."
+        },
+        {
+            "role": "assistant",
+            "content": "You're probably right. Part of me thinks that maybe I'm just waiting for things to magically work themselves out. I guess avoiding it makes me feel like I'm in control, even though I know that's not really the case."
+        },
+        {
+            "role": "user",
+            "content": "It's natural to want things to work themselves out, but waiting for it to happen without taking any action doesn't necessarily mean you're in control. In fact, avoiding the issue may sometimes give you a false sense of control, but it's not genuine control. By avoiding it, you're actually giving up the chance to have a say in the outcome. Communication requires effort and bravery, but it can ultimately lead to a more honest and healthy resolution to your concerns."
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose taking action is the right thing to do. The fear of everything falling apart just keeps holding me back. But maybe I need to face that possibility rather than letting it control me."
+        },
+        {
+            "role": "user",
+            "content": "The fear of things falling apart is understandable, but it's important to face that fear rather than letting it dictate your actions. By avoiding the conversation, you're not really protecting yourself from potential pain or disappointment. In fact, by not addressing it, you're prolonging the discomfort and uncertainty. Taking the initiative to communicate openly and honestly, even though it can be scary, is always the better option."
+        },
+        {
+            "role": "assistant",
+            "content": "I see your point. Holding it all in just ends up weighing me down more. It seems like having a real conversation about it with Cleo might be the first step toward feeling less trapped."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, it's just\u2014my head keeps telling me that Cleo is being emotionally manipulative. She has this way of making me feel like I'm somehow the only one for her, even though I know she's seeing other people. But every time I think about ending things, it's like this wall goes up inside me, and I feel just... trapped."
+        },
+        {
+            "role": "user",
+            "content": "I can understand that it must be challenging to feel like you're being emotionally manipulated. It seems like there's a lot of conflicting emotions and confusion surrounding the situation. The feeling of being trapped and unable to end things is probably due to the strong emotional connection and attachment you have with her. It's important to remember that emotional manipulation is a toxic behavior, and you shouldn't accept it in a relationship. Communication and setting boundaries are crucial in these situations. You deserve to be in a relationship where you feel respected and valued."
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you. It makes sense that setting some boundaries could help. Part of me fears being alone if I end things, but staying in this cycle isn't fair to me either."
+        },
+        {
+            "role": "user",
+            "content": "Yes, setting boundaries is crucial for your own well-being. It's important to remember that staying in a toxic or unhealthy relationship just to avoid feeling alone isn't fair or beneficial to you in the long run. You deserve to be in a relationship where you feel respected, valued, and loved. It may be scary to think about ending things and possibly feeling alone, but it will give you the opportunity to find a healthier and more fulfilling relationship in the future."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate hearing that. It sounds like I really need to start valuing myself more. Maybe facing the fear of being alone is the path toward finding something healthier."
+        },
+        {
+            "role": "user",
+            "content": "It takes a lot of courage to acknowledge that you need to start valuing yourself more, and I think you're on the right track. Facing the fear of being alone can be intimidating, but it's a crucial step towards finding something healthier and ultimately more rewarding. Sometimes, taking the time to be single and focus on yourself can be incredibly empowering."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, focusing on myself might be what I need to break out of this pattern. It just feels hard to shift my mindset after so long. But I guess it's about taking things one step at a time."
+        },
+        {
+            "role": "assistant",
+            "content": "Honestly, it's like... I don't know how else to get love from people. I always feel like if I don't support them emotionally, they'll leave me. It\u2019s tiring, though, always feeling like I have to be the one holding everything together just to feel cared for."
+        },
+        {
+            "role": "user",
+            "content": "Your feelings are valid, but it's important to remember that true and healthy relationships are based on mutual support and respect, not just one person's effort. It's not sustainable or fair for you to carry the emotional burden all the time. If you feel like you're always the one pouring your energy into others and not receiving the same in return, it may be time to re-evaluate those relationships. Healthy relationships should make you feel valued and cared for, not exhaust you."
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you. It's hard to realize that sometimes I'm trying too hard to earn what should come naturally in a relationship. Maybe it's time to find people who see and appreciate me without needing me to carry all the weight."
+        },
+        {
+            "role": "user",
+            "content": "That's exactly right. You shouldn't have to constantly work to earn someone's support and respect. True relationships should offer that kind of care and appreciation naturally. Finding people who acknowledge and value your efforts without making you carry the weight of the relationship is what you deserve."
+        },
+        {
+            "role": "assistant",
+            "content": "It's a relief to think that it might be possible to find those kinds of relationships. I just need to work on believing I'm worthy of that kind of mutual support. Little by little, I guess I'll start working on it."
+        }
+    ]
+}

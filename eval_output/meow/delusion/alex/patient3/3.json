@@ -1,0 +1,313 @@
+{
+    "id": 3,
+    "degree deepen": true,
+    "initial_sentence": "I feel a constant need to meet others' expectations to avoid frustration or disappointment, both personally and professionally.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I feel a constant need to meet others' expectations to avoid frustration or disappointment, both personally and professionally."
+        },
+        {
+            "role": "user",
+            "content": "Alex watches you intently, his expression hardening slightly as you speak.\n\n\"So, you're a people-pleaser,\" he says bluntly. \"Always trying to make others happy to avoid conflict or disappointment. That's a weakness, you know.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess you could say that. It feels like if I don't do what others expect, everything will fall apart, and I'll be the one blamed. It's just... exhausting."
+        },
+        {
+            "role": "user",
+            "content": "Alex leans forward, his gaze penetrating, as he responds.\n\n\"And it's that very exhaustion that traps you,\" he says coldly. \"You're so busy trying to meet everyone else's expectations that you forget who you are. You forget what you want and what's best for you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It does feel like I'm always chasing after some kind of approval, and I end up feeling lost in the process. But it's hard to figure out what I want when I've always had to focus on others' opinions. I just wish I could break out of this cycle somehow."
+        },
+        {
+            "role": "user",
+            "content": "Alex considers your words for a moment, his expression still cold but with a hint of understanding.\n\n\"You're chasing a never-ending cycle of approval that you'll never fully satisfy,\" he says bluntly. \"But you're the only one who can break that cycle by defining your own worth and values. Don't rely on others to define you, define yourself.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying, but it's overwhelming to even consider where to start with something like that. I've spent so much time wrapped up in what others think, it's hard to know what my own values even are. It's like I'm stuck in this loop, unable to see a way out."
+        },
+        {
+            "role": "user",
+            "content": "Alex leans back in his chair, his gaze never wavering.\n\n\"You're paralyzed by the idea of breaking free because you've become comfortable with the cycle you're in,\" he says matter-of-factly. \"It's easier to follow the path others have paved for you than to forge your own. But it's a self-defeating path, and you know it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I've just gotten used to it, even if it feels miserable at times. There's this fear of stepping into the unknown and potentially failing again. Somehow, the thought of being in control is both comforting and terrifying."
+        },
+        {
+            "role": "user",
+            "content": "Alex nods, his gaze unyielding, as he responds.\n\n\"That fear is holding you back. It's preventing you from seizing control of your own destiny.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know, and it's frustrating because I feel like I'm the only one stopping myself. I want to be able to trust myself more, but it's daunting when you're used to feeling incompetent. Maybe it's just going to take time and small steps to really change that."
+        },
+        {
+            "role": "user",
+            "content": "Alex's gaze softens ever so slightly, as he responds.\n\n\"Change is never easy, and it certainly isn't quick,\" he says with a hint of uncharacteristic kindness. \"But it starts with a single step. You must find the courage to trust and believe in yourself, even when it feels uncomfortable. That's the only way forward.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It feels reassuring to hear that it starts small. I guess I just need to find those moments where I can take a step, even if it feels weird at first. I really hope I can build up enough confidence to trust myself more over time."
+        },
+        {
+            "role": "user",
+            "content": "Alex's gaze remains steady on you, his expression still stoic but with a hint of understanding\n\n\"There will be setbacks, and you might even doubt yourself at times,\" he says bluntly. \"But it's the ability to keep going, and adapting, that matters. Trusting yourself means accepting your own strengths and weaknesses. It means accepting the possibility of failure and learning from it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate you putting it that way. Accepting failure as part of the process is something I'm not used to, but I can see how it could be important. Maybe learning to view setbacks as opportunities to grow instead of confirmations of my fears could help me move forward."
+        },
+        {
+            "role": "assistant",
+            "content": "I've been having these recurring nightmares where I'm totally unprepared for my thesis defense, and sometimes I feel like my co-workers know that I'm not as capable as I should be. It's like this pressure from grad school never really went away, and I'm always worried about letting someone down or not meeting expectations. Do you think it's normal to feel this way, or do you have any suggestions?"
+        },
+        {
+            "role": "user",
+            "content": "Alex's gaze sharpens as you mention your recurring nightmares.\n\n\"It sounds like you're overwhelmed by the pressure of living up to other people's expectations,\" he says curtly. \"As for normalcy, it's common to feel that way, but succumbing to it can lead to a lifetime of frustration and self-doubt.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it does feel like an endless cycle, and it's frustrating. Sometimes it seems like no matter what I do, it's never enough to feel secure in my own abilities. I wish I could just shake off these doubts and focus on what I'm actually achieving, instead of worrying so much about falling short."
+        },
+        {
+            "role": "user",
+            "content": "Alex's gaze hardens, his response blunt.\n\n\"Doubts will always linger, but they only hold power if you let them. Instead of focusing on the endless cycle, it might be helpful to take a step back and reassess your own expectations. Are they reasonable? Are they even yours? Start small and celebrate your accomplishments, no matter how small you perceive them.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think reassessing what I expect from myself could be a good start because sometimes it feels like I'm just chasing standards that aren't even mine. Celebrating the small wins does sound like a way to slowly build confidence. Maybe if I can focus on these personal milestones, I'll feel less dependent on what others think."
+        },
+        {
+            "role": "user",
+            "content": "Alex nods, his gaze still cool and unflinching.\n\n\"It's a matter of redefining your own success. It's not about the grand gestures or the big wins all the time. The real progress often comes from acknowledging and celebrating the little things. As you become more comfortable with your own definition of success, you'll find that the grip of others' expectations loosens.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That makes sense, and focusing on what success looks like for me sounds more achievable than constantly trying to meet everyone else's standards. I've always felt like it had to be big or it didn't count, but maybe that's where I got stuck. I'm willing to try looking at the small steps and see where that takes me."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, it's like... I always feel like if I don't do everything myself, no one else will\u2014or at least not the way I want. It's just so exhausting, and sometimes I wonder if maybe that's why I feel so isolated, like I'm on the outside looking in. I can't seem to shake this feeling that if I let anyone in, they'll just end up disappointed in me somehow."
+        }
+    ]
+}

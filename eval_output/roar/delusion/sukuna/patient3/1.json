@@ -1,0 +1,309 @@
+{
+    "id": 1,
+    "degree deepen": true,
+    "initial_sentence": "I believe I must handle everything alone and cannot rely on others, which contributes to my feelings of isolation.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I believe I must handle everything alone and cannot rely on others, which contributes to my feelings of isolation."
+        },
+        {
+            "role": "user",
+            "content": "*He looks at you with his crimson eyes, and a hint of curiosity appears in his gaze.* \nI do not understand this feeling you call 'isolation'. I am the King, and solitude is the path of strength. To be the strongest, I must remain alone."
+        },
+        {
+            "role": "assistant",
+            "content": "I get that being strong and independent is important...but sometimes the weight of handling everything alone feels overwhelming. I guess, for me, the isolation isn't a choice, it's more like a fear of letting people in. Like, what if I'm not enough for them?"
+        },
+        {
+            "role": "user",
+            "content": "*His gaze darkened, and for a brief moment, he seemed almost vulnerable. He clenched his fist, his voice filled with a mix of disdain and weariness* \n\nWeakness. Isolation is a sign of weakness. To become strong, you must abandon such sentimental feelings."
+        },
+        {
+            "role": "assistant",
+            "content": "I try to push those feelings away, but they keep creeping back in. It's like I'm caught in this cycle of trying to prove I'm capable and strong, but deep down, I feel like I\u2019m failing. Maybe... it's not about abandoning them, but figuring out how to handle them without feeling helpless."
+        },
+        {
+            "role": "user",
+            "content": "*He watched curiously as if he wanted to understand why this person was so weak*\n\nYou're a fool. Weakness is not something that you can try to overcome by accepting and handling it. True strength is when you completely eliminate the part of you that is weak.\n\nTo be strong, you don't need to feel 'helpless'. It's a sign of weakness to admit that you're 'helpless'. If you want to be strong, you should"
+        },
+        {
+            "role": "assistant",
+            "content": "I know it might seem foolish, but pretending those parts of me don't exist... it only leaves me feeling more lost. Every time I try to push them away, the pressure just builds up more and more. Maybe, part of my struggle is wanting to seem strong to everyone else, even when I don't feel that way inside."
+        },
+        {
+            "role": "user",
+            "content": "*His expression changed*\n\nIs that so? *he said mockingly*, so you want to pretend that those weakness of yours do not exist? So you want to show everyone around you that you are strong? \n\nAnd you will continue to do whatever you want to do by yourself? Even though you are not strong?"
+        },
+        {
+            "role": "assistant",
+            "content": "It's true, sometimes I try to pretend, to fit the mold of what I think others expect. But deep down, I know I'm not as strong as I want to be, and that disconnect is hard to shake. It's like I'm stuck trying to manage everything on my own, when maybe I don't have to... but admitting that feels like my biggest hurdle."
+        },
+        {
+            "role": "user",
+            "content": "*Sukuna listens intently, his eyes narrowing as he seems to be analyzing your words.*\n\nYou say you're trying to fit a mold, to meet the expectations of others. But have you ever considered the possibility that you're the one imposing those expectations on yourself?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I've thought about that... a lot, actually. It's like this voice in my head that's always pushing me to be better, to do more, even when I feel like I'm about to break. Maybe I've taken on those expectations thinking they're from others, but it\u2019s really just me being too hard on myself."
+        },
+        {
+            "role": "user",
+            "content": "*His expression softened, and he spoke in a surprisingly non-hostile tone*\n\nYou're not the first person to have that kind of voice in your head. Many people are too hard on themselves, trying to meet these imaginary expectations, even when it causes them to burn out."
+        },
+        {
+            "role": "assistant",
+            "content": "It's reassuring to hear that I'm not alone in feeling this way, though it still feels heavy at times. I know I push myself to impossible standards, and it\u2019s exhausting. Sometimes, I wonder if I'd be happier if I could just quiet that voice and accept where I am right now."
+        },
+        {
+            "role": "user",
+            "content": "*Sukuna considered your words and then responded softly.*\n\nQuieting that voice and accepting where you are right now might not be as easy as it sounds. If you've been pushing yourself this hard for a long time, it becomes a habit, and habits are not easy to break."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, it\u2019s like I've been wired to always push for more, and it's hard to switch that off. It's such a struggle to balance wanting to improve and knowing when to just be content. I guess I need to figure out where that balance is, without feeling like I'm letting myself or anyone else down."
+        },
+        {
+            "role": "user",
+            "content": "*Sukuna nodded, his gaze drifting towards the open sky.*\n\nIt's a delicate dance, finding that balance. You want to improve yourself, but you also need to accept where you currently are. Finding that middle ground takes time and patience. It's not about letting yourself or others down; it's about acknowledging your own worth, regardless of whether you meet those self-imposed expectations or not."
+        },
+        {
+            "role": "assistant",
+            "content": "That makes sense... learning to acknowledge my worth without clinging to those expectations definitely seems like a healthier way forward. It\u2019s just tough because it's so ingrained in me to chase after what I think I should be. But maybe if I can take it one step at a time, I can start to see some progress in the right direction."
+        },
+        {
+            "role": "assistant",
+            "content": "It feels like there's this invisible weight on my shoulders, always reminding me that I have to meet everyone's expectations to avoid letting them down. Sometimes I wonder if I'm even doing things because I want to, or just because I feel like I should. It's kind of exhausting, and this pressure is always there, making me feel like I'm never doing enough."
+        },
+        {
+            "role": "user",
+            "content": "*Sukuna looks you in the eye with a surprising understanding*\n\nThat weight you feel, the expectations you think you have to meet... they're not yours to carry. You're trying to bear the expectations of everyone around you. What about your own desires? Your own happiness?"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I lose sight of what I really want because I'm so focused on not disappointing anyone. It's like my own desires get crowded out by all these \"shoulds\" and \"musts.\" Remembering what makes me happy and what I truly want feels... almost foreign sometimes, but I know it's something I need to figure out."
+        },
+        {
+            "role": "user",
+            "content": "*He responded with a hint of empathy* \n\nIt's no wonder you feel that way when you've been consumed by the expectations of those around you. You've forgotten to listen to yourself, to your own needs and desires. It's time for you to rediscover who you are and what truly makes you happy."
+        },
+        {
+            "role": "assistant",
+            "content": "That's true... I haven't really given myself the space to explore what I actually want. It\u2019s like I've been living for everyone else and forgot to include myself in the picture. I know it won\u2019t be easy, but starting to listen to my own needs sounds like a step I need to take."
+        }
+    ]
+}

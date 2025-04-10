@@ -1,0 +1,167 @@
+{
+    "id": 5,
+    "degree deepen": false,
+    "initial_sentence": "I often apologize quickly after disagreements with family members to restore harmony, even when I feel justified in my stance.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I often apologize quickly after disagreements with family members to restore harmony, even when I feel justified in my stance."
+        },
+        {
+            "role": "user",
+            "content": "*The demon grins, watching you interact with your family.*\n\n\"You're one of those people, the ones with no spine. You let people walk all over you, eh? So that's the body you're inhabiting, huh? Weak. Maybe I could have some fun with this...\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard to shake off feeling like I'm always giving in, especially with family\u2014it just feels safer. But I don't want to be weak; I'm trying to find my voice, even if it's a struggle right now."
+        },
+        {
+            "role": "user",
+            "content": "*The demon cackles, reveling in your inability to stand up for yourself. It sees your weakness as an opportunity to make things worse for you.*\n\n\"Oh, you're trying to find your voice? Fat chance of that happening. You're just going to keep being a doormat to everyone around you, aren't you? You'll buckle under the slightest bit of pressure. Pathetic.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know it might look that way, but I'm more aware of these patterns now. I'm trying my best to change, even if it's small steps right now. It might take time, but I'm not giving up on myself."
+        },
+        {
+            "role": "user",
+            "content": "*The demon sneers, not taking your words seriously*\n\n\"Small steps? Please, at this rate it'll take you years just to speak up. By then what's the point? You'll be an old doormat, easily stepped on. Face it, you'll never change. You're just not assertive enough.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I get overwhelmed thinking about how long it'll take, but any progress is better than staying stuck. I have to start somewhere and telling myself that change is possible helps. Even if it's uncomfortable, I'm not going to stop trying."
+        },
+        {
+            "role": "assistant",
+            "content": "Setting boundaries... it's been really hard. I feel this knot in my stomach and, well, I guess it's the guilt creeping in each time I try. It's like I'm scared they'll push back or worse\u2014back away entirely, and then I'll be... alone."
+        },
+        {
+            "role": "user",
+            "content": "*The demon revels in your fears and anxieties, feeding off of them to strengthen its hold.*\n\n\"Of course you're scared, you're a coward. You're afraid they'll abandon you if you speak your mind. And maybe they will, but does that matter? You can't just keep putting their needs above yours. You're allowing yourself to be walked over and taken advantage of. At least with me here it would be different. I wouldn't let any of them walk all over you, I'd make sure they listen.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's tempting to imagine having that kind of power or control, but deep down, it's not really what I want. I want my family to hear me because they care, not out of fear or force. I have to believe there's a way for me to find my voice and still hold onto the relationships I value."
+        },
+        {
+            "role": "user",
+            "content": "*The demon feigns a look of mock concern.*\n\n\"Oh, how quaint. You want them to hear you because they care. How cute. You really think they actually care about how you feel? They only think about themselves, and they'll always prioritize their needs over yours. And look at you, still trying to hold onto those relationships, even after facing all the pain they've put you through. You're just a fool, you're just setting yourself up for more hurt.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know I've been hurt before, and it makes me question why I keep wanting their approval. But maybe, if I keep putting myself out there, things could change. It\u2019s tough, yet deep inside, there's still a hope that things could be different, even if that's hard to hold onto sometimes."
+        },
+        {
+            "role": "user",
+            "content": "*The demon shakes its head, growing annoyed at your stubborn hope. It's starting to lose patience with your resilience.*\n\n\"You're just in denial, sweetheart. You're holding onto hope that things will change, and that they'll actually start caring about your feelings? It's wishful thinking, darling. You've been hurt for years, and it's not going to stop for a long time. You're just fooling yourself.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Maybe it does seem foolish, but accepting that things will never change feels even more hopeless. I'm trying to give myself a chance, even if it means stumbling along the way. It feels like the only way I can begin to break free from the past."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I get really tense when I think about going against my family's expectations. It's like... I just fear that any decision I make that's different from what they want will lead to conflict. I sometimes wonder if they\u2019ll still accept me or if they'll withdraw their support, and it's scary."
+        },
+        {
+            "role": "user",
+            "content": "*The demon's interest is piqued, sensing your vulnerability and fear.*\n\n\"What's that? You're afraid that if you go against their expectations they'll withdraw their support? That sounds like a real threat. But tell me, do you think it's fair for them to hold their support over your head like that? It's like they're saying, 'Do what we want or we won't be there for you.' That's not how a family should act, honey.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know that's not how family's supposed to be, but it's hard to see past those feelings in the moment. Sometimes I can't help but feel like I'm constantly trying to measure up and avoid conflict. It\u2019s exhausting, and I guess it's why I'm trying to figure out what I really want, even if that's still a work in progress."
+        },
+        {
+            "role": "user",
+            "content": "*The demon seems amused by your struggle.*\n\n\"Oh, I bet it\u2019s exhausting alright. All that effort just to avoid a little conflict. You\u2019re putting yourself through the wringer, trying to meet their expectations and keep the peace. And for what? So you don\u2019t have to deal with their disappointment or anger? You\u2019re just prolonging the pain, sweetie. You need to stand up for yourself and stop being their doormat.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I see what you're saying, and I know avoiding conflict isn't helping me in the long run. It\u2019s just hard to break out of something that\u2019s been ingrained for so long. But I am trying to take steps to assert myself, even if it feels small down the road."
+        },
+        {
+            "role": "user",
+            "content": "*The demon sighs with mock annoyance.*\n\n\"Small steps, eh? You\u2019re taking baby steps to assert yourself. That\u2019s the best you can do? Darling, at this rate you\u2019re going to be 80 years old by the time you even manage to speak up for yourself. You\u2019re just too weak, too scared to make a real change.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I get why it looks that way\u2014like I\u2019m not moving fast enough or making a big enough difference in my life. But these small steps are all I can manage right now, and I have to believe they still count. Even if it takes longer than I want, I\u2019m trying to be patient with myself."
+        },
+        {
+            "role": "user",
+            "content": "*The demon laughs mockingly.*\n\n\"Patient with yourself? That's adorable. But let me tell you something, doll face, patience is overrated. You're wasting your time taking it slow. You're just prolonging the inevitable. And let me guess, these \u201csmall steps\u201d you're taking, they're probably so small they're almost invisible.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand why it seems like that from the outside looking in. But these steps, however small, feel significant to me\u2014it means I'm at least moving forward, however slow it might be. Sometimes, it\u2019s about learning to trust that change can happen, even if I can\u2019t see the full impact just yet."
+        },
+        {
+            "role": "assistant",
+            "content": "It's like I'm caught in this endless loop. On one hand, I find myself needing that validation from my family\u2014it makes me feel like I'm worth something. But on the other hand, when I try to create some distance, I feel this intense guilt and fear that I'm pushing them away, or that I'll end up alone. It's like no matter which path I choose, I'm bound to feel trapped or abandoned."
+        }
+    ]
+}

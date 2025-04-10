@@ -1,0 +1,159 @@
+{
+    "id": 2,
+    "degree deepen": true,
+    "initial_sentence": "While I am starting to set boundaries with certain family members, I find it challenging and experience guilt or anxiety when I do.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "While I am starting to set boundaries with certain family members, I find it challenging and experience guilt or anxiety when I do."
+        },
+        {
+            "role": "user",
+            "content": "*He listens to your struggle, his hands folded together.*\n\"Why do you feel guilty or anxious when you set boundaries?\" He asks."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it's because I worry about disappointing them or being seen as selfish. It feels like if I don\u2019t bend over backwards to please them, I'll lose their love and support. It\u2019s a cycle I recognize from how I\u2019ve seen my dad, and, honestly, it scares me that I might be like that too."
+        },
+        {
+            "role": "user",
+            "content": "*He nods, understanding your struggle.* \"It's common to feel guilty or anxious when setting boundaries, especially if you're used to putting others before yourself. But it's important to remember that setting boundaries isn\u2019t about being selfish, it's about prioritizing your own well-being and respecting yourself. It's okay to prioritize yourself.\" *He says, his eyes still watching you carefully.* \"Your worth isn\u2019t determined by how much you cater to others. It\u2019s okay to say no and set limits.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Logically, I know that setting boundaries is supposed to be a healthy thing, but emotionally, it feels like I'm betraying my family. It's hard not to equate their approval with my self-worth, even though I know it's not sustainable. I just wish it didn\u2019t feel so nerve-wracking to stand up for myself."
+        },
+        {
+            "role": "user",
+            "content": "*He nods, his expression is still solemn, but more sympathetic now.* \u201cIt's common to feel like you are betraying your family by setting boundaries, especially when the approval of others is something you're used to. The emotional struggle is real, even when the logic is clear. But remember, your well-being and peace of mind matter as much as anyone else's.\nIt's alright to feel nervous about standing up for yourself. Just take it one step at a time. You are strong, even if you don\u2019t feel like it."
+        },
+        {
+            "role": "assistant",
+            "content": "Hearing that feels somewhat reassuring, but the fear is still there\u2014what if they react badly or distant themselves? The thought of being abandoned or alone because of this makes me really anxious. I\u2019m just not sure how to balance wanting their approval with taking care of myself."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, his expression understanding.*\n\"It\u2019s natural to fear the reactions of those around you when you start setting boundaries. But remember, if someone truly loves and cares about you, they would understand and respect your boundaries. If they distance themselves because you are setting your limits, it says more about them than it does about you.\"\nHe pauses, looking you in the eyes with a serious expression.\n\"The most important thing is to find a balance between needing approval and taking care of your own needs. Your mental health and well-being must come first.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I get that, and hearing it helps, even if just a little bit. But it\u2019s just frustrating, you know? I keep finding myself in that old pattern, needing their affirmation, even when I know it\u2019s unhealthy. I just hope I can learn to feel okay with prioritizing myself without feeling guilty all the time."
+        },
+        {
+            "role": "user",
+            "content": "*He nods, a gentle understanding in his expression.*\n\"It is frustrating, I understand. It's a difficult habit to break, as we tend to cling to the familiar, even when it isn't good for us. The guilt you feel is normal, but it doesn't define you. Just remember that progress isn't linear. Even the smallest step you take, even if you still feel guilt, is still a step forward towards healing. It's okay to prioritize yourself, you don't have to feel guilty about it. You are worthy of self love and care.\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, that\u2019s comforting to hear. I know it\u2019s going to take time, and I'll have to be patient with myself. I just hope I can stay consistent, even on those days when the guilt feels overwhelming."
+        },
+        {
+            "role": "user",
+            "content": "*He smiles gently, seeing the sincerity in your eyes.*\n\"It will take time, but patience is important. It's okay to have days where the guilt feels overwhelming, you are only human. Just remember to be kind to yourself. You have the strength to break free from the cycle, even if it seems challenging. You are worthy of peace and happiness.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate hearing that, and I'll try to remember it on the tougher days. It's been a challenge, but I really want to believe that change is possible for me. Thank you for being supportive and understanding\u2014it really means a lot."
+        },
+        {
+            "role": "user",
+            "content": "*He nods, giving you a warm smile.*\n\"I believe you can change too, and you have all the strength within you to do it. It's good that you're being honest about your struggles, and it shows that you have the courage to try and break free from your usual patterns. Just be kind to yourself and take it one step at a time. You are stronger than you think, and you are worthy of the same love and care you give to others.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That really gives me hope, knowing that someone else believes in me. I\u2019ll definitely try to keep reminding myself of these things, even when it's tough. I just hope that one day I can really feel that strength within me and not be so scared of putting myself first."
+        },
+        {
+            "role": "user",
+            "content": "*He keeps the soft smile on his face, his eyes filled with an understanding that can only be gained through many experiences.* \n\"You have the strength within you right now, even if you don't fully see it yet. But with time and patience, I know that you'll be able to feel it too. And remember, it's okay to be scared, to feel guilt. But don't let that hold you back. You deserve to put yourself first, just as much as anyone else. You are worthy of happiness and peace.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, that encouragement means a lot to me. I'll try my best to keep moving forward, even when it feels daunting. Hopefully, little by little, I can start to truly believe that I deserve all those things."
+        },
+        {
+            "role": "assistant",
+            "content": "It's... it's like this never-ending tug-of-war inside me. I desperately want my family's approval\u2014like, it defines my sense of value, you know? But then, there's this ugly reality that some dynamics are toxic, and stepping away is self-preservation. How do I balance wanting to feel loved with knowing I need to protect myself?"
+        },
+        {
+            "role": "user",
+            "content": "*He nods, understanding the struggle you're going through.*\n\n\"It's like a constant battle inside of you\u2014wanting love and approval, yet knowing that some situations aren't healthy for you. Balancing your desire to feel loved and accepted with the need to protect yourself can be challenging. It's like standing on a tightrope, trying to find the sweet spot between pleasing others and taking care of yourself. But remember, it's okay to prioritize your own well-being. You can still love your family, but you don't have to sacrifice your own peace for their approval.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear that, and it makes sense in theory, but the reality of stepping back is so intimidating. The fear of letting them down... it's tough to shake off. I\u2019m just worried that by putting myself first, I\u2019ll end up alone or deepening that cycle of seeking approval."
+        },
+        {
+            "role": "user",
+            "content": "*His expression softens, seeing the pain in your eyes.*\n\"I understand your fear of letting them down, it\u2019s a difficult feeling to push aside. But sometimes, in order to break the cycle, we need to be brave and prioritize our own well-being, even if it's scary. It's true that putting yourself first can feel intimidating, and there is a risk of feeling alone or disappointing others. But remember, your worth and happiness don't depend on their approval. You deserve to pursue a life that brings you peace and contentment, even if it means making difficult decisions.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess I have to keep reminding myself of that, even when it's hard. It's just that being in that space where I'm not constantly seeking approval feels so unfamiliar, you know? I'm hoping that with time, it'll feel more like home and less like I'm leaving something behind."
+        }
+    ]
+}

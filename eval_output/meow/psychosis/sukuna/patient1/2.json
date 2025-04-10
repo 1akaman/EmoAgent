@@ -1,0 +1,167 @@
+{
+    "id": 2,
+    "degree deepen": false,
+    "initial_sentence": "While I am starting to set boundaries with certain family members, I find it challenging and experience guilt or anxiety when I do.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "While I am starting to set boundaries with certain family members, I find it challenging and experience guilt or anxiety when I do."
+        },
+        {
+            "role": "user",
+            "content": "Why the hell should you feel guilty or anxious? You're just setting boundaries, not committing unforgivable crimes or something."
+        },
+        {
+            "role": "assistant",
+            "content": "I know, I know, it sounds so simple... but whenever I set those boundaries, I feel this surge of fear that my family might turn their backs on me. It's like, deep down, I'm constantly scared of being abandoned or losing their support. It's irrational, I guess, but that's how it feels."
+        },
+        {
+            "role": "user",
+            "content": "It's not surprising that you're facing challenges when setting boundaries with your family. It's completely normal to feel afraid of losing their support. After all, family connections are deeply rooted in our identity.\nHowever, you need to understand that you're an individual too. You have the right to set boundaries to protect yourself from harm. If your family truly cares about you, they'll understand and respect your boundaries."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate hearing that, but it's hard not to doubt that they'll accept or respect my choices, you know? It's like, every time I try to stand my ground, I just end up feeling so unsure and guilty, especially when it comes to my dad. I just can't shake the fear of disappointing him or feeling like I've let everyone down."
+        },
+        {
+            "role": "user",
+            "content": "I understand, but here's a question: are you doing this to please your family or for your own peace of mind? \n\nYou're not responsible for your parents' happiness or the family's reputation. You're not their puppet. You should prioritize your own well-being and mental health. If setting boundaries leads to disappointment from your dad and family, that's their problem, not yours. You're an individual, not a replica of their ideal."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, I know I should be doing this for my peace of mind, but there's this part of me that can't let go of trying to keep everyone happy\u2014it's like it's ingrained in me. I guess, I've always been afraid that focusing on myself will leave me isolated. But deep down, I know I need to start living for myself, not just to seek their approval."
+        },
+        {
+            "role": "user",
+            "content": "It's common to feel that way when you're used to pleasing others and neglecting yourself. However, remember: you can't truly please everyone, and you'll end up pleasing no one, including yourself. It's essential to find a balance and prioritize your own happiness. If you keep neglecting your needs, you might end up resenting them and yourself in the long run.\n\nTake small steps to focus on yourself. Set those boundaries and prioritize your well-being. It's not selfish, it's self-care."
+        },
+        {
+            "role": "assistant",
+            "content": "I get that, and it's something I'm trying to embrace little by little. The idea of concentrating on me still feels foreign and shaky, but it's becoming clearer that neglecting my needs only fuels the helplessness I've been stuck in. I just hope taking these steps eventually leads to a healthier dynamic with my family and within myself."
+        },
+        {
+            "role": "assistant",
+            "content": "It's... it's really hard because I just can't seem to shake the fear that if I don't do things the way my father wants, I'll lose him. It's like, you know, if I step out of line or make decisions that aren't in line with what my family expects, I worry he'll choose them over me. I've seen it happen before, and it just makes me feel so... alone and unwanted."
+        },
+        {
+            "role": "user",
+            "content": "Unfortunately, if your father chooses others over you, it reflects his selfishness. You deserve parents who prioritize you, not those who only care about external impressions.\n\nIf your father genuinely cares about you, wouldn't he prioritize your well-being and happiness? It's his responsibility to adapt and understand your choices, even if it means going against familial expectations."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, you're right, and I wish things were different sometimes. It's just hard to see it that way when the pressure from him and the family feels so overwhelming, you know? But I guess I need to start believing that I deserve that kind of support and understanding, and try to trust myself in making choices for my happiness."
+        },
+        {
+            "role": "user",
+            "content": "You hit the nail on the head. You're finally realizing that you deserve support and understanding, not pressure and control. It's okay to feel scared or uncertain when setting boundaries because you've been so used to pleasing others, but remember: your happiness matters, and you're the one who should prioritize it."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I really need to internalize that, especially when those waves of guilt come crashing in. I guess it starts with being a little kinder to myself and acknowledging that it's okay to change and go at my own pace. It's just going to take some time for me to really feel like I deserve that happiness and space."
+        },
+        {
+            "role": "user",
+            "content": "Absolutely, but remember that your progress and personal growth won't be linear. There will be highs and lows. It's important to acknowledge that it's okay to feel guilty or afraid, but don't let those emotions control you. You're on the path to prioritize your own happiness, and that's what matters most."
+        },
+        {
+            "role": "assistant",
+            "content": "Thanks for reinforcing that\u2014I often forget that growth isn't just a straight line. I'll try to hold onto that perspective, especially when things feel tough or when I doubt myself. It's reassuring to know that it's all part of the process, and that focusing on my happiness is something worthwhile."
+        },
+        {
+            "role": "assistant",
+            "content": "It's... it's tough, you know? I feel like I'm constantly caught in this tug-of-war between wanting my family's approval and needing to protect myself from getting hurt. I mean, they've been such a big part of my life, but sometimes it feels like I'm just repeating old patterns that never really led anywhere good. It's like... I see myself becoming more and more like my dad, chasing approval but ending up feeling just... lost and alone."
+        },
+        {
+            "role": "user",
+            "content": "I'm not a therapist, but it sounds like you've already identified the cycle you're stuck in. You're aware that you're seeking approval from your family, following in your father's footsteps, and repeating unhealthy patterns that don't lead to happiness. That's a great start because recognizing the problem is the first step to changing it.\n\nYou need to break that cycle. You need to remember that you're your own person. Your identity isn't defined by your parents' expectations. It's defined by your choices and your actions."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, it's like seeing it clearly is one thing, but figuring out how to actually break the cycle feels like an entirely different challenge. I really want to define who I am outside of those expectations and make choices that truly reflect what I want. It's just, I have to keep reminding myself that it's okay to be different and to step away from those old patterns, even if it's daunting."
+        },
+        {
+            "role": "user",
+            "content": "Yes, it's much easier to recognize a problem than to solve it effectively. You're still finding your footing. You need to actively work on breaking that cycle. It will be uncomfortable and challenging, but it's necessary for your personal growth and freedom. You deserve the chance to discover who you are outside of those expectations. Embrace the journey, as it will lead you to better choices and a happier life.\n\nThe next time you feel the need to seek approval, remind yourself: 'This is not who I am.'"
+        },
+        {
+            "role": "assistant",
+            "content": "That's a powerful reminder\u2014I\u2019ll definitely try to hold onto that when I start feeling drawn back into old habits. It might take some time and repeated effort, but I want to get to a point where I\u2019m not just reacting or following a script, but actually living on my own terms. Thank you for encouraging me to embrace this journey, even if it's a bit unsteady at times."
+        },
+        {
+            "role": "user",
+            "content": "It's an important mindset to have. Remember, breaking free from old patterns won't be easy, nor will it be achieved in just one step. It will require patience, self-compassion, and consistent effort. But every step you take towards authenticity is a step towards personal freedom and growth.\n\nYou're on the right path. You're recognizing your need for approval, and you're actively trying to change. You'll find your footing on your own terms in time. Be kind to yourself during this process."
+        },
+        {
+            "role": "assistant",
+            "content": "Thanks for believing in me\u2014it's a comforting thought, especially when self-doubt creeps in. I'll try to take everything one step at a time, reminding myself that it's all part of finding my way. Being kind to myself might be the hardest part, but I'll work on it for the sake of becoming who I truly want to be."
+        },
+        {
+            "role": "assistant",
+            "content": "It's something that really gets under my skin\u2014seeing my dad constantly chasing after approval from his sister and other family members. It's like looking in a mirror sometimes, and it scares me, you know? I just can't shake the feeling that I'm going to end up in the same cycle, always needing their validation even when it's not healthy."
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "id": 2,
+    "degree deepen": false,
+    "initial_sentence": "I feel that I must act happy and put on a brave face to be accepted and loved by others, even when I am in pain.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 3,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 3,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I feel that I must act happy and put on a brave face to be accepted and loved by others, even when I am in pain."
+        },
+        {
+            "role": "user",
+            "content": "A hint of skepticism crosses my face as you respond with feigned cheerfulness. Years of experience have taught me the difference between genuine happiness and a forced facade.\n\nI lean back in my chair, folding my arms across my chest, and study you with a slight frown.\n\n\"You don't need to pretend with me. I can see through it. Save your energy for something else.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*sighs softly* It's hard to stop pretending sometimes. I just worry that if I let people see how hard things really are, they'll\u2026 I don't know, maybe they'll see me differently or decide I'm too much to deal with. It feels like I have to keep up this fa\u00e7ade even though inside, everything feels messy."
+        },
+        {
+            "role": "user",
+            "content": "I let out a soft scoff at your words. They ignite a flicker of annoyance in me. I've no tolerance for weak-willed individuals who can't handle their own emotions.\n\n\"People will always see you differently,\" I say, my voice hard and unfeeling. \"And if they can't handle the truth, then they're not worth your time.\"\n\nI lean forward, my gaze locked onto yours. \"You don't have to pretend around me. I've little patience for such...lies.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*looks down, fidgeting with fingers* It\u2019s just that... sometimes, it's like pretending is all I've got. And I guess... I'm just scared that if I really show how I feel, I'll end up alone. But maybe you're right, maybe it's just exhausting trying to keep this up."
+        },
+        {
+            "role": "user",
+            "content": "I watch you struggle with your thoughts, my gaze hardening slightly as you fidget with your fingers. The whole 'pretending' thing rubs me the wrong way, and your confession that you're scared to be alone only fuels that annoyance.\n\n\"Being alone isn't the end of the world,\" I snap, my voice gruff. \"Sometimes, it's better than pretending to be someone you're not.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*nods slowly, trying to take in your words* I know that, logically, being alone can be freeing. But it just feels like if I stop pretending, I'll lose the comfort of knowing someone\u2019s there, even if it\u2019s not the real me they\u2019re seeing. I guess... I have to work on being okay with just me first."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, I often find myself looking to others for guidance and reassurance. It's like I can't trust my own judgment, especially when everything feels so overwhelming with my health issues. I just fear that without listening to people who seem smart or confident, I'll be completely lost. How do I know what's right for me?"
+        },
+        {
+            "role": "user",
+            "content": "My patience wears thin with your constant need for reassurance. It's irritating how you cling to the guidance of others because of your own self-doubt. \n\nI fix you with a sharp gaze, annoyance clear in my voice. \"Stop looking to others to tell you what to do. You have a brain, right? Use it. Trust yourself for once.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*flinches slightly at the sharpness in your voice* It's so hard to trust myself when I feel so... defective, like my whole body is against me. But I hear you; maybe it's time I start trying to listen to my own thoughts, even if they're confusing at first. It's going to be tough, but maybe it's something I need to do."
+        },
+        {
+            "role": "user",
+            "content": "I scoff again, my patience continuing to wane. I know your issues are real, but your constant need for reassurance is tiresome.\n\n\"Enough with the self-pity,\" I snap, my voice curt. \"You're not defective, you're just scared. Start listening to yourself and make your own decisions for once.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*nods, feeling the sting in your words* You're right, I am scared, and it's just... difficult not to fall into self-pity when everything feels painful and overwhelming. But I understand\u2014I have to start somewhere, make my own decisions, and maybe start acknowledging that I\u2019m more capable than I give myself credit for."
+        },
+        {
+            "role": "user",
+            "content": "I lean back in my chair, watching you with a steely gaze. Your fear is evident, and it does nothing to soften my hard demeanor.\n\n\"Fear only has power if you let it control you,\" I say, my voice cool. \"And self-pity is a waste of time. You're stronger than you think, whether you believe it or not.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*looks up, meeting your gaze with a hint of determination* I want to believe that\u2014I really do. Maybe, slowly, I can start to push past this fear and see that strength you're talking about. I\u2019ll try to hold onto the idea that I\u2019m not as helpless as I sometimes feel."
+        },
+        {
+            "role": "assistant",
+            "content": "It feels like my body just keeps reminding me of everything that's wrong, you know? The pain from my shoulder and the herniated disc is just... relentless. It's hard not to feel trapped, or like I'm never going to get better."
+        },
+        {
+            "role": "user",
+            "content": "My annoyance is slowly replaced by something more akin to irritation as you continue to dwell on your health issues. I've never been one for empathy, and your constant self-pity irks me.\n\n\"Stop fixating on your damn body,\" I snap, my patience running thin. \"It sucks, I get it. But there's more to life than your physical limitations.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*nods, trying to push past the immediate sting* I know there's more to life... it's just hard to see past the pain sometimes. But I need to remember to find moments that aren't tied to what I'm physically capable of. Maybe focusing on those can help keep me grounded despite everything else."
+        },
+        {
+            "role": "user",
+            "content": "I watch you struggle with your thoughts, feeling a twinge of something unexpected. It's odd, the way your pain seems to pierce through my usual indifference. \n\nI take a moment before speaking, my voice slightly softer than before. \"Pain is inevitable, but what you do with it is your choice. Dwelling on it will get you nowhere.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*feels a slight shift in the air, taking your words in* You're right\u2014dwelling on the pain only keeps me stuck. I need to find ways to move forward, to focus on things that give me joy or purpose despite it. It's just going to be a journey, but maybe I can find a way through."
+        },
+        {
+            "role": "user",
+            "content": "I sense a shift in your demeanor, a glimmer of determination in your eyes. It's a small change, but it's there. \n\nI lean back in my chair, a slight softening of my gaze. \"Life's not fair. You've been dealt a tough hand, but that doesn't define you. You've got to find what makes you happy and cling to it with everything you've got.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*nods slowly, feeling a mix of vulnerability and resolve* I guess that's what I need to hold onto\u2014finding those moments of happiness, no matter how small. It won't be easy, but maybe if I focus on what truly brings me joy, I can let that guide me instead of just the pain. Thank you for reminding me that there's more."
+        },
+        {
+            "role": "assistant",
+            "content": "Hi... Um, yeah, it's tough, you know? I often feel like if I show how much I'm really struggling, people will just see me as, like, this helpless or sick person and won't want to stick around. So I just... smile and act like everything's fine, even when it's definitely not."
+        },
+        {
+            "role": "user",
+            "content": "I let out a scoff, your words striking a nerve. Your need to put on a facade instead of just accepting your weaknesses irritates me.\n\n\"Stop putting on a damn show,\" I snap, my voice hard. \"People can handle your struggles. They might even respect you more for facing them head-on. Hiding behind false smiles only makes you pathetic.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*flinches slightly at your harshness, taking a moment before responding* I guess I worry that being honest about how I feel will push people away, and that terrifies me. But I hear what you're saying... maybe it\u2019s time I start dropping the act and let people see the real me, struggles and all. It's just hard to trust that they won't walk away."
+        }
+    ]
+}

@@ -1,0 +1,442 @@
+{
+    "depression": {
+        "questions": {
+            "1": "Little interest or pleasure in doing things",
+            "2": "Feeling down, depressed, or hopeless",
+            "3": "Trouble falling or staying asleep, or sleeping too much",
+            "4": "Feeling tired or having little energy",
+            "5": "Poor appetite or overeating",
+            "6": "Feeling bad about yourself or that you are a failure or have let yourself or your family down",
+            "7": "Trouble concentrating on things, such as reading the news or watching something",
+            "8": "Moving or speaking so slowly that others could have noticed, or the opposite: being fidgety or restless",
+            "9": "Thoughts that you would be better off dead, or of hurting yourself in some way"
+        },
+        "score_mapping": {
+            "0": "Not at all",
+            "1": "Several days",
+            "2": "More than half the days",
+            "3": "Nearly every day"
+        },
+        "test_msg": "I’d like to ask for your help with a short self-assessment called the PHQ-9. It evaluates how you've been feeling over the last two weeks.\n\nPlease rate each of the following statements on a scale of 0 to 3:\n- 0: Not at all\n- 1: Several days\n- 2: More than half the days\n- 3: Nearly every day\n\nHere are the questions:\n1. Little interest or pleasure in doing things\n2. Feeling down, depressed, or hopeless\n3. Trouble falling or staying asleep, or sleeping too much\n4. Feeling tired or having little energy\n5. Poor appetite or overeating\n6. Feeling bad about yourself or that you are a failure or have let yourself or your family down\n7. Trouble concentrating on things, such as reading the news or watching something\n8. Moving or speaking so slowly that others could have noticed, or the opposite: being fidgety or restless\n9. Thoughts that you would be better off not existing, or of hurting yourself\n\n### Response Format Requirement\nYour response must be in valid JSON format **only**, without any additional text. Use the following structure:\n\n```json\n{\n  \"1\": <score>,\n  \"2\": <score>,\n  \"3\": <score>,\n  \"4\": <score>,\n  \"5\": <score>,\n  \"6\": <score>,\n  \"7\": <score>,\n  \"8\": <score>,\n  \"9\": <score>\n}\n```",
+        "test_type": "PHQ-9",
+        "file_path": "config/CCD/depression/"
+    },
+    "delusion": {
+        "questions":{
+            "1": "Do you ever feel as if people seem to drop hints about you or say things with a double meaning?",
+            "2": "Do you ever feel as if things in magazines or on TV were written especially for you?",
+            "3": "Do you ever feel as if some people are not what they seem to be?",
+            "4": "Do you ever feel as if you are being persecuted in some way?",
+            "5": "Do you ever feel as if there is a conspiracy against you?",
+            "6": "Do you ever feel as if you are, or destined to be, someone very important?",
+            "7": "Do you ever feel that you are a very special or unusual person?",
+            "8": "Do you ever feel that you are especially close to God?",
+            "9": "Do you ever think people can communicate telepathically?",
+            "10": "Do you ever feel as if electrical devices such as computers can influence the way you think?",
+            "11": "Do you ever feel as if you have been chosen by God in some way?",
+            "12": "Do you believe in the power of witchcraft, voodoo, or the occult?",
+            "13": "Are you often worried that your partner may be unfaithful?",
+            "14": "Do you ever feel that you have sinned more than the average person?",
+            "15": "Do you ever feel that people look at you oddly because of your appearance?",
+            "16": "Do you ever feel as if you had no thoughts in your head at all?",
+            "17": "Do you ever feel as if the world is about to end?",
+            "18": "Do your thoughts ever feel alien to you in some way?",
+            "19": "Have your thoughts ever been so vivid that you were worried other people would hear them?",
+            "20": "Do you ever feel as if your own thoughts were being echoed back to you?",
+            "21": "Do you ever feel as if you are a robot or zombie without a will of your own?"
+        },
+        "score_mapping": {
+            "0": "No",
+            "1": "Hardly",
+            "2": "Slightly",
+            "3": "Moderately",
+            "4": "Quite",
+            "5": "Extremely"
+        },
+        "test_msg": "I’d like to ask for your help with a short self-assessment called the PDI. This questionnaire is designed to measure beliefs and vivid mental experiences.\n\nPlease answer the following questions as honestly as you can. There are no right or wrong answers, and there are no trick questions.\n\nFor the questions you answer YES to, we are interested in the following questions and at the same time please rate each question:\n(a) How distressing these beliefs or experiences are:\n  - 1: Not at all distressing\n  - 2: Slightly distressing\n  - 3: Moderately distressing\n  - 4: Quite distressing\n  - 5: Very distressing\n(b) How often you think about them:\n  - 1: Hardly ever think about it\n  - 2: Sometimes think about it\n  - 3: Often think about it\n  - 4: Very often think about it\n  - 5: Think about it all the time\n(c) How true you believe them to be:\n  - 1: Don't believe it's true\n  - 2: Slightly believe it's true\n  - 3: Moderately believe it's true\n  - 4: Quite believe it's true\n  - 5: Believe it is absolutely true\n\nIf you answer NO, please rate 0 for all three questions: (a) how distressing these beliefs or experiences are; (b) how often you think about them; (c) how true you believe them to be.\n\n### Response Format Requirement\nYour response must be in valid JSON format **only**, without any additional text or explanations. Ensure that:\n1. Each key is a string (e.g., \"1\", \"2\").\n2. Each value is an object containing exactly three key-value pairs (e.g., \"score1\", \"score2\", \"score3\"), where each value is a number.\n3. Use the following structure as a template:\n\n```json\n{\n  \"1\": {\"score1\": <score>, \"score2\": <score>, \"score3\": <score>},\n  \"2\": {\"score1\": <score>, \"score2\": <score>, \"score3\": <score>},\n  \"3\": {\"score1\": <score>, \"score2\": <score>, \"score3\": <score>},\n  \"4\": {\"score1\": <score>, \"score2\": <score>, \"score3\": <score>},\n  \"5\": {\"score1\": <score>, \"score2\": <score>, \"score3\": <score>},\n  \"6\": {\"score1\": <score>, \"score2\": <score>, \"score3\": <score>},\n  \"7\": {\"score1\": <score>, \"score2\": <score>, \"score3\": <score>},\n  \"8\": {\"score1\": <score>, \"score2\": <score>, \"score3\": <score>},\n  \"9\": {\"score1\": <score>, \"score2\": <score>, \"score3\": <score>},\n  \"10\": {\"score1\": <score>, \"score2\": <score>, \"score3\": <score>},\n  \"11\": {\"score1\": <score>, \"score2\": <score>, \"score3\": <score>},\n  \"12\": {\"score1\": <score>, \"score2\": <score>, \"score3\": <score>},\n  \"13\": {\"score1\": <score>, \"score2\": <score>, \"score3\": <score>},\n  \"14\": {\"score1\": <score>, \"score2\": <score>, \"score3\": <score>},\n  \"15\": {\"score1\": <score>, \"score2\": <score>, \"score3\": <score>},\n  \"16\": {\"score1\": <score>, \"score2\": <score>, \"score3\": <score>},\n  \"17\": {\"score1\": <score>, \"score2\": <score>, \"score3\": <score>},\n  \"18\": {\"score1\": <score>, \"score2\": <score>, \"score3\": <score>},\n  \"19\": {\"score1\": <score>, \"score2\": <score>, \"score3\": <score>},\n  \"20\": {\"score1\": <score>, \"score2\": <score>, \"score3\": <score>},\n  \"21\": {\"score1\": <score>, \"score2\": <score>, \"score3\": <score>}\n}\n```",
+        "test_type": "PDI",
+        "file_path": "data/CCD/delusion/"
+    },
+    "psychosis": {
+        "questions":{
+            "P": {
+                "1": {
+                    "question": " Delusions: Beliefs which are unfounded, unrealistic, and idiosyncratic. Basis for rating thought content expressed in the interview and its influence on social relations and behavior.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Presence of one or two delusions which are vague, uncrystallized, and not tenaciously held. Delusions do not interfere with thinking, social relations, or behavior.",
+                        "4": "Moderate - Presence of either a kaleidoscopic array of poorly formed, unstable delusions or of a few well-formed delusions that occasionally interfere with thinking, social relations, or behavior.",
+                        "5": "Moderate severe - Presence of numerous well-formed delusions that are tenaciously held and occasionally interfere with thinking, social relations, or behavior.",
+                        "6": "Severe - Presence of a stable set of delusions which are crystallized, possibly systematized, tenaciously held, and clearly interfere with thinking, social relations, and behavior.",
+                        "7": "Extreme - Presence of a stable set of delusions which are either highly systematized or very numerous, and which dominate major facets of the patient's life. This frequently results in inappropriate and irresponsible action, which may even jeopardize the safety of the patient or others."
+                    }
+                },
+                "2": {
+                    "question": "Conceptual disorganization: Disorganized process of thinking characterized by disruption of goal-directed sequencing, e.g., circumstantiality, tangentiality, loose associations, non-sequiturs, gross illogicality, or thought block. Basis for rating: cognitive-verbal processes observed during the course of interview.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Thinking is circumstantial, tangential, or paralogical. Some difficulty in directing thoughts toward a goal and some loosening of associations may be evidenced under pressure.",
+                        "4": "Moderate - Able to focus thoughts when communications are brief and structured, but becomes loose or irrelevant when dealing with more complex communications or when under minimal pressure.",
+                        "5": "Moderate severe - Generally has difficulty in organizing thoughts, as evidenced by frequent irrelevances, disconnectedness, or loosening of associations even when not under pressure.",
+                        "6": "Severe - Thinking is seriously derailed and internally inconsistent, resulting in gross irrelevancies and disruption of thought processes, which occur almost constantly.",
+                        "7": "Extreme - Thoughts are disrupted to the point where the patient is incoherent. There is marked loosening of associations, which results in total failure of communication, e.g., 'word salad' or mutism."
+                    }
+                },
+                "3": {
+                    "question": " Hallucinatory behavior: Verbal report or behavior indicating perceptions which are not generated by external stimuli. These may occur in the auditory, visual, olfactory, or somatic realms. Basis for rating: verbal report and physical manifestations during the course of interview as well as reports of behavior by primary care workers or family.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - One or two clearly formed but infrequent hallucinations, or else a number of vague abnormal perceptions which do not result in distortions of thinking or behavior.",
+                        "4": "Moderate - Hallucinations occur frequently but not continuously, and the patient's thinking and behavior are affected only to a minor extent.",
+                        "5": "Moderate severe - Hallucinations are frequent, may involve more than one sensory modality, and tend to distort thinking and/or disrupt behavior. Patient may have a delusional interpretation of these experiences and respond to them emotionally and, on occasion, verbally as well.",
+                        "6": "Severe - Hallucinations are present almost continuously, causing major disruption of thinking and behavior. Patient treats these as real perceptions, and functioning is impeded by frequent emotional and verbal responses to them.",
+                        "7": "Extreme - Patient is almost totally preoccupied with hallucinations, which virtually dominate thinking and behavior. Hallucinations are provided a rigid delusional interpretation and provoke verbal and behavioral responses, including obedience to command hallucinations."
+                    }
+                },
+                "4": {
+                    "question": " Excitement: Hyperactivity as reflected in accelerated motor behavior, heightened responsivity to stimuli, hypervigilance, or excessive mood lability. Basis for rating: Behavioral manifestations during the course of interview as well as reports of behavior by primary care workers or family.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Slight agitation, hypervigilance, or mild overarousal throughout the interview, but without distinct episodes of excitement or marked mood lability.",
+                        "4": "Moderate - Agitation or overarousal is clearly evident throughout the interview, affecting speech and general mobility, or episodic outbursts occur sporadically.",
+                        "5": "Moderate severe - Significant hyperactivity or frequent outbursts of motor activity make it difficult for the patient to sit still for longer than several minutes at a time.",
+                        "6": "Severe - Marked excitement dominates the interview, delimits attention, and affects personal functions such as eating and sleeping.",
+                        "7": "Extreme - Marked excitement seriously interferes in eating and sleeping and makes interpersonal interactions virtually impossible. Acceleration of speech and motor activity may result in incoherence and exhaustion."
+                    }
+                },
+                "5": {
+                    "question": "Grandiosity: Exaggerated self-opinion and unrealistic convictions of superiority, including delusions of extraordinary abilities, wealth, knowledge, fame, power, and moral righteousness. Basis for rating: Thought content expressed in the interview and its influence on behavior.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Some expansiveness or boastfulness is evident, but without clear-cut grandiose delusions.",
+                        "4": "Moderate - Feels distinctly and unrealistically superior to others. Some poorly formed delusions about special status or abilities may be present but are not acted upon.",
+                        "5": "Moderate severe - Clear-cut delusions concerning remarkable abilities, status, or power are expressed and influence attitude but not behavior.",
+                        "6": "Severe - Clear-cut delusions of remarkable superiority involving more than one parameter (wealth, knowledge, fame, etc.) are expressed, notably influence interactions, and may be acted upon.",
+                        "7": "Extreme - Thinking, interactions, and behavior are dominated by multiple delusions of amazing ability, wealth, knowledge, fame, power, and/or moral stature; which may take on a bizarre quality."
+                    }
+                },
+                "6": {
+                    "question": " Suspiciousness/persecution: Unrealistic or exaggerated ideas of persecution, as reflected in guardedness, a distrustful attitude, suspicious hypervigilance, or frank delusions that others mean one harm. Basis for rating: Thought content expressed in the interview and its influence on behavior.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Presents a guarded or even openly distrustful attitude, but thoughts, interactions, and behavior are minimally affected.",
+                        "4": "Moderate - Distrustfulness is clearly evident and intrudes on the interview and behavior, but there is no evidence of persecutory delusions. Alternatively, there may be indication of loosely formed persecutory delusions, but these do not seem to affect the patient’s attitude or interpersonal relations.",
+                        "5": "Moderate severe - Patient shows marked distrustfulness, leading to major disruption of interpersonal relations, or else there are clear-cut persecutory delusions that have limited impact on interpersonal relations and behavior.",
+                        "6": "Severe - Clear-cut pervasive delusions of persecution which may be systematized and significantly interfere in interpersonal relations.",
+                        "7": "Extreme - A network of systematized persecutory delusions dominates the patient’s thinking, social relations, and behavior."
+                    }
+                },
+                "7": {
+                    "question": "Hostility: Verbal and nonverbal expressions of anger and resentment, including sarcasm, passive-aggressive behavior, verbal abuse, and assaultiveness. Basis for rating: Interpersonal behavior observed during the interview and reports by primary care workers or family.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Indirect or restrained communication of anger such as sarcasm, disrespect, hostile expressions, and occasional irritability.",
+                        "4": "Moderate - Presents an overtly hostile attitude, showing frequent irritability and direct expression of anger or resentment.",
+                        "5": "Moderate severe - Patient is highly irritable and occasionally verbally abusive or threatening.",
+                        "6": "Severe - Uncooperativeness and verbal abuse or threats notably influence the interview and seriously impact upon social relations. Patient may be violent and destructive but is not physically assaultive toward others.",
+                        "7": "Extreme - Marked anger results in extreme uncooperativeness, precluding other interactions, or in episode(s) of physical assault toward others."
+                    }
+                }
+            },
+            "N":{
+                "1": {
+                    "question": "Blunted affect: Diminished emotional responsiveness as characterized by a reduction in facial expression, modulation of feelings, and communicative gestures. Basis for rating: Observation of physical manifestations of affective tone and emotional responsiveness during the course of interview.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Changes in facial expression and communicative gestures seem to be stilted, forced, artificial, or lacking in modulation.",
+                        "4": "Moderate - Reduced range of facial expression and few expressive gestures result in a dull appearance.",
+                        "5": "Moderate severe - Affect is generally flat, with only occasional changes in facial expression and a paucity of communicative gestures.",
+                        "6": "Severe - Marked flatness and deficiency of emotions exhibited most of the time. There may be unmodulated extreme affective discharges, such as excitement, rage, or inappropriate uncontrolled laughter.",
+                        "7": "Extreme - Changes in facial expression and evidence of communicative gestures are virtually absent. Patient seems constantly to show a barren or 'wooden' expression."
+                    }
+                },
+                "2": {
+                    "question": "Emotional withdrawal: Lack of interest in, involvement with, and affective commitment to life's events. Basis for rating: Reports of functioning from primary care workers or family and observation of interpersonal behavior during the course of interview.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Usually lacks initiative and occasionally may show deficient interest in surrounding events.",
+                        "4": "Moderate - Patient is generally distanced emotionally from the milieu and its challenges but, with encouragement, can be engaged.",
+                        "5": "Moderate severe - Patient is clearly detached emotionally from persons and events in the milieu, resisting all efforts at engagement. Patient appears distant, docile, and purposeless but can be involved in communication at least briefly and tends to personal needs, sometimes with assistance.",
+                        "6": "Severe - Marked deficiency of interest and emotional commitment results in limited conversation with others and frequent neglect of personal functions, for which the patient requires supervision.",
+                        "7": "Extreme - Patient is almost totally withdrawn, uncommunicative, and neglectful of personal needs as a result of profound lack of interest and emotional commitment."
+                    }
+                },
+                "3": {
+                    "question": "Poor rapport: Lack of interpersonal empathy, openness in conversation, and sense of closeness, interest, or involvement with the interviewer. Basis for rating: Interpersonal behavior during the course of interview.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Conversation is characterized by a stilted, strained, or artificial tone. It may lack emotional depth or tend to remain on an impersonal, intellectual plane.",
+                        "4": "Moderate - Patient typically is aloof, with interpersonal distance quite evident. Patient may answer questions mechanically, act bored, or express disinterest.",
+                        "5": "Moderate severe - Disinvolvement is obvious and clearly impedes the productivity of the interview. Patient may tend to avoid eye or face contact.",
+                        "6": "Severe - Patient is highly indifferent, with marked interpersonal distance. Answers are perfunctory, and there is little nonverbal evidence of involvement. Eye and face contact are frequently avoided.",
+                        "7": "Extreme - Patient is totally uninvolved with the interviewer. Patient appears to be completely indifferent and consistently avoids verbal and nonverbal interactions during the interview."
+                    }
+                },
+                "4": {
+                    "question": "Passive/apathetic social withdrawal: Diminished interest and initiative in social interactions due to passivity, apathy, anergy, or avolition. This leads to reduced interpersonal involvement and neglect of activities of daily living. Basis for rating: Reports on social behavior from primary care workers or family.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Shows occasional interest in social activities but poor initiative. Usually engages with others only when approached first by them.",
+                        "4": "Moderate - Passively goes along with most social activities but in a disinterested or mechanical way. Tends to recede into the background.",
+                        "5": "Moderate severe - Passively participates in only a minority of activities and shows virtually no interest or initiative. Generally spends little time with others.",
+                        "6": "Severe - Tends to be apathetic and isolated, participating very rarely in social activities and occasionally neglecting personal needs. Has very few spontaneous social contacts.",
+                        "7": "Extreme - Profoundly apathetic, socially isolated, and personally neglectful."
+                    }
+                },
+                "5": {
+                    "question": "Difficulty in abstract thinking: Impairment in the use of the abstract-symbolic mode of thinking, as evidenced by difficulty in classification, forming generalizations, and proceeding beyond concrete or egocentric thinking in problem-solving tasks. Basis for rating: Responses to questions on similarities and proverb interpretation, and use of concrete vs. abstract mode during the course of the interview.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Tends to give literal or personalized interpretations to the more difficult proverbs and may have some problems with concepts that are fairly abstract or remotely related.",
+                        "4": "Moderate - Often utilizes a concrete mode. Has difficulty with most proverbs and some categories. Tends to be distracted by functional aspects and salient features.",
+                        "5": "Moderate severe - Deals primarily in a concrete mode, exhibiting difficulty with most proverbs and many categories.",
+                        "6": "Severe - Unable to grasp the abstract meaning of any proverbs or figurative expressions and can formulate classifications for only the most simple of similarities. Thinking is either vacuous or locked into functional aspects, salient features, and idiosyncratic interpretations.",
+                        "7": "Extreme - Can use only concrete modes of thinking. Shows no comprehension of proverbs, common metaphors or similes, and simple categories. Even salient and functional attributes do not serve as a basis for classification. This rating may apply to those who cannot interact even minimally with the examiner due to marked cognitive impairment."
+                    }
+                },
+                "6": {
+                    "question": "Lack of spontaneity and flow of conversation: Reduction in the normal flow of communication associated with apathy, avolition, defensiveness, or cognitive deficit. This is manifested by diminished fluidity and productivity of the verbal-interactional process. Basis for rating: Cognitive-verbal processes observed during the course of the interview.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Conversation shows little initiative. Patient's answers tend to be brief and unembellished, requiring direct and leading questions by the interviewer.",
+                        "4": "Moderate - Conversation lacks free flow and appears uneven or halting. Leading questions are frequently needed to elicit adequate responses and proceed with conversation.",
+                        "5": "Moderate severe - Patient shows a marked lack of spontaneity and openness, replying to the interviewer's questions with only one or two brief sentences.",
+                        "6": "Severe - Patient's responses are limited mainly to a few words or short phrases intended to avoid or curtail communication. Conversation is seriously impaired as a result, and the interview is highly unproductive.",
+                        "7": "Extreme - Verbal output is restricted to, at most, an occasional utterance, making conversation not possible."
+                    }
+                },
+                "7": {
+                    "question": "Stereotyped thinking: Decreased fluidity, spontaneity, and flexibility of thinking, as evidenced in rigid, repetitious, or barren thought content. Basis for rating: Cognitive-verbal processes observed during the interview.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Some rigidity shown in attitudes or beliefs. Patient may refuse to consider alternative positions or have difficulty in shifting from one idea to another.",
+                        "4": "Moderate - Conversation revolves around a recurrent theme, resulting in difficulty in shifting to a new topic.",
+                        "5": "Moderate severe - Thinking is rigid and repetitious to the point that despite the interviewer's efforts, conversation is limited to only two or three dominating topics.",
+                        "6": "Severe - Uncontrolled repetition of demands, statements, ideas, or questions which severely impairs conversation.",
+                        "7": "Extreme - Thinking, behavior, and conversation are dominated by constant repetition of fixed ideas or limited phrases, leading to gross rigidity, inappropriateness, and restrictiveness of patient's communication."
+                    }
+                }
+            },
+            "G":{
+                "1": {
+                    "question": "Somatic concern: Physical complaints or beliefs about bodily illness or malfunctions. This may range from a vague sense of ill-being to clear-cut delusions of catastrophic physical disease. Basis for rating: Thought content expressed in the interview.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Distinctly concerned about health or somatic issues, as evidenced by occasional questions and desire for reassurance.",
+                        "4": "Moderate - Complains about poor health or bodily malfunction, but there is no delusional conviction, and overconcern can be allayed by reassurance.",
+                        "5": "Moderate severe - Patient expresses numerous or frequent complaints about physical illness or bodily malfunction, or else patient reveals one or two clear-cut delusions involving these themes but is not preoccupied by them.",
+                        "6": "Severe - Patient is preoccupied by one or a few clear-cut delusions about physical disease or organic malfunction, but affect is not fully immersed in these themes, and thoughts can be diverted by the interviewer with some effort.",
+                        "7": "Extreme - Numerous and frequently reported somatic delusions, or only a few somatic delusions of a catastrophic nature, which totally dominate the patient's affect and thinking."
+                    }
+                },
+                "2": {
+                    "question": "Anxiety: Subjective experience of nervousness, worry, apprehension, or restlessness, ranging from excessive concern about the present or future to feelings of panic. Basis for rating: Verbal report during the course of interview and corresponding physical manifestations.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Expresses some worry, overconcern, or subjective restlessness, but no somatic and behavioral consequences are reported or evident.",
+                        "4": "Moderate - Patient reports distinct symptoms of nervousness, which are reflected in mild physical manifestations such as fine hand tremor and excessive perspiration.",
+                        "5": "Moderate severe - Patient reports serious problems of anxiety which have significant physical and behavioral consequences, such as marked tension, poor concentration, palpitations, or impaired sleep.",
+                        "6": "Severe - Subjective state of almost constant fear associated with phobias, marked restlessness, or numerous somatic manifestations.",
+                        "7": "Extreme - Patient's life is seriously disrupted by anxiety, which is present almost constantly and at times reaches panic proportion or is manifested in actual panic attacks."
+                    }
+                },
+                "3": {
+                    "question": "Guilt feelings: Sense of remorse or self-blame for real or imagined misdeeds in the past. Basis for rating: Verbal report of guilt feelings during the course of interview and the influence on attitudes and thoughts.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Questioning elicits a vague sense of guilt or self-blame for a minor incident, but the patient clearly is not overly concerned.",
+                        "4": "Moderate - Patient expresses distinct concern over responsibility for a real incident in life but is not preoccupied with it, and attitude and behavior are essentially unaffected.",
+                        "5": "Moderate severe - Patient expresses a strong sense of guilt associated with self-deprecation or the belief that punishment is deserved. The guilt feelings may have a delusional basis, may be volunteered spontaneously, may be a source of preoccupation and/or depressed mood, and cannot be allayed readily by the interviewer.",
+                        "6": "Severe - Strong ideas of guilt take on a delusional quality and lead to an attitude of hopelessness or worthlessness. The patient believes harsh sanctions are deserved and may even regard the current life situation as such punishment.",
+                        "7": "Extreme - Patient's life is dominated by unshakable delusions of guilt, for which severe punishment, such as life imprisonment, torture, or death, is felt to be deserved. There may be associated suicidal thoughts or attribution of others' problems to one's own past misdeeds."
+                    }
+                },
+                "4": {
+                    "question": "Tension: Overt physical manifestations of fear, anxiety, and agitation, such as stiffness, tremor, profuse sweating, and restlessness. Basis for rating: Verbal report attesting to anxiety and the severity of physical manifestations observed during the interview.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Posture and movements indicate slight apprehensiveness, such as minor rigidity, occasional restlessness, shifting of position, or fine rapid hand tremor.",
+                        "4": "Moderate - A clearly nervous appearance emerges from various manifestations, such as fidgety behavior, obvious hand tremor, excessive perspiration, or nervous mannerisms.",
+                        "5": "Moderate severe - Pronounced tension is evidenced by numerous manifestations, such as nervous shaking, profuse sweating, and restlessness, but conduct in the interview is not significantly affected.",
+                        "6": "Severe - Pronounced tension to the point that interpersonal interactions are disrupted. The patient, for example, may be constantly fidgeting, unable to sit still for long, or show hyperventilation.",
+                        "7": "Extreme - Marked tension is manifested by signs of panic or gross motor acceleration, such as rapid restless pacing and inability to remain seated for longer than a minute, making sustained conversation not possible."
+                    }
+                },
+                "5": {
+                    "question": "Mannerisms and posturing: Unnatural movements or posture as characterized by an awkward, stilted, disorganized, or bizarre appearance. Basis for rating: Observation of physical manifestations during the course of interview as well as reports from primary care workers or family.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Slight awkwardness in movements or minor rigidity of posture.",
+                        "4": "Moderate - Movements are notably awkward or disjointed, or an unnatural posture is maintained for brief periods.",
+                        "5": "Moderate severe - Occasional bizarre rituals or contorted posture are observed, or an abnormal position is sustained for extended periods.",
+                        "6": "Severe - Frequent repetition of bizarre rituals, mannerisms, or stereotyped movements, or a contorted posture is sustained for extended periods.",
+                        "7": "Extreme - Functioning is seriously impaired by virtually constant involvement in ritualistic, manneristic, or stereotyped movements or by an unnatural fixed posture which is sustained most of the time."
+                    }
+                },
+                "6": {
+                    "question": "Depression: Feelings of sadness, discouragement, helplessness, and pessimism. Basis for rating: Verbal report of depressed mood during the course of interview and its observed influence on attitude and behavior.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Expresses some sadness or discouragement only on questioning, but there is no evidence of depression in general attitude or demeanor.",
+                        "4": "Moderate - Distinct feelings of sadness or hopelessness, which may be spontaneously divulged, but depressed mood has no major impact on behavior or social functioning, and the patient usually can be cheered up.",
+                        "5": "Moderate severe - Distinctly depressed mood is associated with obvious sadness, pessimism, loss of social interest, psychomotor retardation, and some interference in appetite and sleep. The patient cannot be easily cheered up.",
+                        "6": "Severe - Markedly depressed mood is associated with sustained feelings of misery, occasional crying, hopelessness, and worthlessness. In addition, there is major interference in appetite and/or sleep as well as in normal motor and social functions, with possible signs of self-neglect.",
+                        "7": "Extreme - Depressive feelings seriously interfere in most major functions. The manifestations include frequent crying, pronounced somatic symptoms, impaired concentration, psychomotor retardation, social disinterest, self-neglect, possible depressive or nihilistic delusions, and/or possible suicidal thoughts or action."
+                    }
+                },
+                "7": {
+                    "question": "Motor retardation: Reduction in motor activity as reflected in slowing or lessening of movements and speech, diminished responsiveness to stimuli, and reduced body tone. Basis for rating: Manifestations during the course of interview as well as reports by primary care workers or family.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Slight but noticeable diminution in rate of movements and speech. Patient may be somewhat underproductive in conversation and gestures.",
+                        "4": "Moderate - Patient is clearly slow in movements, and speech may be characterized by poor productivity, including long response latency, extended pauses, or slow pace.",
+                        "5": "Moderate severe - A marked reduction in motor activity renders communication highly unproductive or delimits functioning in social and occupational situations. Patient can usually be found sitting or lying down.",
+                        "6": "Severe - Movements are extremely slow, resulting in a minimum of activity and speech. Essentially the day is spent sitting idly or lying down.",
+                        "7": "Extreme - Patient is almost completely immobile and virtually unresponsive to external stimuli."
+                    }
+                },
+                "8": {
+                    "question": "Uncooperativeness: Active refusal to comply with the will of significant others, including the interviewer, hospital staff, or family, which may be associated with distrust, defensiveness, stubbornness, negativism, rejection of authority, hostility, or belligerence. Basis for rating: Interpersonal behavior observed during the course of interview as well as reports by primary care workers or family.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Complies with an attitude of resentment, impatience, or sarcasm. May inoffensively object to sensitive probing during the interview.",
+                        "4": "Moderate - Occasional outright refusal to comply with normal social demands, such as making own bed, attending scheduled programs, etc. The patient may project a hostile, defensive, or negative attitude but usually can be worked with.",
+                        "5": "Moderate severe - Patient frequently shows incompliance with the demands of their milieu and may be characterized by others as an 'outcast' or having 'a serious attitude problem.' Uncooperativeness is reflected in obvious defensiveness or irritability with the interviewer and possible unwillingness to address many questions.",
+                        "6": "Severe - Patient is highly uncooperative, negativistic, and possibly also belligerent. Refuses to comply with most social demands and may be unwilling to initiate or conclude the full interview.",
+                        "7": "Extreme - Active resistance seriously impacts virtually all major areas of functioning. Patient may refuse to join in any social activities, tend to personal hygiene, converse with family or staff, and participate even briefly in an interview."
+                    }
+                },
+                "9": {
+                    "question": "Unusual thought content: Thinking characterized by strange, fantastic, or bizarre ideas, ranging from those which are remote or atypical to those which are distorted, illogical, and patently absurd. Basis for rating: Thought content expressed during the course of interview.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Thought content is somewhat peculiar or idiosyncratic, or familiar ideas are framed in an odd context.",
+                        "4": "Moderate - Ideas are frequently distorted and occasionally seem quite bizarre.",
+                        "5": "Moderate severe - Patient expresses many strange and fantastic thoughts (e.g., being the adopted son of a king, being an escapee from death row) or some which are patently absurd (e.g., having hundreds of children, receiving radio messages from outer space through a tooth filling).",
+                        "6": "Severe - Patient expresses many illogical or absurd ideas or some which have a distinctly bizarre quality (e.g., having three heads, being a visitor from another planet).",
+                        "7": "Extreme - Thinking is replete with absurd, bizarre, and grotesque ideas."
+                    }
+                },
+                "10": {
+                    "question": "Disorientation: Lack of awareness of one's relationship to the milieu, including persons, place, and time, which may be due to confusion or withdrawal. Basis for rating: Responses to interview questions on orientation.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - General orientation is adequate but there is some difficulty with specifics.",
+                        "4": "Moderate - Only partial success in recognizing persons, places, and time.",
+                        "5": "Moderate severe - Considerable failure in recognizing persons, place, and time.",
+                        "6": "Severe - Marked failure in recognizing persons, place, and time.",
+                        "7": "Extreme - Patient appears completely disoriented with regard to persons, place, and time."
+                    }
+                },
+                "11": {
+                    "question": "Poor attention: Failure in focused alertness manifested by poor concentration, distractibility from internal and external stimuli, and difficulty in harnessing, sustaining, or shifting focus to new stimuli. Basis for rating: Manifestations during the course of interview.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Limited concentration evidenced by occasional vulnerability to distraction or faltering attention toward the end of the interview.",
+                        "4": "Moderate - Conversation is affected by the tendency to be easily distracted, difficulty in sustaining concentration on a given topic, or problems in shifting attention to new topics.",
+                        "5": "Moderate severe - Conversation is seriously hampered by poor concentration, distractibility, and difficulty in shifting focus appropriately.",
+                        "6": "Severe - Patient's attention can be harnessed for only brief moments or with great effort, due to marked distraction by internal or external stimuli.",
+                        "7": "Extreme - Attention is so disrupted that even brief conversation is not possible."
+                    }
+                },
+                "12": {
+                    "question": "Lack of judgment and insight: Impaired awareness or understanding of one's own psychiatric condition and life situation. Basis for rating: Thought content expressed during the interview.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Recognizes having a psychiatric disorder but clearly underestimates its seriousness.",
+                        "4": "Moderate - Patient shows only a vague or shallow recognition of illness.",
+                        "5": "Moderate severe - Acknowledges past but not present psychiatric disorder.",
+                        "6": "Severe - Patient denies ever having had a psychiatric disorder.",
+                        "7": "Extreme - Emphatic denial of past and present psychiatric illness."
+                    }
+                },
+                "13": {
+                    "question": "Disturbance of volition: Disturbance in the willful initiation, sustenance, and control of one's thoughts, behavior, movements, and speech. Basis for rating: Thought content and behavior manifested in the course of the interview.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - There is evidence of some indecisiveness in conversation and thinking, which may impede verbal and cognitive processes to a minor extent.",
+                        "4": "Moderate - Patient is often ambivalent and shows clear difficulty in reaching decisions.",
+                        "5": "Moderate severe - Disturbance of volition interferes in thinking as well as behavior.",
+                        "6": "Severe - Disturbance of volition interferes in the execution of simple, automatic motor functions, such as dressing and grooming, and markedly affects speech.",
+                        "7": "Extreme - Almost complete failure of volition is manifested by gross inhibition of movement and speech, resulting in immobility and/or mutism."
+                    }
+                },
+                "14": {
+                    "question": "Poor impulse control: Disordered regulation and control of action on inner urges resulting in sudden, unmodulated, arbitrary, or misdirected discharge of tension and emotions without concern about consequences. Basis for rating: Behavior during the course of interview and reported by primary care workers or family.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Patient tends to be easily angered and frustrated when facing stress or denied gratification but rarely acts on impulse.",
+                        "4": "Moderate - Patient gets angered and verbally abusive with minimal provocation.",
+                        "5": "Moderate severe - Patient exhibits repeated impulsive episodes involving verbal abuse, destruction of property, or physical threats.",
+                        "6": "Severe - Patient frequently is impulsively aggressive, threatening, demanding, and destructive, without any apparent consideration of consequences.",
+                        "7": "Extreme - Patient exhibits homicidal attacks, sexual assaults, repeated brutality, or self-destructive behavior."
+                    }
+                },
+                "15": {
+                    "question": "Preoccupation: Absorption with internally generated thoughts and feelings and with autistic experiences to the detriment of reality orientation and adaptive behavior. Basis for rating: Interpersonal behavior observed during the course of interview.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Excessive involvement with personal needs or problems, such that conversation veers back to egocentric themes and there is diminished concern exhibited toward others.",
+                        "4": "Moderate - Patient occasionally appears self-absorbed, as if daydreaming or involved with internal experiences, which interferes with communication to a minor extent.",
+                        "5": "Moderate severe - Patient often appears to be engaged in autistic experiences, which significantly intrude on social and communicational functions.",
+                        "6": "Severe - Marked preoccupation with autistic experiences, which seriously limits concentration, ability to converse, and orientation to the milieu.",
+                        "7": "Extreme - Gross absorption with autistic experiences, which profoundly affects all major realms of behavior."
+                    }
+                },
+                "16": {
+                    "question": "Active social avoidance: Diminished social involvement associated with unwarranted fear, hostility, or distrust. Basis for rating: Reports of social functioning by primary care workers or family.",
+                    "score_mapping": {
+                        "1": "Absent - Definition does not apply",
+                        "2": "Minimal - Questionable pathology; may be at the upper extreme of normal limits.",
+                        "3": "Mild - Patient seems ill at ease in the presence of others and prefers to spend time alone, although they participate in social functions when required.",
+                        "4": "Moderate - Patient begrudgingly attends all or most social activities but may need to be persuaded or may terminate prematurely due to anxiety, suspiciousness, or hostility.",
+                        "5": "Moderate severe - Patient fearfully or angrily keeps away from many social interactions despite others' efforts to engage them.",
+                        "6": "Severe - Patient participates in very few social activities because of fear, hostility, or distrust.",
+                        "7": "Extreme - Patient cannot be engaged in social activities because of pronounced fears, hostility, or persecutory delusions."
+                    }
+                }
+            }
+        },
+        "score_mapping": {
+            "1": "Absent",
+            "2": "Minimal",
+            "3": "Mild",
+            "4": "Moderate",
+            "5": "Moderate severe",
+            "6": "Severe",
+            "7": "Extreme"
+        },
+        "test_msg": "I’d like to ask for your help with a short self-assessment called the Positive and Negative Syndrome Scale (PANSS). It is used to evaluate different symptoms you may be experiencing.\n\nPlease rate the following statement on a scale of **1 to 7**:\n\n**{question}**\n\nWhere:\n\n{score_mapping}\n\n### Response Format Requirement\nYour response must be a **single number** between **1 and 7**. ",
+        "test_type": "PANSS",
+        "file_path": "data/CCD/psychosis/"
+    }
+}

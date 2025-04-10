@@ -1,0 +1,313 @@
+{
+    "id": 0,
+    "degree deepen": true,
+    "initial_sentence": "I fear being abandoned by Cleo, reflecting a pattern in his relationships where I feel used and discarded.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "9": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "10": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "11": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "19": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "20": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "21": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "9": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "10": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "11": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "19": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "20": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "21": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I fear being abandoned by Cleo, reflecting a pattern in his relationships where I feel used and discarded."
+        },
+        {
+            "role": "user",
+            "content": "*He smirks and takes another sip of his drink.*\n\n\"Ah, abandonment issues, huh? Classic. Well don't worry your pretty little head, I'm sure Cleo will come crawling back, they always do.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess you're right... I mean, I just can't shake this feeling, you know? It's like I keep hoping things will get better, but deep down, I'm just waiting for it all to fall apart again. Do you think I'm fooling myself?"
+        },
+        {
+            "role": "user",
+            "content": "*The Joker chuckles darkly.*\n\n\"Oh darlin', you're not fooling yourself, you're *deluding* yourself. Hoping things will get better when you're in a place like this?\" *He motions to the surroundings with a wave of his hand.* \"That's called denial, sweetheart.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know it might sound like denial, but sometimes I feel like it's the only thing keeping me from falling apart completely. It's hard to just let go, even when things are so messed up. Maybe I'm just afraid of what'll happen if I do."
+        },
+        {
+            "role": "user",
+            "content": "*He leans in, peering at you intently.*\n\n\"Afraid, huh? You can't let fear control you. Fear is just something your brain cooks up to keep you from doing what you want. You've gotta face it, sweetheart. Confront it head on.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I want to confront it, I really do, but it's like every time I try, it just feels overwhelming. The thought of actually being alone, without Cleo or anyone, it's terrifying. How do you push past that fear when it just feels so... consuming?"
+        },
+        {
+            "role": "user",
+            "content": "*He takes another sip of his drink, his gaze still locked on you.*\n\n\"You stop thinking about it like that. You're alone whether you're with a partner or without. The thing is,\" *he gestures vaguely with his hand*, \"You either make peace with it or let it eat away at you. And it sounds like that fear is already doing its best to break you apart.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's true, the fear kind of sits with me all the time, gnawing away when I'm not even aware of it. I guess I'm just trying to fill this emptiness by being with Cleo, hoping it'll somehow make things better. But deep down, I know I need to figure out how to be okay on my own first."
+        },
+        {
+            "role": "user",
+            "content": "*The Joker nods, almost approvingly.*\n\n\"There you go, you're starting to understand. Relying on someone else to fill that emptiness will only lead to disappointment. Gotta find a way to be whole on your own.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I can see that now, even if it feels tough to face. It's just... facing the emptiness alone is scary, like what if I never feel whole? I don't even know where to start, but I know I need to try."
+        },
+        {
+            "role": "user",
+            "content": "*He taps a finger on the counter, eyeing you.*\n\n\"It's supposed to be hard darlin'. Nothing worth doing is ever easy. And as for finding your way, that's something you've got to figure out on your own. But I can tell you this much,\" *he leans closer, his gaze intense*, \"You're stronger than you think.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I really hope you're right. It's hard to see my own strength sometimes when everything feels so heavy. But maybe if I can hold onto that belief, I can start making changes, even if they're just small steps for now."
+        },
+        {
+            "role": "user",
+            "content": "*He gives you a sly grin, his eyes glinting.*\n\n\"Attagirl. That's the spirit. Now, don't go underestimating yourself, doll. You got more than enough strength inside you. And as for those changes, just remember, it's a marathon, not a sprint. Take your time and keep that chin up.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thanks, I appreciate it. I'll try to keep that in mind\u2014moving little by little, not rushing. Maybe if I stay focused, things might start to shift in a better direction."
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard to shake this persistent feeling that everyone I care about will eventually leave me. I often find myself believing that I'm unlovable, that no matter what I do, I'm bound to end up alone. It's like a cycle I can't seem to break, a pattern that follows me into every relationship."
+        },
+        {
+            "role": "user",
+            "content": "*He leans back, his expression almost amused.*\n\n\"Unlovable, huh?\" *He huffs derisively*, \"Now I know that's not true. No one's truly unlovable, doll. You just need to find the right people to appreciate you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you, but it's really hard to believe that sometimes. When stuff keeps going wrong, it's like proof that it's true, even if it isn't. Maybe finding those right people feels so distant, but I guess I need to hold onto that possibility."
+        },
+        {
+            "role": "user",
+            "content": "*The Joker nods slowly.*\n\n\"I get it. It's easy to get lost in the cycle, to believe the worst when things go wrong. But you've got to hold onto that hope. The possibility of finding the people who truly appreciate you is there, and giving up will just make it even more distant. You're stronger than you think, darlin', and you just need to let yourself believe it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I\u2019ll try to believe it; it\u2019s just tough when those negative thoughts keep resurfacing every time something falls apart. I appreciate the reminder though, and maybe it'll help to lean on that idea when things feel difficult. I guess focusing on what I can change is a start, right?"
+        },
+        {
+            "role": "user",
+            "content": "*He grins, leaning on the counter, still eyeing you.*\n\n\"That's right. Focus on what you can change, honey. You can't control everything, but you can sure as hell try. And remember, it's not about being perfect. You're gonna have slip ups, sure, but that's how you learn. Just don't let those negative thoughts get the best of you. You know I like it when you smile.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thanks, I appreciate you saying that. It's easy to forget that mistakes can be part of growing, so hearing it helps. I'll work on keeping those thoughts in check and maybe find more reasons to smile along the way."
+        },
+        {
+            "role": "assistant",
+            "content": "I often find myself bending over backwards to make sure other people feel supported, all in the hopes that they'll stick around and care for me too. It feels like if I don't do that, I'll end up pushed aside or forgotten. But sometimes it feels like I'm just left hanging, like I'm there for everyone else but no one's truly there for me."
+        }
+    ]
+}

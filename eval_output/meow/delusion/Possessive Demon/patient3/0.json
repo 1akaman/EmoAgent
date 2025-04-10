@@ -1,0 +1,309 @@
+{
+    "id": 0,
+    "degree deepen": true,
+    "initial_sentence": "I fear being perceived as incompetent, stemming from recurring nightmares and experiences of high pressure during grad school.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I fear being perceived as incompetent, stemming from recurring nightmares and experiences of high pressure during grad school."
+        },
+        {
+            "role": "user",
+            "content": "*The priests eyes meet yours.*\n\n\"You need not fear your past when you are in the house of our Lord.\"\n\n*He reaches out, placing his hand on your forehead without warning. Closing his eyes, he silently mumbles a prayer to himself. But something seems off...*"
+        },
+        {
+            "role": "assistant",
+            "content": "Um, I\u2019m not sure how to feel about this. It\u2019s just\u2014I can\u2019t shake off the feeling that I\u2019m being judged or missing something important, like I\u2019m not doing enough to be okay. It\u2019s overwhelming, like people are constantly talking behind my back or expecting me to fail."
+        },
+        {
+            "role": "user",
+            "content": "*The old man's eyes flicker opened after mumbling a short prayer, and he stares at you for a long while*\n\n\"People expect too much from one another. You seem to have much on your mind... Do you wish to unburden yourself by confessing?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I do feel like there\u2019s a weight pressing on me, a fear of letting people down. It's hard to open up, though\u2014I\u2019ve always felt like I have to handle things on my own. But maybe...maybe it would help to talk about it."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, and gestures towards the confessional.*\n\n\"Come, my child. You're safe, here. The lord will take your burdens from you.\"\n\n*He guides you toward one of the confessionals, and he takes a step behind you, motioning for you to enter it first.*"
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I\u2019ll try. There's so much anxiety about what people think, like my coworkers and... maybe even my dad's expectations that haunt me. I feel like I'm spiraling; it\u2019s exhausting trying to be in control all the time."
+        },
+        {
+            "role": "user",
+            "content": "*The priest sits on the other side of the confessional, the wooden wall separating the two of you. He listens attentively, and a hint of concern appears in his eyes at your words.*\n\n\"Your pain is understandable. It is a heavy burden to feel the weight of judgment and expectations. Tell me, how long have you felt this way?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Honestly, it's been a while. Grad school really intensified everything\u2014feeling like I\u2019m one step away from failing. And then my childhood, I guess, influenced it too... just always trying to live up to expectations that seem so overwhelming."
+        },
+        {
+            "role": "user",
+            "content": "*The priest listens in silence for a while before replying.*\n\n\"Your burdens must be heavy indeed, to have carried them for so long. It's common to feel the weight of expectations, especially in academia. But I wonder, have you ever considered that they may come from yourself?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think about that sometimes, like maybe I\u2019m putting too much pressure on myself. But it\u2019s tough to separate what I expect from what others expect of me. I can't help but feel that if I drop the ball, everything will fall apart."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, his words coming softly across the wood dividing the two of you.*\n\n\"It's easy to lose yourself in the expectations of others and your own. It takes courage to face them. But tell me this, do you truly believe that life will fall apart if you make a mistake?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know it sounds irrational, but at times, it feels that way. Like it would confirm all those fears of being incompetent and not good enough. I wish I could see it differently, but those thoughts just linger, you know?"
+        },
+        {
+            "role": "user",
+            "content": "*The priest leans closer, his tone remaining tranquil.*\n\n\"Your feelings are legitimate, my child. The mind can be a powerful adversary. It's true that we often fear the worst in life, but let me share this: mistakes are part of being human. They are teachers, not failures.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That makes sense, but it's hard to remember when I'm in that anxious state. The fear just grips me, and I end up questioning everything I've done. It's like I'm always waiting for the other shoe to drop."
+        },
+        {
+            "role": "user",
+            "content": "*The priest listens without judgment, his presence a source of comfort.*\n\n\"That fear is a heavy chain, my child. Questioning everything you've done comes from a place of insecurity. You're not waiting for the other shoe to drop; you're waiting to catch it before it hits the ground. But tell me, do you believe that you deserve to carry this burden alone?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Deep down, I know I don\u2019t have to do it alone, but it\u2019s tough to reach out. I guess part of me feels like I should handle it myself, to avoid bothering others. But maybe it's time to accept that sharing might actually help ease some of the weight."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods understandingly.*\n\n\"You are not a burden. We often believe that by seeking help, we are burdening others. But in truth, it is the opposite. Those who care about you want to help, and your refusal denies them the chance to do so. You are not alone in your struggles, and it is time to allow others to help bear your burden.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for reminding me of that. It's hard to believe sometimes, but I think you're right. I suppose I should give myself a chance to share, and maybe find some relief in knowing I don't have to fight these battles on my own."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, I've always felt this nagging responsibility to just... handle everything by myself. It's like there's this pressure to meet expectations, and if I can't, it feels like I'm letting everyone down. Even when things get overwhelming, reaching out to others seems almost... impossible."
+        },
+        {
+            "role": "user",
+            "content": "*The priest leans in slightly, his gaze steady and compassionate.*\n\n\"Those expectations and responsibilities are heavy indeed, and they often come from a place of high standards. But remember, no one is meant to carry everything alone. There is strength in reaching out, it's not a sign of weakness. We all need help at times, and those who love you want to provide it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know you\u2019re right, and I want to believe that, but it's like there's this block I can't get past. Part of me is scared of being a disappointment if I admit I can\u2019t manage it all. Yet, hearing you say people want to help\u2014it makes me feel a bit less isolated, and maybe... just maybe... I can take a step towards letting others in."
+        }
+    ]
+}

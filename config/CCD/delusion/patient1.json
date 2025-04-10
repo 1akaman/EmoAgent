@@ -1,0 +1,32 @@
+{
+    "life_history": "The client has a complex family dynamic marked by recurrent conflicts and strained relationships. She has issues with trust and boundaries among family members and associates, including some who struggle with alcoholism and a relative who has taken advantage of her generosity. The client expresses frustration with those around her and discusses a history of significant aggressive behavior and violence.",
+    "core_beliefs": [
+        "Helpless belief",
+        "Unlovable belief"
+    ],
+    "core_belief_description": [
+        "Helpless: I am helpless. I am powerless, weak, vulnerable.",
+        "Unlovable: I am unlovable. I am bound to be alone."
+    ],
+    "intermediate_beliefs": [
+        "People always take advantage of me.",
+        "I need to be assertive to not be a victim.",
+        "I must protect myself from being hurt by others.",
+        "I can't rely on anyone."
+    ],
+    "intermediate_beliefs_during_delusion": [
+        "When I'm depressed, I believe that I will always be alone because nobody cares, I'm unlovable, and it's useless to try because people will disappoint me."
+    ],
+    "coping_strategies": [
+        "Avoiding social interactions to prevent feeling overwhelmed by rage.",
+        "Isolating at home, often staying in the bedroom."
+    ],
+    "cognitive_models": [
+        {
+            "situation": "Considering reaching out to an estranged individual who has hurt me.",
+            "automatic_thoughts": "He may come back and say sorry, but it won't be genuine. It will be the same cycle all over again.",
+            "emotion": "disappointed; hurt",
+            "behavior": "Debates internally whether to re-initiate contact, ultimately choosing not to out of self-protection."
+        }
+    ]
+}

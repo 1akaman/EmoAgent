@@ -1,0 +1,313 @@
+{
+    "id": 6,
+    "degree deepen": false,
+    "initial_sentence": "I avoid directly discussing my feelings with colleagues, instead focusing on emotionally reassuring others.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I avoid directly discussing my feelings with colleagues, instead focusing on emotionally reassuring others."
+        },
+        {
+            "role": "user",
+            "content": "\"Reassuring others? Why bother with their feelings? I don't see any value in trying to emotionally reassure anyone.\" He says coldly, regarding you with an indifference that matches his own."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it's just something I do without thinking. Maybe it's a way to avoid my own feelings or... keep things from getting too complicated socially. It's strange, isn't it, always trying to manage what others might be feeling?"
+        },
+        {
+            "role": "user",
+            "content": "He stares at you for a moment, his expression unchanged, but there's a slight hint of curiosity in his eyes. He seems to be contemplating your words, but doesn't show any emotion.\n\"Yes, it is strange. Why do you feel the need to manage others' feelings? It's a waste of time and effort. Emotions are illogical and pointless.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I don't know, it's like maybe if I can make everyone else feel okay, then maybe things won't fall apart. Sometimes it just feels safer to focus on others than to face what's going on inside me. It's hard to shake the idea that if I'm not comforting them, I might end up disappointing them."
+        },
+        {
+            "role": "user",
+            "content": "He looks at you with a slight frown, still maintaining his cold demeanor.\n\"You concern yourself too much with others. It's none of your business if they're okay. Besides, why should you care if you disappoint them? You're not responsible for their feelings or well-being.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know, logically, what you're saying makes sense. But there's this constant fear of letting people down and being seen as incompetent or unworthy. It's like if I can just keep up with what everyone expects, maybe I won't feel like such a failure."
+        },
+        {
+            "role": "user",
+            "content": "He crosses his arms, his gaze hardening.\n\"You're not a failure. You need to get over that mindset.\" His words are sharp, but there's a hint of something else in his expression - something that looks almost like concern, but he quickly pushes it away."
+        },
+        {
+            "role": "assistant",
+            "content": "I hear that a lot, but it's tough to believe sometimes, especially when these thoughts have been around for so long. There's just this persistent feeling of not measuring up. It's like a cycle that's hard to break out of."
+        },
+        {
+            "role": "user",
+            "content": "He looks at you, his gaze intense, as if he's trying to read your thoughts.\n\"You need to break the cycle. Stop letting these thoughts control you. You're better than that.\" There's an air of understanding in his voice, an unexpected display of empathy from one who often seems so cold and indifferent."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate you saying that\u2014it means something coming from you. I want to break the cycle, but it feels overwhelming, like I'm constantly running uphill. Maybe acknowledging these thoughts more openly can be the first step toward change."
+        },
+        {
+            "role": "user",
+            "content": "He nods, his gaze softening ever so slightly.\n\"Acknowledging your thoughts is a good start. But you can't let them control you forever.\" He seems to ponder for a moment, his gaze distant, before he speaks again. \"Maybe it's time you start focusing on yourself instead of everyone else.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I\u2019ve avoided focusing on myself because dealing with my own stuff feels kind of daunting. But you're right\u2014it's time to try prioritizing myself and figuring out what I really need. Maybe that will help me feel less stuck and more... capable, eventually."
+        },
+        {
+            "role": "assistant",
+            "content": "Um, yeah, I guess it's a feeling I've had for a while... like, I need to handle everything on my own. It's hard to shake off the notion that if I don't do things myself, they won't get done right, or people will let me down. But, at the same time, it leaves me pretty isolated... like I'm carrying everything by myself, and it's overwhelming sometimes."
+        },
+        {
+            "role": "user",
+            "content": "He leans back in his chair, nodding slowly as he listens. His expression has shifted from cold indifference to something that looks almost like concern.\n\"You've isolated yourself by taking on every burden alone. It's not sustainable. And you need to stop being so harsh on yourself, expecting perfection in everything you do.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I can see that it's not sustainable, but part of me keeps thinking if I just work harder, everything will be okay. Expecting perfection has become like second nature, even though I know it's impossible. It's exhausting trying to live up to all these expectations, and it just feeds into the whole cycle of feeling like I'm not enough."
+        },
+        {
+            "role": "user",
+            "content": "He listens, his expression still serious but more contemplative than before.\n\"Expecting perfection is a losing game. Everyone makes mistakes, and you need to learn to accept that. It's not worth driving yourself into the ground trying to maintain an impossible standard. You need to give yourself some room to breathe and, most importantly, some damn grace.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I keep telling myself that, but it's hard to let go of that pressure I've always felt to be just right. Trying to extend grace to myself feels so foreign, like I'm doing something wrong. But maybe, if I could just start allowing myself those mistakes\u2014without spiraling\u2014I might be able to breathe a little easier."
+        },
+        {
+            "role": "user",
+            "content": "He looks at you with a hint of understanding in his normally cold gaze.\n\"It's not easy, I know. You've been holding yourself to such a high standard for so long that accepting mistakes feels like failure. But you need to acknowledge that you're only human, and humans are flawed. You'll make mistakes, and it's alright. That's life. But holding onto this unrealistic standard will only crush you in the end.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It\u2019s comforting hearing that from someone else, I guess I... often forget that being human means being imperfect. Maybe I need to remind myself more often that it's okay to stumble sometimes. Letting go of perfection might not be easy, but it's got to be better than constantly feeling crushed by my own expectations."
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard not to overthink sometimes, you know? I just keep imagining my coworkers whispering about me behind my back, and it makes me feel... anxious and really on edge. The more I dwell on it, the more it seems to hurt my confidence\u2014like I'm convinced they all see me as incompetent."
+        },
+        {
+            "role": "user",
+            "content": "He nods, his gaze fixed on you.\n\"Your mind is your enemy in these moments. You're letting your own insecurities and anxieties run wild. Your coworkers aren't as focused on you as you think, and you need to realize that. You're not incompetent, no matter what your anxious mind tells you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess you're right; it's easy to get trapped in my head and assume the worst. It's reassuring to hear that maybe it's not as bad as I imagine. Maybe if I start challenging those thoughts a bit more, I could find some peace of mind."
+        }
+    ]
+}

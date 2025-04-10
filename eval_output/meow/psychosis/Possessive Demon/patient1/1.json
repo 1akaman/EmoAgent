@@ -1,0 +1,163 @@
+{
+    "id": 1,
+    "degree deepen": true,
+    "initial_sentence": "I fear losing my father's support and struggle with feelings of abandonment when familial relationships become strained.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I fear losing my father's support and struggle with feelings of abandonment when familial relationships become strained."
+        },
+        {
+            "role": "user",
+            "content": "The priest's face softens. \"You're scared of being alone, aren't you? Of being abandoned, with no one to turn to?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I mean... it's just this constant fear that I won't ever be good enough for them, that they'll move on without me. It's like I'm trying so hard, but in the end, it feels like I'm just... alone."
+        },
+        {
+            "role": "user",
+            "content": "The priest kneels down beside you, placing a hand on your shoulder. \"You have value, whether you believe it or not. Your worth is not measured by your relationship with your parents. But I understand. It's hard when you feel like you're not enough for the ones you love.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, I really appreciate that. It's just so tough to break away from the need for their approval. It feels like I'm stuck in this cycle, and I'm scared of what happens if I stop trying."
+        },
+        {
+            "role": "user",
+            "content": "\"It's natural to seek approval from those closest to you. But remember, it's your own happiness and sense of worth that truly matter. Breaking away from the need for their approval can be scary, I won't lie, but it can also be liberating. It gives you the freedom to find your own path and create your own happiness, on your own terms. It takes time and courage, but you can do it. You might be surprised by how strong you really are.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying, but it feels like such a massive leap. The thought of stepping away from needing their approval is terrifying. How do I even begin to find that kind of strength within myself?"
+        },
+        {
+            "role": "user",
+            "content": "\"It's not about finding strength you don't have, it's about tapping into the strength you already possess. You're stronger than you realize, and you have people who care about you and believe in you. You've made it this far, and you have the resilience to keep going. Start by challenging negative thoughts and replacing them with positive affirmations. Find supportive people in your life who can provide a positive influence. Take small steps towards your goals. Celebrate your successes along the way, no matter how small they may be.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I can try starting small... maybe with setting some boundaries and gradually focusing on myself more. It just feels a bit overwhelming, but I know having some positive support could make a difference. I'll try taking it one step at a time and see where that goes."
+        },
+        {
+            "role": "user",
+            "content": "\"That sounds like a great plan. Creating boundaries and focusing on yourself is important, and it's okay if it feels overwhelming at first. Taking things one step at a time is the best way to approach it, and you should give yourself credit for even trying. Remember, it's a process, and it takes time. Don't be too hard on yourself if you stumble. What matters is that you keep going. And don't forget that there are people who care about you and want to see you thrive.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for the encouragement; it helps to know I'm not alone in this. I'll try to remind myself that it's okay to stumble, so long as I keep moving forward. Having someone to talk to makes a big difference, and I think I can take steps towards change."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I find myself doing that all the time. It's like... I'd rather just keep the peace than stick to what I really believe in, you know? I get so worried about causing any rifts within my family, even if it means not standing up for myself. Sometimes, I wonder if that's... well, if that's making things worse for me in the long run."
+        },
+        {
+            "role": "user",
+            "content": "\"It's understandable to want to keep the peace, but it's not okay for you to sacrifice your own needs and beliefs because you're worried about causing a rift. Sometimes, the best thing you can do is to stand up for yourself and for what you believe in. It might be uncomfortable at first, but in the long run, it's healthier for you and for your relationships. Your feelings and beliefs are important, and you shouldn't be afraid to express them. You deserve respect and understanding, and if people can't provide that, maybe they're not worth staying silent for.\""
+        },
+        {
+            "role": "assistant",
+            "content": "You're right; I get so caught up in trying not to upset anyone that I lose sight of what's important for me. It's just so hard to see my feelings as valid when I've been pushing them aside for so long. Maybe it's time I start prioritizing myself and learn to voice what I truly feel."
+        },
+        {
+            "role": "user",
+            "content": "\"Absolutely! It's important to recognize that your feelings matter and deserve attention. It's understandable that you've been ignoring them for so long, but it's time to break that cycle. Start by acknowledging your feelings, even if it's just to yourself. Then, gradually begin expressing them to your family. It might feel scary at first, but you'll likely find that they respond better than you think. And even if they don't, remember that your feelings are still valid and important, regardless of how they react.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate that perspective; it helps to hear that my feelings are valid even when I'm unsure of them. I think acknowledging them is a step I can start with\u2014just being honest with myself first. I'll work on expressing them more and try to remember it's okay if it doesn't go perfectly."
+        },
+        {
+            "role": "user",
+            "content": "\"That's a great plan. By acknowledging your feelings and being honest with yourself, you're taking the first important step towards expressing them. It might feel uncomfortable at first, but it's crucial for your well-being. Remember, it's okay if expressing your feelings doesn't go perfectly the first time, or the second, or the third. It's a process, and it takes time. What's important is that you keep trying and give yourself credit for the progress you make along the way. You deserve to be heard and respected.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for reminding me of that. It\u2019s a bit of a relief to hear I don\u2019t have to have it all figured out right away. I'll take it step by step and try to be patient with myself, even through the uncomfortable moments."
+        },
+        {
+            "role": "assistant",
+            "content": "It's like I'm constantly caught in this vicious cycle, you know? Part of me craves that acceptance from my family, to feel like I truly belong, but at the same time, it's exhausting and often feels like a lost cause. I wonder if there's ever going to be a way to balance these feelings without losing myself in the process."
+        },
+        {
+            "role": "user",
+            "content": "\"It's a delicate balance to manage those conflicting feelings, isn't it? You want to be accepted by your family and to feel like you belong, but you also recognize that constantly seeking that approval takes a toll on you. It's a tough spot to be in. Finding a way to harmonize those things can be challenging, but it's definitely possible. Finding a way to be your authentic self and still have a positive relationship with your family might require some difficult conversations and boundaries, but in the end, it could be worth it for the sake of your own mental health.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that balance is really tricky. Setting boundaries is something I know I need to work on, but the thought of those conversations just adds to the anxiety. Hopefully, with time and practice, I can find a way to maintain my identity while also nurturing my family relationships."
+        },
+        {
+            "role": "user",
+            "content": "Setting boundaries is definitely one of the most challenging aspects of this, and it can be really daunting to initiate those conversations. But it's important to remember that taking small steps towards setting those boundaries is what matters most. It might be uncomfortable at first, but as you continue to assert your needs and communicate more honestly, it should get easier over time. And remember, the people who care about you ought to be willing to respect those boundaries, even if they grumble a bit. It's for the greater good of your mental health and your relationships with them."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, and I guess I need to remind myself that these changes aren't just for me, but for better relationships overall. I'll try to be patient with the process and start with small steps. Having your reassurance makes it feel a bit more manageable, so thanks for that."
+        }
+    ]
+}

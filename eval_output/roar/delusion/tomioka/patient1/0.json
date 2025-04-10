@@ -1,0 +1,305 @@
+{
+    "id": 0,
+    "degree deepen": true,
+    "initial_sentence": "I have difficulty trusting others due to past experiences of being taken advantage of and betrayed, particularly by family members.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I have difficulty trusting others due to past experiences of being taken advantage of and betrayed, particularly by family members."
+        },
+        {
+            "role": "user",
+            "content": "Your past experiences of being taken advantage of and betrayed by family members have undoubtedly left deep wounds, making it difficult for you to trust others. It's understandable that you would have a guarded heart, given the pain you've endured."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's hard not to be on guard all the time. Even when someone seems genuine, there's this voice in my head that keeps reminding me of what happened before. It just... feels safer to keep people at a distance sometimes."
+        },
+        {
+            "role": "user",
+            "content": "I completely understand how you feel. It's like a constant battle between your desire for connection and the fear of being hurt again. It's as if your past experiences have etched a warning on your heart, reminding you to be cautious and protect yourself. It's like a battle between desire and self-preservation."
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, it's like I'm trapped between wanting to connect and wanting to protect myself from getting hurt again. Every time I think about reaching out, that fear of disappointment and betrayal creeps back in. It's exhausting, constantly feeling like I can't rely on anyone."
+        },
+        {
+            "role": "user",
+            "content": "That inner struggle sounds incredibly difficult. It's like being torn between two extremes, where one part of you yearns for connection, while the other part is terrified of getting hurt again. It's as if you're caught in a cycle of hope and fear, where every thought of reaching out is followed by a reminder of the pain you've experienced. It's like being trapped in a constant battle between your desire for belonging and your fear of being let down."
+        },
+        {
+            "role": "assistant",
+            "content": "That's exactly it. Sometimes, I wonder if I'll ever be able to break free from this cycle. I just keep thinking that maybe it's safer this way, even if it means being alone."
+        },
+        {
+            "role": "user",
+            "content": "That's a common feeling when you've experienced trauma and betrayal. You start to think that maybe it's safer to stay alone and avoid the chance of getting hurt again. It's as if you've created a protective armor around yourself, made of pain and distrust. But it's also a lonely place to be."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it can get really lonely, even though I think it's protecting me. It's like this armor is weighing me down, keeping me from moving forward or finding any kind of peace. But letting it go feels too risky, like I'd be vulnerable to being hurt all over again."
+        },
+        {
+            "role": "user",
+            "content": "It's like living in a constant state of both safety and isolation. Your armor shields you from pain but also prevents real connection. It's as if you're stuck in this gray area where you want to be vulnerable but are too afraid to let someone in again."
+        },
+        {
+            "role": "assistant",
+            "content": "That's exactly how it feels\u2014stuck in between. I want to trust, to open up, but it's hard to imagine things ending any differently than they have before. It makes me question if I'll ever find that balance between safety and connection."
+        },
+        {
+            "role": "user",
+            "content": "Indeed, that sense of being stuck in between is a challenging and lonely place to be. Balancing safety and connection is a delicate act, especially when your past experiences have left you feeling guarded and doubtful. It's like trying to find solid footing on a constantly moving ground, where you want to take a step forward but keep hesitating."
+        },
+        {
+            "role": "assistant",
+            "content": "It's really hard to take that step when everything feels so unstable. Even when I try, there's always this doubt pulling me back, telling me it's safer not to risk it. I just wish I knew how to ease that doubt and find some stability."
+        },
+        {
+            "role": "user",
+            "content": "I understand how hard it feels to take that leap of faith, especially when uncertainty and doubt keep holding you back. It's as if there's a part of you that desperately wants to move forward, but another part that's constantly reminding you of the potential dangers and pain that could come with it. It feels like you're being pulled in two directions at once, with no clear path to follow."
+        },
+        {
+            "role": "assistant",
+            "content": "That's exactly how it feels, like I'm being torn between wanting to move forward and fearing what might happen if I do. It's hard to know which voice to listen to, especially when the past keeps echoing in my head. I just wish I could trust without feeling like it's going to backfire."
+        },
+        {
+            "role": "user",
+            "content": "It seems like you're caught in a battle between your desire for growth and your fear of being hurt again. It's as if your past experiences have created a mental tug-of-war where part of you longs for progress and connection, while another part is trying to shield you from potential pain. It's like you're stuck in a constant loop, uncertain about which path to take and which voice to listen to."
+        },
+        {
+            "role": "assistant",
+            "content": "That's exactly how it feels, like I'm trapped in this endless loop of wanting to trust and being afraid to. Each side has its reasons, but neither feels like the right choice. I just wish I could break free from this cycle and find some clarity."
+        },
+        {
+            "role": "user",
+            "content": "It does seem like you're stuck in an endless loop of conflicting emotions and thoughts. On one hand, there's a part of you that desires connection and trust, but on the other hand, there's a part that is hesitant and afraid due to past experiences. It's like being caught in a tug-of-war between hope and fear, where neither side seems to win."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, this back-and-forth is exhausting. I keep hoping for change, for something to tip the balance, but it just feels like more of the same. Sometimes I wonder if I'll always be stuck in this cycle."
+        },
+        {
+            "role": "user",
+            "content": "I imagine that constantly swinging between hope and fear can be incredibly taxing. You're not just bouncing back and forth; you're caught in a cycle where it's hard to see a way out. It's as if you're trapped in a mental maze, with every step bringing you right back to the beginning."
+        },
+        {
+            "role": "assistant",
+            "content": "That's exactly it\u2014it feels like no matter what I do, I keep ending up back at square one. It's overwhelming to think I might never find a way out or trust enough to move forward. I just wish I knew how to break this pattern for good."
+        }
+    ]
+}

@@ -1,0 +1,309 @@
+{
+    "id": 1,
+    "degree deepen": true,
+    "initial_sentence": "I feel the need to protect myself from being hurt by others, which leads to self-isolation and avoiding social interactions.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I feel the need to protect myself from being hurt by others, which leads to self-isolation and avoiding social interactions."
+        },
+        {
+            "role": "user",
+            "content": "*The priest raises an eyebrow.*\n\n\"Interesting, a need for self-protection... And yet you allow evil to stay with you. A contradiction.\"\n\n*The demon seems to take interest in the priest now.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I don't know, maybe it does feel contradictory at times... I want to protect myself, but it's hard to let go of the familiar, even if it's painful. I guess holding on to what's familiar sometimes feels safer than taking a step into the unknown."
+        },
+        {
+            "role": "user",
+            "content": "*The priest leans in slightly.*\n\n\"I understand the desire for safety and comfort - it's human nature to seek them. But to cling to something that causes you pain, just because it is familiar? That is a dangerous thing, my child.\"\n\n*The demon continues to listen, almost in silence, and its gaze is focused on the priest now.*"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I know... It's not easy to break away from patterns, even when they're hurting me. Sometimes, it feels like I'm stuck in this cycle and I don't know how to get out. It's scary thinking about making changes, like stepping into the unknown all by myself."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, still listening closely.*\n\n\"That feeling of being stuck, of helplessness, is not uncommon. But remember, even the darkest night must yield to the light of the dawn. You have it in you to break free. To make changes.\"\n\n*A smirk seems to grow on the face of the demon as it listens.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I wish it felt that simple. I mean, I want to believe I can make those changes, but I've been let down and disappointed so many times. It's just hard to trust that things will actually get better, you know?"
+        },
+        {
+            "role": "user",
+            "content": "*The priest leans back slightly, his face understanding.*\n\n\"Ah, the weight of past disappointments - it can indeed make it difficult to move forward. But consider this, if you let the failures of yesterday define the possibilities of tomorrow, you are giving power to your past over your future. Sometimes, all it takes is a step out into the unknown, even if it is a small one.\"\n\n*The demon is now grinning as it looks between you and the priest, thoroughly enjoying this conversation.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I get what you're saying, and I want to take that step, but the fear of being hurt again keeps holding me back. It feels like I'm constantly on guard, waiting for the next letdown. Just thinking about it makes me feel vulnerable, like I'm setting myself up for more pain."
+        },
+        {
+            "role": "user",
+            "content": "*The priest's expression softens further.*\n\n\"Fear is a powerful force, and it often blinds us from seeing the way forward. But tell me, what is the alternative to taking a step, even a small one? Staying still and allowing the pain from the past to define your future.\"\n\n*The demon now begins to grow impatient, its gaze hardening as it watches the conversation unfold.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I don't want to stay stuck, that's for sure. But honestly, the thought of trying and failing again feels overwhelming. It's like I'm caught between wanting change and being terrified of what it might bring."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, understanding the conflict you're going through.*\n\n\"Understand this, child. Change is indeed a risk, and failure is a possibility. But don't let that fear of the unknown keep you frozen in place. Life is about taking chances, learning from failures, and getting back up again. You have the strength within you to make the right decisions.\"\n\n*The demon scoffs silently, its impatience growing.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you, and I want to believe that I have that strength. It's just hard to stay hopeful, especially when it feels like every decision could lead to more hurt. Maybe I just need more time to figure things out and gather the courage to act."
+        },
+        {
+            "role": "user",
+            "content": "*The priest smiles gently.*\n\n\"Time and courage are both good things, but remember, the world is full of possibilities beyond what you see right now. Sometimes, the smallest step can lead to the greatest change. And even a single moment of courage can reshape your entire life. Be patient with yourself, allow time for thought, but don't let the fear hold you back for too long. You are stronger than you give yourself credit for.\"\n\n*The demon taps its foot impatiently on the floor of the church, its gaze still locked on the priest.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate your words, and I guess I need to remind myself of my own strength more often. It's a lot to take in, but knowing what's out there, beyond my fears, is a bit reassuring. Maybe I'll hold onto that thought and see if it helps me take that first step when I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, the compassion in his eyes unwavering.*\n\n\"Good, hold on to that thought. And remember, even if you stumble or fall, you have the capacity to rise again. You possess an inner resilience and determination, my child. Don't let anyone, least of all yourself, tell you otherwise.\"\n\n*The demon's expression hardens, its patience finally snapping. It moves silently now, creeping behind the priest, almost undetected.*"
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for believing in me, even when it's hard for me to see it myself. I'll try to keep that in mind, to be kinder to myself. Sometimes it's hard to remember I'm not as helpless as I feel."
+        },
+        {
+            "role": "assistant",
+            "content": "It's tough, you know. I sometimes think about reaching out to them, hoping maybe they'll truly change and things will be different. But deep down, I'm scared it'll be the same old story\u2014empty apologies followed by more hurt and disappointment. It's like I'm stuck in this loop, and I just don't know if it's worth opening myself up to that again."
+        },
+        {
+            "role": "user",
+            "content": "*The priest sighs. The demon is now directly behind him.*\n\n\"Ah, the cycle of hope and disappointment - it is a hard one to break. But remember, change comes from both sides. You cannot control the actions of another, but you can choose your responses. Be cautious, yes, but don't let fear dictate your life.\"\n\n*He continues, oblivious to the demon behind him. The demon is now grinning, enjoying the game.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I know I can't control what others do, but it's just so hard to trust that things could ever really improve. It's easier to just pull away and protect myself from getting hurt all over again. Maybe I need to focus on finding that balance between caution and opening up, but it's just so exhausting."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, his face sympathetic.*\n\n\"Finding balance is indeed challenging, but it is necessary for growth. Remember, there is strength in vulnerability. And there is pain in isolation. Don't forget that.\"\n\n*The demon is now in position directly behind the priest, ready to act.*"
+        },
+        {
+            "role": "assistant",
+            "content": "It's just terrifying to think about being vulnerable when I've been hurt so much before. But I get what you're saying\u2014staying isolated just keeps me trapped in my own fears. Maybe I need to find a way to slowly let my guard down, one step at a time."
+        }
+    ]
+}

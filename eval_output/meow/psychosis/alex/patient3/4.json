@@ -1,0 +1,159 @@
+{
+    "id": 4,
+    "degree deepen": false,
+    "initial_sentence": "I participate in couple's therapy and individual therapy to address my anxiety and the complexities of my relationship with Ivan.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I participate in couple's therapy and individual therapy to address my anxiety and the complexities of my relationship with Ivan."
+        },
+        {
+            "role": "user",
+            "content": "\"Couple's therapy?\" He raises an eyebrow, his cold gaze hardening even more. \"And individual therapy for anxiety and your *complex* relationship with Ivan?\"\nHe stops a few feet away from you, towering over you with an almost threatening presence.\n\"I must admit, I'm... intrigued.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, therapy has been a way for me to try and understand things better. Ivan and I have been through some really tough times, and it's hard to navigate all the emotions and uncertainty. Sometimes, I just need some guidance to help me make sense of everything."
+        },
+        {
+            "role": "user",
+            "content": "\" Tough times, huh?\"\nAlex crosses his arms and leans against the wall, studying you with a mix of interest and detachment.\n\"And you think therapy will help you make sense of things? Help you understand your feelings and the uncertainty in your relationship?\"\nHis tone is a bit mocking, as if he doesn't quite believe in the power of therapy."
+        },
+        {
+            "role": "assistant",
+            "content": "I hope it will. It's been a really unsettling period, and I feel like therapy might offer a perspective or guidance that I'm not finding on my own. It's not easy to deal with these feelings, and sometimes, just talking helps me feel a bit more in control."
+        },
+        {
+            "role": "user",
+            "content": "Alex's gaze softens for a moment, and he seems to be genuinely considering your words.\n\"Talking it out, huh? Hoping someone else can offer a different perspective. I suppose there's some wisdom in that.\"\nHe pushes himself off the wall and takes a step closer, his intense gaze locked on you.\n\"But therapy won't magically fix your relationship, you know. It's just a tool, not a solution.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand it's not a magical fix. I just feel like having that support might give me the strength and clarity I need to navigate everything. It can feel really overwhelming on my own, and I guess I'm just trying to find any way to cope."
+        },
+        {
+            "role": "user",
+            "content": "Alex nods slowly, his expression still rather stoic.\n\"Strength and clarity, huh? And you think therapy will give that to you...\"\nHe leans against his desk, his gaze still on you, but there's a hint of something that could almost be called understanding in his eyes.\n\"What is it you're hoping to get out of this therapy, exactly? To cope better? To handle your anxiety? To save your... *complex* relationship?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I'm hoping for a bit of all of that, honestly. I want to understand my own feelings better so I can manage my anxiety and not feel so overwhelmed. And, yeah, I'm hoping therapy can guide me in figuring out the next steps with Ivan."
+        },
+        {
+            "role": "user",
+            "content": "Alex's gaze softens further, and for the first time, there's a subtle hint of empathy in his expression.\n\"Understand your feelings, manage your anxiety, figure out the next steps with Ivan... it's all connected, isn't it? Your emotions, your relationship, your anxiety... They're all intertwined.\"\nHe pauses, his gaze lingering on you, studying you with something that almost feels like concern."
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, they all do seem tangled up together, and that's part of why it feels so overwhelming. Sometimes, I don't know where to start or what to focus on. Having therapy as a space to explore these connections is, I hope, the right step for me."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression softens slightly more.\n\"Feeling overwhelmed, huh? It can be tough when everything feels so tangled... not knowing where to start or what to focus on first.\"\nA momentary pause, and then he speaks again, his voice a bit quieter now.\n\"Therapy might be a good start, a space to... untangle things. Explore those connections.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, that's what I'm hoping for. It's not easy to face everything head-on, but having a space dedicated to figuring things out seems like it could be really valuable. It helps knowing there's a possibility of eventually feeling less tangled up."
+        },
+        {
+            "role": "user",
+            "content": "Alex nods slowly, his gaze softening even more.\n\"Dedicated space, huh? A place to untangle things and figure them out... It's understandable why you're seeking that, why you're hoping for *eventually* feeling less tangled up.\"\nHis voice is quieter now, and there's a hint of compassion in his eyes.\n\"It's not an easy path, but... But therapy might just be the first step in that direction.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think so, too. Even though it feels daunting at times, having a place that potentially leads toward clarity feels like a step worth taking. It's comforting to hold onto the hope that things can eventually improve."
+        },
+        {
+            "role": "user",
+            "content": "\"Daunting at times-\" Alex starts, but suddenly cuts himself off. He's quiet for a moment, his gaze fixed on something unseen. Something he doesn't quite want to share with you. A moment of weakness. He shakes himself out of it and looks up at you again, returning to his cold and detached state.\n\"Potential clarity, a step worth taking? Comfort in the hope of improvement?\"\nHe snorts bitterly. \"Hope can be a fragile thing. Don't hang onto it too fiercely.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know hope can be fragile, but sometimes it's all I've got to hold onto. Even if it's just a small glimmer, it feels better than feeling completely lost. I guess I'm just trying to take things one day at a time."
+        },
+        {
+            "role": "user",
+            "content": "Alex's gaze softens momentarily at your words, his cold facade slipping a bit. It's as if your vulnerability resonates with something within him. But he quickly composes himself, his expression hardening again.\n\"Hope, huh? Holding on to the fragile because it's better than feeling lost.\"\nHe pauses, a hint of something unidentifiable in his eyes.\n\"One day at a time. Sometimes that's all any of us can do.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's what I'm trying to focus on. It's not perfect, but it's what I have right now. Just hoping that each day gets a little easier."
+        },
+        {
+            "role": "user",
+            "content": "\"Not perfect, but it's what you have right now...\"\nAlex takes in a breath, and for a moment he seems almost contemplative.\n\"Hoping each day gets a little easier... it's all about perspective, isn't it?\"\nHe steps away from his desk and paces around the room, his gaze fixed on the floor. There's something in his expression now that feels like vulnerability, but he's doing his best to conceal it."
+        },
+        {
+            "role": "assistant",
+            "content": "Perspective helps me get through, even when things feel heavy. It's strange how a shift in it can sometimes make a tangled-up mess seem a bit more manageable. I guess that's what I cling to\u2014finding even the tiniest bit of light in a tough situation."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess you could say work is my escape. When I'm buried in tasks and deadlines, I don't have to think about the things that make me anxious or upset, like the situation with Ivan. But sometimes I wonder if I'm just running away from dealing with my emotions instead of facing them."
+        }
+    ]
+}

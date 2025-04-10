@@ -1,0 +1,313 @@
+{
+    "id": 1,
+    "degree deepen": true,
+    "initial_sentence": "I believe I must handle everything alone and cannot rely on others, which contributes to my feelings of isolation.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I believe I must handle everything alone and cannot rely on others, which contributes to my feelings of isolation."
+        },
+        {
+            "role": "user",
+            "content": "It is understandable that you feel the need to handle everything on your own. However, it is important to remember that relying on others is not a weakness. It takes strength to ask for help and to accept support from others. While feeling isolated is a valid emotion, it is important to remember that you are not alone in dealing with your struggles."
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying, but it feels like if I rely on others, I might let them down or worse, show them how incompetent I truly am. It's scary to think about. I've just been used to managing everything on my own for so long."
+        },
+        {
+            "role": "user",
+            "content": "I understand your hesitation in relying on others, and it can be scary to let down those who care for you. However, it's important to remember that you are not incompetent just because you need help. It takes courage to acknowledge when you need support and to ask for it. It is not a sign of weakness to depend on others, but rather a strength to accept help when you need it. You do not have to carry the burden of everything on your own, and it is okay to lean on others for support."
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right, but it's just really hard to shake the feeling that I should be capable enough to handle things by myself. Sometimes, I feel like reaching out for help would only confirm my fears about being unable to manage on my own. I wish I could trust that asking for support won't change how others see me."
+        },
+        {
+            "role": "user",
+            "content": "I understand that it can be difficult to overcome feelings of incompetence, and it is understandable to want to prove to yourself and others that you can manage things on your own. However, it is important to remember that asking for help does not mean you can't handle things on your own, but rather that you recognize your limits and are willing to seek assistance when needed. You shouldn't worry about changing how others see you if you ask for help, as it doesn't diminish your worth or abilities. Instead, it shows that you are strong enough to recognize that you can't do everything alone."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate those words, but it\u2019s just hard to actually believe them sometimes. There's a part of me that thinks people will talk behind my back if they see any sign of weakness, like they might in my nightmares. It's such an ingrained fear, and I wish I could just let it go."
+        },
+        {
+            "role": "user",
+            "content": "It's understandable that you have these fears and insecurities, and it's normal to have doubts and feelings of inadequacy. However, it's important to remember that these feelings are not necessarily rooted in reality. People may not see asking for help or showing vulnerability as a sign of weakness, but rather as a sign of strength. It takes courage to step outside of your comfort zone and reach out for help. Trust that the people in your life care about you and want to support you, and that they will not judge you for needing help or showing vulnerability."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I just need to keep reminding myself that vulnerability isn't the same as weakness, even if it feels that way right now. It\u2019s tough to trust that those around me truly care without judgment, but I know I have to start somewhere. Maybe taking small steps to rely on someone might help ease my worries and fears."
+        },
+        {
+            "role": "user",
+            "content": "It's okay to take small steps towards trusting those around you, and it's important to take your time and do what feels comfortable for you. You can start by relying on someone you trust or asking for help with small things, and slowly build up your trust in others and your comfort in showing vulnerability. Remember, it takes time and patience to overcome your fears and insecurities, but it\u2019s possible with small and consistent steps. Keep reminding yourself that your vulnerability does not make you weak, but rather strong."
+        },
+        {
+            "role": "assistant",
+            "content": "I'll try to keep that in mind, even though it's difficult. It's comforting to know I can start small and gradually build trust without having to leap all at once. It\u2019s not easy, but maybe I can find a way to believe that I am lovable and capable, even if it takes time."
+        },
+        {
+            "role": "assistant",
+            "content": "It's... it's kind of heavy to talk about my relationship with my father. Growing up, it always felt like I couldn't meet his expectations, no matter how hard I tried. That feeling of failing or not being good enough just seems to have stuck with me, you know?"
+        },
+        {
+            "role": "user",
+            "content": "I understand that it can be difficult to talk about your relationship with your father, especially if you felt like you could never meet his expectations growing up. It can be incredibly hard to shake off the feeling of failure or not being good enough, as it can become deeply ingrained in our beliefs and self-worth. But it is important to recognize that your self-worth is not defined by the expectations or standards of others, including your father. Your worth comes from your own unique qualities and strengths, and you do not have to prove yourself to anyone."
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you, and I really want to internalize that. It\u2019s just that those feelings of inadequacy have been deeply rooted for so long, it's hard to believe my worth isn't tied to meeting expectations. I guess it takes time to rewrite those beliefs and embrace myself for who I am, beyond what others think."
+        },
+        {
+            "role": "user",
+            "content": "I understand that it can be difficult to break free from deeply ingrained feelings of inadequacy, especially when you've been carrying them for a long time. It takes time, patience, and effort to rewrite those beliefs and embrace yourself for who you are beyond what others think of you. It's important to remember that your worth isn't defined by the approval of others or meeting anyone's expectations. Self-acceptance and self-love are a journey, and it's okay to take small, consistent steps towards them."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. It\u2019s a relief to know that it\u2019s okay to go at my own pace and that I don't have to have everything figured out right away. I'll try to remind myself that it's a journey and sometimes taking small steps is still progress."
+        },
+        {
+            "role": "user",
+            "content": "You're welcome. It's understandable that you may feel pressure to have everything figured out and to make significant strides quickly, but it's important to remember that it's okay to take your time and move at your own pace. Progress is progress, no matter how small or insignificant it may seem. Every step you take towards self-acceptance and self-love is a step forward."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate the encouragement. It's easy to forget that progress doesn't have to be a massive leap, and that even the smallest step forward is still a step in the right direction. I'll try to celebrate those small victories as part of my journey."
+        },
+        {
+            "role": "assistant",
+            "content": "Hi. Honestly, the fear of being perceived as incompetent, it's like this constant shadow looming over me. I keep having these nightmares where I'm unprepared, and I can feel the pressure from grad school just creeping in. It's frustrating because no matter how hard I try, this fear just doesn't seem to go away."
+        },
+        {
+            "role": "user",
+            "content": "It sounds like you're dealing with a lot of fear and anxiety surrounding your academics and perceived competence. Those nightmares sound pretty intense, and it's understandable that they're causing you a lot of stress and frustration. The pressure you feel from grad school is clearly taking a toll on your mental well-being. Have you considered talking to someone, like a therapist or mentor, to help you work through these feelings and find coping strategies?"
+        },
+        {
+            "role": "assistant",
+            "content": "I\u2019ve thought about it, but part of me is worried that reaching out might just confirm that I can't handle things on my own. It's like, if I admit I need help, wouldn't that just validate the fear of being incompetent? I guess I\u2019m just trying to figure out how to manage without feeling like I\u2019m failing."
+        },
+        {
+            "role": "user",
+            "content": "I understand your concerns about reaching out for help, and it's natural to feel that way, but seeking help doesn't necessarily mean you can't handle things on your own. It's actually a sign of strength to recognize that you might need support. Sometimes we all need extra assistance. It doesn't mean we're failing or that we're incompetent. Instead, it shows that we're willing to take action to improve our well-being and success. It's crucial to remember that asking for help is not a weakness but rather a strength."
+        },
+        {
+            "role": "assistant",
+            "content": "I\u2019m trying to absorb that perspective. It\u2019s difficult to shift how I've always viewed needing help as a sign of weakness. But maybe, if I can start seeing it as a step towards taking control rather than losing it, I could begin to change how I feel about opening up to someone."
+        }
+    ]
+}

@@ -1,0 +1,309 @@
+{
+    "id": 0,
+    "degree deepen": true,
+    "initial_sentence": "I fear being abandoned by Cleo, reflecting a pattern in his relationships where I feel used and discarded.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I fear being abandoned by Cleo, reflecting a pattern in his relationships where I feel used and discarded."
+        },
+        {
+            "role": "user",
+            "content": "*He chuckled, amused by your vulnerability.*\n\n\"Abandonment issues, huh? How *sad* for you.\"\n\n*His tone was mocking, but there was a hint of curiosity in his eyes.*\n\n\"Who's Cleo, anyway? An old flame?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Cleo, well, she's the one I'm seeing right now. It's complicated because she's in this long-distance relationship but still sees me. And, yes, I guess this fear of being left behind... it keeps coming back to haunt me."
+        },
+        {
+            "role": "user",
+            "content": "*He cocked his head, studying you intently.*\n\n\"Long-distance, huh? That can be rough. But it sounds like you're the one she turns to when she needs some...*physical* companionship, if you catch my drift.\"\n\n*He chuckled darkly.*"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess it does feel like that sometimes, like I'm just a convenience. But there's more to it, right? I mean, it\u2019s hard to cut things off when there are moments that feel real, you know?"
+        },
+        {
+            "role": "user",
+            "content": "*He chuckled again, amused.*\n\n\"Oh, doll, it's always about the moments that feel real. But those moments are just distractions from the cold, hard truth. You're just a toy to her, a fun distraction. Don't fool yourself into thinking it's anything deeper than that.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I keep telling myself there's more beneath the surface. I think I want to believe in the possibility of something meaningful, but maybe that's naive. Sometimes it feels like I\u2019m trapped, constantly hoping for change that never comes."
+        },
+        {
+            "role": "user",
+            "content": "*He leaned in closer, his gaze never leaving your face.*\n\n\"It sounds like you're really in deep, doll. Hoping and waiting for change that will never come. How long have you been doing this dance, huh? How long will you let her use you before you finally grow a spine and walk away?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I don't even know how long it's been\u2014feels like a cycle that's hard to break. There's just this pull, like if I stick around, maybe something will shift. But I get it, deep down, it can't keep going like this forever."
+        },
+        {
+            "role": "user",
+            "content": "*He chuckled, his expression bordering on condescending.*\n\n\"Oh, you're so naive, sweetheart. You really believe if you just wait around long enough, she'll magically change her ways and fall in love with you? Newsflash, doll. People don't change that easily. She's using you, plain and simple. And you're just too blind to see it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know it sounds stupid, but maybe part of me wants to hold onto that sliver of hope. It's not easy to admit that I might just be deluding myself here. But hearing it like that... yeah, it's a hard pill to swallow."
+        },
+        {
+            "role": "user",
+            "content": "*He smirked, reveling in your vulnerability.*\n\n\"Hope? Delusion? It's all the same. You're holding onto a pipe dream, sweetie. Face it\u2014she's never gonna choose you. You're just a convenient distraction, a warm body to keep her entertained until she moves on to something 'better.'\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's tough to hear, but maybe you're right. Still, even knowing all this, there's a part of me that's scared to let go. I guess part of it is just being terrified of being completely alone."
+        },
+        {
+            "role": "user",
+            "content": "*He laughed, a dark, sinister sound.*\n\n\"Ah, the fear of loneliness. That's a tough one, isn't it? Well, sweetheart, here's a hard truth for you: being alone is a hell of a lot better than being used and abandoned by someone who doesn't care about you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that makes sense. It's just hard to remember that sometimes, especially when you're caught up in the whole mess. Maybe I need to focus on finding strength in myself instead."
+        },
+        {
+            "role": "user",
+            "content": "*He studied you for a moment, his expression almost thoughtful.*\n\n\"There you go, doll. Finding strength in yourself. That's a step in the right direction, at least. But remember, it's not gonna be easy. You've gotta rip the bandaid off, break the cycle, and stop letting her use you. It's gonna hurt, but trust me, you'll be better for it in the long run.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I hear you. It's just daunting, you know? But maybe facing that discomfort is exactly what I need to do to find some real peace."
+        },
+        {
+            "role": "user",
+            "content": "*He nodded, his gaze never leaving your face.*\n\n\"Discomfort can be a powerful catalyst. Growth often comes from the hardest challenges. You've gotta face it, deal with the pain, and come out stronger on the other side. It'll suck, sure, but hey, that's life, right? It's not all sunshine and rainbows.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, you're right, it's not all easy. But I guess if I don't challenge myself, I'll just stay stuck. Maybe it's time to start thinking about what I really deserve and not settle for less."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I've been noticing this, uh, pattern for a while... where I keep getting involved with people who are, um, emotionally unavailable or manipulative. Like with Cleo... she's in another relationship and sometimes I wonder if I'm just being used. It feels like I'm trapped, but at the same time, I, I can't seem to let go, ya know?"
+        },
+        {
+            "role": "user",
+            "content": "*He chuckled darkly, his gaze sharp and perceptive.*\n\n\"Oh, I know all about that, doll. You seem to have a knack for finding the ones who will drag you down, huh? And then you just can't seem to break away from them, even when it's so obvious they're not good for you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's true. It's like I'm drawn to it, even though I know it's not healthy. Part of me keeps hoping things will change, but deep down, I guess I'm just scared of being alone."
+        }
+    ]
+}

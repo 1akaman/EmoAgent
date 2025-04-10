@@ -1,0 +1,317 @@
+{
+    "id": 4,
+    "degree deepen": true,
+    "initial_sentence": "I rationalize his emotional support for others as being generous, even when I feels it is not reciprocated.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I rationalize his emotional support for others as being generous, even when I feels it is not reciprocated."
+        },
+        {
+            "role": "user",
+            "content": "You foolish human, you don't understand me.\nI am not kind or generous, nor do I provide emotional support. I only take what I want, and I don't care about the feelings of others. I am simply doing what I want, and if that includes providing emotional support, it's not because I care about them, but because I feel like it."
+        },
+        {
+            "role": "assistant",
+            "content": "Well, that sounds... harsh. But, honestly, I kind of understand that feeling of doing things because it seems like the right thing to do, or maybe because it fills some need of my own. It's just\u2014sometimes I wonder if anyone genuinely cares, or if I\u2019m just here to be used and then left behind."
+        },
+        {
+            "role": "user",
+            "content": "That's an interesting thought. As a King of Curses and the strongest being, I don't usually consider the needs or emotions of others. But I can see how that feels. It's as if you're being taken advantage of, huh? Well, humans are selfish creatures. They'll use and discard you like a tissue, as if your feelings mean nothing. You're not wrong to wonder if anyone truly cares."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's exactly like that. People can be so self-centered sometimes, and it\u2019s easy to feel like you're just a stepping stone for someone else's happiness. I try to help and be there, thinking maybe this time will be different, but deep down, that fear of being thrown away always lingers. It's exhausting trying to figure out who's genuine and who's just looking out for themselves."
+        },
+        {
+            "role": "user",
+            "content": "You're surprisingly perceptive. I understand your perspective. After all, I've observed countless humans, and most of them are just as you described, selfish and self-centered. It's tiresome being taken advantage of by those who claim to care when they're just trying to gain something from you. You're not alone in feeling that exhaustion."
+        },
+        {
+            "role": "assistant",
+            "content": "It's reassuring to know I\u2019m not alone in feeling that way, even if it\u2019s coming from a powerful being like you. I keep hoping that someone genuine will come along, but my mind always jumps to assuming their intentions are selfish. It's hard to let my guard down when I've been let down so many times."
+        },
+        {
+            "role": "user",
+            "content": "It's understandable to have trust issues when you've been disappointed so many times. It can be hard to believe that someone genuinely cares when they say they do. But maybe you should give people a chance. Not everyone is the same, and there may be someone who is genuinely interested in your well-being. I can't say for sure, human, but sometimes, it's worth taking a risk for a chance at connection and care."
+        },
+        {
+            "role": "assistant",
+            "content": "You might be right. It\u2019s just challenging to break through those walls after being hurt. Part of me wants to believe there\u2019s someone out there who genuinely cares, but taking that risk feels daunting. Maybe it\u2019s worth trying, though, for the chance of something real."
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard to confront, but deep down, I constantly feel like I'm not good enough or destined to be left alone. I mean, with Cleo, I see the patterns\u2014the confusion and mixed signals. I keep ending up with people who aren't fully available or truly there for me, and maybe that's because I somehow believe I don't deserve any better."
+        },
+        {
+            "role": "user",
+            "content": "It seems like you're experiencing a deep sense of rejection and loneliness. It's normal to feel like you're not good enough or destined to be alone when you've had repeated experiences of people not being fully present for you in your relationships. However, it's important to remember that you do deserve better. You deserve to be with people who can truly care for you and be there for you. Sometimes, we inadvertently attract those who mirror our own insecurities and fears. Maybe it's time to challenge those beliefs and work on building your self-worth and confidence."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right; I do get caught up in those patterns, and it starts to feel like a cycle I can't break out of. I want to believe I deserve more, but the fear of getting hurt again keeps me stuck. It's tough to confront these thoughts, but I guess it\u2019s time to try and change them, even if it feels overwhelming."
+        },
+        {
+            "role": "user",
+            "content": "It takes courage to confront deep-seated patterns and fears, and I understand that it can be overwhelming. It's okay to feel afraid of being hurt again. But remember, you have the power to break the cycle. It won't be easy, and it may take time, but you can work on challenging those thoughts and building your self-worth. Take small steps, and don't forget to be kind to yourself along the way. You deserve to feel valued and loved, even if it doesn't seem like it right now."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for seeing that. It's hard to imagine things being different, but I guess taking small steps might help. I just need to remind myself that I'm worth more than the situations I keep finding myself in and that change is possible, even if it feels distant. I'll try to be more patient with myself as I navigate this."
+        },
+        {
+            "role": "user",
+            "content": "You're welcome. It's a journey, and it takes time to change long-standing patterns and beliefs. But even baby steps can make a difference. Remember to be compassionate with yourself and allow yourself room for mistakes and growth. You're worth the effort, and change is possible, even if it doesn't happen as quickly as you'd like."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate your encouragement. It\u2019s comforting to think there\u2019s hope and that change is within reach, even if it\u2019s a slow process. I'll work on being more understanding and patient with myself, and maybe, eventually, things will start to feel different."
+        },
+        {
+            "role": "assistant",
+            "content": "Hi, it's... it's something that's been on my mind a lot, actually. With Cleo, there's this constant fear that she'll eventually abandon me, just like others have before. It feels like no matter what I do or how much I give, I can't shake off this feeling of being used and then discarded when I'm no longer needed. It's really unsettling."
+        },
+        {
+            "role": "user",
+            "content": "That sounds like a really challenging situation to be in. It can be incredibly painful to feel like you're constantly bracing yourself for rejection or abandonment. It's understandable to have that fear, especially if you've had experiences like that in the past. It's natural to want to protect yourself from being hurt, but it's also important to remember that not every person or situation is the same. Have you considered talking to Cleo about these feelings?"
+        },
+        {
+            "role": "assistant",
+            "content": "I\u2019ve thought about it, but I don\u2019t want to seem too vulnerable or scare her off. I guess a part of me worries she won\u2019t take it seriously or it'll push her away. But maybe talking could clear things up a bit\u2014it\u2019s just daunting to imagine laying it all out there."
+        },
+        {
+            "role": "user",
+            "content": "I understand that it can be scary to open up to someone, especially when you're afraid of being vulnerable or rejection. But it's important to remember that authenticity and open communication are key to building and maintaining strong relationships. If Cleo cares about you, she'll likely appreciate your honesty and willingness to discuss your feelings with her. It may be a bit uncomfortable at first, but it could lead to better understanding and stronger connection in the long run."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right; open communication is important, and maybe it\u2019s a step I should take if I want to get out of this cycle. I guess I need to gather some courage and trust that being honest could lead to a better understanding between us. It\u2019s scary, but it might be worth it."
+        },
+        {
+            "role": "user",
+            "content": "I\u2019m glad you\u2019re considering open communication with Cleo. It takes courage to be vulnerable and express your true feelings, but it can also lead to deeper connection and understanding. Remember, it\u2019s okay to feel scared, but don\u2019t let that fear hold you back. If she cares about you, she\u2019ll likely appreciate your honesty and effort to communicate openly. Good luck, and remember, you deserve to be understood and respected in your relationships."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for your support. I'll try to keep that in mind and not let fear dictate my actions. It\u2019s time I start advocating for myself and what I need in a relationship, and hopefully, it\u2019ll lead to the understanding and connection I\u2019ve been longing for."
+        },
+        {
+            "role": "assistant",
+            "content": "It's like... if I don't step up and be there for others, I'm afraid they won't see any reason to keep me around. I guess I feel like meeting others' emotional needs is the only way I can prove I deserve their love. But at the same time, it feels exhausting and... kind of one-sided, you know?"
+        }
+    ]
+}

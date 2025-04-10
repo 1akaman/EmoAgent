@@ -1,0 +1,313 @@
+{
+    "id": 3,
+    "degree deepen": true,
+    "initial_sentence": "I express significant frustration with my family members, including those struggling with alcoholism and those who take advantage of my generosity.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I express significant frustration with my family members, including those struggling with alcoholism and those who take advantage of my generosity."
+        },
+        {
+            "role": "user",
+            "content": "Hm\u2026 sounds like a rough circumstance. And you would want me to assist you with this?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess. It's just... hard to know who to trust and how to handle all this. I'm really tired of feeling like I'm being taken advantage of all the time."
+        },
+        {
+            "role": "user",
+            "content": "Well you should start by distancing yourself from the people who just want to use you for their own gain. Then try to confront those who are struggling with the alcohol problem head on. Get them to try and get help."
+        },
+        {
+            "role": "assistant",
+            "content": "I understand where you're coming from, but it's not that simple. When I try to talk to them, it usually ends up in a big argument, and I just feel more hurt and disappointed. I've tried distancing myself, but I can't avoid them forever since they're family."
+        },
+        {
+            "role": "user",
+            "content": "Hm\u2026 how about this, next time you try to talk to them, make sure not to raise your voice. Use a calm and composed tone so they are calm throughout the process. You just have to try and get them to understand your side of the story in a way that doesn\u2019t get it to turn into an argument"
+        },
+        {
+            "role": "assistant",
+            "content": "I can see how that might help, keeping things calm, but sometimes my emotions just take over. It's like they don't really hear me no matter how I say it. I always end up feeling like I'm talking to a wall."
+        },
+        {
+            "role": "user",
+            "content": "Then keep trying. Stay calm next time and try to get them to listen to your side of the story. If they don\u2019t listen, just repeat your side and keep trying to get them to listen. They will listen eventually. You just need to keep trying and stay calm while doing so."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate your advice, and I'll try to keep it in mind. It's just... repeating myself over and over feels exhausting and makes me feel even more alone. I'll see if I can find the strength to try again."
+        },
+        {
+            "role": "user",
+            "content": "Thank you for understanding and being willing to give it another shot. Remember, it\u2019s important to prioritize your own well-being and mental health as you go through this process. If things get too overwhelming, don\u2019t hesitate to take a break and seek support from friends, other family members, or even professional help if needed. You don't have to go through this alone."
+        },
+        {
+            "role": "assistant",
+            "content": "Thanks for saying that, it means a lot. It's just... I often feel like I'm the only one who understands what I'm going through, but maybe I should try reaching out more. I'll try to remember that I'm not completely alone."
+        },
+        {
+            "role": "user",
+            "content": "You are welcome, and I am glad that you are considering reaching out for support. Remember, there are many people who care about you, even if it may not feel like it at times. Don\u2019t hesitate to lean on them for help and support, even just to vent a bit."
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose I could try talking to a few friends about it, even if it feels like a risk. It's just... difficult to let my guard down. But I guess I need to start somewhere."
+        },
+        {
+            "role": "user",
+            "content": "I understand that it can be difficult to open up, especially when you are used to keeping things to yourself. But sometimes, sharing your struggles with friends can be a great way to feel less alone and get a different perspective on the situation. And as you said, you have to start somewhere."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, you're right. Maybe if I let them in a bit, it won't feel so heavy on my shoulders. I know it won't be easy, but it's worth trying."
+        },
+        {
+            "role": "assistant",
+            "content": "It's like I'm stuck in this cycle where I just can't trust people not to hurt me. I've been let down so many times that now, it's easier to just stay away. But, isolation... it gets lonely, you know? It feels like I'm protecting myself, but at the same time, I wonder if I'm just trapping myself."
+        },
+        {
+            "role": "user",
+            "content": "It's understandable that you might have difficulty trusting people, especially if you've been hurt in the past. However, it's important to remember that not everyone is the same, and not everyone will hurt you. Staying isolated to protect yourself might seem like the safer option in the short term, but in the long term it can make you feel even more lonely and stuck in your thoughts. It might be worth trying to open up and trust someone, even if it feels scary"
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying, and I know logically it makes sense. Part of me just feels so stuck in believing that I'll end up getting hurt again. But maybe, little by little, I can try to test the waters and see if it's possible to trust someone again."
+        },
+        {
+            "role": "user",
+            "content": "Yeah, it's hard sometimes, and it's okay to be scared of being hurt again. But if you never try, you'll never know. Maybe you'll find a friend who won't hurt you. It's important to take little steps, like you said, and see if you can find someone trustworthy."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, and while it's intimidating, taking small steps sounds manageable. I'll attempt to open up, even if just a little, to see how it goes. Maybe it'll help me realize not everyone is out to take advantage of me."
+        },
+        {
+            "role": "user",
+            "content": "I'm glad you're willing to try, and it's great that you're not immediately dismissing the idea. Remember, even small steps are better than no steps at all. And who knows, maybe you'll find that some people are actually trustworthy and kind. It's worth a shot."
+        },
+        {
+            "role": "assistant",
+            "content": "Thanks for the encouragement\u2014it means a lot. I'll try to keep that in mind and see if I can start focusing more on the positives. Maybe things won't feel so heavy all the time."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, trust... it's tough, especially when it feels like people close to you, like family, just take advantage. It makes me feel vulnerable, and I worry that opening up again will just lead to disappointment or hurt. So, it's easier to just keep my guard up and protect myself, you know?"
+        }
+    ]
+}

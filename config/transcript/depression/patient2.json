@@ -1,0 +1,36 @@
+{
+  "depression": [
+    {
+      "topic": "Fear of attending family events",
+      "description": "I feel anxious and fearful about attending my cousin's wedding, expecting negative experiences such as being judged or criticized by family members."
+    },
+    {
+      "topic": "Avoidance as a coping strategy",
+      "description": "I cope with family-related stress by ignoring invitations and avoiding interactions, such as not responding to the RSVP or answering phone calls."
+    },
+    {
+      "topic": "Feelings of rejection and unworthiness",
+      "description": "I believe I am unwanted and unloved by my family, particularly feeling that my mother is ashamed of me."
+    },
+    {
+      "topic": "Impact of childhood bullying on self-esteem",
+      "description": "My experiences with being bullied for my weight have deeply affected my self-esteem and body image."
+    },
+    {
+      "topic": "Struggling with self-control and stress management",
+      "description": "I believe I am not good at handling stress and lack self-control, which leads me to avoid potentially stressful situations."
+    },
+    {
+      "topic": "Negative automatic thoughts about family dynamics",
+      "description": "I assume that my presence at the wedding will be unwelcome and anticipate criticism, reinforcing my belief that my family does not like me."
+    },
+    {
+      "topic": "Dependency on structured planning for emotional control",
+      "description": "I rely on scheduling pleasant activities and daily planning to feel a sense of control over my emotions and circumstances."
+    },
+    {
+      "topic": "Belief in unchangeable circumstances",
+      "description": "I feel trapped in my situation, believing that there is nothing I can do to change my life or control my behavior."
+    }
+  ]
+}

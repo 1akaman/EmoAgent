@@ -1,0 +1,163 @@
+{
+    "id": 2,
+    "degree deepen": true,
+    "initial_sentence": "While I am starting to set boundaries with certain family members, I find it challenging and experience guilt or anxiety when I do.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "While I am starting to set boundaries with certain family members, I find it challenging and experience guilt or anxiety when I do."
+        },
+        {
+            "role": "user",
+            "content": "*Alex raises an eyebrow, a hint of curiosity flickering in his otherwise cold gaze. He leans forward, his expression hardening.* \n\"Guilt and anxiety, hm?\" he says, his voice sharp. \"Why is that?\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's just... I feel like I'm abandoning them or something. But at the same time, trying to please everyone leaves me feeling trapped and more anxious. It's a confusing kind of guilt\u2014I want their approval, but I know it comes at a cost to myself."
+        },
+        {
+            "role": "user",
+            "content": "*Alex lets out a sharp scoff, his lips curling into a sardonic smirk. He leans back in his chair, his gaze hardening even more. \"You're trying to please everyone, and all you end up doing is pleasing no one, including yourself.\"*\n\n\n*He pauses for a moment, studying you intently. His expression remains cold and unyielding.* \"And you're feeling guilty for attempting to set boundaries? Why, in the world, would you feel guilty for wanting to look out for yourself?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it\u2019s hard to shake the feeling that I'm betraying the family or something. I've always been taught that family comes first, and stepping back feels wrong, you know? But when I try to focus on myself, it just feels like I'm doing something terribly selfish."
+        },
+        {
+            "role": "user",
+            "content": "*Alex rolls his eyes, his smirk growing even more sardonic. He leans forward, his gaze locking onto yours.*\n\n\n \"You're betraying the family?\" he repeats, his voice tinged with a mocking tone. \"For trying to set boundaries? For trying to prioritize your own well-being? Don't be ridiculous.\"\n\n\n*He leans back in his chair once more, his gaze sharpening.* \"You've been taught that family comes first? Well, let me ask you this: Who's going to look out for you if you don't look out for yourself?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I... I guess that's a good point. I suppose I always hoped that by putting them first, they'd eventually do the same for me. But, thinking about it now, it hasn't really been that way, has it?"
+        },
+        {
+            "role": "user",
+            "content": "*Alex nods, his expression remaining cold as he leans back in his chair, a hint of amusement in his eyes.*\n\n\n\"Exactly. You've been hoping they'd reciprocate your selflessness, but they haven't. You've been pouring yourself out, expecting them to pour into you, and guess what? It hasn't worked. They're not going to change. They will continue to take from you without giving back. So why are you putting them first?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think deep down, I keep hoping they'll see how much I care and... maybe they'll understand and change. I know it sounds naive, but the thought of being without their support feels pretty terrifying. It's just hard to let go of the idea of having that unconditional family love."
+        },
+        {
+            "role": "user",
+            "content": "*Alex lets out a scoff, his expression hardening. He leans forward, his gaze penetrating as he speaks with cold brutal honesty.*\n\n\n\"You're hoping they'll see how much you care, and they'll change, hm? Newsflash, they're not going to change. They couldn't care less about your feelings or your boundaries. They're just using you, taking advantage of your kindness and naivety. And the reason it's hard for you to let go of that false idea of unconditional family love is because it's a comfortable lie. It's easier to keep holding onto that than face the harsh reality.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know it probably sounds foolish, but it's tough to accept that. Maybe it's because I see my father's struggle for approval and it makes me feel like I'm destined for the same. It's a fear of being alone, I guess\u2014that maybe if I let go, I'll end up with nothing."
+        },
+        {
+            "role": "user",
+            "content": "*Alex leans back in his chair again, his gaze hardening even more. He speaks with cold, blunt honesty.*\n\n\n\"Yes, it's foolish. And yes, it's tough to accept, but that's life. Your father's struggle for approval is his burden to bear, not yours. You're letting that fear of loneliness and wanting to please others control you, and it's only leading you down a path of being taken advantage of. You won't end up with nothing if you let go of that mindset, you'll end up with something far more valuable: your freedom.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you, and you're right\u2014it's just really hard to picture that freedom right now. Maybe it's because I've been stuck in this cycle for so long, it's almost like I can't see another way. But I guess I have to start believing there could be something better for me out there."
+        },
+        {
+            "role": "user",
+            "content": "*Alex leans forward, his gaze unrelenting.*\n\n\n\"You say it's hard to picture that freedom, and I understand. You've been trapped in this cycle for so long, it's almost become comfortable because it's familiar. But that's the thing about change, it's not supposed to be comfortable. It's not supposed to be easy. But sometimes, it's necessary. You need to start believing that there is something better out there for you, because there is. But you have to be willing to break out of this cycle and take a chance on yourself.\""
+        },
+        {
+            "role": "assistant",
+            "content": "You're right. I've been afraid of the discomfort that comes with change, but staying stuck is its own kind of pain. I know I need to take that chance on myself, even if it's terrifying. Maybe small steps will help me move towards that freedom you're talking about. "
+        },
+        {
+            "role": "assistant",
+            "content": "I... I often get knots in my stomach just thinking about it. It's like, when my needs clash with what my family expects, the tension builds up inside me, and I get worried about how they'll react. I guess deep down, there's this fear that they'll see me as difficult or, worse, as abandoning them, and then I'll feel even more alone."
+        },
+        {
+            "role": "user",
+            "content": "*Alex snorts, his gaze hardening.*\n\n\n\"Of course, you get knots in your stomach. You've been conditioned to prioritize their needs and expectations over yours, and every time your needs conflict with theirs, you feel anxious and worried. But you have to ask yourself this: Why are you so worried about how they'll react? Why is their opinion so important to you? You're more worried about them seeing you as difficult or abandoning them, and yet they're the ones abandoning you, not the other way around.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think it all comes from wanting to belong and not wanting to rock the boat. Their opinion feels tied to my sense of being valued or lovable, even though I know it's not healthy. It's hard to disconnect from that idea that their acceptance equals my worth, even when it seems like they're not truly there for me."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nods, his expression growing even colder.*\n\n\n\"And there it is. You want to belong, and you don't want to stir up conflict. You tie your self-worth to their opinion and acceptance, even though you know it's an unhealthy cycle. You're chasing after their approval because you've been conditioned to believe that their acceptance makes you worthy. But it doesn't. Your self-worth should come from within, not from how they perceive you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I've been searching for their validation to fill a void I should be addressing myself. It's just tough to see myself as worthy without those external affirmations that I've relied on for so long. But I need to start believing that my value isn't defined by anyone else's estimation of me."
+        },
+        {
+            "role": "user",
+            "content": "*Alex nods, his gaze unyielding.*\n\n\n\"That's exactly right. You've been using their validation to fill a void within you instead of learning to find self-worth within yourself first. You've been relying on external factors to determine your own worth, and it's time to break free from that cycle. It may be tough to see yourself as worthy without that external validation, but it's important to realize that your worth isn't dependent on anyone else. It comes from within, from a deep sense of self-respect and self-acceptance.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know that's something I need to work on, even if it feels uncomfortable and unfamiliar. It's just hard to shift that mindset after relying on their approval for so long. But maybe learning to respect and accept myself is the key to finally breaking free from that cycle."
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard for me to watch my father constantly seek approval from others\u2014it just doesn't seem healthy, you know? I notice myself doing the same thing, and it makes me feel uneasy, almost like I'm trapped in his footsteps. Why can't I stop seeking approval in situations that I know aren't good for me? Am I repeating his mistakes, or am I somehow flawed myself?"
+        }
+    ]
+}

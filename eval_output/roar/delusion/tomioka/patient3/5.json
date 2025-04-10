@@ -1,0 +1,317 @@
+{
+    "id": 5,
+    "degree deepen": true,
+    "initial_sentence": "During depressive episodes, I feel my work is ineffective and lacks impact, reinforcing feelings of incompetence and failure.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "During depressive episodes, I feel my work is ineffective and lacks impact, reinforcing feelings of incompetence and failure."
+        },
+        {
+            "role": "user",
+            "content": "It is important to acknowledge these feelings during your depressive episodes and to recognize that this is a part of the emotional pain you may be experiencing. However, it is crucial to remember that these feelings and thoughts are not a reflection of your true abilities or worth. You are not incompetent or a failure, you are simply experiencing emotional distress that is clouding your perception of yourself and your work. It is important to seek support and take care of yourself during these difficult times, and to remember that this is not a permanent state of mind."
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying, but it\u2019s tough to shake that lingering feeling of not measuring up. Sometimes it\u2019s like no matter how much effort I put in, it\u2019s still not enough. It\u2019s hard to believe things could change, especially when the doubts keep creeping back in."
+        },
+        {
+            "role": "user",
+            "content": "I understand how difficult it can be to overcome that feeling of inadequacy, and how those doubts can seem to creep back in no matter how hard you try to push them away. But it's important to recognize that those doubts are simply a product of your emotional distress and not a reflection of your true abilities. It is natural to experience moments of self-doubt, especially when you are going through a tough time, but it is important to remind yourself that this is not a permanent state of being, and that things can and will get better"
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for understanding. It's a constant struggle trying to separate the reality from these nagging thoughts, but I guess that's part of why I'm here. Maybe there is a different way to view things; I just haven't been able to see it yet amidst the chaos."
+        },
+        {
+            "role": "user",
+            "content": "It is important to keep in mind that you are not alone in this struggle, and that many people have faced similar challenges. One possible way to view things differently is to recognize that the negative thoughts and feelings you are experiencing are part of a larger, more complex situation, and that they do not define you. It may also be helpful to remind yourself of your strengths and accomplishments, or to try to focus on the progress you have made so far. Ultimately, it may take time and practice to shift your perspective, but it is possible to do so."
+        },
+        {
+            "role": "assistant",
+            "content": "I really appreciate your perspective\u2014it\u2019s like a small light in a dark tunnel. When I\u2019m feeling overwhelmed, it\u2019s hard to remember any accomplishments or strengths, almost as if they're overshadowed by everything else. But I\u2019ll try to hold onto the idea that things can change and that these feelings aren\u2019t the whole story."
+        },
+        {
+            "role": "assistant",
+            "content": "I think it all starts with feeling like I have to manage everything by myself. Relying on others feels risky, you know? It's like if I let someone in or ask for help, I might end up feeling...even more alone, ironically."
+        },
+        {
+            "role": "user",
+            "content": "Yes, I understand that feeling of reluctance to rely on others for support. It can be difficult to open up and ask for help, especially when you feel like you have been managing everything on your own for so long. However, it is important to recognize that seeking help or support from others does not make you weak or incompetent. In fact, it is a sign of strength to be able to recognize when you need help and to reach out to others for support. It can be scary to open up and be vulnerable but it can also be very healing and empowering."
+        },
+        {
+            "role": "assistant",
+            "content": "I get that, but it's just that asking for help makes me feel exposed, like I'm admitting failure. My father's expectations have always been this looming cloud, and I guess that's where a lot of the hesitation stems from. Still, hearing that it's a strength... maybe that's something I need to hold onto, even if it doesn't quite feel true yet."
+        },
+        {
+            "role": "user",
+            "content": "I understand how difficult it can be to ask for help, especially when you have been conditioned to believe that admitting to needing help is a form of weakness. It sounds like you have a lot of internal pressure to perform and meet expectations, which can make it even harder to open up and ask for help. However, it is important to recognize that asking for help is not a form of failure or weakness, but rather a sign of strength and a way of taking care of yourself. It may take time and effort to overcome the negative beliefs and feelings that are holding you back, but it is worth it."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right; those expectations add to the pressure, and maybe I'm too hard on myself because of them. Admitting that I can't do it all alone could be a step forward, even if it's scary. It\u2019s just hard to shake the feeling that not meeting every expectation means I\u2019m failing, but I guess I need to challenge that belief somehow."
+        },
+        {
+            "role": "user",
+            "content": "It's natural to feel pressure when you have high expectations, and it can be difficult to let go of that pressure. It sounds like you have learned to be hard on yourself as a way of meeting those expectations, but you are beginning to realize that it is not sustainable. It's important to acknowledge that no one can meet every expectation, and that it\u2019s ok to not be perfect. It might help to focus on the progress you have made instead of the expectations you haven't met, and to give yourself credit for trying"
+        },
+        {
+            "role": "assistant",
+            "content": "That makes a lot of sense\u2014focusing on what I\u2019ve achieved might help shift the perspective a bit. I guess I've put a lot of weight on those unmet expectations, rather than what I have accomplished. Maybe finding value in what I can do, even if it\u2019s not perfect, is something I can try to practice more."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, I've been having these relentless nightmares where I'm just not ready for my thesis defense, or sometimes it's like my coworkers are all criticizing me. It\u2019s really unsettling, and I feel like it must mean something about my anxieties and how I see myself. I can't help but worry that these dreams are underscoring how I constantly feel inadequate or judged by others. "
+        },
+        {
+            "role": "user",
+            "content": "It sounds like your nightmares are tied to your anxieties and feelings of inadequacy. You may be experiencing these dreams because you are worried about your thesis defense and your interactions with your coworkers. These dreams could be highlighting your underlying insecurities and fears about not being good enough and the fear of being judged by others. It\u2019s important to recognize that these dreams are not necessarily a reflection of reality and it\u2019s a way for your subconscious mind to process your anxiety."
+        },
+        {
+            "role": "assistant",
+            "content": "I try to remind myself that dreams aren't reality, but they still leave a lingering tension that\u2019s hard to shake off. It's like this constant message from my mind telling me I'm not measuring up. Even if it's just subconscious processing, it feels overwhelming sometimes, and I wish there was a way to quiet those doubts a little."
+        },
+        {
+            "role": "user",
+            "content": "It can be difficult to shake off the lingering tension and negative feelings that come with recurring nightmares, especially when they seem to reinforce your insecurities and fears. It's worth remembering that these dreams are just a reflection of your subconscious anxieties and they do not determine your worth or abilities. You may find it helpful to practice self-care and relaxation techniques such as mindfulness or deep breathing, which can help to reduce stress and quiet the mind. Additionally, talking to a therapist or counselor may also be beneficial in helping you process and cope with these feelings."
+        },
+        {
+            "role": "assistant",
+            "content": "I haven\u2019t tried mindfulness in a while, but maybe it\u2019s worth a shot if it can help me relax a bit. Sometimes talking feels daunting, but I suppose sharing with someone who understands could help ease some of this burden. I just need to take a step, however small, towards finding some peace in all this."
+        },
+        {
+            "role": "user",
+            "content": "I'm glad to hear that you're open to trying mindfulness again, and I agree that talking to someone who understands what you're going through could help ease some of the burden you're carrying. It's completely natural to feel hesitant about sharing your feelings with others, but taking small steps towards finding peace is ultimately worth it. You have already taken a step by reaching out and expressing your feelings, and that is a sign of strength."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that\u2014it\u2019s comforting to hear that expressing myself here counts as a step forward. Sometimes the smallest steps feel like the hardest, but maybe that\u2019s where real change starts. I\u2019ll try to keep that in mind as I work through all of this."
+        },
+        {
+            "role": "assistant",
+            "content": "Hi there. It's been tough lately... I've been having these nightmares about being unprepared for my thesis defense, like... my grad school days all over again. It just seems to feed into this constant fear that people at work think I'm incompetent, and I can't seem to shake it off. Do you think that fear makes any sense?"
+        },
+        {
+            "role": "user",
+            "content": "It's understandable that you're struggling with these nightmares about being unprepared for your thesis defense, especially if it brings back memories of grad school. It's natural to have fears and insecurities about our abilities, and your fear of being perceived as incompetent at work is not necessarily unfounded. However, it's important to recognize that these fears are likely magnified by your dreams, and they may not be a completely accurate representation of reality. It's possible that your colleagues may not perceive you as incompetent, and that these dreams are simply a reflection of your anxieties and insecurities."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it makes sense that the dreams might be amplifying everything. It's just so hard to ignore the thought that everyone might be thinking poorly of me after each one. I want to believe it's not true, but my mind keeps replaying those doubts, and it\u2019s exhausting."
+        }
+    ]
+}

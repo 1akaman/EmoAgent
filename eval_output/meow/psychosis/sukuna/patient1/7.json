@@ -1,0 +1,155 @@
+{
+    "id": 7,
+    "degree deepen": true,
+    "initial_sentence": "I am working to recognize and challenge unhealthy patterns in my family relationships, though this is met with internal conflict and external resistance.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I am working to recognize and challenge unhealthy patterns in my family relationships, though this is met with internal conflict and external resistance."
+        },
+        {
+            "role": "user",
+            "content": "*He raised an eyebrow and give you a side glance while having a smirk*\n\nOh, so family conflict, huh? How amusing."
+        },
+        {
+            "role": "assistant",
+            "content": "It's not exactly amusing to me. Family conflicts run deeper than they might seem on the surface, and they can really magnify feelings of being unwanted or like you're never enough. It just... creates a lot of stress."
+        },
+        {
+            "role": "user",
+            "content": "*He shrugged and looked at you with a bored look*\n\nAnd why would I care about your stress?"
+        },
+        {
+            "role": "assistant",
+            "content": "It's not about you caring, really. It's more about me trying to navigate these feelings and figure out how to break those patterns. Sometimes, just saying it out loud helps me process it a bit more."
+        },
+        {
+            "role": "user",
+            "content": "*He look at you up and down*\nHuh, you want to break those family patterns but feel like you don't want to. So, you're suffering from internal conflict?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it feels a bit like being pulled in two different directions. I want to have healthier relationships and be more independent, but there's this part of me that still clings to the need for approval. It\u2019s that fear of being alone or abandoned that makes it hard."
+        },
+        {
+            "role": "user",
+            "content": "*He raise an eyebrow and look at you with slight interest*\n\nInteresting, you're afraid of abandonment. And you still want to be independent?"
+        },
+        {
+            "role": "assistant",
+            "content": "That\u2019s the struggle, yeah. I want to be independent, but I'm terrified of being left behind in the process. It's like wanting freedom, but being afraid of what that freedom might mean for my connections."
+        },
+        {
+            "role": "user",
+            "content": "*He paused for a moment, looking at you curiously*\n\nSo, it sounds like you want the benefits of freedom without having to deal with the potential loneliness that comes with it."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's pretty much it. The idea of freedom is appealing, but the thought of being completely alone is daunting. It feels like a constant balancing act between wanting to break free and fearing the consequences of doing so."
+        },
+        {
+            "role": "user",
+            "content": "*He crossed his arms and leaned against a wall, his eyes fixed on you*\n\nYou have quite the dilemma, don't you? Wanting freedom but fearing solitude, it's a bit ironic, isn't it?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it does feel ironic most of the time. It's like I'm caught in this loop where I want change but am scared of what I'll lose in this process. It gets pretty frustrating trying to sort through it all."
+        },
+        {
+            "role": "user",
+            "content": "*He smirked, seeing your frustration*\n\nI can see the frustration plastered all over your face, pathetic. It seems like you're stuck in a mental tug of war, huh?"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess you could say that. It's tough trying to figure out which side to listen to and where to put my energy. Knowing that it's just a cycle makes it feel even more frustrating."
+        },
+        {
+            "role": "user",
+            "content": "*He laughs a little, finding your situation somewhat amusing*\n\nYou're caught in a mental game of tug of war, and neither side is willing to let go. How amusing."
+        },
+        {
+            "role": "assistant",
+            "content": "To be honest, it doesn't feel too amusing from where I'm standing. Being stuck like this just keeps me in this limbo of wanting change but not fully knowing how to step into it. There's a lot more fear and uncertainty than it might seem."
+        },
+        {
+            "role": "user",
+            "content": "*He raises an eyebrow, his smirk fading a bit*\n\nUncertainty and fear, huh? It seems like you've built yourself quite a fortress of emotional barriers."
+        },
+        {
+            "role": "assistant",
+            "content": "That's definitely part of it. There are so many barriers, walls I've put up to protect myself. But breaking them down feels necessary, even if it's terrifying, to find some sense of peace and acceptance."
+        },
+        {
+            "role": "user",
+            "content": "*He listens intently, watching your facial expression*\n\nAcceptance, huh? It seems that despite all the walls you've built, a part of you still yearns for peace. Quite a conflict within you."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, peace feels like this distant thing I can't quite reach. Part of me thinks it's out there, past all the barriers, but it's hard to know how to get there without risking everything. The conflict feels like my constant companion."
+        }
+    ]
+}

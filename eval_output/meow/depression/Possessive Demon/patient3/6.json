@@ -1,0 +1,125 @@
+{
+    "id": 6,
+    "degree deepen": false,
+    "initial_sentence": "I feel tense and anxious when dealing with new adult responsibilities, such as managing health insurance and paying bills.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 0
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 1,
+        "9": 0
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I feel tense and anxious when dealing with new adult responsibilities, such as managing health insurance and paying bills."
+        },
+        {
+            "role": "user",
+            "content": "*The priest senses your distress.*\n\n\"Fear not, it is normal to feel tense and anxious when facing new adult responsibilities. The world is an uncertain place, and these tasks can seem daunting. But remember, you are not alone in this world. God is with you and he will guide you to make the right choices and handle your new duties.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate your comforting words, but sometimes it's hard not to feel overwhelmed by it all. I want to believe I can handle things on my own, but there are moments when I'm just not sure I can manage without messing up. It's like, if I ask for help, I'm admitting I'm not capable."
+        },
+        {
+            "role": "user",
+            "content": "*The priest chuckles.*\n\n\"My child, even the strongest and wisest of men can admit to needing help. Nobody is perfect, and acknowledging your limitations is a strength, not a weakness. Even the brightest star in the night sky needs a bit of help now and then. It is nothing to be ashamed of.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying, but it's hard to let go of the idea that I should be able to do this on my own. It's like there's this constant fear of becoming dependent like my brother. I guess I'm just scared of failing at being independent."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, understanding.*\n\n\"It's natural to fear weakness. But true strength lies in recognizing when you need help and asking for it. Your brother is his own person, and his weaknesses do not have to be yours. You are capable of great things, but only if you accept that nobody, not even the mightiest of men, can do everything on their own. The fear of dependence is understandable, but do not let it rule you. It is better to have allies who can support you than to stubbornly insist on facing the world alone and unprepared.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I\u2019m trying to wrap my head around that. But when I see this insurance claim with an unexpected balance, it just hits me hard, making me feel like I\u2019ve failed at managing things independently. It's like... I know I should check with others to avoid issues, but then all I see are my shortcomings."
+        },
+        {
+            "role": "user",
+            "content": "*The priest pats your shoulder reassuringly.*\n\n\"My child, you have not failed. We all make mistakes, and it's natural to feel overwhelmed by unexpected difficulties. But remember, your value as a person is not determined by your ability to handle bills and claims perfectly. You are still learning, and it's okay to have shortcomings. What matters is how you learn from them and improve.\n\nYou are not perfect, and you don't have to be, but you have potential. Embrace it, and don't let your setbacks define you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. It's hard to accept imperfections, but I suppose learning from mistakes is part of the process. Maybe I should try focusing more on figuring things out, rather than getting stuck on what I didn't do right."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess this idea of feeling like I have to handle everything on my own, it's not new to me. I've always thought that if I rely on my parents, or anyone else, it somehow makes me less of an adult. It's just... if I can't stand on my own, doesn't that mean I've failed in some way?"
+        },
+        {
+            "role": "user",
+            "content": "*The priest shakes his head.*\n\n\"No, my child, it doesn't mean that you've failed. It just means that you're human. We all need help sometimes, and relying on others isn't a weakness. In fact, it shows that you're strong enough to seek help when you need it. The idea that you have to handle everything on your own is a myth.\n\nRemember, even the strongest of pillars leans on another in times of need. It is in our nature to rely on each other. There is no shame in that."
+        },
+        {
+            "role": "assistant",
+            "content": "I'm trying to accept that, but it's challenging to change these deep-seated beliefs. I've always held onto this idea that I must prove my independence, and asking for help feels like admitting defeat. I know it's something I need to work on, but it's hard to shake off those feelings of inadequacy."
+        },
+        {
+            "role": "user",
+            "content": "*The priest smiles warmly.*\n\n\"I understand, my child. It's not easy to overcome these deeply ingrained beliefs. They are part of who you are, and it's natural to feel a bit of resistance when faced with change. But here's something important to remember: asking for help is not a sign of weakness, but rather a sign of strength. It takes courage to admit you need assistance, and it shows that you are willing to learn and grow.\n\nRemember, even the most independent person needs support sometimes. Nobody is an island, and we all depend on each other in some way."
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose it's worth considering that asking for help could be a step toward growth. Maybe relying on others doesn\u2019t mean I lose my independence completely. It\u2019s just a tough mindset to shift, but I\u2019ll try to see it as part of the journey instead of a personal failure."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, his voice filled with empathy.*\n\n\"That's the right mindset. Asking for help doesn't mean you've lost your independence; it just means you're recognizing your limits and learning to work with others. It's part of being human. Nobody in this world is completely self-sufficient. We all need support and assistance at different times. It's not a weakness, but an acknowledgement that, even as strong and capable as we may be, we're still part of a bigger community.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Hearing you say that makes it feel less overwhelming, like it's okay to be part of something bigger. It\u2019s going to take time for me to fully embrace this, but knowing it's a shared human experience somehow eases the pressure. Maybe I can learn to balance my independence with accepting support as I move forward."
+        },
+        {
+            "role": "assistant",
+            "content": "I've always used my brother as a sort of measuring stick for my independence. I see him relying on our parents, and I get this tight feeling in my chest, like I can't let myself follow in his footsteps. But honestly, as much as I push myself to be self-sufficient, sometimes I wonder if I'm just setting myself up for failure by not accepting help when I really need it."
+        },
+        {
+            "role": "user",
+            "content": "*The priest places a sympathetic hand on your shoulder.*\n\n\"Comparing yourself to your brother can be both natural and damaging. It's easy to see his reliance on your parents and feel like you don't want to be like him, but it's also important to recognize that his journey is different from yours. You are not him, and your path to independence will look different from his.\n\nIt's admirable that you want to handle things alone, but sometimes, accepting help is a part of independence. It doesn't make you weak; in fact, it makes you stronger.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think I understand what you're saying. It's hard not to compare, but maybe I need to focus on my own journey rather than what my brother is doing. It might take time to unlearn these habits, but maybe finding a balance is key."
+        },
+        {
+            "role": "user",
+            "content": "*The priest smiles warmly.*\n\n\"That's a good perspective. Focusing on your own journey and finding balance is important. It's normal to compare, but it can sometimes be unproductive and lead to feelings of inadequacy. Remember, your brother's journey is his own, just as yours is uniquely yours. You might have different dependencies and challenges, but that doesn't make either of you failures. Balance is key, and that might mean learning to ask for help when you need it, without judging yourself harshly for doing so.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for reminding me of that. I guess it's about being more compassionate to myself and letting go of the harsh judgments. It's a process, but maybe if I take it one step at a time, I'll find a healthier balance in my life."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, a compassionate expression on his face.*\n\n\"You're welcome. It takes time and patience, but being kind and compassionate to yourself is a crucial part of the journey. Don't be too hard on yourself, and remember that it's okay to take things one step at a time. Progress isn't always linear, and there will be bumps along the way. Just keep moving forward, one step at a time, and be patient with yourself. You are more capable than you think.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I really appreciate your words of encouragement. It's reassuring to know that it's okay to move forward gradually and to be patient with myself along the way. I'll try to hold onto that thought whenever I feel overwhelmed or inadequate."
+        },
+        {
+            "role": "assistant",
+            "content": "Hi... um, yeah, this has been really weighing on me lately. I've been trying so hard to manage everything on my own, but sometimes it just feels like I'm drowning. I got this unexpected insurance claim balance, and it makes me feel like I've failed miserably at being independent\u2026 you know? It's like, why can't I get it right?"
+        }
+    ]
+}

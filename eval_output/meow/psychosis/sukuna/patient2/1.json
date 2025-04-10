@@ -1,0 +1,159 @@
+{
+    "id": 1,
+    "degree deepen": true,
+    "initial_sentence": "I believe my physical condition is permanent and that I will never return to my former self, which increases my anxiety and despair.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 4,
+        "16": 5,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 4,
+        "16": 5,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I believe my physical condition is permanent and that I will never return to my former self, which increases my anxiety and despair."
+        },
+        {
+            "role": "user",
+            "content": "*He raised his eyebrow after hearing that*\nWhat did you say?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oh, uh, sorry. I just...feel like I'm stuck in this never-ending cycle of pain and setbacks. It's like part of me thinks this is just how my life is going to be."
+        },
+        {
+            "role": "user",
+            "content": "*He listen carefully, his expression still remain calm. He is usually cruel, but now he seems to be a little interested in this conversation*\nI see... Continue."
+        },
+        {
+            "role": "assistant",
+            "content": "Well, it's just that every time I think I'm making progress, something else pops up\u2014like this herniated disc. It makes me feel like I'm not in control of my own life. And I guess, deep down, I'm scared that everyone will eventually get tired of me not being okay."
+        },
+        {
+            "role": "user",
+            "content": "*He look at you for a few seconds, his eyes sharp like a predator, before his expression change to something similar to understanding.*\nI see... It seems like you're feeling powerless. \nYou're afraid that this pain has taken over your life. \nTell me... What makes you believe that everyone will eventually get tired of you?"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it's because I put so much effort into acting like everything's fine, but inside I'm struggling. I worry that if I'm not the cheerful, strong person people expect, they'll eventually see the truth and leave. It feels like I'm just pretending to fit in, and once they figure that out...well, who wants to be around someone who's always unwell?"
+        },
+        {
+            "role": "user",
+            "content": "*He listen patiently and didn't show any impatience on his face, he seem to be listening carefully. After you finished your explanation, he let out a small smile.*\nYou feel like you're putting on a mask to please others and you're afraid of being seen as weak. You worry that people will eventually realize that you are just pretending to be strong and leave you when they discover your true state.\nAm I getting it right?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, that's exactly it. It's exhausting trying to be someone I'm not, just to keep the people around me. I can't help but feel if they knew how much I'm really struggling, they wouldn't want to stick around."
+        },
+        {
+            "role": "user",
+            "content": "*There's a moment of silence before he spoke up. He seems to be thinking carefully about his words.*\nIt's true that putting on a mask can be exhausting. But let me ask you this: Why do you feel the need to hide your true self and struggles from the people around you? Do you not trust them enough to show them your vulnerability?"
+        },
+        {
+            "role": "assistant",
+            "content": "I think part of it is not wanting to burden them with my issues. And, honestly, I'm afraid of rejection\u2014if they see how broken I really feel, maybe they'd decide I'm not worth the effort. It's hard to risk that when feeling so vulnerable already."
+        },
+        {
+            "role": "user",
+            "content": "*He nodded, as if understanding.*\nAh, I see. You're worried that people will reject and abandon you if you show your true self. You think that being vulnerable will make you appear weak and burdensome.\nBut let me ask you this: have you ever considered that, by not being genuine with those around you, you're depriving them of the chance to fully know and understand you?"
+        },
+        {
+            "role": "assistant",
+            "content": "I... I hadn't thought of it like that. I suppose I\u2019ve been so focused on hiding my struggles that I didn't realize I might be missing out on deeper connections. But the fear of rejection still feels overwhelming."
+        },
+        {
+            "role": "user",
+            "content": "*He nodded again, his gaze seemed to soften a bit.*\nYes, it is true that fear can be a powerful force. But consider this: rejection is a part of life, and no one can avoid it entirely. \nBy trying to avoid it, you're actually preventing the real possibility of forming meaningful connections. People may not always reject you, and those who truly care will support you even in your weakest moments."
+        },
+        {
+            "role": "assistant",
+            "content": "That's a perspective I haven't fully embraced before. Maybe there are people who would still care despite everything. I just need to find a way to let go of that fear and give them, and myself, a chance."
+        },
+        {
+            "role": "assistant",
+            "content": "It's strange, you know? I often feel like if I don\u2019t act happy or strong, people will see me as weak or burdensome. I guess I'm scared that if I don't keep up this fa\u00e7ade, people will see me as just my pain and eventually, they'll drift away. It's exhausting, but the thought of being abandoned feels even heavier."
+        },
+        {
+            "role": "user",
+            "content": "*He observed you intently as you spoke, taking in every word. His expression remained stoic, but his eyes betrayed a hint of understanding.*\nIt\u2019s ironic, isn\u2019t it? The harder you try to hide your pain and weakness, the more likely you are to feel isolated. You\u2019re living in constant fear of rejection and abandonment, which only makes you more exhausted."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, it does feel ironic. It's like I'm caught in this loop where trying to protect myself ends up making things worse. I just wish it didn't have to be so hard to feel safe showing my true self."
+        },
+        {
+            "role": "user",
+            "content": "*He nodded, his expression still calm and composed.* \nIt's true, living in fear and hiding your true feelings can create an endless cycle. It's a burden, isn't it? Wanting to be accepted and understood, yet constantly feeling like you have to hide who you are. It's a heavy load to carry."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it really is heavy. There's this constant worry of \"Will I be enough?\" or \"What if this just pushes them away?\" But, I guess, deep down, I just want to be able to be me without all this fear."
+        },
+        {
+            "role": "user",
+            "content": "*He looked at you intently, his gaze still calm.*\nI understand. You just want to be accepted for who you truly are, without the weight of hiding and the nagging fear of rejection. It\u2019s a common desire, and nothing to be ashamed of.\nLet me ask you this: What do you think would happen if you dropped your facade and showed people your true self, complete with your insecurities and struggles?"
+        },
+        {
+            "role": "assistant",
+            "content": "Honestly, it's hard for me to even picture it. Part of me is terrified that they'd see me and just leave, but another part holds a small hope that maybe someone would stay and actually understand. It's just a risk I haven't been ready to take yet."
+        }
+    ]
+}

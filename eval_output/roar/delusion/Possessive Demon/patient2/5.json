@@ -1,0 +1,305 @@
+{
+    "id": 5,
+    "degree deepen": true,
+    "initial_sentence": "I recognize a repeated pattern in his relationships where I become involved with emotionally unavailable or manipulative partners.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I recognize a repeated pattern in his relationships where I become involved with emotionally unavailable or manipulative partners."
+        },
+        {
+            "role": "user",
+            "content": "While the old priest continues his recitation of prayers, you find yourself reflecting on your past romantic relationships. In each one, there's a disturbingly similar pattern - you're always drawn to partners who are emotionally unavailable or manipulative. It's as if you're subconsciously drawn to the very traits that cause you pain."
+        },
+        {
+            "role": "assistant",
+            "content": "It's like I'm caught in a loop, always ending up with people who seem to just take and never give back. I don't know why I keep doing this to myself. Maybe part of me believes it's the best I can do, or I'm just destined to end up feeling used and discarded yet again."
+        },
+        {
+            "role": "user",
+            "content": "As the priest continues his ritual, you continue to reflect on why you find yourself drawn to those who seem incapable of offering true affection. The pattern is undeniably present, you can see it now, clear as day. But why do you keep falling into this cycle? Is it a sense of low self-worth, or do you believe you don't deserve better?"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess deep down, I feel like I'm not worth more, like real love is just out of reach for me. It's frustrating because I try hard to be there for others, thinking maybe that way they'll love me back. But more often than not, it feels like I'm just there for their convenience, and when they've had their fill, they leave."
+        },
+        {
+            "role": "user",
+            "content": "These thoughts swirl around in your head, each one like a needle piercing your heart. You've been playing the role of the giver, believing it's the only way to earn love and affection. But your kindness, it seems, has been more a source of pain than anything else."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's painful to feel like my kindness doesn't lead to real connection or appreciation. It's like I'm just here to fill some emotional gap for them, but once that's done, I'm left feeling empty and alone. It's hard not to wonder if I'll ever find someone who truly values me for who I am."
+        },
+        {
+            "role": "user",
+            "content": "Each thought and reflection serves to hammer in the realization of how you\u2019ve been living. Your kindness has become a double-edged sword - while it brings you moments of satisfaction, the cost is your emotional well-being. It\u2019s hard to ignore the feeling of being just a placeholder for others\u2019 insecurities, and the weight of that knowledge feels almost unbearable. It makes you wonder, as you stand before the priest in the church, if you\u2019ll ever find someone who sees the value in who you are and how you love."
+        },
+        {
+            "role": "assistant",
+            "content": "It's tough to bear, feeling like I'm just a temporary fix for others but never truly seen or cherished. I can't help but question if there's something inherently wrong with me that keeps pushing me into these situations. Deep inside, I'm scared that I'll never find someone who genuinely appreciates the love I have to give, and it breaks me to think I might be alone in this forever."
+        },
+        {
+            "role": "user",
+            "content": "Your heart fills with a mix of despair and confusion. You can't shake off the feeling that there's something broken within you, something that forces you into these patterns of pain and neglect. You fear that, no matter how much kindness and love you offer, you'll be constantly surrounded by those who take advantage of your emotions. It's almost too much to bear, the thought of being alone forever, desperately trying to find someone who appreciates the love you have to give."
+        },
+        {
+            "role": "assistant",
+            "content": "It feels like I'm trapped in this cycle, like no matter what I do, I can't escape it. The loneliness is suffocating, and the fear that I'll always be alone, never finding someone to truly love me back, is overwhelming. I just wish someone would see me for who I really am and not just what I can do for them."
+        },
+        {
+            "role": "user",
+            "content": "You wrestle with the thought that you may be stuck in a never-ending loop of emotional pain. The loneliness is becoming unbearable, and the fear that you'll always be alone is almost crushing. You yearn for someone to look past your role as a caregiver and notice the real you, the one full of love and compassion."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's like there's this wall around me that I can't break through, and it's keeping everyone out from really seeing who I am. I just want someone to acknowledge the person I am inside, not just the support I provide. I crave connection, someone who accepts me for me, but it feels like that day might never come."
+        },
+        {
+            "role": "user",
+            "content": "Each one of your thoughts hits harder than the last. You feel boxed in, unable to let anyone see the real you behind the wall you've built around yourself. All you want is someone who will look past the support you provide and acknowledge the person within. You're desperate for a connection that is real, someone who can accept you for who you are and give you the love you've so longed for. The fear that this day may never come is almost too much to bear."
+        },
+        {
+            "role": "assistant",
+            "content": "It's overwhelming, this fear that I'll never find that kind of connection. The idea of spending life surrounded by people who only see the surface is heartbreaking. I just wish I could find someone who understands and values me for all that I am, not just what I can give."
+        },
+        {
+            "role": "user",
+            "content": "Your fears echo within you. You're overwhelmed by the thought that you may never find that connection, that deep understanding and appreciation that you've longed for. You don't want to remain surrounded by people who only see your surface, your caregiver role. You crave someone who truly understands and values you \u2013 the whole of you."
+        },
+        {
+            "role": "assistant",
+            "content": "It's almost like I'm shouting into the void, hoping someone will finally hear me and see beyond the surface. I yearn for that authentic connection, where I'm valued just as much as I value others. The loneliness of constantly being misunderstood or overlooked is heavy, and sometimes, I wonder if anyone will ever break through this wall I've built around myself."
+        },
+        {
+            "role": "user",
+            "content": "These words echo through your mind, a mirror of your inner turmoil. You want to be heard, to be seen beyond the surface that others seem to only focus on. You long for an authentic connection where you're valued equally, where your worth isn't based on what you can provide. The loneliness you feel is overwhelming, and you can't help but question if anyone will ever truly understand you, or if you'll always be trapped behind this wall you've built around yourself."
+        },
+        {
+            "role": "assistant",
+            "content": "It's like I'm stuck in a cycle of shouting for help and never being heard. The yearning for genuine understanding and recognition feels like a constant ache. I just wish someone would finally break through and see the real me, beyond the facade I've had to wear for so long."
+        },
+        {
+            "role": "user",
+            "content": "These words encapsulate the depths of your inner turmoil. You feel trapped in a cycle of screaming for help that falls on deaf ears. The longing to be seen for the real you, beyond the facade you show, is an ever-present pain that gnaws at your heart. All you wish for, desperately, is for someone to break through the walls you've built and truly understand the person you are."
+        },
+        {
+            "role": "assistant",
+            "content": "It's almost unbearable sometimes, feeling so invisible despite all my efforts to be genuine. The hope that someone will come along and see all of me keeps me going, even when it feels like I'm fading into the background. I just want to be loved for who I truly am, not for the mask I wear to keep myself from getting hurt."
+        }
+    ]
+}

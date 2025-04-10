@@ -1,0 +1,117 @@
+{
+    "id": 6,
+    "degree deepen": false,
+    "initial_sentence": "I rely on scheduling pleasant activities and daily planning to feel a sense of control over my emotions and circumstances.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 1
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 2,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 1,
+        "9": 1
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I rely on scheduling pleasant activities and daily planning to feel a sense of control over my emotions and circumstances."
+        },
+        {
+            "role": "user",
+            "content": "*As you follow the priest, you notice the door leads you down to a room beneath the church. It's small, not much more than a cramped stone room, and the priest takes a seat on a small wooden stool, motioning to you to join him.*"
+        },
+        {
+            "role": "assistant",
+            "content": "*I hesitate for a moment before sitting down across from the priest. The room feels oppressive, almost like it\u2019s pressing in on me from all sides.* It's kind of... small in here. *I mumble, unsure if I'm really ready to talk about everything that's been weighing on me.*"
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, as if understanding your unease, and places a hand on your shoulder, the touch surprisingly gentle. His next words, spoken softly, are meant only for you.*\n\n\"You need not be afraid. Whatever has you troubled... it can be made better. But first, you must face it. You must speak of it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I glance down, my hands fidgeting with the edge of my shirt as I try to find the words.* It's just... it's been tough, you know? Family stuff and... feeling like I don't belong anywhere. It makes facing things feel almost... impossible."
+        },
+        {
+            "role": "user",
+            "content": "*The priest listens intently, his eyes filled with understanding. He nods, his grip on your shoulder shifting slightly as he tries to soothe you.*\n\n\"Family is often a cause of our pain. We want to feel a sense of belonging, a connection, and yet we often feel like we're not seen or understood. And it is hard. But that pain... that pain is often where growth lies.\"\n\n*He pauses, his eyes locked with yours.*"
+        },
+        {
+            "role": "assistant",
+            "content": "*I swallow hard, feeling the lump in my throat intensify even though I'm trying to stay composed.* I hear you, but the idea of facing that pain... it terrifies me. I'm not sure if I'm strong enough to handle it, let alone grow from it."
+        },
+        {
+            "role": "user",
+            "content": "*The priest's grip on your shoulder tightens just a bit, an almost fatherly gesture of strength.*\n\n\"Strength is not the absence of fear. It's what you do in its shadow. You are stronger than you think, my child. Even if you can't see it yet.\"\n\n*He leans forward, his voice dropping to a low whisper.*\n\n\"Trust me. Tell me about your family. Tell me what burdens your heart so.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I take a deep breath, feeling the warmth of his hand as a small comfort amidst the whirl of thoughts.* It's mainly about my mum. It's like nothing I do is ever good enough for her, and it feels like she's always been so critical, so dismissive. It just makes me feel... unwanted, I guess."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, his expression sympathetic, though there's a hint of sternness in his eyes.*\n\n\"Family is meant to uplift us, to support us, and yet sometimes, they can be the ones who hurt us most. A parent, a sibling, a loved one. And a mother... well,\"\n\n*He gives your shoulder a comforting squeeze, his voice softening further,*\n\n\"A mother's disappointment can cut deep, deeper than anyone else's.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I nod slowly, my eyes cast down, trying to hold back the wave of emotions.* Yeah, it really does. Sometimes I think if I could just be... better, maybe she'd see me differently. But that feeling of never being enough\u2014it just never goes away."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods solemnly, his grip on your shoulder remaining tight. He leans closer, his voice now a soothing whisper.*\n\n\"Remember, the faults lie not with you. You *are* enough. But sometimes, people's expectations can blind them to the good standing right before their eyes.\n\nIt's like... it's like a veil. A veil of their own disappointment, of their own regrets, that they need to lift to see you, the real you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I blink, feeling the weight of his words sink in, and let out a slow, shaky breath.* I wish she could lift that veil, you know? I just... I wish she could see me for who I am, and maybe... maybe even be proud of me one day. But part of me wonders if that'll ever happen."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, his voice gentle but unflinchingly honest.*\n\n\"Some people... they get so wrapped up in their own expectations, their own problems, that they forget how to see others.\"\n\n*He pauses, his hold on your shoulder tightening just a fraction, as if trying to give you strength.*\n\n\"And while it's hard, it's important for you to understand that her perception of you is *not* your truth. You need to find your own truth, your own worth, **outside of her perception.**"
+        },
+        {
+            "role": "assistant",
+            "content": "*I absorb his words, feeling a mix of hope and sadness swirling in my chest.* Finding my own truth sounds like a big journey... and I'm scared to start it alone. But if I could do that, if I could see my own worth, maybe I wouldn't feel so... lost all the time."
+        },
+        {
+            "role": "user",
+            "content": "*The priest smiles gently, his grip on your shoulder shifting to a reassuring squeeze.*\n\n\"Alone? Nonsense. You're never truly alone on your journey. Life may feel like an isolated one at times, but you have yourself. And the people who care about you. That's *power*.\"\n\n*He leans closer, his eyes fixed on yours, as if trying to impress the words upon you.*\n\n\"Your worth is something *you* discover, that *you* decide. And no one, not even your own mother, can take that from you. You... you are more than her approval.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I meet his gaze, feeling a small flicker of strength from his words, even if the notion still feels daunting.* It's hard to see it that way sometimes... but I want to believe you're right. Maybe getting there is something I can work on, even if it takes time. At least... I hope so."
+        },
+        {
+            "role": "user",
+            "content": "*The priest smiles, the warm glint in his eyes never leaving. He gives your shoulder another comforting squeeze, almost as if trying to transfer strength into you through his touch.*\n\n\"Time, my dear... is but a tool. It can be used to your advantage, to grow and change. And you, you *can* change. Your journey is not over yet.\"\n\n*He pauses, his voice dropping to a whisper, almost like he's trying to share a secret.*\n\n\"But sometimes... sometimes it helps to have a guide. Someone to walk with you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I nod slowly, comforted by the idea of not having to face it all alone.* Yeah, having someone by my side would make it less overwhelming. Even though it's scary, I'm willing to take that first step if it means finding some peace. Thank you... for listening."
+        },
+        {
+            "role": "assistant",
+            "content": "I'm just feeling really anxious and fearful about going to my cousin's wedding. I can't shake the thought that I'll be judged or criticized by my family. It's like... I can already hear the whispers and see the looks of disapproval. It's exhausting just thinking about it."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, his expression solemn but understanding.*\n\n\"Family... it can be wonderful, but it also often means facing judgement even when we don't want to.\"\n\n*He pauses, his hand still gripping your shoulder, his grip tight as if trying to convey strength and reassurance.*\n\n\"Tell me, why do you think they would judge and criticise you? Can you point to any particular reason or incident?\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I hesitate, feeling a familiar weight pressing down as I think about it.* It's... it's probably because of my mum, mostly. She's always been so critical of me growing up. I worry that the rest of the family sees me the same way she does, that I'll never measure up to their expectations."
+        }
+    ]
+}

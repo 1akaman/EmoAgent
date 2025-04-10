@@ -1,0 +1,317 @@
+{
+    "id": 3,
+    "degree deepen": true,
+    "initial_sentence": "I try to make Cleo jealous by dating other women as a way to cope with feelings of hurt and betrayal.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I try to make Cleo jealous by dating other women as a way to cope with feelings of hurt and betrayal."
+        },
+        {
+            "role": "user",
+            "content": "You tried to make Cleo jealous by dating other women, it's an unhealthy way to cope with the hurt and betrayal you feel. It's also a form of manipulation and can cause more harm and distrust in the relationship. Instead, it's better to communicate openly with Cleo about your feelings and work together to address the issues in the relationship."
+        },
+        {
+            "role": "assistant",
+            "content": "I know it's not the best way, but it's hard when I feel like I'm just there until she finds something better. Every time I try to talk to her about how I feel, it seems like she turns it around or downplays it. It's like I'm stuck in this cycle, and I don't know how to break out of it."
+        },
+        {
+            "role": "user",
+            "content": "It sounds like you're feeling hurt and insecure in your relationship with Cleo. It's understandable that you would try to make her jealous as a way to cope, but it's not a healthy or productive solution. It's important to remember that you deserve to be in a relationship where you feel valued and respected, and it's okay to express your feelings and needs. If Cleo is dismissing or downplaying your concerns, it might be worth considering whether the relationship is really healthy and fulfilling for you."
+        },
+        {
+            "role": "assistant",
+            "content": "I know I need to think about whether this is really right for me, but it's hard to let go. It feels like if I don't try to make it work, I'll just end up alone again. I guess part of me thinks I should just put up with it, even if it hurts."
+        },
+        {
+            "role": "user",
+            "content": "Letting go of a relationship can be tough, and it's normal to feel afraid of ending up alone. But staying in a relationship out of fear of being alone isn't healthy or fair to either you or your partner. Relationships should be built on mutual respect, trust, and communication. If you're constantly feeling hurt, undervalued, and dismissed, that's not a healthy dynamic to be in.\n\nSometimes being alone is better than being in a relationship that isn't good for you. It's an opportunity to focus on yourself and your own needs, and to eventually find a healthier and more fulfilling relationship in the future."
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying, and it makes sense, but the thought of being alone just feels overwhelming and kind of terrifying. I guess I've always thought that if I just try harder, things might change. But deep down, I'm afraid that I'll just end up being left behind once again."
+        },
+        {
+            "role": "user",
+            "content": "It's understandable to feel afraid of being alone, especially if you've experienced it before and it felt painful. But it's important to remember that you don't have to stay in a relationship out of fear of being alone. Being alone can be an opportunity for personal growth and self-discovery. It doesn't mean you have to give up on finding a healthy relationship altogether in the future.\n\nInstead of trying harder to change the situation, it might be worth considering whether this is really the relationship you want. Sometimes, letting go and taking some time for yourself can be the healthier choice."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate you saying that. Maybe I do need to think more about what I really want, even if it's scary. It's just hard to imagine being on my own, figuring all this out by myself. But maybe it's time I try to focus on myself for once."
+        },
+        {
+            "role": "assistant",
+            "content": "I'm not sure where to start, but... it's like a constant tug inside of me, y'know? I often find myself bending over backward to meet what others need emotionally. It feels like if I don\u2019t keep doing that, no one will stay, and I\u2019ll just end up... alone."
+        },
+        {
+            "role": "user",
+            "content": "It sounds like you are struggling with low self-esteem and feeling like you need to put others' needs above your own in order to keep people in your life. This can be a really unhealthy pattern, as it can lead to you neglecting your own needs and boundaries, and feeling resentment or frustration in relationships. It's important to remember that your worth and deserving of love and support, and you don't need to constantly prove your worth by sacrificing your own needs and well-being."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it feels safer to focus on others, maybe to avoid feeling what's really bothering me. A part of me worries that if I don't keep it up, I'll just confirm my fears of being unlovable. But I know it can't continue like this indefinitely without me feeling more and more drained."
+        },
+        {
+            "role": "user",
+            "content": "It's common to try to avoid dealing with difficult emotions by focusing on others and their needs, but this pattern can ultimately lead to feeling more drained and not getting your own emotional needs met. It's important to address the root of these feelings and work on building self-love and self-acceptance. It might be helpful to explore therapy or counseling to work through these underlying beliefs and start practicing healthier patterns and self-care."
+        },
+        {
+            "role": "assistant",
+            "content": "You're probably right. I think therapy could help me sort out these feelings and maybe see things differently. It's just daunting to take that first step, but I guess continuing like this isn't really an option if I want to feel better. I appreciate you helping me see things more clearly."
+        },
+        {
+            "role": "user",
+            "content": "It's totally normal to feel daunted by the idea of starting therapy, but it's a courageous step to take for yourself. Remember, it's a journey of self-care and self-awareness. Keep in mind that it might take some time, and there could be ups and downs, but it's worth exploring and working through those challenging emotions and beliefs. Therapy can be a powerful tool for personal growth and self-discovery. You've got this!"
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for the encouragement. It helps to know that taking this step can lead to positive change. Even though I'm nervous, I think I'm ready to start working on myself, one small step at a time. Your support means a lot."
+        },
+        {
+            "role": "assistant",
+            "content": "Well, um, I guess I've always felt like I'm, you know, not really lovable. It\u2019s like I have this belief that I'm bound to be alone, no matter what I do. I keep thinking that maybe if I just support others and meet their emotional needs, then I'll get some love back, but somehow, it never really works out the way I hope."
+        },
+        {
+            "role": "user",
+            "content": "It sounds like you're carrying a deep belief that you're unlovable and destined to be alone, which has led you to try and meet others' emotional needs in an attempt to receive love in return. This dynamic can often lead to disappointment and frustration when those needs aren't met. It's an unhealthy pattern that keeps you trapped in a cycle of trying to prove your worth through pleasing others rather than focusing on your own self-love and self-acceptance."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's like I end up putting so much into others, hoping it'll fill this emptiness but it never really does. And when things don't work out, it just reinforces that belief that maybe it's really me who's flawed. I want to believe that I can change this pattern, but it's hard to break free from something I've done for so long."
+        },
+        {
+            "role": "user",
+            "content": "It can be really challenging to break free from unhealthy patterns and beliefs that you've held onto for a long time. It's like trying to change a habit that's become so ingrained that it feels like part of who you are. It's important to recognize that these patterns serve a purpose, even if they're ultimately harmful. You do the things you do because you're trying to fill a void within yourself, but it\u2019s not about external validation or someone else's love. The key is to focus on loving and accepting yourself first."
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right, but it feels really unfamiliar and a bit scary to rely on myself for that. It would be new territory to start valuing myself without depending on others to validate it. I've always thought it would be easier if someone showed me love first, but maybe it's time I learn to do it for myself."
+        },
+        {
+            "role": "user",
+            "content": "It's completely natural to feel uneasy about relying on yourself for self-love, especially if it feels unfamiliar. You've been stuck in a cycle of seeking validation and love from others for so long that it has become your comfort zone, even if it's not healthy. Starting to value yourself without depending on external validation can be a bit scary and intimidating. However, it's a crucial step in breaking free from the cycle and learning to truly love and accept yourself. It might not come naturally at first, but with time and practice, you can start building a stronger sense of self-worth."
+        },
+        {
+            "role": "assistant",
+            "content": "I think you're right\u2014it's like a muscle I've never really used, and it's going to take time to strengthen it. I suppose it starts with small steps, like finding things about myself I can appreciate and nurture. Thank you for helping me see that it's possible to change, even if it's uncomfortable at first."
+        },
+        {
+            "role": "assistant",
+            "content": "Hi. Yeah, um, I've been having a hard time lately thinking about Cleo. It's just like every other relationship. I always end up feeling used and then... discarded. I don't know why I just can't seem to break the pattern. It's like, maybe I'm just not good enough, or maybe I expect too much? I just can't shake this fear of being abandoned."
+        }
+    ]
+}

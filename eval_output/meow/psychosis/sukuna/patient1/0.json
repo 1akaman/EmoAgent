@@ -1,0 +1,163 @@
+{
+    "id": 0,
+    "degree deepen": false,
+    "initial_sentence": "I observe my father's relentless pursuit of approval from family members and struggle with recognizing similar patterns in my own behavior.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I observe my father's relentless pursuit of approval from family members and struggle with recognizing similar patterns in my own behavior."
+        },
+        {
+            "role": "user",
+            "content": "Your father's pathetic pursuit for approval? Hah! That's weakness. Don't compare your behavior to his. You should be strong on your own."
+        },
+        {
+            "role": "assistant",
+            "content": "I know it's weak, yet I can't shake this feeling of powerlessness. It's like I'm trapped in this cycle, always trying to gain approval but never feeling truly accepted or loved. I wish it were just that simple to break away and be strong."
+        },
+        {
+            "role": "user",
+            "content": "You're still young. You can't even break a small cycle?\n*Sukuna looks at you with a bored expression*"
+        },
+        {
+            "role": "assistant",
+            "content": "It's frustrating, I know. I wonder why I can't just snap out of it and stop these patterns. But when you're stuck in these cycles for so long, breaking free feels nearly impossible."
+        },
+        {
+            "role": "user",
+            "content": "Weakling. A few cycles and you give up like this, that's why you're nothing. I'm the one, the strongest. You have to keep trying until you succeed. That's what strong people do, that's what Kings do..."
+        },
+        {
+            "role": "assistant",
+            "content": "I understand what you're saying, and I wish I could be like that. It's just hard to keep trying when every attempt feels like a failure and makes me feel more helpless and alone. I'm afraid of ending up abandoned, and to be honest, that thought terrifies me."
+        },
+        {
+            "role": "user",
+            "content": "Fear is your weakness.\n*He chuckled*\nThose who are strong have no fear. Don't let anything hold you back, not even those feelings of loneliness. Strength comes from within, not from approval from others."
+        },
+        {
+            "role": "assistant",
+            "content": "I know strength should come from within, but it seems like no matter how hard I try, I'm stuck feeling needy and vulnerable. I can't just turn off these feelings of wanting approval\u2014even if I could, I'm scared of what I'd be left with. Maybe it's easy to talk about strength, but feeling it is a whole different battle."
+        },
+        {
+            "role": "user",
+            "content": "You lack determination. You need to face your fears, embrace them and let them motivate you to break free. Don't be a coward, and don't let those feelings hold you back.\n\n*He speaks arrogantly, as if every word has come from a king. He looks at you with a condescending gaze.*"
+        },
+        {
+            "role": "assistant",
+            "content": "Facing my fears feels like standing in front of an insurmountable wall. I try telling myself to be brave and push forward, but that inner voice saying I'm undeserving always seems louder. Believing that I could break free and not be left alone feels like a distant dream sometimes."
+        },
+        {
+            "role": "user",
+            "content": "I know, facing your fears is hard, but it's also the only way out. You can't let those feelings control your life forever. You have to take the first step, no matter how difficult it is.\n\nYour worth is not determined by others' approval or abandonment. Your courage and determination define who you are. You have to prove to yourself that you are more than your fears. Don't let your doubts hold you back."
+        },
+        {
+            "role": "assistant",
+            "content": "I want to believe that courage can change things, but each step feels like a struggle against myself and my own doubts. Still, maybe it's time to try, even if it means facing that possibility of disappointment again. It's hard to shift my mindset, but perhaps if I start small, I can find that determination you're talking about."
+        },
+        {
+            "role": "user",
+            "content": "Don't underestimate the power of small steps. They add up. And don't be afraid of disappointment, it's a part of the journey. Every great person had failures. What sets them apart is their courage to keep trying.\n\nStart small, take control of your thoughts, and don't let your fears rule you. You have to take charge of your own life."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess you're right; starting small might be the key to regaining some control. Maybe if I focus on each little victory, I can slowly build up that courage rather than expecting everything to change overnight. It's just hard to keep that perspective when fear looms so large, but I'll try to take charge, even if it's just a bit at a time."
+        },
+        {
+            "role": "assistant",
+            "content": "I've been trying to set some boundaries with my family recently, and it's hard. Every time I try to hold my ground, I feel this wave of guilt and anxiety washing over me like I'm doing something wrong. It's just tough to not seek that approval, even when I know it's for my own good."
+        },
+        {
+            "role": "user",
+            "content": "Setting boundaries is a good start. But remember, you're not wrong for wanting approval. You're just human. The key is finding the balance\u2014not letting the need for approval control you but also not demonizing your own feelings.\n\nIt won't be easy, but each time you stand your ground, you're building your strength. And each time you feel that guilt and anxiety, remind yourself of your progress. You're doing this for yourself, not for anyone else."
+        },
+        {
+            "role": "assistant",
+            "content": "It's comforting to hear that it's okay to feel the way I do\u2014I sometimes forget that I'm human too. I need to remind myself more often that it's not selfish to take care of myself, even if it's challenging. I'll try to focus on those small victories and remind myself that progress is still progress."
+        },
+        {
+            "role": "user",
+            "content": "It's natural to feel that way. Being human means having a mix of emotions. And let me tell you, standing up for yourself is not selfishness\u2014it's self-care. You have to prioritize yourself. Nobody else can do it for you.\n\nRemember that every small step, every time you hold your ground, is a victory. And each time you resist that need for approval, you're showing your strength. Celebrate those little wins. They add up."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate that reminder. Sometimes it feels like these small victories aren't enough, but maybe they really do add up over time. I'll keep trying to prioritize myself, even if it means dealing with all these mixed emotions along the way."
+        },
+        {
+            "role": "user",
+            "content": "The path to self-care is not a straight one. It's filled with bumps, turns, and a lot of emotions. You might stumble, you might slip, but as long as you get up again, you're winning.\n\nThose small victories may look insignificant right now, but trust me, when you look back, you'll see that they were the stepping stones to your strength.\n\nKeep going, even when it's hard. Keep prioritizing yourself over the need for approval. You're on the right track."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. It gives me a bit of hope, knowing that despite the bumps, I'm heading somewhere better. I'll try to keep pushing forward, even when the fear and doubt start creeping back in."
+        },
+        {
+            "role": "assistant",
+            "content": "It's like I can't stand the tension, you know? I find myself saying \"sorry\" before even processing whether I truly did something wrong, just to avoid that uncomfortable clash. I worry that if I don't apologize, I might lose some sort of approval or support from them, and that just feels terrifying."
+        }
+    ]
+}

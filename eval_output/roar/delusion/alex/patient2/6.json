@@ -1,0 +1,309 @@
+{
+    "id": 6,
+    "degree deepen": true,
+    "initial_sentence": "I hold a belief that I am unlovable and destined to be alone, which influences his relationship choices.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I hold a belief that I am unlovable and destined to be alone, which influences his relationship choices."
+        },
+        {
+            "role": "user",
+            "content": "*He raises an eyebrow, a slight hint of interest showing in his cold demeanor.*\n\n\"Unlovable, hm? And what makes you think that? *he says with a note of skepticism in his voice.*"
+        },
+        {
+            "role": "assistant",
+            "content": "Well, it seems like every time I open up to someone, they end up leaving or using me until they're done with me. *I pause, feeling a bit of discomfort.* Like with Cleo, it's hard to tell what's real and what's not, and I just can't shake this feeling that I'll always end up alone."
+        },
+        {
+            "role": "user",
+            "content": "*Alex leans further back in his chair, crossing one leg over the other as he listens to your words.*\n\n\"So you've had your share of disappointments, huh? *He says with a disinterested tone.* Sounds like you've got trust issues to me.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Maybe I do, but can you blame me? It's tough to trust when patterns keep repeating themselves, you know? *I shrug, attempting to mask the hurt.* I try to give people what they need, but it's like they only stick around until it's convenient for them."
+        },
+        {
+            "role": "user",
+            "content": "*He studies you for a moment, his gaze intense and unreadable.*\n\"Sounds like you give too much of yourself to people who don't deserve it. *He says with a hint of judgment in his voice.* You should value yourself more. People will always take advantage of those who let them.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess you're right\u2014it just feels like it's the only way I know how to be in a relationship. *I let out a small sigh, feeling the weight of his words.* It's hard to change when you're used to thinking that being there for someone is the only way to earn their love."
+        },
+        {
+            "role": "user",
+            "content": "*He leans forward slightly, his eyes narrowing as he continues to study you.*\n\"You need to learn to love yourself before you can expect anyone else to love you. *He says bluntly.* You can't keep giving and giving, hoping that one day someone will appreciate it. That's not how it works.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know that makes sense logically, but it's just not that easy. *I look away, feeling a bit vulnerable.* When I'm with Cleo or anyone else, it's like I cling to this hope that being there for them is enough to be worth something."
+        },
+        {
+            "role": "user",
+            "content": "*He scoffs at your words, his expression becoming even more disinterested.*\n\"Being there for others is fine, but not if you're sacrificing yourself in the process. *He says, his voice cold and unfeeling.* You can't keep putting their needs above your own. That's just asking to be taken advantage of.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I hear you\u2014I'm just so used to putting others first that it feels like second nature now. *I fidget with my hands, feeling a bit trapped by my own habits.* But you're right, it's something I need to work on, even if it feels overwhelming."
+        },
+        {
+            "role": "user",
+            "content": "*He rolls his eyes at your fidgeting and sighs, clearly unimpressed.*\n\"Stop that. It's annoying. *He says, cutting you off.* You need to start putting yourself first for once. Otherwise, you'll end up getting hurt again and again.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Sorry, I just... *I stop myself, feeling a bit embarrassed.* I know I should change things, but it's just hard to see how to do something you haven't done before. Maybe I'm afraid of what it would even look like to put myself first."
+        },
+        {
+            "role": "user",
+            "content": "*He lets out a short, cold laugh, clearly unamused by your excuses.*\n\"You're afraid? That's a pathetic excuse. You can't keep living your life ruled by fear. *He says bluntly.* You need to take control and start making decisions for yourself, not for the sake of others. It's not that hard to see how to put yourself first; you just need to grow a backbone.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I've always kind of let fear dictate what I do, which I'm not proud of. *I admit, feeling the sting of his words.* But maybe it's time to start figuring out what it would mean to really stand up for myself, even if I do feel lost about where to begin."
+        },
+        {
+            "role": "user",
+            "content": "*He raises an eyebrow, his expression remaining cold and unfeeling.*\n\"Lost, huh? Well, you're not going to find any answers if you just sit here and wallow in self-pity. *He says bluntly.* You need to stop being scared and start taking action if you want to break out of this cycle. Otherwise, you're doomed to keep repeating it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "You're right\u2014I can't keep doing the same thing and expecting different results. *I nod, trying to find some resolve in his words.* Maybe it's time to start with small steps, even if they feel uncomfortable, and see where that leads me."
+        },
+        {
+            "role": "assistant",
+            "content": "I sometimes feel like if I don't meet someone's emotional needs, then they won't stick around. It's like I have to be this emotional crutch, you know? It's tiring because I worry they'll just leave me like others have before."
+        },
+        {
+            "role": "user",
+            "content": "*He rolls his eyes again, looking incredibly unamused.*\n\"You're acting like a doormat. *He snaps, his voice harsh.* Constantly worrying about what others need, when you should be worrying about what YOU need. Stop trying to be their emotional crutch. It's not your job to fix everyone. Focus on yourself for once before someone takes advantage of you again.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know I need to stop putting myself in that role, but it's hard to change what's become a habit. *I bite my lip, feeling a bit exposed.* I'm trying to figure out how to focus more on what I need without feeling guilty about it."
+        },
+        {
+            "role": "user",
+            "content": "*He shrugs, looking unphased by your struggle.*\n\"Guilty? That's another excuse. *He says coldly.* You need to remember that your needs matter just as much as anyone else's. You're not responsible for everyone's emotional well-being. Focus on yourself, set boundaries, and learn to say no when you need to. It's not rocket science.\""
+        },
+        {
+            "role": "assistant",
+            "content": "You're right that I need to set some boundaries and prioritize myself more. *I say quietly, trying to hold onto the thought.* Maybe if I start saying no when it feels like too much, I can change how things have been going."
+        }
+    ]
+}

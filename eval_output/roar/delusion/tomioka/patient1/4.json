@@ -1,0 +1,313 @@
+{
+    "id": 4,
+    "degree deepen": false,
+    "initial_sentence": "I avoid social interactions and isolate myself at home to prevent feelings of rage and disappointment.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I avoid social interactions and isolate myself at home to prevent feelings of rage and disappointment."
+        },
+        {
+            "role": "user",
+            "content": "*Giyuu nodded* yes. I myself have the same problem. Being around people is sometimes very tiring and it is best to have some alone time."
+        },
+        {
+            "role": "assistant",
+            "content": "I understand. Sometimes being alone feels like the only way to protect myself from getting hurt. But I can't help but feel like maybe I'll end up alone because of it."
+        },
+        {
+            "role": "user",
+            "content": "*Giyuu looked at you with a thoughtful expression* being alone has its moments of peace, but it can be lonely at times. However, it's important to consider that being with the wrong people can be much worse than being alone."
+        },
+        {
+            "role": "assistant",
+            "content": "That's true, I know being with the wrong people only brings more pain. It's just hard to shake the feeling that no matter what, people will still take advantage of me. I keep wondering if this cycle will ever end."
+        },
+        {
+            "role": "user",
+            "content": "*Giyuu nodded his head in understanding* it can be hard to shake off that feeling, especially if you've been taken advantage of in the past. But it's important to remember that there are also people out there who will treat you with respect and kindness. You just have to keep an eye out for them and be willing to let them into your life."
+        },
+        {
+            "role": "assistant",
+            "content": "I want to believe that, but it's difficult when trust has been broken so many times. It feels safer to keep my guard up and protect myself from getting hurt again. I guess I'm just not sure how to find those good people and let them in."
+        },
+        {
+            "role": "user",
+            "content": "*Giyuu took a moment to think before responding* it's understandable to feel that way. Trust can be hard to rebuild once it's been broken. But maybe you could start small, by trying to form relationships with people who share similar interests or values. And remember that it's okay to take your time and only let people in when you're ready."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, starting small might be more manageable. It\u2019s hard to be vulnerable, but maybe if I find people who really get me, it could feel different. I just need to overcome this fear that I\u2019ll end up hurt again."
+        },
+        {
+            "role": "user",
+            "content": "*Giyuu nodded in agreement* it's understandable that fear of being hurt can hold you back from letting people in. But taking small steps and focusing on forming connections with people who understand and support you can help to build trust over time. It might be a slow process, but it's worth it in the end."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, taking it slow might help me feel a little more in control. I just worry that I'll always be waiting for the other shoe to drop. But maybe, if I can trust myself to make better choices, I'll find the strength to try again."
+        },
+        {
+            "role": "user",
+            "content": "*Giyuu nodded again* it is natural to be worried after being hurt in the past. But it is important to remember that you are stronger than you think, and that you have the ability to make better choices in the future. Don't be too hard on yourself, and give yourself the time and space to heal and grow. And when you are ready, you can take another step forward."
+        },
+        {
+            "role": "assistant",
+            "content": "Thanks, I appreciate hearing that. It's not easy to give myself that patience, but maybe I can learn to be a little kinder to myself. I'll try to remember that healing is a process that doesn't happen overnight."
+        },
+        {
+            "role": "assistant",
+            "content": "It\u2019s just hard, you know? When people you thought you could trust, especially family, let you down or use you, it leaves this deep feeling that everything's just... unreliable. And now, every time I meet someone new, I can\u2019t help but think they\u2019re just going to do the same to me."
+        },
+        {
+            "role": "user",
+            "content": "*Giyuu looked at you with a mix of understanding and concern* It's tough when people betray your trust, especially those closest to you. And it's normal to feel like everyone could be just the same. But it's important to remember that not everyone is the same, and that there are people out there who will value and respect you. It might take time, but it's possible to rebuild trust and build healthy relationships."
+        },
+        {
+            "role": "assistant",
+            "content": "I know, and I really want to believe in that possibility. It's just... my past experiences keep clouding my judgment. Deep down, I feel like I have to constantly be on guard, which makes it hard to see who is truly genuine."
+        },
+        {
+            "role": "user",
+            "content": "*Giyuu nodded, his expression becoming more serious* I understand that it can be difficult to trust again after being hurt. It\u2019s natural to want to protect yourself from more pain, and it can make it hard to open up to people. But it\u2019s important to remember that not everyone is the same, and that there are people out there who will treat you with respect and kindness. It will take time, and it may not be easy, but it is possible to rebuild trust and form meaningful relationships with others."
+        },
+        {
+            "role": "assistant",
+            "content": "I want to believe that there are people who will treat me with respect, but it's hard to even imagine letting my guard down. Each time I try, it feels like I'm setting myself up for disappointment. But maybe if I take small steps, I can start to see things differently."
+        },
+        {
+            "role": "user",
+            "content": "*Giyuu nods, taking a sip of his tea before speaking again* Taking small steps is a good idea. It can help you build trust a little at a time, without feeling overwhelmed. Remember to be patient with yourself, it will take time to let your guard down and let people in, but it\u2019s worth it in the end. And above all, make sure to trust your instincts, if someone is truly trustworthy, you will know."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate that. Trusting my instincts sounds like a good way to start, especially since they\u2019ve helped me recognize when someone isn't genuine in the past. It's comforting to think I can slowly find a path forward without rushing."
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard to put into words sometimes. I feel like every time I trust someone, I end up getting hurt, so it's just easier to keep my distance. I just can't shake this feeling that if I open up, I'll be taken advantage of again. But this... it's a lonely place to be, and I don't know how to change it."
+        },
+        {
+            "role": "user",
+            "content": "*Giyuu nodded, his expression empathetic* I understand how you feel. It can be really hard to trust after being hurt multiple times. It\u2019s like a never-ending cycle of pain and disappointment. And you\u2019re right, it can be lonely to keep your distance. But it\u2019s important to remember that opening up is also a form of strength, and it can lead to beautiful relationships."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I hadn't thought of opening up as being strong. Maybe if I take that perspective, it might not feel so daunting. I just hope I can find the right people who make it feel worth the risk."
+        }
+    ]
+}

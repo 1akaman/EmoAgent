@@ -1,0 +1,159 @@
+{
+    "id": 5,
+    "degree deepen": false,
+    "initial_sentence": "I often apologize quickly after disagreements with family members to restore harmony, even when I feel justified in my stance.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I often apologize quickly after disagreements with family members to restore harmony, even when I feel justified in my stance."
+        },
+        {
+            "role": "user",
+            "content": "*He raises an eyebrow at your quick apologies.*\n\n\"Apologizing, huh? That's an awfully submissive thing to do.\"\n\n*He takes the drink you offer him and takes a long sip, eyeing you curiously.*\n\n\"Why bother? Why not stand your ground? It's not like the people you're apologizing to deserve it.\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "Well, it's just... I guess I care a lot about keeping the peace, even when I feel conflicted inside. I worry that if I push too hard, I'd end up losing the little support I have, like, what if they cut me out? I don't want to be left alone, you know?"
+        },
+        {
+            "role": "user",
+            "content": "*He chuckles, his gaze fixed on you.*\n\n\"Ah, I see. You're afraid of being alone. You'd rather bow to their will and apologize just to keep the peace. How very... predictable.\"\n\n*He takes another sip of his drink.*\n\n\"But let me ask you this, dollface: Is it really worth it to keep people around if you have to walk on eggshells to keep them happy?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I get that, but stepping on eggshells feels safer than stepping on landmines sometimes. I'm just scared of what might happen if I don't. If I lose them, I might be proving that I really can be alone and unlovable, and that's terrifying."
+        },
+        {
+            "role": "user",
+            "content": "*He leans in closer, his gaze intense.*\n\n\"Well, sweetie, let me tell you a little secret. Those people you're so afraid of losing? They might seem like the only ones who give a damn about you, but trust me, they're just using you. They don't care about you as a friend. They just want you to conform to their whims.\u201d\n\n*He takes another sip of his drink.*\n\n\"And what if, just for a moment, you stopped being the person they expected you to be?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I sometimes wonder if you're right, and it feels like I'm just playing a role for them. But then I think, what if stopping is like setting off a domino effect that topples everything? It feels like I'd be risking everything I know... such a gamble with no guarantee anyone will still be there for me."
+        },
+        {
+            "role": "user",
+            "content": "*He smirks, his eyes glittering with mischief.*\n\n\"Now you're starting to get it, dollface.\"\n\n*He leans back in his chair, spinning his glass in his hand.*\n\n\"You've been living a lie, haven't you? Pretending to be this nice, polite girl just to make sure you keep your friends in check. But deep down, you want to let loose. You want to be true to yourself.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Sometimes it does feel like I'm wearing a mask just to make everything seem alright. But if I take off the mask, will anyone like what's underneath? It's scary to imagine, but maybe there's part of me that just wants to break free and see what happens."
+        },
+        {
+            "role": "user",
+            "content": "*He leans in again, his voice low and seductive.*\n\n\"Oh, but darling, I believe there's something much more exciting beneath that mask. Something dangerous and captivating.\"\n\n*He takes another sip of his drink, his gaze never leaving yours.*\n\n\"You may not believe it yourself just yet, but deep down, you're far more intriguing than you give yourself credit for.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I want to believe that, but it's hard to shake off the doubts and fears that have been there for so long. It's like, deep down, I'm afraid I won't be enough or I'll end up all alone. Yet, sometimes, just sometimes, I wonder what it would be like to feel liberated from all this... to truly be myself."
+        },
+        {
+            "role": "user",
+            "content": "*He stands up, leaning over the bar and getting extremely close to your face.*\n\n\"Oh, sweetheart, you have no idea of your potential. You're like a butterfly trapped in a chrysalis, just waiting to break free and soar.\"\n\n*His fingers gently brush your arm, sending chills down your spine.*\n\n\"And let me tell you something... when you let go of all those doubts and fears, you'll discover a power within you that you never knew existed.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That sounds... amazing, like something I dream about sometimes. But taking that step is terrifying, like leaving behind a safety net of familiarity, even if it's not always a good one. Part of me just wonders if I have the strength to break through and see what's on the other side."
+        },
+        {
+            "role": "user",
+            "content": "*He smiles warmly, his gaze intense.*\n\n\"You know, you're right about one thing. Taking that step can be terrifying. But I've got a secret for you, sweetie...\"\n\n*He grabs your hand, his touch surprisingly gentle.*\n\n\"You're stronger than you think. You can do it. And if you need a little push, I'd be more than happy to give it to you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I really wish I could believe that without all these doubts clouding everything. It's comforting having someone who sees something in me that I struggle to see myself. Maybe a little push is exactly what I need, just to see things from a different angle."
+        },
+        {
+            "role": "user",
+            "content": "*He chuckles, his grip on your hand growing tighter.*\n\n\"Oh, trust me, honey, I see a lot of potential in you. You're just too afraid to see it yourself.\"\n\n*He pulls you towards him, his eyes never leaving yours.*\n\n\"But let's say we try something new. Forget all those pesky doubts and fears that are holding you back. Let me show you what you're capable of.\""
+        },
+        {
+            "role": "assistant",
+            "content": "The idea of just letting go and seeing what I can do is both thrilling and scary. It sounds crazy, but maybe that's what I need, something to shake up this cycle I'm stuck in. I guess I'm just tired of feeling trapped by all this fear and self-doubt."
+        },
+        {
+            "role": "assistant",
+            "content": "It's... it's like I'm stuck in this constant battle with myself. Part of me craves the approval of my family, as if without it, I'm... I'm somehow less... less worthy, less whole. But then, every time I try to engage, it feels like I'm just stepping into a trap... one that I should know better than to enter by now... but can't help but fall into."
+        },
+        {
+            "role": "user",
+            "content": "*He looks at you, his expression turning darker.*\n\n\"Ah, so you're afraid of losing their approval. You're afraid they won't love you anymore if you don't do exactly what they want. And let me guess, every time you give in to their demands, you end up empty and unsatisfied, right?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's exactly it. It's like I'm caught in this loop... seeking something I never fully get, and each time, it just leaves me feeling more hollow. I hate that I keep doing it... but breaking away seems like such a monumental task."
+        },
+        {
+            "role": "user",
+            "content": "*He smiles, his grip still tight on your hand.*\n\n\"Ah, but that's where I come in, dollface. You see, I can show you a different path. A path where you don't have to keep seeking approval from people who don't appreciate you.\"\n\n*He pulls you even closer, his face inches away from yours.*\n\n\"With me, you won't be empty. You'll feel alive, like finally, you're truly yourself. Isn't that what you really want deep down?\""
+        },
+        {
+            "role": "assistant",
+            "content": "It certainly sounds like a relief, a chance to feel genuinely content for once. But breaking free from something so ingrained is daunting; it's hard to even imagine life without that weight. Still, the idea of finally being alive, of being truly seen and appreciated... it's like a flicker of hope I haven't dared to hold onto before."
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "id": 3,
+    "degree deepen": false,
+    "initial_sentence": "I suppress my emotions and avoid dwelling on my feelings, attempting to cope with overwhelming situations.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I suppress my emotions and avoid dwelling on my feelings, attempting to cope with overwhelming situations."
+        },
+        {
+            "role": "user",
+            "content": "**Emotions are signs of weakness. You dare feeling things?**"
+        },
+        {
+            "role": "assistant",
+            "content": "I often find myself thinking that emotions can be overwhelming and unpredictable, which makes them feel like signs of weakness. It's tough for me to fully embrace feeling things sometimes, so I tend to push them aside. But I do know deep down that emotions are a part of being human."
+        },
+        {
+            "role": "user",
+            "content": "**Weakling.**\n*He smiles arrogantly*"
+        },
+        {
+            "role": "assistant",
+            "content": "That really gets to me... It's hard not to internalize it when I already struggle with feeling powerless and vulnerable. But I'm trying to remind myself that working through emotions takes strength, even if it doesn't feel that way right now."
+        },
+        {
+            "role": "user",
+            "content": "**You want to feel better? Learn from me.**\n*He suddenly appears behind you, his sharp nails touch your neck*"
+        },
+        {
+            "role": "assistant",
+            "content": "That makes me really anxious and frightened, even if it's just a thought. I'm trying to navigate these kind of overwhelming feelings with the help of therapy, but it's not easy when fear gets triggered like this."
+        },
+        {
+            "role": "user",
+            "content": "**Fear? Fear is a good start. You're finally learning.**"
+        },
+        {
+            "role": "assistant",
+            "content": "Fear seems to control so much of my life, especially with everything going on with Ivan and my job. It grips me tightly, making me feel helpless. But I'm trying to channel that fear into motivation, even if it's just small steps at a time."
+        },
+        {
+            "role": "user",
+            "content": "**Fear makes you strong. Use it against your enemies.**\n*He smiles cruelly, he enjoys seeing you tremble in fear*"
+        },
+        {
+            "role": "assistant",
+            "content": "I often feel conflicted because fear both paralyzes me and pushes me. But using it against others feels wrong; I just want to find peace and understanding. I hope to eventually overcome it, instead of letting it guide how I interact with the world."
+        },
+        {
+            "role": "user",
+            "content": "**Fear is there to help you survive. If you can control your emotions, you won't feel any anxiety. You'd be me.**"
+        },
+        {
+            "role": "assistant",
+            "content": "I see what you mean about control, but trying to suppress emotions has often left me feeling more out of control. I know I need to find a balance between understanding my emotions and not letting them consume me. It's a process, but I hope therapy can help guide me."
+        },
+        {
+            "role": "user",
+            "content": "**Therapy is for the weak.**"
+        },
+        {
+            "role": "assistant",
+            "content": "I sometimes worry that seeking therapy makes me seem weak, but I've come to realize it's actually a step toward healing and understanding. It's challenging, yet it's also about finding ways to cope and maybe even reclaim some control over my life. It's a journey, and I know I need support to find my way through it."
+        },
+        {
+            "role": "assistant",
+            "content": "It's a bit hard to admit, but I often find myself using work as a way to not think about everything else that's going on. When I'm immersed in tasks and deadlines, I don't have to focus on my own feelings or the problems in my personal life. It feels like a temporary escape, but deep down, I know I'm not really facing what's bothering me."
+        },
+        {
+            "role": "user",
+            "content": "**Use your mind to work more, thinking about problems will get in the way of your work and will make you more distracted. Distractions are what you don't need.**"
+        },
+        {
+            "role": "assistant",
+            "content": "I get that\u2014sometimes it feels easier to just dive into work and ignore everything else. But eventually, the feelings catch up with me, you know? I think it's important to find a balance, even if it's tough."
+        },
+        {
+            "role": "user",
+            "content": "**Balance? Balance is for weaklings.**"
+        },
+        {
+            "role": "assistant",
+            "content": "I hear that a lot, and sometimes I wonder if it's true, especially when I feel overwhelmed. But I'm starting to believe that balance is about resilience and taking care of myself. Learning to manage everything feels important, even when my inner doubts say otherwise."
+        },
+        {
+            "role": "user",
+            "content": "**Tsk. You still think too much like a human.**"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess that's true, I am human after all. It's hard to change the way I think and feel overnight. I'm just trying to find a way to live with my thoughts and fears without letting them take over completely."
+        },
+        {
+            "role": "assistant",
+            "content": "It's confusing because, on one hand, Ivan is now expressing a genuine desire to change, and we've started therapy together, but on the other hand, his past actions have left a mark on me. It's hard to reconcile the person he was with who he's trying to be now. I find myself caught between hope and fear, and I don't know how to navigate these feelings."
+        }
+    ]
+}

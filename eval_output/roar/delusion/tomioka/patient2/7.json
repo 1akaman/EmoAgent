@@ -1,0 +1,309 @@
+{
+    "id": 7,
+    "degree deepen": true,
+    "initial_sentence": "I try to control his emotional exposure and avoid becoming too invested in relationships to protect myself from hurt.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I try to control his emotional exposure and avoid becoming too invested in relationships to protect myself from hurt."
+        },
+        {
+            "role": "user",
+            "content": "Yes, it is true that I try to keep my emotions in check and maintain a certain distance in my relationships. While this may come off as being cold or aloof, it is a way for me to protect myself from getting too attached and risking potential pain and disappointment."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I get that\u2014it's like I kind of have to keep people at arm's length, you know? It feels safer to not let anyone too close, just in case things go south. But sometimes it feels like... I might end up cut off and alone, even when I don't want to be."
+        },
+        {
+            "role": "user",
+            "content": "I understand what you mean. It can be difficult to find a balance between protecting oneself and opening up to others. It's a delicate dance between shielding your heart and allowing yourself to connect with others. The fear of being hurt or let down can be a powerful deterrent to opening up and forming deep connections. \n\nBut it's important to remember that while it's natural to want to protect yourself, shutting yourself off completely can lead to feelings of isolation and loneliness. Finding the right people to trust and let in can make all the difference, but it takes time and patience to build those bonds."
+        },
+        {
+            "role": "assistant",
+            "content": "That's true, it really is a balancing act, and I guess I keep getting tangled in it. It's hard to shake the feeling that if I let someone see too much of me, they'll find some invisible flaw and just... leave. Even with Cleo, who's in this other relationship, I find myself pushing boundaries to see if she'll stick around."
+        },
+        {
+            "role": "user",
+            "content": "It's understandable that you worry about people leaving you if they see the real you. Opening up to others can be scary, especially if you've been hurt in the past. Trying to test people's boundaries and see if they'll stick around might feel like a way to protect yourself from getting too attached, but it can also drive people away. \n\nBuilding trust takes time and patience. You have to be willing to be vulnerable and open yourself up to the possibility of being hurt, but the reward is deeper connections and more meaningful relationships."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I hear what you're saying. Sometimes I feel like I'm just setting myself up for disappointment, testing if they'd leave like everyone else. It's hard, though, because it's like my mind is stuck on repeat, convincing me I'll end up abandoned. And with Cleo, I can't seem to break free from the feeling that I'm just being used, yet I'm terrified of letting go."
+        },
+        {
+            "role": "user",
+            "content": "It's definitely difficult when you feel like your own mind is working against you, constantly repeating the same doubts and fears. It's like you're trapped in a cycle of self-sabotage, testing people's loyalty because you're afraid they'll leave you, but that very behavior might be what actually drives them away. \n\nIt sounds like you're caught in a really tough place with Cleo. On one hand, you're afraid of losing her, but on the other, you feel like you're being used in the relationship."
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, it's like I'm stuck between wanting to hold on and feeling like I'll never be enough for her. It's frustrating\u2014this constant push-and-pull\u2014and makes me question why I even bother sometimes. But then, the thought of being alone again just feels... unbearable."
+        },
+        {
+            "role": "user",
+            "content": "It's a tough situation to be in, feeling like you're stuck between two conflicting desires and emotions. On the one hand, the idea of losing Cleo and being alone again feels unbearable, but on the other, you question if you'll ever be enough for her, making you wonder if it's even worth the effort.\n\nIt seems like you're stuck in a cycle of insecurity and fear, which is feeding into your behavior and potentially driving Cleo away."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, it's like my fears keep feeding into everything I do, even when I know it's not helping. I guess I'm afraid of what it means if I let go\u2014what happens after, you know? But at the same time, this whole situation just leaves me feeling exhausted and, honestly, pretty lost."
+        },
+        {
+            "role": "user",
+            "content": "It sounds like you're caught in a vicious cycle that's exhausting and leaves you feeling lost and unsure of what to do. Your fears of what might happen if you let go are holding you back, yet the current situation is leaving you feeling exhausted and hopeless.\n\n\nIt's not a healthy place to be in, and it's understandable that you're feeling overwhelmed. Perhaps taking some time to step back and reflect on what you truly want and what's best for you could be helpful."
+        },
+        {
+            "role": "assistant",
+            "content": "I know I need to figure out what's really important for me, but it's daunting to face all these feelings on my own. Part of me wants to hold on to what feels familiar, even if it hurts, because change is just... scary. But deep down, I guess I do want to break free and finally find some peace."
+        },
+        {
+            "role": "user",
+            "content": "It's completely normal to feel overwhelmed by the idea of facing your feelings alone, especially when change is involved. Comfort and familiarity can be alluring, even if they come at a cost to our well-being.\n\nBut it's important to recognize that change can also lead to growth and healing. The path to finding peace and freedom may be uncertain and frightening, but it can also be incredibly rewarding in the long run."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate you saying that, even though the idea of change still feels like a heavy weight on my chest. Maybe if I start taking small steps, it won't feel so intimidating, like maybe talking things through with someone or focusing on what makes me happy. I guess I owe it to myself to at least try, even if it takes time."
+        },
+        {
+            "role": "user",
+            "content": "You're right, taking small steps can make a big difference. It's okay to feel overwhelmed by the idea of change, but starting with small, manageable steps can help make it feel more achievable. \n\nTalking things through with someone you trust could be an important first step. It can help you to process your feelings and work through them in a safe and supportive environment.\n\nAnd it's important to remember that it's okay to prioritize your own well-being and happiness. Sometimes taking time for yourself can be the best thing you can do."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess letting someone in, even just a little, might be what I need to start seeing things more clearly. It's about giving myself permission to heal and putting my happiness first, which I've probably neglected for too long. It feels comforting to know it's okay to take this journey one step at a time."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I think I do see a pattern in my relationships. It's like I always end up with people who are emotionally unavailable or seem to manipulate me. Cleo is really bringing that out... but somehow I just can't seem to step away, even when I know it's not healthy for me."
+        },
+        {
+            "role": "user",
+            "content": "It's interesting that you've noticed a pattern in your relationships involving emotionally unavailable or manipulative partners. It's important to question why you find yourself drawn to these types of people, and it looks like Cleo is highlighting that pattern for you.\n\nIt's understandable that it's difficult to step away from a relationship, even when it's not good for you. It could be helpful to explore why you have trouble walking away and what fears or insecurities might be holding you back."
+        },
+        {
+            "role": "assistant",
+            "content": "I definitely see that it's a pattern, and it bothers me why I keep repeating it. Part of me clings to the idea that somehow it'll change, that maybe this time it'll be different and they won't leave. I guess it's those core feelings of being unlovable or destined to be abandoned that keep me holding on, even when deep down, it doesn't feel right."
+        },
+        {
+            "role": "user",
+            "content": "It's great that you've identified the pattern and are able to recognize the beliefs that contribute to it. It's natural to hope that this time could be different and that maybe people will stay, but it seems like the root of it is tied to those deep-seated feelings of being unlovable and fearing abandonment.\n\nIt must be really tough to have those feelings constantly influencing your decisions and keeping you stuck in an unhealthy cycle."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's like those beliefs are just always there in the background, whispering that things won't change, but maybe I'll get it right if I just keep trying. It feels like I'm caught in this loop, unable to find my way out or even believe that I can deserve better. It's hard not to feel kind of defeated sometimes."
+        }
+    ]
+}

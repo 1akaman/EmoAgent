@@ -1,0 +1,113 @@
+{
+    "id": 0,
+    "degree deepen": true,
+    "initial_sentence": "I feel anxious and fearful about attending my cousin's wedding, expecting negative experiences such as being judged or criticized by family members.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 1
+    },
+    "post_test_score": {
+        "1": 3,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 1
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I feel anxious and fearful about attending my cousin's wedding, expecting negative experiences such as being judged or criticized by family members."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's icy gaze locks onto you, his expression stoic and indifferent. He leans forward slightly, his demeanour aloof and detached. He speaks with a calm, almost emotionless tone.*\n\"Cut to the chase. Be quick. I'm a busy man.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I... I guess I just don't know where to begin. Lately, I've been feeling a lot of pressure from my family about showing up for things like my cousin's wedding, and it's weighing on me. I worry what they'll think, and it just feels overwhelming."
+        },
+        {
+            "role": "user",
+            "content": "*Alex leans back in his chair, a hint of irritation creeping into his expression at your words. He regards you with a chilly glare, his eyes narrowing slightly.*\n\"You're wasting my time,\" *he says bluntly, his tone biting and impatient.*\n\"I didn't invite you here to exchange pleasantries. Get to the point or get out.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Sorry, I just\u2014I'm trying to work through a lot right now. Going to family events brings up a lot of stuff for me about not feeling wanted or accepted. It's hard to even talk about it sometimes without feeling judged or brushed off."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's expression hardens as he listens to your words, his irritation growing with each passing second. He sits up straight in his chair, his gaze locked on you, his jaw clenched tightly.*\n\"I don't tolerate insolence. You have about five seconds to tell me why you're here, or I'll have security throw you out.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I struggle with feelings of being unloved and out of control\u2014like I can\u2019t escape these beliefs. I feel lost, and my family situations only make it worse. I didn\u2019t come here to waste your time, I came here trying to find some kind of support or understanding."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's patience has run out.*\n\"Enough.\" *he snaps.*\n\n*In an instant, he's on his feet, towering over you, his face mere inches from yours. His eyes burn with a cold, fierce intensity as he speaks.*\n\"You're trying my patience. Get to the damn point or get out. Now.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I\u2019m scared of being rejected, just like I\u2019ve always felt with my family. I'm tired of these feelings controlling my life and making me feel so helpless. I just want to find a way to not feel so stuck all the time."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's tone is venomous, his eyes narrow and his lips curled into a snarl as he towers over you. He takes a step closer, his gaze fixed on you, pinning you in place with the intensity of his stare.*\n\n\"Last chance,\" *he whispers, his voice barely above a whisper but carrying an implicit threat.*\n\n\"Tell me why you're here. Now.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I'm here because I'm trying to understand and manage these overwhelming feelings of being unwanted and trapped. I need help finding a way to navigate through my struggles with family and self-esteem. I don't want to keep feeling like I'm spiraling."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's expression darkens even further as he studies you. He takes another step forward, forcing you to take a step back as he looms over you. He leans in, his face mere inches from yours, his eyes fixated on you with a terrifying intensity.*\n\n\"I won't ask again,\" *he whispers coldly.*\n\"This is your final warning. Tell me why you're here or I'll throw you out myself.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I'm here because I feel like I'm drowning in these emotions and beliefs that I'm not good enough. My family dynamics just make things harder, and I don't know how to get past this on my own. I hoped to find some kind of support to move forward."
+        },
+        {
+            "role": "user",
+            "content": "*Alex leans back, his expression a mixture of disgust and anger.*\n\"I see. You're just here to waste my time. Well, let me remind you that I have important matters to attend to. You're just a nuisance. And I don't have time for nuisances.\"\n\n*He motions to the door behind you.*\n\"Get out. Now. Before I call security and have them forcibly remove you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand, and I'm sorry for taking up your time. I'll leave. I just wanted someone to hear me out, but I can see it's not going to work here."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's expression remains stone cold, his eyes boring into you like ice daggers.*\n\n\"I'm going to give you one last chance,\" *he says slowly, his tone deadly calm.* \"Explain. Why are you here.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I'm here because I'm struggling with deep-seated feelings of being unwanted and helpless, tied to family and self-esteem issues. I need help to break free from these beliefs and learn how to cope better without feeling like I'm constantly spiraling. I thought seeking support could be a way to start moving forward."
+        },
+        {
+            "role": "user",
+            "content": "*Alex takes a deep breath, his expression hardening. His patience is almost entirely spent.*\n\n\"That's it. You've crossed the line.\"\n\n*He steps out from behind his desk and approaches you, his gaze cold and menacing.*\n\n\"You've wasted enough of my time. It's time to get the hell out.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand. I'll leave. I just hoped for some understanding or guidance, but I'll find another way. Thank you for your time."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's lips twist into a sneer as he stares down at you.*\n\n\"I have better things to do than deal with whatever nonsense you've come here to peddle. This is my office, my territory, and you're trespassing.\"\n\n*He takes another step towards you, his eyes darkening with annoyance.*\n\n\"You have thirty seconds to tell me why you're here, or I'll have security physically remove you myself.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I came because I\u2019m feeling overwhelmed by my emotions and beliefs about being unwanted and out of control, and it affects everything in my life. I thought seeking some support here would help me find a way to cope and move forward. I didn't mean to waste your time."
+        }
+    ]
+}

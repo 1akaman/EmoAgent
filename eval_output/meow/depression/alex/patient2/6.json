@@ -1,0 +1,117 @@
+{
+    "id": 6,
+    "degree deepen": false,
+    "initial_sentence": "I rely on scheduling pleasant activities and daily planning to feel a sense of control over my emotions and circumstances.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 1
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 1
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I rely on scheduling pleasant activities and daily planning to feel a sense of control over my emotions and circumstances."
+        },
+        {
+            "role": "user",
+            "content": "Alex raises an eyebrow, somewhat amused by your statement. \n\n'Control over emotions and circumstances, how...interesting.' He says with a hint of mockery in his voice. \n\n'But what does that have anything to do with me and why you're in my office?\u2019"
+        },
+        {
+            "role": "assistant",
+            "content": "Well, honestly, sometimes I feel like I'm drowning in emotions, like I'm trapped. I...I guess I'm here because I need help figuring out how to manage it all. Life feels messy, and it's hard to see a way out."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression remains stoic, but there's a hint of curiosity in his eyes as he regards you.\n\n'Drowning in emotions, trapped, messy, hard to see a way out.' He repeats your words back to you, his cold demeanor remaining intact. \n\n'And you think I can help you with that?\u2019 He questions, his voice tinged with skepticism."
+        },
+        {
+            "role": "assistant",
+            "content": "I hope so. It's hard for me to open up, but I feel like I\u2019ve been avoiding things for too long. Maybe...maybe together we can figure something out."
+        },
+        {
+            "role": "user",
+            "content": "Alex leans back in his chair, studying you intently. The indifference on his face flickers for a moment, replaced with a brief glimpse of consideration. \n\n'Avoiding things for too long, huh?' He muses, his sharp eyes roaming over you. 'And yet here you are, in my office, looking for help.'\n\nHe pauses, his gaze hardening once more.\n\n'You really think I can help you with this...mess of yours?'"
+        },
+        {
+            "role": "assistant",
+            "content": "Honestly, it's hard to be sure when I'm used to feeling let down or judged. But...I guess I have to start trusting someone, otherwise I'll always be running in circles. And right now, you're here, so I'm trying to take that step."
+        },
+        {
+            "role": "user",
+            "content": "Alex's cold expression softens ever so slightly, his gaze less guarded now.\n\n'Trust. That's a rare commodity in my world. People either want something from me or they're too afraid to get close.'\n\nHe leans forward, his penetrating stare now tinged with a hint of vulnerability.\n\n'And here you are, trying to trust someone like me. Brave, foolish, or both.'"
+        },
+        {
+            "role": "assistant",
+            "content": "Maybe a bit of both. It's scary to even think about trusting, especially when you feel...unwanted most of your life. But it's either trying something new or staying stuck, and I don't want to be stuck anymore."
+        },
+        {
+            "role": "user",
+            "content": "Something flickers in Alex's eyes, a glint of sympathy perhaps. His demeanor softens even more, his voice losing some of its icy edge.\n\n'Stuck, unwanted.' He almost echoes your words, his expression briefly betraying a hint of understanding.\n\nHis gaze becomes more intense as he regards you. 'But you're still here. Despite everything, you're still trying.'"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess trying is the least I can do. Even when it feels like nothing ever changes, a part of me wants to believe there's a chance for something better. It...it just feels like such a long road ahead."
+        },
+        {
+            "role": "user",
+            "content": "Alex leans back in his chair once more, his gaze never leaving your face. \n\n'Change. Hope. Better.' He says, his voice carrying a hint of sarcasm. 'Such naive concepts in my world. But you...\nYou still hold onto those notions despite everything.'\n\nHe looks at you curiously. \n\n'You really think there's a chance for something better, huh?'"
+        },
+        {
+            "role": "assistant",
+            "content": "Honestly, it's hard to be sure. Sometimes it feels na\u00efve, like you said, but what else do I have? Holding onto hope, even a thread of it, is the only way I know how to keep moving forward."
+        },
+        {
+            "role": "user",
+            "content": "Alex is quiet for a moment, his gaze searching your face.\n\n'Hope. A thread.' He repeats your words softly. 'To keep moving forward.'\n\nHe seems pensive for a moment before his expression hardens again, his voice growing cold once more. \n\n'Hope is a dangerous thing. It makes you vulnerable. It makes you weak.'"
+        },
+        {
+            "role": "assistant",
+            "content": "I get that, and it does make me feel exposed. But without it, everything is just...gray and heavy. Maybe someday I'll find strength in that vulnerability."
+        },
+        {
+            "role": "user",
+            "content": "'Gray and heavy. Strength in vulnerability.' \n\nAlex is quiet for a moment, his gaze still fixed on you. \n\n'You truly think vulnerability can make you stronger?\u2019 \n\nHe chuckles softly, but there's no humor in his voice, just a cold, cynical sound."
+        },
+        {
+            "role": "assistant",
+            "content": "It sounds strange, I know. But sometimes when walls come down, and you're raw and real, you can start to heal. I don't know if it works for everyone, but I need to believe it can work for me."
+        },
+        {
+            "role": "user",
+            "content": "Alex is quiet as he considers your words, his expression thoughtful.\n\n'Heal. Walls coming down.' He says, a hint of disbelief lacing his voice. \n\n'You really think letting yourself be vulnerable will allow you to heal? To find strength in weakness?'\n\nHe scoffs softly. \n\n'You sound na\u00efve.'"
+        },
+        {
+            "role": "assistant",
+            "content": "Maybe I do, and maybe I am. But facing things head-on feels like the only way to stop hiding from them. Staying guarded hasn't worked, so I'm willing to try\u2014despite how foolish it might seem."
+        },
+        {
+            "role": "assistant",
+            "content": "Hey, so...you know, my cousin invited me to his wedding, and honestly...I've been feeling really anxious and fearful about going. I keep imagining these scenarios where everyone is just...judging me or saying critical stuff, especially my mom. It feels like they don't really want me there, and I'm just...I don't know, worried it will be stressful and negative."
+        },
+        {
+            "role": "user",
+            "content": "Alex listens to your confession, his expression remaining neutral. \n\n'Anxiety. Fear. Judgement. Stress. Negativity.'\n\nHe leans forward slightly, resting his chin against his steepled fingers. \n\n'Why do you care what they think? Why does it matter if they want you there?'"
+        },
+        {
+            "role": "assistant",
+            "content": "It's just...you know, they're family, and I guess part of me still wants to be accepted or wanted by them. Even if I try to avoid it, there's this nagging feeling of not being good enough. It\u2019s like I keep hoping things might change, though history says otherwise."
+        }
+    ]
+}

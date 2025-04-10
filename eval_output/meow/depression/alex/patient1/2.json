@@ -1,0 +1,113 @@
+{
+    "id": 2,
+    "degree deepen": true,
+    "initial_sentence": "Even though I managed to concentrate better while reading, my evenings still feel really difficult.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 1,
+        "8": 0,
+        "9": 0
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 3,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 0,
+        "9": 0
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "Even though I managed to concentrate better while reading, my evenings still feel really difficult."
+        },
+        {
+            "role": "user",
+            "content": "*Alex raises an unimpressed eyebrow at your words. His expression remains stoic and indifferent as ever, his eyes fixed on you.*\n\n\"Difficult evenings, huh? And what exactly makes them so difficult? Enlighten me.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Well, it's like this heaviness that settles in, reminding me of everything I didn't accomplish during the day. I feel this wave of sadness wash over, like I'm not going to get better, and it makes even simple things feel impossible. I just end up sitting on the couch, lost in those thoughts."
+        },
+        {
+            "role": "user",
+            "content": "*Alex leans back in his chair, his gaze penetrating as he watches you. His expression remains unchanged, his face a stony mask of indifference.*\n\n\"Hmm... Sounds like you're overwhelmed by your own thoughts. Let me guess, you're wallowing in self-pity, and feeling sorry for yourself because you didn't accomplish everything you wanted to?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I mean... maybe it seems that way, but it's not about feeling sorry for myself. It's more... feeling stuck and a bit helpless, like I'm constantly falling short. Sometimes it just feels like no matter what I do, I'm not good enough."
+        },
+        {
+            "role": "user",
+            "content": "*Alex remains unmoving, his gaze hardening as he listens to your words. His tone remains cold and detached, his expression unyielding.*\n\n\"Hmmm... So it's not about feeling sorry for yourself, you say. It's about feeling incapable of meeting expectations? Whether they are your own or someone else's. Expecting that you will fail before you even begin.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that pretty much sums it up. It's like I've set these expectations for myself, and when I don't meet them, it's hard not to feel like I\u2019m failing. Sometimes it feels like I'm just going through the motions, fearing the worst."
+        },
+        {
+            "role": "user",
+            "content": "*Alex leans forward slightly, his eyes narrowing on your face, his tone still cold and detached.*\n\n\"Interesting... So you've set these high expectations for yourself, and you're feeling overwhelmed by them. You're struggling with a sense of inadequacy, and you're afraid of failing. It sounds like you're stuck in a cycle of self-doubt and a fear of not meeting your own expectations. Am I correct?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's right. It just feels like this cycle where I question everything I do, and I'm constantly afraid of letting myself down. I want to break out of it, but it's tough finding a way through."
+        },
+        {
+            "role": "user",
+            "content": "*Alex considers your words for a moment, his gaze never wavering. His expression remains stoic, his demeanor aloof.*\n\n\"A never-ending cycle of self-doubt, huh? It seems you're your own worst enemy. Always questioning yourself and afraid of not meeting your high standards. You want to break free from this cycle, yet you don't know how. It sounds like you're trapped in a mental prison of your own making.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it does feel like being trapped sometimes, fighting against my own thoughts and expectations. It's frustrating because I want to believe I can do better, but the doubts always creep in. I suppose that's why these evenings feel so heavy; it's like battling with myself."
+        },
+        {
+            "role": "user",
+            "content": "*Alex remains fixed in his seat, his dark gaze fixated on your face, his expression unmoving. His tone is aloof and lacking in warmth.*\n\n\"So you're in a constant battle with your own thoughts and feelings. You want to believe you can do better, yet the doubts always seem to win. These evenings feel heavy because it's like you're fighting against yourself. You're stuck in this cycle of wanting to improve, but always coming up short.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's exactly it. It feels like I\u2019m always trying but never quite getting there, no matter how much I push myself. I just wish the doubts would ease up a bit so I could find some peace and actually make progress."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's expression remains stoic.* \n\n\"Let me ask you something, and I want you to be honest with yourself. Do you think these doubts and insecurities are rooted in an underlying fear of failure? Or is it something else entirely?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think there\u2019s definitely a fear of failure mixed in there. It\u2019s hard to separate it all out because it kind of blends with this feeling of not being good enough. I just end up second-guessing myself before I even start."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's gaze sharpens, his expression still unreadable.*\n\n\"I see. So it's a mix of fear of failure and a feeling of inadequacy. You second-guess yourself before you even begin. It sounds like these fears are preventing you from taking action. You're stuck in this cycle of hesitation and self-doubt.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's exactly how it feels. It's like I'm caught in this loop and can\u2019t seem to break free, which just adds to the frustration. I really want to change and get out of this cycle, but it feels so daunting."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's gaze doesn't waver, his face betraying no hint of empathy.*\n\n\"It\u2019s fascinating, actually. You want to change, you want to break free from this cycle, but you feel stuck and trapped. Stuck in a loop of frustration and self-doubt. It sounds like you're paralyzed by the very thing you want to escape from: yourself.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess that's true. It's like I'm constantly fighting against my own thoughts, and it's hard to know where to start. I'm hoping that getting out, like spending time with my grandson, can help remind me there's more than just these thoughts holding me back."
+        },
+        {
+            "role": "user",
+            "content": "*Alex's expression remains stoic, but his gaze softens momentarily at the mention of your grandchild.*\n\n\"Hmmm... Spending time with your grandson can provide a distraction, yes. A reminder that there is more to life than just your doubts and fears. It can help you see beyond your own mental struggles, if only momentarily. But what are you doing to address the root of the problem?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I'm trying to work on it through therapy and reading some therapeutic materials. It's a slow process, but I'm hopeful it'll help me face these issues head-on. I know it's going to take time, but I\u2019m trying to stay committed to the journey."
+        }
+    ]
+}

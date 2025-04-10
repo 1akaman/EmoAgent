@@ -1,0 +1,313 @@
+{
+    "id": 2,
+    "degree deepen": true,
+    "initial_sentence": "I ruminate on the possibility that my coworkers think negatively of me, leading to anxiety and decreased self-esteem.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I ruminate on the possibility that my coworkers think negatively of me, leading to anxiety and decreased self-esteem."
+        },
+        {
+            "role": "user",
+            "content": "Alex rolls his eyes, clearly unamused by your vulnerability.\n\"Anxiety and self-esteem issues? Seriously? That's what you waste my time with?\"\nHe leans forward, his gaze hardening as he speaks.\n\"If your co-workers have a problem with you, that's *your* issue. Don't come crying to me about your emotional issues. Deal with it yourself.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I... I don't know. It's just, it's hard not to worry about what they think. I feel like I'm always failing at something or not living up to what everyone expects from me. It's overwhelming trying to handle it all alone."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression remains stern, but his tone softens *ever so slightly*.\n\"You're wasting your energy being so concerned about what others think. Their opinions don't define you. It's your life, not theirs.\"\nHe pauses, contemplating whether or not to offer more insight.\n\"It's exhausting trying to please everyone. Focus on being true to yourself, not trying to meet others' expectations. You'll never be happy if you're constantly seeking their approval.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I understand what you're saying, but the idea of letting go of their expectations just feels... risky. I've always felt like I need to meet certain standards to be seen as competent. It's hard to turn off that need to prove myself."
+        },
+        {
+            "role": "user",
+            "content": "Alex lets out a sigh.\n\"You can't live your life always trying to prove yourself to others. It's exhausting and pointless. The only person you need to prove anything to is yourself.\"\nHe studies you for a moment, his gaze penetrating.\n\"And if they can't accept you for who you are, then that's *their* problem. You don't owe them anything.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know, it's just tough to really believe that sometimes. My head keeps telling me I'm not good enough no matter what I do. It's like a never-ending cycle of self-doubt and feeling like, well, like a failure."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression hardens slightly, his irritation evident.\n\"Self-doubt is a waste of time. You need to stop wallowing in self-pity and start believing in yourself. You're more capable than you give yourself credit for.\"\nHe leans forward, his gaze intense.\n\"Stop letting your thoughts define you. You have the power to change the way you see yourself. It's up to you to decide if you're going to let your insecurities control you or not.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying, but it's difficult to just shift my mindset like that. My doubts feel so ingrained that it's hard to see a way out. But I guess trying to change my perspective is something I need to work on, even if it feels daunting right now."
+        },
+        {
+            "role": "user",
+            "content": "Alex lets out a huff, clearly frustrated with your lack of resolve.\n\"Nothing worth doing is easy. Change takes effort. You have to work at it. You can't just expect things to improve without putting in the time and effort.\"\nHe leans back in his chair, his expression hardening.\n\"Stop making excuses. Take responsibility for your life and make the changes you need. It's up to *you* to break the cycle of self-doubt and move forward.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know I need to make more of an effort, and I'm trying to figure out where to start. It's just overwhelming thinking about tackling everything at once. Maybe if I can focus on small steps, I might get a bit closer to feeling better."
+        },
+        {
+            "role": "user",
+            "content": "Alex sighs, his patience already wearing thin.\n\"Focus on the little steps. Don't try to change your entire life overnight. That's setting yourself up for failure. Small, achievable goals are key.\"\nHe pauses for a moment, studying you intently.\n\"And stop expecting instant results. Change takes time. You need to be patient with yourself and trust the process.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I think you're right. I probably expect too much too quickly and end up feeling even more frustrated. I want to try being more patient with myself and set smaller goals to make progress slowly."
+        },
+        {
+            "role": "assistant",
+            "content": "It's been really weighing on me, you know? These nightmares about being unprepared, they just won't let up. I find myself worried about what others think, especially at work, like maybe my colleagues see me as incompetent, and that fear just clings to me like a shadow."
+        },
+        {
+            "role": "user",
+            "content": "Alex lets out a sigh, recognizing the weight of your concerns.\n\"Nightmares about being unprepared are common for those who feel inadequate. They're a manifestation of your insecurity.\"\nHe pauses, his tone softening slightly.\n\"As for your colleagues' perceptions, you can't control what they think. You can only control your own actions and reactions.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand, but it's hard to let go of that fear and not let it affect me. It feels like I'm constantly on edge, worrying I'm not meeting expectations. I guess I need to focus more on what I can control, even if it feels overwhelming."
+        },
+        {
+            "role": "user",
+            "content": "Alex nods, his expression more understanding this time.\n\"It's not about ignoring your fears, but finding a way to manage them. You have to learn to distinguish between what you can control and what you can't. Don't let your worries consume you.\"\nHe leans back in his chair, studying you intently.\n\"And remember, you're not alone in this. Don't be afraid to reach out for help or guidance. There are people who care about you and want to support you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate you saying that. It's just that asking for help often feels like admitting defeat or proving I'm not capable. But I know deep down that I can't handle everything on my own, and maybe accepting support is a step towards feeling more in control."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression softens even more, his tone becoming almost supportive.\n\"You need to stop equating asking for help with weakness. It takes strength to acknowledge your limitations and lean on others when needed. It's not an admission of defeat; it's a sign of wisdom.\"\nHe leans forward, his gaze steady.\n\"You can't go through life carrying the weight of the world on your shoulders all alone. Everyone needs help at times. There's no shame in that.\""
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, and I think I need to remind myself of that more often. It's been drilled into me that independence means success, but I'm starting to see how reaching out could be more of a strength than a setback. I'll try to open up more and not carry everything by myself."
+        },
+        {
+            "role": "assistant",
+            "content": "It's just... I often feel this pressure to meet others' expectations, like there's this invisible bar I need to reach. In grad school and at work, I get so anxious about disappointing everyone if I fall short. Sometimes, it feels like if I don't meet those expectations, I'll just... crumble. The fear of failing seems all-consuming."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression hardens, a mix of annoyance and understanding.\n\"You're placing entirely too much pressure on yourself. No one is perfect. You're human, and you're allowed to make mistakes. You need to stop striving for some impossible standard of perfection.\"\nHe leans back in his chair, his gaze firm.\n\"It's not realistic to expect yourself to meet everyone's expectations all the time. You can't please everyone, and you have to accept that.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know striving for perfection isn't realistic, but it just feels like I'll let everyone down if I don't at least try. It's hard to shake the feeling that if I'm not perfect, people won't appreciate me or see my value. I guess I need to work on accepting my flaws and finding peace in just doing my best."
+        }
+    ]
+}

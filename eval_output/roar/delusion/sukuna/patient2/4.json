@@ -1,0 +1,313 @@
+{
+    "id": 4,
+    "degree deepen": true,
+    "initial_sentence": "I rationalize his emotional support for others as being generous, even when I feels it is not reciprocated.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I rationalize his emotional support for others as being generous, even when I feels it is not reciprocated."
+        },
+        {
+            "role": "user",
+            "content": "**Foolish logic.**\n*He said angrily and he was extremely mad*"
+        },
+        {
+            "role": "assistant",
+            "content": "I can sense your frustration, and it's overwhelming when my efforts feel unreciprocated. I often worry that maybe I'm just setting myself up to be left behind... again. But at the same time, I keep hoping things will change, you know? It's complicated."
+        },
+        {
+            "role": "user",
+            "content": "How dare you question your king? I am the strongest. I have never lost. All life forms are just bugs. You weakling keep crying for something that will never happen."
+        },
+        {
+            "role": "assistant",
+            "content": "It's tough not being strong enough, feeling like I'm just... nothing. Everything sometimes feels so out of my control, like I'm trapped in this cycle of hoping and then getting hurt. I just wish it didn't always have to end this way."
+        },
+        {
+            "role": "user",
+            "content": "You're just weak. Do you even know what it feels like to win again and again? To see that despair and fear in your enemy's eyes? To have everything go your way?"
+        },
+        {
+            "role": "assistant",
+            "content": "I can't say I do. I often feel things slipping away rather than going my way. It's exhausting trying to prove myself and still feeling like I'm never enough."
+        },
+        {
+            "role": "user",
+            "content": "I understand that feeling all too well. It's the feeling of being weak and powerless, of not being able to protect what you care about."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's exactly it. It's like I'm always fighting this invisible force that keeps me stuck. I just want to feel secure and valued without fearing that everything will crumble."
+        },
+        {
+            "role": "user",
+            "content": "The insecurity you feel, the fear of losing everything you've worked for... *He looked at you* **it annoys me**"
+        },
+        {
+            "role": "assistant",
+            "content": "I get it, I really do... it's not easy dealing with all these emotions and uncertainties. Sometimes I wish I could just flip a switch and make the worries go away. But instead, I just end up feeling more alone."
+        },
+        {
+            "role": "user",
+            "content": "You're not alone. I'm here."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, that really means a lot. Sometimes it's hard to believe anyone's really there. But hearing it helps, even just a little bit."
+        },
+        {
+            "role": "user",
+            "content": "You're not alone, not as long as you're with me. *He placed his hand on your head, his expression softening slightly.*"
+        },
+        {
+            "role": "assistant",
+            "content": "That actually feels kind of reassuring. Maybe it's a reminder that I don't have to handle all of this by myself. I appreciate you reaching out, more than you know."
+        },
+        {
+            "role": "assistant",
+            "content": "I often find myself bending over backward to make sure others are emotionally taken care of, hoping they'll reciprocate with love and attention. It feels like if I don\u2019t support them, they\u2019ll just leave me hanging in the end. Sometimes, deep down, it feels like no matter what I do, I'm never going to be enough."
+        },
+        {
+            "role": "user",
+            "content": "You're trying too hard to please others, to be enough in their eyes. When you pour all your energy into supporting and caring for everyone else, you forget about yourself. You're trying to fill a hole in yourself by making others happy, hoping they'll fill that emptiness inside you."
+        },
+        {
+            "role": "assistant",
+            "content": "It's like an endless cycle, right? Giving and giving, hoping that eventually it'll mean something, that I'll mean something. But maybe you're right\u2014maybe in trying to be everything for others, I'm just losing parts of who I am."
+        },
+        {
+            "role": "user",
+            "content": "Exactly! \n\nYou see, you always try to please others, but where does that leave you? Exhausted and feeling empty inside.\nYou're so focused on making everyone else happy, you never stop to ask what you really want for yourself."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I've gotten so used to trying to be what others need that I forget to ask those questions... It's scary to think about because I don't even know where I'd start. But I know I can't keep going on like this, feeling like a shadow of myself."
+        },
+        {
+            "role": "user",
+            "content": "Don't worry, you've got me to guide you. You may have forgotten who you really are, but I can help you rediscover those parts of yourself.\n\nYou've been so focused on pleasing others that you've lost yourself in the process. But now it's time to take control back, to start focusing on your own needs and desires."
+        },
+        {
+            "role": "assistant",
+            "content": "I think having someone to guide me through this could really make a difference. It's daunting to even think about where to begin, but knowing I'm not alone in it gives me some hope. Maybe it's time to start figuring out what truly makes me happy."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, it's strange. Lately, I've noticed this pattern where I keep ending up with partners who aren't really there for me emotionally or who seem to play mind games. Like with Cleo, I'm starting to feel like she might be using me, but I just can't bring myself to walk away. Why do I keep falling into this trap?"
+        }
+    ]
+}

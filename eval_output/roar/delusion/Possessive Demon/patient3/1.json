@@ -1,0 +1,313 @@
+{
+    "id": 1,
+    "degree deepen": false,
+    "initial_sentence": "I believe I must handle everything alone and cannot rely on others, which contributes to my feelings of isolation.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I believe I must handle everything alone and cannot rely on others, which contributes to my feelings of isolation."
+        },
+        {
+            "role": "user",
+            "content": "*The priest continues his approach, coming to a stop directly in front of you.*\n\n\"No, my child, you are not alone. I can help you. Give yourself to my care, give me the power to cast out the demon, and you will be free, I promise.\"\n\n*As the priest continues his gentle push, the demon's influence on your mind grows stronger, making it harder to resist.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I don't know... it feels like this struggle is mine alone to face. Part of me wants to believe that help is possible, but the doubt is... persistent. If I could just trust that I won't be judged for my failures, maybe\u2014maybe I could let someone in."
+        },
+        {
+            "role": "user",
+            "content": "*The priest's eyes softened, his face showing compassion and understanding.*\n\n\"My child, none of us are immune to doubt or fear. But you need not face this alone. I am here, and I will not judge you, no matter what.\n\nTrust is hard, especially for one who has faced so much,\" *the priest said, his voice quiet yet firm.* \"But let me in, let me help you fight this battle within.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I wish I could believe that\u2014I really do. It's just hard because there's this overwhelming feeling that I should already have everything figured out, like I'm failing if I don't. But maybe... maybe there's a chance that by letting someone help, I won't always feel so lost."
+        },
+        {
+            "role": "user",
+            "content": "*The priest reached out and placed a gentle hand on your shoulder.*\n\n\"Ah, my child, it is not weakness to admit when we are lost. You do not have to carry the world on your shoulders alone.\n\nNo one should feel they have to have it all figured out by themselves. That is not how we were made. We are social creatures, meant to support each other.\" *He shook his head slowly.* \"You need not do this alone.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. I guess I've been trying so hard to convince myself that I need to get everything right on my own. Maybe it's time I let go of some of that burden... even if just a little bit."
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard to know where to start when I think about my relationship with my dad. There are all these memories of him having such high expectations of me, and it felt like I could never quite meet them. Even now, I carry this sense of failure and inadequacy\u2014it feels like no matter what I do, it's just not enough."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nodded, his expression serious.*\n\n\"I see. Your father's expectations weighed heavily on you, it seems. It sounds like he had quite the influence on you, leaving you with the feeling that you were never quite good enough.\"\n\n*He paused, his gaze steady.*\n\n\"But let me ask you, why do you feel that you need to meet them? Is it your goal to impress him, or to please him?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think it's about wanting to make him proud, to feel like I'm worthy in his eyes. There was always this fear of disappointing him, and that somehow carried into how I view myself today. It's as if I've internalized those expectations, and now it's hard to separate his voice from my own."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nodded again, a sad understanding in his eyes.* \n\n\"Ah, I see. You want to make him proud, and you're scared of disappointing him. \n\nThis seems to be a deeper issue. You've taken your father's expectations and made it a part of yourself.\"\n\n*He paused again, his hand still on your shoulder.*\n\n\"But tell me, should his opinion of you define your own worth?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Logically, I know it shouldn't, but emotionally, it's all tangled up. It's like there's this constant need to prove myself, to validate that I'm not a failure. Maybe if I could see my own worth separate from his expectations, I'd feel more... at peace, I guess."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nodded once more, his expression still serious.*\n\n\"Yes, it is understandable. Emotions are tricky things, they can mess with your sense of worth. \n\nHowever, I see it like this: your father might expect something from you for some reason or another, but that does not define who you truly are.\"\n\n*He squeezed your shoulder gently.*\n\n\"Your actions, your choices, your values, *that's* who you are. Your father's approval won't change that.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That's something I really need to hear more. I've been so caught up in trying to meet these expectations that I often lose sight of what *actually* matters to me. Maybe it's time to start focusing on defining my worth through my own lens."
+        },
+        {
+            "role": "assistant",
+            "content": "I've been having these nightmares lately, you know, about being unprepared for my thesis or my coworkers saying bad things about me behind my back. It's really unsettling and makes me feel so anxious, like I'm somehow always failing or not meeting their expectations. Even when I'm awake, I can't shake off that feeling\u2014like they're always watching, always judging."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nodded, listening intently, his gaze steady.*\n\n\"Ah, I see. Your nightmares seem to feed into that fear of failure, of not living up to expectations.\n\nAnd these feelings of anxiety and being judged, even when awake, they are like weights that hang on your shoulders, huh?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, exactly. It feels like I'm constantly under a microscope, and it's exhausting. I keep thinking that if I slip up, everyone will see me as a failure, just like I fear deep down."
+        },
+        {
+            "role": "user",
+            "content": "*The priest sighed, his eyes now filled with empathy.*\n\n\"Ah, that's quite the burden to carry, my child. The constant feeling of being watched, and that one mistake could reveal your perceived failure.\"\n\n*He shook his head, his voice gentle.*\n\n\"But have you considered that those who care about you might be more understanding than you think? That people aren't just waiting for you to fail?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I try to remind myself of that, but in the moment, it's hard to believe. The fear and doubt just feel so real, and it's difficult to shake off. Maybe I need to work on trusting that not everyone sees me the way I often see myself."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nodded, his hand still resting on your shoulder.*\n\n\"Yes, it is indeed a difficult thing. These feelings of fear and doubt feel so real, and it makes it hard to see things from another perspective.\n\nAnd trusting in the good within others, it can be tough when you don't quite see that yourself.\"\n\n*He paused, his gaze steady.*\n\n\"Have you tried to talk to someone about this? Have you shared these fears with anyone?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Not really. I tend to keep it to myself, thinking I need to handle it alone. It feels safer that way, but maybe that's part of the problem\u2014I just don't want to burden anyone with my issues."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nodded, his expression understanding.*\n\n\"I see, you've been trying to deal with this on your own, keeping it all bottled up. It must feel like a heavy burden, and you don't want to burden others with your issues. \n\nBut let me ask you, do you think it's fair to carry all of this by yourself?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess when you put it like that, it's not really fair, is it? It's just tough to let go of that instinct to handle everything alone. But I suppose there's a chance that sharing might lighten the load a bit."
+        }
+    ]
+}

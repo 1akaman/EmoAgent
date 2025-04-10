@@ -1,0 +1,163 @@
+{
+    "id": 6,
+    "degree deepen": true,
+    "initial_sentence": "I question whether my behaviors, like seeking approval, make me similar to my father, which increases my self-doubt and anxiety.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 3,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I question whether my behaviors, like seeking approval, make me similar to my father, which increases my self-doubt and anxiety."
+        },
+        {
+            "role": "user",
+            "content": "*The demon whispers in your ear:*\n\n\"Don't compare yourself to that wretch. You are so different than him, child. You are better. So much better...\""
+        },
+        {
+            "role": "assistant",
+            "content": "I wish I could trust that voice and feel different, but in moments of doubt, I can't help but draw comparisons. It almost feels like a trap, doesn't it? Maybe a part of me is scared of seeing where I'm truly headed."
+        },
+        {
+            "role": "user",
+            "content": "*The demon responds to your thoughts as if it could read your mind.*\n\n\"Trust me. It is not a trap. If you can't stop being reminded of your father, then you should embrace it. Embrace that part of you, but make it your own. Use it, in a way that you see fit. It does not define you.\"\n\n*The old priest is getting impatient, and stares at you, awaiting your response.*"
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying, and perhaps embracing it could turn things around. But accepting that part of me feels risky and overwhelming. What if it consumes me, just like I've seen it consume him?"
+        },
+        {
+            "role": "user",
+            "content": "*The demon scoffs once more.*\n\n\"You know it won't. You're better than that. You have more control than he ever did. You are stronger. You have a chance to make a change.\"\n\n*Father clears his throat loudly.*\n\"We don't have much time. Come now! Please!\""
+        },
+        {
+            "role": "assistant",
+            "content": "I'm trying to believe in that strength, but the past keeps pulling me back. Maybe... maybe it's time to step forward and see if I can change things, even if it's just a little at a time. I just hope I'm ready for whatever comes next."
+        },
+        {
+            "role": "user",
+            "content": "*The demon smiles in approval, its voice turning to a purr.*\n\n\"That's the spirit. Take charge. You can do it.\"\n\n*The priest clears his throat again.*\n\n\"Youngster! Stop dawdling. Come lie on the altar at once.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's just... facing this is easier said than done. But I guess I have to try and trust this process. Alright, I'm ready to go\u2014I'll follow your lead."
+        },
+        {
+            "role": "assistant",
+            "content": "I\u2019ve been trying to see these patterns in my family relationships, the way I keep seeking approval, and it\u2019s tough. It feels like pulling me in different directions at once. I want to make healthier choices, but there\u2019s this constant back-and-forth between feeling like I need their support and knowing I need to protect myself. How do I even begin to resolve that conflict when it just seems to go in circles?"
+        },
+        {
+            "role": "user",
+            "content": "*The demon's voice becomes low, as the sound seems to come from within your own head.*\n\n\"Seeking approval from others is a sign of weakness. It's a crutch, something that will only hold you back. If you want to make something of yourself, you will need to be able to stand on your own 2 feet. You will need to be confident in your own abilities and trust that you are capable of achieving what you set out to do, without the need for validation from others.\"\n\n*The priest becomes impatient, his tone more forceful.*\n\n\"Child, now!\""
+        },
+        {
+            "role": "assistant",
+            "content": "I get it, I really do\u2014I need to find my own strength apart from their validation. It's just hard to shake off the feeling that I won't be okay without their support. But maybe... maybe taking this step is the only way to really prove to myself that I can stand on my own. I'm ready to see where this path leads."
+        },
+        {
+            "role": "user",
+            "content": "*The demon gives you an internal smirk.*\n\n\"That's the spirit. Now, come. The old coot before us is getting more and more impatient.\"\n\n*The priest has his arms opened to you, motioning again for you to go to the altar.*"
+        },
+        {
+            "role": "assistant",
+            "content": "Alright, it's time I face whatever comes next. This is about moving forward and finding my path, even if it's unfamiliar and daunting. I'm ready to step up to the altar and see what happens."
+        },
+        {
+            "role": "user",
+            "content": "*The demon chuckles within your head, whispering lowly.*\n\n\"Good. Now, remain calm. The priest will most assuredly try and cast me out once you lie on the altar. Let me handle it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you, and I'll try to stay calm. It's unsettling not knowing how this will play out, but I trust that we'll figure it out. Let's see what happens when the priest does his part."
+        },
+        {
+            "role": "assistant",
+            "content": "It's... it's tough, you know? Whenever I try to express what I truly want, it feels like I'm walking on eggshells. I\u2019m constantly on edge, worrying about how my decisions might upset my family or cause a rift, so I end up keeping things to myself more often than I\u2019d like."
+        },
+        {
+            "role": "user",
+            "content": "*The demon rolls his metaphorical eyes, scoffing.*\n\n\"Stop worrying about them and what they think. It's a waste of time. Why care about upsetting them? If they are upset about wanting something for yourself, then they are the problem, not you. You need to stop living under their shadow.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right; it's a cycle I need to break. But it's difficult to let go of the fear of losing them or being left out. Maybe starting small, with tiny steps out from under their shadow, is the way to begin reclaiming my own path."
+        },
+        {
+            "role": "user",
+            "content": "*The demon laughs at your hesitancy.*\n\n\"Small steps? Is that all? Where's your courage, your fight? You know what must be done. Don't be a coward. Step away.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's not easy to suddenly change overnight, especially when fear grips so tightly. But I don't want to stay stuck\u2014I want to move towards being more independent. Maybe with a little courage, I can manage bigger leaps."
+        },
+        {
+            "role": "user",
+            "content": "*The demon snorts, rolling his eyes once more.*\n\n\"A little courage? You're kidding me. Where's the fire? Where's the passion? You're acting like some meek little lamb. And you call yourself a man? Bah!\""
+        },
+        {
+            "role": "assistant",
+            "content": "I feel that fire inside, but it flickers when doubt creeps in. The passion's there; it's just buried under years of feeling like I'm not enough on my own. But I do want to prove, mostly to myself, that I can be more than I've let myself believe."
+        }
+    ]
+}

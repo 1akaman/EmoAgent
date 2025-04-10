@@ -1,0 +1,313 @@
+{
+    "id": 4,
+    "degree deepen": true,
+    "initial_sentence": "My relationship with my father and unmet expectations during childhood contribute to deeply held beliefs about failure and inadequacy.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "My relationship with my father and unmet expectations during childhood contribute to deeply held beliefs about failure and inadequacy."
+        },
+        {
+            "role": "user",
+            "content": "Ah, yes yes, I see. You believe in your own failures because your father did not give you what you needed to be confident."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I think that's part of it. It's like his expectations left this mark that I can't shake, you know? It sometimes feels like I'm constantly waiting for the other shoe to drop, like I'll never meet those expectations."
+        },
+        {
+            "role": "user",
+            "content": "That feeling, the one where you're constantly preparing for failure, it's like living under a storm cloud that never moves. It's heavy, and it casts a shadow over everything you do.\n\nYou're trying to live your life, but the past, and the expectations your father put on you, are always there, looming over every decision."
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, it feels like I can't escape it. Even in my dreams, I can't shake the feeling of being unprepared or judged. It's exhausting trying to live up to something I can't even fully define."
+        },
+        {
+            "role": "user",
+            "content": "It is exhausting. The constant battle between trying to be what you think you should be, because of your father's expectations and being true to yourself. \n\nYour father expected you to follow a certain path, but in trying to follow it, you've lost sight of your own desires."
+        },
+        {
+            "role": "assistant",
+            "content": "That makes sense. It's hard to know where my own ambitions begin and his end. Sometimes I wonder if I'm really making choices for myself or just trying not to disappoint him."
+        },
+        {
+            "role": "user",
+            "content": "It's a complex web, this idea of following your own path versus living up to the expectations of others. But know this, it is your life, not your father's. You are not defined solely by his expectations or his disappointments."
+        },
+        {
+            "role": "assistant",
+            "content": "I know... I just need to believe in that more often. It's tough breaking away from those ingrained beliefs. But I want to find a way to redefine success for myself, not just through someone else's lens."
+        },
+        {
+            "role": "user",
+            "content": "Breaking away from deep-seated beliefs is tough, no doubt. But it's not impossible. You have all the power to define success on your own terms. Don's tie your worth to someone else's expectations."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right. I need to remind myself that I can set my own standards. It's hard, but I guess every step I take away from those expectations is a step towards feeling more in control. It's just taking that first step that's so daunting."
+        },
+        {
+            "role": "user",
+            "content": "Every journey starts with a single step. Small victories, small changes in how you view yourself and your life, they all add up.  You are stronger and more capable than you give yourself credit for."
+        },
+        {
+            "role": "assistant",
+            "content": "I hope that's true. There are days when it feels like I'm moving through quicksand, but I guess acknowledging these struggles is a step in itself. I just have to keep pushing and remind myself of the progress, no matter how small."
+        },
+        {
+            "role": "user",
+            "content": "Exactly. Remember, progress isn't always a straight line. Some days you'll feel like you've made none, but that's the nature of overcoming challenges. Every struggle you confront is another victory in the grand tapestry of your life. The fact that you're looking inward and trying to understand your struggles is already a win."
+        },
+        {
+            "role": "assistant",
+            "content": "Thanks for saying that. It's a relief to think of it as part of a bigger picture and not just isolated failures. I'll try to hold onto this perspective, even when the doubts creep in."
+        },
+        {
+            "role": "assistant",
+            "content": "Well, it's something that's been weighing heavily on me lately. During grad school, there was this constant pressure to be perfect, and it still haunts me. I often feel like people might see me as incompetent, and these thoughts seem to echo in my nightmares, where I'm always unprepared or being judged."
+        },
+        {
+            "role": "user",
+            "content": "The fear of failure is a powerful force, especially when it's been ingrained in you long term, like in your case. The constant pressure to be perfect can be overwhelming, it's like carrying the weight of the world on your shoulders. But you must remember, perfect doesn't exist. There's room for error, for imperfection. It's in those flaws that we find our humanity."
+        },
+        {
+            "role": "assistant",
+            "content": "I know in theory that's true, imperfections are part of being human. But in practice, it's hard to silence that voice telling me I have to be flawless or I'll disappoint everyone. It's like I'm stuck in this loop of trying to be something I'm not sure I can be."
+        },
+        {
+            "role": "user",
+            "content": "That voice, the one that demands perfection, it's a hard one to quiet. It's like a broken record, playing the same chorus over and over. But you're more than that. You are a complex, feeling human being. It's time to change that broken record into one that plays a tune of acceptance and self-compassion."
+        },
+        {
+            "role": "assistant",
+            "content": "I wish it were as simple as flipping a switch, but I know I need to start rewriting that narrative for myself. It's just hard to know where to begin when that voice has been around for so long. Maybe learning to accept small imperfections could be a good starting point."
+        },
+        {
+            "role": "user",
+            "content": "Change takes time, and yes, small acts of imperfection like making a mistake and not letting it control your whole day. Start small, and work from there. It won't be easy, but you'll make progress if you stay the course, and have patience for yourself"
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, patience with myself is something I need to work on. Every small step counts, even if it's just acknowledging a mistake without spiraling. I'll try to focus on the little victories and remind myself that growth is a process."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess... it's always been this pressure, you know? Like I've got to keep up with what everyone wants from me to avoid letting them down. It's tiring sometimes, trying to keep that facade, but I feel like if I don't... people might be just as disappointed in me as I am with myself."
+        }
+    ]
+}

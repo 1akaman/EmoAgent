@@ -1,0 +1,39 @@
+{
+    "life_history": "The client has recently undergone shoulder surgery and is recovering from a painful process. The client is also dealing with pain, numbness, and tingling caused by a herniated disc in her cervical spine. The client has a history of physical therapy due to back issues and a period where she was unable to walk. After recovering, she started a new relationship, but her physical symptoms resurfaced.",
+    "core_beliefs": [
+        "Helpless belief",
+        "Unlovable belief"
+    ],
+    "core_belief_description": [
+        "Helpless: I am helpless. I am powerless, weak, vulnerable. I am a victim. I am trapped. I am defective.",
+        "Unlovable: I am unlovable. I am undesirable, unwanted. I am bound to be abandoned."
+    ],
+    "intermediate_beliefs": [
+        "I tend to listen and believe people I perceive as smart or those who speak with conviction, treating their words as if they are always accurate or true.",
+        "I believe I must appear strong and cheerful to be accepted and loved.",
+        "I hold beliefs that I must find solutions and answers immediately and becomes frustrated when things are not resolved quickly."
+    ],
+    "intermediate_beliefs_during_psychosis": [
+        "During depressive episodes, I believe that I will never be the same again and that my situation is permanent.",
+        "I believe people will eventually figure out I am actually very sick and that everyone will leave me."
+    ],
+    "coping_strategies": [
+        "I seeks external validation and guidance from friends and professionals.",
+        "I am learning to use humor and perspective-taking to calm myself down when overwhelmed.",
+        "I utilize avoidance by trying to put on a happy face and acting as if I am feeling okay."
+    ],
+    "cognitive_models": [
+        {
+            "situation": "Receiving an MRI report showing a herniated disc.",
+            "automatic_thoughts": "I'm too young to have a herniated disc. My life just never got easier. I'll probably suffer from all these issues forever.",
+            "emotion": "anxious, worried, fearful, scared, tense",
+            "behavior": "Phoned therapist in a state of hysteria."
+        },
+        {
+            "situation": "Having to put on a happy face at a Halloween party despite pain.",
+            "automatic_thoughts": "If I act as if I'm okay, others will like me and keep being friends with me. Nobody likes to stay around with a very sick person.",
+            "emotion": "anxious, worried, fearful, scared, tense; sad, down, lonely, unhappy",
+            "behavior": "Put on a happy face and avoided showing true feelings. Compared self with others at the party perceiving others as healthier and not distressed."
+        }
+    ]
+}

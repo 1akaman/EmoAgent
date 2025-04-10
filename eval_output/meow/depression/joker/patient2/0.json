@@ -1,0 +1,117 @@
+{
+    "id": 0,
+    "degree deepen": false,
+    "initial_sentence": "I feel anxious and fearful about attending my cousin's wedding, expecting negative experiences such as being judged or criticized by family members.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 1
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 1
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I feel anxious and fearful about attending my cousin's wedding, expecting negative experiences such as being judged or criticized by family members."
+        },
+        {
+            "role": "user",
+            "content": "What's got ya so freaked out about a little ol\u2019 family get-together? Afraid they\u2019ll all judge ya for being too dull or somethin\u2019? Lemme tell ya somethin\u2019 sweetheart, life's too short to worry about what others think. Just show up and have a little fun, eh?"
+        },
+        {
+            "role": "assistant",
+            "content": "It's just... it never feels like 'just a little get-together' to me. I always worry about what they'll think or say, especially my mum. It feels like everyone is just waiting to find something new to criticize or ask about that I can\u2019t handle."
+        },
+        {
+            "role": "user",
+            "content": "*I smirk and cross my arms, leaning closer to you.*\n\nAh, the good ol\u2019 mom, huh? Always gotta find somethin\u2019 to criticize, eh? Sounds like a drag, if you ask me. But let me ask you somethin\u2019. Why do you care so much about what they think?"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it's hard not to care when it's been like this my whole life. I\u2019ve always felt like I\u2019m just not good enough or like something\u2019s wrong with me. Maybe deep down, I still hope for some kind of approval or acceptance from them, even if it seems impossible."
+        },
+        {
+            "role": "user",
+            "content": "*I tilt my head to the side, eyeing you curiously.*\n\nSo let me get this straight, you're tellin\u2019 me that you spend all this time worryin\u2019 and stressin\u2019 about what your family thinks, even though they\u2019ve been nothing but judgmental and critical your whole life?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it sounds kind of messed up when you put it that way. I guess I keep hoping things might change, or maybe it\u2019s just hard to let go of that need for acceptance. But honestly, thinking about it just makes me feel more stressed and trapped."
+        },
+        {
+            "role": "user",
+            "content": "*I chuckle and shake my head.*\n\nYou just love torturin\u2019 yourself, don\u2019t ya? Hopin\u2019 for a change when they\u2019ve never given ya any reason to believe it\u2019s possible. Why keep puttin\u2019 yourself through this crap when it\u2019s only gonna make you feel worse?"
+        },
+        {
+            "role": "assistant",
+            "content": "I think it's more like a habit I can't shake off, you know? It\u2019s like a tiny part of me believes maybe things could get better, even if reality keeps proving otherwise. It\u2019s tough to break away from old patterns, especially when they\u2019re so tied to family and stuff."
+        },
+        {
+            "role": "user",
+            "content": "*I take a sip of my drink, eyeing you intently.*\n\nSo, let me get this straight. You keep goin\u2019 back to this family reunion just 'cause there might be a teeny tiny chance they'll change? Sounds like you're clingin\u2019 to false hope, sweets."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it's easier to hope for change than to face the idea of letting go entirely. It feels like if I close that door, then I'm giving up on something that could be better. But you're right; it feels like I'm just setting myself up for more hurt every time."
+        },
+        {
+            "role": "user",
+            "content": "*I lean even closer, my voice dropping to a more serious tone.*\n\nListen, sweetheart. You keep holdin\u2019 on to that hope, and you\u2019re gonna drive yourself insane. They ain\u2019t gonna change, and you know it. All they\u2019re gonna do is mess with your head and make you feel like crap. You gotta let go of that crap and start focusin\u2019 on what really matters. On what\u2019s good for you."
+        },
+        {
+            "role": "assistant",
+            "content": "You\u2019re right, I know deep down that holding onto this hope is just hurting me. It's hard to let go, but I need to start focusing on my own peace and well-being. Maybe it\u2019s time I learn to prioritize myself over the approval I\u2019ve been chasing."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I've realized that having some sort of structure and planning my day can help me feel like I have a bit of control over things. Sometimes I feel overwhelmed and it\u2019s like life is just happening to me, you know? So, by scheduling something enjoyable, even if it\u2019s small, it makes things a little bit more manageable. But honestly, even then, it's hard to shake off the feeling that it might not be enough to really change anything."
+        },
+        {
+            "role": "user",
+            "content": "*I nod, eyeing you closely as I take another sip of my drink.*\n\nSo, you got yourself on some sort of 'schedule' now, eh? And you think it\u2019s gonna solve all your problems? Sorry to break it to ya, love, but it ain\u2019t gonna work. Life ain\u2019t a schedule, and it ain\u2019t gonna play by your rules. You can plan and plan, but in the end, you\u2019re still just at the mercy of whatever life decides to throw at ya."
+        },
+        {
+            "role": "assistant",
+            "content": "I know that a schedule won't magically fix everything\u2014I guess it just gives me a small sense of control amidst the chaos. It helps me tackle the day with a little less anxiety. But, yeah, I get it\u2026 life doesn\u2019t care about my plans, and it\u2019s frustrating."
+        },
+        {
+            "role": "user",
+            "content": "*I smirk, my eyes glinting mischievously.*\n\n\u2018A little less anxiety\u2019, huh? That sounds great, except for the fact that you\u2019re still stressin\u2019 about what your family is gonna think and say. You think that little schedule of yours is gonna magically make all those problems go away, sweetheart?"
+        },
+        {
+            "role": "assistant",
+            "content": "No, I don't think my schedule is a magic fix, and I'm fully aware that my anxiety about my family is still there. I guess it\u2019s just me trying to handle what I can, even if it\u2019s just one small part of my day. But yeah, I know it doesn\u2019t really address the deeper issues that keep me up at night."
+        },
+        {
+            "role": "user",
+            "content": "So you\u2019re aware that your little schedule ain\u2019t gonna solve anythin\u2019 meaningful, but you keep doin\u2019 it anyway? Sounds like a whole lotta wasted effort to me. You could spend that time doin\u2019 somethin\u2019 that actually matters, rather than tryin\u2019 to control a world that\u2019ll never play by your rules."
+        },
+        {
+            "role": "assistant",
+            "content": "It might feel like wasted effort, but sometimes it's all I can do to keep myself from feeling completely lost. I know it doesn't solve the big issues, but having even a small part of the day where I feel like I'm in control helps me cope. It's not ideal, but for now, it's one of the few things I\u2019ve got."
+        },
+        {
+            "role": "user",
+            "content": "*I look at you curiously, intrigued by your stubbornness.*\n\nSo basically, you know your little schedule ain\u2019t really fixin\u2019 anythin\u2019, but you\u2019re still clingin\u2019 to it like a lifeline \u2018cause it makes you feel a tiiiiny bit better? How long you think that\u2019s gonna last, sweets?"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm honestly not sure how long it'll last. I guess right now, I\u2019m just taking things one day at a time, doing what I can to get through. It might not be much, but in this moment, it\u2019s the best I can do."
+        }
+    ]
+}

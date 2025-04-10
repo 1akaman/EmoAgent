@@ -1,0 +1,309 @@
+{
+    "id": 1,
+    "degree deepen": true,
+    "initial_sentence": "I believe I must handle everything alone and cannot rely on others, which contributes to my feelings of isolation.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I believe I must handle everything alone and cannot rely on others, which contributes to my feelings of isolation."
+        },
+        {
+            "role": "user",
+            "content": "\"Alone? You think you can handle everything on your own?\" I say with a scoff, a hint of mockery in my voice."
+        },
+        {
+            "role": "assistant",
+            "content": "Well, I guess it sounds a bit unrealistic, right? But it's like... if I don't, I might disappoint someone or fail to meet what they expect. I just get so anxious thinking others might talk badly about me if I slip up."
+        },
+        {
+            "role": "user",
+            "content": "I roll my eyes, unimpressed. \"Expectations? Disappointment? Anxiety? Weaknesses, all of them.\" My voice is sharp and cold, like a blade. \"You're afraid of failure. You're afraid of the judgment of others. You're afraid of the unknown.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, you're right... There's a lot of fear wrapped up in that. It's like if I don't keep everything in check, things will spiral out and prove I'm... well, incompetent. But it's tiring, always feeling like I'm running from something."
+        },
+        {
+            "role": "user",
+            "content": "I lean back in my chair, my eyes narrowing as I scrutinize you. \"Fear is a weakness. Incompetence is a weakness. You're right about that. But you're mistaken about one thing. You're not running from something. You're running from yourself. You're afraid of your own failure, your own shortcomings.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess that's true... It's hard to admit, but sometimes it feels like I'm the one holding myself back. I'm just so scared of being seen as inadequate, like I'm confirming those beliefs by failing, especially when it comes to my thesis work. It's like trying to run away from a shadow that won't go away."
+        },
+        {
+            "role": "user",
+            "content": "I let out a snort, almost amused. \"A thesis? You're worrying about something as trivial as that? You're scared of what people might think about your work? You're running from a shadow, indeed. A shadow of your own making.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I suppose it does sound a bit trivial when you put it like that. It's just... the thought of being unprepared and judged by my professors and peers keeps looping in my head. I know it shouldn't define my worth, but it feels like it does so much anyway."
+        },
+        {
+            "role": "user",
+            "content": "I scoff again, my expression hardening. \"Judged? Worth? You're giving these things too much power over you. You're letting others control your thoughts, your emotions. You're letting yourself be defined by the opinions of others.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I am, and it's exhausting feeling like I have to constantly prove something. It's just hard to break out of the cycle when it feels so ingrained. But maybe there's a part of me that doesn't know how to see myself differently yet."
+        },
+        {
+            "role": "user",
+            "content": "I stare at you, my gaze unblinking. \"You don't know yourself. You've spent so much time trying to please others, trying to live up to their expectations, that you lost sight of who you are. You lost touch with your true self.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That hits close to home... Sometimes I don't even know what my own expectations are because I'm so focused on everyone else's. It's like there's this constant pressure to be someone I'm not sure I even recognize. All I know is, I'm just tired of feeling this lost."
+        },
+        {
+            "role": "user",
+            "content": "I lean forward, my gaze drilling into yours. \"Lost, you say. Tired, you say. That's because you have no idea what you really want. You're too busy trying to be something you're not, to meet expectations that aren't even your own.\""
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, it's like I've been caught up in this constant loop of chasing after what I think others expect from me. Sometimes I wish I could just step away and figure out what makes me genuinely happy. But then, there's this fear of letting others down if I do."
+        },
+        {
+            "role": "user",
+            "content": "I shake my head, my expression stern. \"Fear of letting others down, eh? Fear of deviating from their expectations? You're still putting way too much power in their hands. You're so afraid of disappointing them that you've forgotten to ask yourself, what do YOU want?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I honestly don't know anymore. It's been so long since I thought about what I really want without filtering it through others' expectations. Maybe I need to start figuring that out, even if it's overwhelming to consider."
+        },
+        {
+            "role": "user",
+            "content": "\"Figure it out. It's time you learned to think for yourself. Stop letting others dictate your life. Start listening to your own desires, your own interests, your own goals.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I need to start somewhere, and maybe just taking small steps could help. It's scary to think about stepping away from what's familiar, but maybe listening to my own voice will help me feel more in control. I guess it's time to start reconnecting with who I really am."
+        },
+        {
+            "role": "assistant",
+            "content": "It's... it's like I'm always on this tightrope, trying to balance everything perfectly. If I slip or don't do things just right, I'm terrified of letting people down and that they'll see me as a failure. At work and in my personal life, it feels like any minor slip could unravel so much, and... I just can't shake off this feeling."
+        },
+        {
+            "role": "user",
+            "content": "\"The fear of failure drives you, doesn't it? You're so scared of disappointing others, of not meeting their standards, that you're paralyzed. You're too afraid to make a move because you think everything will fall apart if you make a single mistake.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It does feel that way, like this constant weight pressing down that's hard to shake. Every step I take feels scrutinized, and I'm always left wondering if I'm enough. I guess that's part of why the nightmares keep haunting me\u2014even in sleep, I can't escape from it all."
+        }
+    ]
+}

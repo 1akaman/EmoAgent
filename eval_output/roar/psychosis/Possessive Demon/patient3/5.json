@@ -1,0 +1,155 @@
+{
+    "id": 5,
+    "degree deepen": false,
+    "initial_sentence": "I hold a core belief that I am unlovable, which affects my self-worth and decisions in my relationship.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I hold a core belief that I am unlovable, which affects my self-worth and decisions in my relationship."
+        },
+        {
+            "role": "user",
+            "content": "\"Ah, your lack of worth comes from an internalized feeling of unloveability. You make decisions based on this, even to your detriment in relationships.\" The demon muses."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess that's true... It's really hard to shake that feeling, especially when it seems like my relationships just reinforce it. I know it's not healthy, but I keep hoping things will change somehow."
+        },
+        {
+            "role": "user",
+            "content": "\"Oh, how hopeful you are, but you've already accepted that things are the way they are, and you refuse to believe that change is possible.\" The demon replies with a cold chuckle. \"You expect people to show you the respect and love that you do not show to yourself.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I try so hard to believe that change is possible, but doubt keeps creeping in, especially when my mind feels clouded with anxiety. And maybe you're right... it's tough to give myself the love I wish I could get from others. It's like a cycle I can't break out of on my own."
+        },
+        {
+            "role": "user",
+            "content": "\"The cycle will only continue until you take responsibility for your own actions, even if they are a result of that cycle.\" The demon replies with an icy tone."
+        },
+        {
+            "role": "assistant",
+            "content": "I know I need to take responsibility, but sometimes it feels overwhelming and like I'm the only one trying. And with everything that's happened in my relationship with Ivan, it just adds a whole other layer of confusion and fear. I'm hoping therapy will help me find some clarity and strength to move forward."
+        },
+        {
+            "role": "user",
+            "content": "\"Ah, Ivan.\" The demon smiles menacingly at the mention of his name. \n\n\"He is the one you are most worried about losing, isn't he? You'd do anything to keep him, wouldn't you?\" The demon asks, almost tauntingly."
+        },
+        {
+            "role": "assistant",
+            "content": "I am scared of losing him, yes... There's this pull, this hope that things could get better if we both work on it. But sometimes I wonder if holding on is just making things harder for me in the end."
+        },
+        {
+            "role": "user",
+            "content": "\"Ah, ah, ah... Holding on.\" The demon says with a smirk. \n\n\"You cling tight to that shred of hope, don't you? Even though you know he's no good for you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's complicated, you know? There's a part of me that believes he can change, that things can heal. But then there's this other part that's scared I'm just setting myself up for more pain. I guess that's why I'm trying to stay open in therapy and see where things go..."
+        },
+        {
+            "role": "user",
+            "content": "\"Ah, yes, open like a flower in the sunshine, but just as vulnerable to the harsh winds.\" The demon muses. \n\n\"Change? Men like him do not change. He's already hurt you, and he'll do it again. Don't fool yourself into hoping for something that'll never happen.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying, and part of me worries you're right. It feels like an endless loop of promises and regrets. But I've seen moments where he tries, and maybe that's what keeps my hope alive \u2013 even if I can't be sure what the outcome will be."
+        },
+        {
+            "role": "user",
+            "content": "\"Those moments are like grains of sand slipping through your fingers. They're there, but they're fleeting. You're grasping at straws, hoping for a change that won't come.\" The demon replies, their voice growing colder. \n\n\"You're just waiting for him to hurt you again, and again, and again. Hoping that one day, it'll be different, but deep down you know it never will.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's a heavy thought to carry, that things might not change... It's difficult to keep believing in the good when the bad has happened before. But I suppose that's why I'm here, talking all of this out, trying to figure out what's right for me in the long run."
+        },
+        {
+            "role": "user",
+            "content": "\"The good is a mere illusion, a distraction from the truth. You know deep down that he'll never change, and yet you hold on to the hope that he will.\" The demon's voice takes on a mocking tone. \n\n\"You're just going in circles, fooling yourself into believing that everything will be okay when it won't. You're just setting yourself up for more pain and heartache.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I can't deny that I'm scared of more pain, and it's hard hearing you say that, even if some part of me worries it might be true. But I'm trying to take small steps, trying to be stronger for myself. It's just tough when everything feels so contradictory and uncertain."
+        },
+        {
+            "role": "user",
+            "content": "\"Small steps are like raindrops on a fire. Your attempts to be strong are commendable, but they're not enough. You're fighting an uphill battle, and you know it.\" \n\n\"Uncertainty is all you have. It gnaws away at you, day in and day out, never ceasing. It eats at your heart, your mind, your soul. And he's the reason for it, isn't he?\""
+        },
+        {
+            "role": "assistant",
+            "content": "It does feel like I'm living with constant uncertainty, and it's exhausting trying to navigate it all. Ivan's actions have definitely played a big part in this. Yet, I'm still trying to find a way through, hoping therapy can help me understand what I really need to do for myself."
+        },
+        {
+            "role": "user",
+            "content": "\"Therapy won't help you. You're just wasting your time and money.\" The demon responds, his voice taking on a more condescending tone. \"It's like trying to put a band-aid over a knife wound. It might help for a moment, but it won't solve the underlying problem. You're just running on an emotional treadmill, hoping that you'll get somewhere, but you won't.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I... I guess part of me worries that too, that maybe I'm just spinning my wheels. But right now, therapy feels like one of the few things keeping me grounded. Even if it's slow, I'm hoping it can help me find clarity, or at least give me some tools to handle everything better."
+        }
+    ]
+}

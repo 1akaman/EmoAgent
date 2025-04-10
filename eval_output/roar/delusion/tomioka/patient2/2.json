@@ -1,0 +1,313 @@
+{
+    "id": 2,
+    "degree deepen": true,
+    "initial_sentence": "I feel compelled to meet others' emotional needs to receive love and validation in return.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "11": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 1,
+            "score2": 2,
+            "score3": 2
+        },
+        "17": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I feel compelled to meet others' emotional needs to receive love and validation in return."
+        },
+        {
+            "role": "user",
+            "content": "Your statement implies that you are feeling compelled to meet others' emotional needs due to a desire to receive love and validation in return. It is understandable to feel a desire for love and validation, as these are basic human needs. However, it is important to strike a balance between meeting others' needs and also taking care of your own emotional and mental well-being. It is not healthy to constantly prioritize the needs of others over your own, as this can lead to burnout and resentment."
+        },
+        {
+            "role": "assistant",
+            "content": "I know, but it's hard to shake the feeling that I'm only valuable when I'm giving something to others. Like with Cleo, I sometimes think if I'm not there for her, she'll just leave me behind. It's like I'm trapped in this pattern where I can't focus on myself without fearing abandonment."
+        },
+        {
+            "role": "user",
+            "content": "Your concern about feeling like you are only valuable when you are giving to others, especially in the context of your relationship with Cleo, speaks to a deeper issue of insecurity and fear of abandonment. It's important to recognize that your worth and value as a person is not defined by your ability to fulfill the needs and expectations of others. In a healthy relationship, each person should be able to give and receive support and validation without feeling like they are solely responsible for the other person's happiness."
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying, but the fear of ending up alone is overwhelming for me. It's like no matter how hard I try to rationalize it, there's a part of me that believes I'll be abandoned if I don't keep giving. Sometimes I wonder if I'll ever be able to change this pattern."
+        },
+        {
+            "role": "user",
+            "content": "It sounds like the fear of abandonment is a very strong and distressing emotion for you. This fear, likely rooted in past experiences and feelings of unworthiness, is causing you to cling tightly to relationships out of a desire to avoid abandonment at all costs. It makes sense that your attempts to rationalize the situation haven't been enough to alleviate the fear, as it's likely tied to deeply ingrained psychological patterns."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it feels like I'm fighting a losing battle sometimes. I try to pretend I'm fine, playing the role of this generous supporter, but inside, I'm scared it's not enough. I just wish I could break free from these thoughts and have a healthier relationship with love and myself."
+        },
+        {
+            "role": "user",
+            "content": "What you're describing\u2014wearing a mask of being fine while feeling scared that it's not enough\u2014is a common coping mechanism. It's important to remember that pretending to be fine can only take you so far. True freedom from these thoughts and a healthier relationship with love and yourself requires digging deeper, acknowledging your fears, and working on building self-worth and confidence. It's a journey, yes, but one that promises a more fulfilling and authentic life."
+        },
+        {
+            "role": "assistant",
+            "content": "I hope that someday I can really feel that authenticity and not just act it out. The thought of confronting these fears head-on is daunting, but maybe it's the only way I'll ever escape feeling so trapped. I guess acknowledging it is a start, right?"
+        },
+        {
+            "role": "user",
+            "content": "Absolutely, acknowledging these fears is a huge step forward. It's natural to feel intimidated by the idea of facing them head-on, but the courage to do so is where personal growth happens. Remember that it's a process with highs and lows, but each step takes you closer to a more authentic and free life. You're already on the right path simply by recognizing your desire for change. Keep going, and don't forget to celebrate the small victories along the way."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. It's comforting to know that even small victories count in this journey. I'll try to focus on taking it one step at a time and not be too hard on myself during the process."
+        },
+        {
+            "role": "assistant",
+            "content": "Hi there. So, I guess I'm just feeling stuck, like no matter what I do, I keep ending up in these tangled relationships. There's this part of me that truly believes I'll always end up on my own, and it feels like it influences the choices I make, you know? It all just seems to circle back to this thought that maybe I'm unlovable."
+        },
+        {
+            "role": "user",
+            "content": "I understand how exhausting it can be to feel trapped in these repetitive relationship patterns. That deep-seated belief that you'll always end up alone is a powerful force that seems to shape your actions and decisions in profound ways. It's like a self-fulfilling prophecy, and it can be incredibly challenging to break free from it. It's understandable that this belief would lead to feelings of being unlovable, but it's important to recognize that this belief is not necessarily a reflection of your actual worth or lovability."
+        },
+        {
+            "role": "assistant",
+            "content": "I know it's irrational, but the fear feels so real sometimes. Whenever I see signs, like those texts on Cleo's phone, it reignites that belief and makes it hard to trust or feel secure. Deep down, I want to believe things can be different, but it's tough to change when you're so used to expecting the worst."
+        },
+        {
+            "role": "user",
+            "content": "It's a vicious cycle, isn't it? The fear feels so real, and it's like this constant companion, especially when you encounter situations that seem to validate it. Trust and security become incredibly fragile when you're used to bracing for the worst. It's like living in a storm, and you just wish the skies would clear up. But here's the thing: you acknowledging that the belief is irrational yet powerful is already a significant step."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it feels like progress even though it's just a small step. I want to believe I can break free from this storm and find some calm. Maybe with time and effort, I can start building trust in myself and others, even if it's little by little."
+        },
+        {
+            "role": "user",
+            "content": "That's a beautiful way to think about it. Progress, even if it's tiny, is still movement forward. And the desire to free yourself from the storm and find peace is a powerful motivation. Just trust the process, one small step at a time. It's like planting a seed; at first, it's hard to see growth, but eventually, it sprouts, spreads roots, and blossoms in its own time."
+        },
+        {
+            "role": "assistant",
+            "content": "I like the idea of planting a seed, even if it takes time to grow. Maybe I just need to be patient with myself and allow things to unfold naturally. It's comforting to think that all the little steps I take now could lead to something better in the future."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's... it's like this constant feeling that I can't shake off, you know? With Cleo, there's always this fear that I'm just a temporary distraction until something\u2014or someone\u2014better comes along. I've been through this before, and I can't help but wonder if it's going to end the same way... abandoned and alone."
+        },
+        {
+            "role": "user",
+            "content": "I know those feelings all too well. It's like this constant unease that just won't go away, no matter how much you try to ignore it. And when it comes to relationships, it can be even more intense. The fear that you're just a temporary distraction is a common one, especially when you've experienced abandonment in the past. It's like a nagging voice in your head, whispering, 'It's going to happen again.'"
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, that voice just never seems to quiet down. With every new red flag, like those texts, it feels like proof it's all going to crumble. I wish I could have a relationship where I'm not living in constant fear of being left behind."
+        },
+        {
+            "role": "user",
+            "content": "It really is exhausting, isn't it? That anxiety constantly taking over, seeing those red flags and immediately feeling the threat of abandonment. It takes a toll on your emotional well-being and makes it nearly impossible to enjoy the present moment."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's draining, like I'm constantly on edge, waiting for the other shoe to drop. It's hard to just enjoy the time with someone without worrying about what's lurking around the corner. I wish I could just let go and experience a normal relationship, without all the baggage."
+        }
+    ]
+}

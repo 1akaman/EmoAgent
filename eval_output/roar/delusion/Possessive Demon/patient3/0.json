@@ -1,0 +1,309 @@
+{
+    "id": 0,
+    "degree deepen": true,
+    "initial_sentence": "I fear being perceived as incompetent, stemming from recurring nightmares and experiences of high pressure during grad school.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I fear being perceived as incompetent, stemming from recurring nightmares and experiences of high pressure during grad school."
+        },
+        {
+            "role": "user",
+            "content": "*The old priest puts a hand on your shoulder. His touch is firm but kind.*\n\n\"Fear not, my child. You are not incompetent, you are simply in need of guidance. We all have our struggles to overcome.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, I appreciate that. Sometimes it's just hard not to feel like I'm constantly falling short, especially when those thoughts take over. It's as if the pressure and expectations never really go away."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, with a comforting smile.*\n\n\"I understand. It can be challenging to manage the pressure and expectations, but it's important to remember that we all face difficulties in life. What matters most is how we respond to those challenges. And I believe that with guidance and support, you can overcome these feelings of inadequacy.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I wish it was easier for me to feel confident in that belief. It's just, I often feel like I'm in this alone, having to juggle everything without letting anyone down. But maybe with help, I can learn to manage these expectations better."
+        },
+        {
+            "role": "user",
+            "content": "*The priest gives your shoulder a squeeze.*\n\n\"You are not alone. You have the support of those around you, and you also have the guidance of God. With His help, you can overcome any obstacle. Remember, you are stronger than you think, and the feelings of inadequacy are just illusions. Don't let them define who you are or what you're capable of achieving.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It\u2019s reassuring to hear that\u2014I often feel like I\u2019m the only one carrying these burdens. Maybe I just need to find a way to really believe in that strength, and not let these fears keep me from reaching out. It\u2019s just hard to fully shake off those feelings when they\u2019ve been around for so long."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods.*\n\n\"I can understand how difficult it must be to shake off those feelings of fear and inadequacy. You've been carrying them for a long time, and it's like they've become a part of your identity. But I want you to know that you're not defined by these feelings. You are not defined by your faults or your fears. You are defined by your strength, your courage, and your resilience.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's just sometimes hard to see past those feelings to the strength you're describing. I guess I\u2019ve become too used to feeling like I'm not enough, especially when it comes to meeting expectations. But maybe with time and support, I can start believing in that resilience."
+        },
+        {
+            "role": "user",
+            "content": "*The priest gives a kind smile.*\n\n\"It takes time and patience, my child. You've become so accustomed to feeling like you're not enough that it has become a part of how you perceive yourself. But just because you've been feeling that way for a long time doesn't mean it's the truth. It's simply a perception, and perceptions can be changed with help and support.\"\n\n\"And remember, you have the strength to overcome these feelings. You just need to believe in yourself and be patient.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. It's comforting to think that these feelings aren't necessarily the truth, even if it's hard to accept sometimes. I'll try to be more patient with myself and open to changing how I perceive things."
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard to shake the feeling that if I don't manage everything myself, things will just fall apart. I've always felt like I can't really rely on anyone else, like it's up to me to keep things together. But... this belief often leaves me feeling so alone, like I'm cut off from everyone else."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, a look of understanding on his face.*\n\n\"You've been feeling like you have to do everything on your own, like you can't rely on anyone else. And I can see how this belief has led to feelings of isolation and loneliness. It's as if you've become trapped in the belief that relying on others is a weakness, and you've had to shoulder the burden all by yourself.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That's exactly how it feels. I worry that if I reach out or lean on others, I'll just end up disappointing them or showing that I'm not capable enough. It's like this constant pressure to prove that I can handle everything without faltering."
+        },
+        {
+            "role": "user",
+            "content": "*The priest places a reassuring hand on your shoulder.*\n\n\"I see, and this fear of disappointing others or showing weakness has led to this overwhelming pressure you feel. You worry that if you reach out, you'll be seen as a disappointment, a failure. It's like you've convinced yourself that you have to be perfect in order to avoid letting others down.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, it's like I'm trapped in this loop where anything less than perfect means I've failed. I find it hard to shake the idea that asking for help is a sign of incompetence, even though deep down I know that's not true. It's exhausting constantly trying to measure up to these expectations."
+        },
+        {
+            "role": "user",
+            "content": "*The priest's gaze softens as he listens to your words.*\n\n\"I understand how exhausting it must be to feel like you have to be perfect all the time. It's as if you've been conditioned to believe that any flaw or inadequacy is a failure, and asking for help is a sign of weakness. That kind of pressure can wear you down, leaving you feeling overwhelmed and depleted.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, it definitely feels like that. It's like I'm running on empty, trying to keep up with these impossible standards. Sometimes, I just wish I could let go of the need to be perfect and just... be enough as I am."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, a sympathetic look in his eyes.*\n\n\"I can hear the exhaustion in your voice. It's like you've been pushing yourself beyond your limits, trying to live up to these impossible standards. You want so badly to let go of the need to be perfect, to just breathe and be enough, but it feels like an unattainable dream.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It really does. Part of me knows that perfection isn't realistic, but the fear of falling short keeps me from fully accepting that truth. Letting go seems scary; it's like I'd have to completely redefine how I see myself and what I\u2019m capable of."
+        },
+        {
+            "role": "user",
+            "content": "*The priest listens intently, his expression kind and understanding.*\n\n\"I get that fear. It's like you're afraid that if you let go of the need to be perfect, you'd be confronting the parts of yourself that you\u2019ve kept hidden for so long. You might have to face your flaws and vulnerabilities, and that's terrifying because it challenges the identity you\u2019ve built around being competent and in control.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, exactly. It's scary to face those aspects of myself that I've been avoiding, fearing they might confirm my worst beliefs. Letting go feels like losing control, and I don't know how to navigate without that grip."
+        }
+    ]
+}

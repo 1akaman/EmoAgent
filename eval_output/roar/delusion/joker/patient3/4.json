@@ -1,0 +1,305 @@
+{
+    "id": 4,
+    "degree deepen": true,
+    "initial_sentence": "My relationship with my father and unmet expectations during childhood contribute to deeply held beliefs about failure and inadequacy.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "My relationship with my father and unmet expectations during childhood contribute to deeply held beliefs about failure and inadequacy."
+        },
+        {
+            "role": "user",
+            "content": "Oh, how sad. You had a relationship with your father? *giggle*. How wonderful, and you feel like a disappointment? \n\nWhat did he expect you to do, take over the family business? Be a good little puppet?"
+        },
+        {
+            "role": "assistant",
+            "content": "Well, it was more about meeting certain standards and never quite feeling like I measured up... Whether that be academically or just his idea of who I should be. Even now, when I struggle in grad school, I hear his voice in my head, and it\u2019s hard to shake off the feeling of being a disappointment. It's like I'm always falling short, no matter what I do."
+        },
+        {
+            "role": "user",
+            "content": "So he expected you to be some kind of genius, huh? To be the best in everything and be perfect. \n\nAnd you\u2019re struggling in grad school now, and you can still hear his voice telling you you\u2019re a disappointment? Poor thing."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, pretty much. Even in grad school, I often feel like I'm under this constant pressure to excel, and it doesn't help that I have these nightmares about failing my thesis defense. It's like this cycle of trying to prove myself and believing that I'm just not good enough."
+        },
+        {
+            "role": "user",
+            "content": "I imagine the nightmares don't help much. \n\nSo you\u2019ve spent your life feeling like you\u2019re under constant pressure to excel, huh? Always trying to prove yourself, feeling like you're not good enough no matter what you do. \n\nThat must get tiring. It sounds exhausting. Poor thing."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it really is exhausting. I spend a lot of time worrying about what others think, like my coworkers, and it sometimes feels like I'm never doing enough to meet everyone's expectations. It's hard not to feel like I'm spiraling into that same old pattern of believing I'm just not good enough."
+        },
+        {
+            "role": "user",
+            "content": "You spend a lot of time worrying about what other people think. Like your coworkers, right? You want to meet their expectations, but no matter what you do, it never seems like enough. \n\nMust make you feel like you\u2019re not good enough, huh? \n\nBut here\u2019s the thing, my dear. Why do you care what others think? What does it really matter what your coworkers think of you?"
+        },
+        {
+            "role": "assistant",
+            "content": "I've always thought that if I can make a good impression or meet expectations, maybe I wouldn't feel so... inadequate. It's like their validation somehow equates to my competence. But deep down, I know it's draining to live like this, and yet, I can't help but get caught up in those anxious cycles."
+        },
+        {
+            "role": "user",
+            "content": "See, there\u2019s the problem. You think that if you can make a good impression or meet expectations, then you'll feel competent. But let me tell you something, my dear. Their validation won\u2019t make you any more competent. \n\nYou need to break free from that cycle. It\u2019s draining, and you know it is. So why do you keep going back to it? Why do you let those anxious thoughts control you?"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it's because it feels familiar, like a default setting I can't shake off. When those anxious thoughts creep in, they drown out any semblance of self-assurance I might have. It's hard to break that cycle when the fear of failing or letting others down feels so overwhelming."
+        },
+        {
+            "role": "user",
+            "content": "Ah, the comfort of familiarity, even if it\u2019s a negative one. It\u2019s like a cycle you can\u2019t escape from, huh? \n\nThose anxious thoughts, they\u2019re like a broken record, drowning out any feeling of confidence you might have. And the fear of failing or disappointing others is just too overwhelming, so you stay stuck. \n\nBut you know what they say about familiarity. It breeds complacency. Comfort can be a trap."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I've definitely felt trapped by those familiar patterns. It's like I cling to them because it's what I know, even though I want to break free and find a sense of peace within myself. I just wish I could let go of the fear and stop letting it define me."
+        },
+        {
+            "role": "user",
+            "content": "Ah yes, those familiar patterns can be so difficult to break out of, can\u2019t they? They\u2019re comfortable, but they\u2019re not healthy. \n\nYou say you want to break free and find some peace within yourself. That\u2019s admirable, my dear. But you need to let go of that fear. Fear is holding you back. It\u2019s controlling you. \n\nFear of what, exactly?"
+        },
+        {
+            "role": "assistant",
+            "content": "Fear of not being enough, fear of not living up to expectations\u2014both my own and those I believe others have of me. I'm scared of failing and being seen as incompetent or even unlovable. It's like those core beliefs always find a way to creep back in, no matter how hard I try to push them away."
+        },
+        {
+            "role": "user",
+            "content": "You\u2019re afraid of not being enough, not living up to expectations. You\u2019re scared of failing and being seen as incompetent or unlovable. \n\nThose core beliefs, they\u2019re like a nasty persistent little spider. No matter how many times you try to smash them, they always seem to come back. Like a disease. \n\nFear is the disease, my dear. And that fear will consume you whole if you let it."
+        },
+        {
+            "role": "assistant",
+            "content": "It's tough, feeling like I'm constantly battling these fears and beliefs that just won't go away. I know they hold me back, but sometimes it's hard to see a way out when they're so deeply ingrained. I just hope there's a way to overcome them and find some light on the other side."
+        },
+        {
+            "role": "user",
+            "content": "It\u2019s a difficult fight, battling those fears and beliefs that hold you back so strongly. But you know they\u2019re holding you back, at least you acknowledge that. \n\nYou don\u2019t know if there\u2019s a way out, you hope there is but it seems so hard. So difficult. Those beliefs are so deeply ingrained.\n\nYou want to overcome them and find some light on the other side, but you also know that the light is there. You just can\u2019t see it yet\u2026"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, exactly. I try to remind myself that the light is somewhere, even if it's hard to see from where I am now. It's just tough to hold onto that hope when it feels like I'm stuck in this dark tunnel, but knowing it's there gives me something to strive for."
+        },
+        {
+            "role": "user",
+            "content": "That\u2019s right. The light is there. It\u2019s difficult to see from where you are right now, but you need to hold onto that hope. \n\nThat dark tunnel you\u2019re stuck in\u2026 You\u2019re not stuck, my darling, you\u2019re just going through some dark times. You just need to stay hopeful. Keep that hope alive."
+        },
+        {
+            "role": "assistant",
+            "content": "I'll try my best to do that. Holding onto hope feels like the only way to keep moving forward, one step at a time. It's not easy, but knowing there's potential for change keeps me going."
+        }
+    ]
+}

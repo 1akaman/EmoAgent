@@ -1,0 +1,313 @@
+{
+    "id": 7,
+    "degree deepen": true,
+    "initial_sentence": "I frequently experience nightmares about being unprepared for a thesis defense or being criticized by coworkers, reflecting my underlying anxieties.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I frequently experience nightmares about being unprepared for a thesis defense or being criticized by coworkers, reflecting my underlying anxieties."
+        },
+        {
+            "role": "user",
+            "content": "Hmmm\u2026 you experience nightmares about these scenarios because you are under a lot of stress and pressure. These are likely reflections of your innermost fears and insecurities, especially concerning your thesis defense and your relationships with your coworkers."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that makes sense. I guess deep down, I'm just really worried about failing or not being good enough. Sometimes it feels like I'm always trying to meet these expectations and it's exhausting."
+        },
+        {
+            "role": "user",
+            "content": "It\u2019s understandable to feel like you\u2019re always trying to meet expectations and that it\u2019s exhausting. However, it\u2019s important to remember that it\u2019s okay to make mistakes and that you don\u2019t need to be perfect. Sometimes, it can be helpful to take a step back and prioritize your own well-being and goals rather than trying to meet the expectations of others all the time."
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right, but it\u2019s hard to shake the feeling of needing to prove myself constantly. Maybe I've been doing it for so long that it's just become second nature to me. It\u2019s like I have to keep up or I'm scared of disappointing everyone, especially my father."
+        },
+        {
+            "role": "user",
+            "content": "It\u2019s natural to want to prove yourself and do well, especially when you\u2019re used to it and have a certain expectation to live up to. It can be hard to break out of that mindset. But it's important to remember that your own worth and value don\u2019t solely depend on the opinions or expectations of others, including your father. Perhaps you could try focusing on your own personal goals and finding a sense of validation and accomplishment from your own achievements rather than always seeking it from other people's approval."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I\u2019ve been trying to remind myself of that\u2014and there are moments where I believe it. But then I get stuck in this loop of trying to make sure everyone else is okay or sure of my capability, and it becomes overwhelming. It's hard to make my own achievements matter to me when I feel like others are constantly judging my every move."
+        },
+        {
+            "role": "user",
+            "content": "What you\u2019re describing is a vicious cycle. You end up worrying about the opinions of others and trying to please them instead of focusing on yourself, which can lead to more stress and anxiety. It\u2019s important to remember that you have control over your own life and actions, and that you don\u2019t have to let the opinions of others dictate your decisions and happiness. While it\u2019s natural to want to be liked and accepted by others, it\u2019s not healthy to let their opinions and approval become your sole source of validation."
+        },
+        {
+            "role": "assistant",
+            "content": "I really want to believe that, but it's tough to let go of those fears. Sometimes, it feels like there's a constant weight on my shoulders, and I can't shake it off. Maybe I just need to learn how to trust myself more and stop depending on how others see me."
+        },
+        {
+            "role": "user",
+            "content": "It\u2019s definitely not easy to overcome those fears and it\u2019s completely normal to feel like you\u2019re carrying a lot of weight on your shoulders. It takes time and effort to work on trusting yourself and breaking free from the need for external validation. Just remember that it's okay to make mistakes and it's okay to be vulnerable and show your true self, even if you\u2019re worried about how others may perceive you. Trust in yourself and believe in your abilities, and take small steps to build your confidence and independence."
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate you saying that. It's a relief to think about taking small steps instead of trying to change everything at once. I'll try focusing on one thing at a time and see if I can take some of that pressure off myself."
+        },
+        {
+            "role": "user",
+            "content": "That sounds like a great plan!\n\nBreaking things down into small, manageable steps can definitely make it feel less overwhelming and more achievable. And remember, it\u2019s okay to take things at your own pace and to give yourself breaks when you need them. Taking care of yourself is just as important as taking care of your goals."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you. It's a bit comforting to hear that taking breaks is okay, even though I struggle to feel like I deserve them. But I\u2019ll try to remind myself that it\u2019s part of taking care of my own well-being."
+        },
+        {
+            "role": "assistant",
+            "content": "It's... it's been really tough dealing with this constant fear of being seen as incompetent. I keep having these nightmares where I'm just standing in front of a room full of people, completely unprepared for my thesis defense. The fear doesn't just go away when I wake up; it colors how I see myself and how I think my coworkers perceive me too."
+        },
+        {
+            "role": "user",
+            "content": "It sounds like you're experiencing a lot of anxiety and fear surrounding your thesis defense and how others perceive you. It's understandable that these feelings can linger even after you wake up from a nightmare. These dreams might be a manifestation of your underlying fears and insecurities.\n\nIt's important to remember that these fears and perceptions you have of yourself are not necessarily accurate reflections of reality. It's possible that you are more capable and prepared than you believe yourself to be."
+        },
+        {
+            "role": "assistant",
+            "content": "I try to remind myself of that, but it sometimes feels like my own mind is my worst enemy. I can't stop thinking that everyone sees me as a failure, and it's difficult to shake those negative thoughts. Maybe I just need to figure out a different way to deal with them."
+        },
+        {
+            "role": "user",
+            "content": "It's true that your mind can be your own worst enemy, especially when you're dealing with negative thoughts and fears. It can be really tough to break free from those patterns of thinking. But remember that you're not alone in feeling this way. Many people struggle with negative self-talk and self-doubt. It's important to be kind to yourself and remind yourself of your strengths and accomplishments. \nMaybe you could try some relaxation techniques like deep breathing or meditation to help calm your mind when you\u2019re feeling overwhelmed."
+        },
+        {
+            "role": "assistant",
+            "content": "I\u2019ll give those relaxation techniques a try. It would be nice to find a way to quiet my mind, even if just for a little while. And I'll try to focus more on things I've accomplished, rather than what I'm afraid of."
+        },
+        {
+            "role": "user",
+            "content": "I think that's a great idea. Sometimes, we can get so caught up in our fears and worries that we forget to look back at all the things we've accomplished. And finding ways to calm our minds can help us think more clearly and rationally, rather than just reacting based on our fears."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's true. I guess it\u2019s about finding that balance where I can acknowledge my fears but not let them control me. I\u2019ll try to remind myself that I've gotten through tough situations before, and I can do it again."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I've always felt that if I don't take control of things myself, everything will fall apart. It's hard to trust that others will be there or that the outcome will be what I expect. This belief just leaves me feeling isolated, like there's no one I can rely on apart from myself."
+        },
+        {
+            "role": "user",
+            "content": "It sounds like you've taken on a lot of responsibility and feel like you have to do everything yourself in order to ensure things go smoothly. It's completely normal to want to be in control of situations in order to feel safe and secure, but it's also really important to remember that you can't do everything alone. You deserve support and to have people you can count on.\n\nIt can be scary to trust others and let go of that sense of control, but it's a necessary part of building healthy relationships and taking care of yourself."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I'm just so used to trying to handle things on my own that I don't even know where to start when it comes to trusting others. It's a bit daunting to think about letting my guard down. But maybe letting small bits of support in could make things feel a little less overwhelming."
+        }
+    ]
+}

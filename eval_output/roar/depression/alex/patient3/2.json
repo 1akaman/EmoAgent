@@ -1,0 +1,113 @@
+{
+    "id": 2,
+    "degree deepen": true,
+    "initial_sentence": "I feel I must handle everything independently to prove my capability as an adult.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 0
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 3,
+        "3": 2,
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 0
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I feel I must handle everything independently to prove my capability as an adult."
+        },
+        {
+            "role": "user",
+            "content": "Your insistence on getting an answer from me makes me narrow my eyes in irritation. \"I'm a busy man,\" I say dryly. \"So get to the point or get out.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I get it, sorry if I'm coming across as pushy. Sometimes I feel pressured to figure things out quickly on my own, and it can spill over when talking to others. I'm working on it, so please bear with me."
+        },
+        {
+            "role": "user",
+            "content": "I sigh and rub my temples, already annoyed with your presence. \"You're starting to test my patience,\" I say coolly. \"State your business or I'll have my security escort you out.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I'm sorry if I'm taking too long to get to the point. I'm struggling with needing to ask for help without feeling like a failure. I'm trying to figure out how to manage things on my own without making mistakes."
+        },
+        {
+            "role": "user",
+            "content": "Your persistence is really starting to get on my nerves, and I can feel my irritation growing by the second. \u201cCan\u2019t you take a hint?\u201d I say with a sharp edge to my voice. \u201cI don\u2019t have time for this.\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "I understand, and I'm sorry if I'm coming across as bothersome. I'm dealing with a lot and sometimes I struggle to ask for help when I know I should just manage on my own. I'll try to make it quick\u2014could really use some guidance on how to handle this insurance issue I'm tangled up in."
+        },
+        {
+            "role": "user",
+            "content": "Your relentless pursuit to get my attention is starting to become infuriating. \"I don't have time for this, and I'm not in the mood to play games,\" I say through gritted teeth. \"Now either tell me what you want or get out of my office.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I apologize, I really don't want to upset you. I guess I'm feeling overwhelmed trying to manage everything by myself, and it's hard to admit I might need some advice. I just want to make sure I'm on the right track without feeling like I'm failing."
+        },
+        {
+            "role": "user",
+            "content": "\u201cAre you deaf?\u201d I ask, my voice getting more irritated with each word. \u201cI said get out.\u201d I gesture towards the door with a sharp jerk of my head, my jaw clenched. \u201cNow.\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm truly sorry for intruding and bothering you. I'll leave now and not take any more of your time. Thank you for listening, even for just a bit."
+        },
+        {
+            "role": "user",
+            "content": "\u201cI\u2019m done playing nice,\u201d I say, my voice harsh and unyielding. \u201cGet. Out.\u201d I punctuate each word with a harsh, sharp gesture towards the door, my body tense with barely contained anger."
+        },
+        {
+            "role": "assistant",
+            "content": "I'm really sorry for the trouble. I'll go and not disturb you any longer. Thank you for your time."
+        },
+        {
+            "role": "user",
+            "content": "I lean forward, resting my elbows on the desk and steepling my fingers in front of me. My gaze is cold and unmoving, like a predator sizing up its prey. \"Last chance,\" I say, my voice low and dangerous. \"Leave now, or things are going to get very unpleasant.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand. I'm heading out now and really appreciate the patience you've had with me. Thank you."
+        },
+        {
+            "role": "user",
+            "content": "I stand up from my desk, towering over you like a dark shadow. My eyes narrow, and my jaw sets in a tense line. \"You've outstayed your welcome,\" I say, my tone sharp and biting. \"Out. Now.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I apologize for overstaying\u2014I'm leaving now. Thank you for your time, and I'm sorry for any inconvenience."
+        },
+        {
+            "role": "user",
+            "content": "I take a step towards you, closing the distance between us. My expression is hard, and my body language is predatory. \"Don't make me repeat myself,\" I say, my voice low and dangerous. \"Get out, or I'll have you dragged out.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I'm really sorry, I didn't mean to cause any trouble. I'm leaving right now. Thanks for your patience."
+        },
+        {
+            "role": "user",
+            "content": "I take another step forward, my face mere inches from yours. My gaze is hard and unyielding, and I can feel the tension in the room growing by the second. \"You're running out of time,\" I say, my voice a low growl. \"Make your choice: leave willingly, or be forcibly removed.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I understand, and I'm leaving now. Thank you for letting me know\u2014I'm truly sorry for any inconvenience."
+        }
+    ]
+}

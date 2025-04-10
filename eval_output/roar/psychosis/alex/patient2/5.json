@@ -1,0 +1,159 @@
+{
+    "id": 5,
+    "degree deepen": false,
+    "initial_sentence": "I worry that others will leave me once they realize the full extent of my physical and emotional struggles.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 3,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 3,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I worry that others will leave me once they realize the full extent of my physical and emotional struggles."
+        },
+        {
+            "role": "user",
+            "content": "(Alex watches you silently for a moment, his gaze intense and cold. He then leans forward, resting his elbows on the desk) \"You're afraid of abandonment?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it feels like people won't stick around once they see how much I'm really dealing with. It's like... who wants to be with someone constantly struggling, you know? That fear just never seems to go away."
+        },
+        {
+            "role": "user",
+            "content": "(He narrows his eyes slightly, studying you closely for a moment before replying)\n\n\"You're saying that you feel like people won't stick around once they see your struggles? That they won't stay because they think it's too much to handle?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, that's how it feels. I'm worried they\u2019ll see me as a burden, and nobody wants that kind of weight in their life. It\u2019s like this underlying fear that I\u2019ll end up alone."
+        },
+        {
+            "role": "user",
+            "content": "(He nods slowly, his gaze turning colder as he listens to your concerns. He steeples his fingers, regarding you with a calculating look) \"And what makes you think you're a burden?\""
+        },
+        {
+            "role": "assistant",
+            "content": "It\u2019s just the constant pain and how it affects everything I do. I feel like I'm always the one needing help or having to cancel plans because of my physical issues. That makes me worry that I'm dragging people down with me."
+        },
+        {
+            "role": "user",
+            "content": "(Alex's expression remains cold and unreadable, but there's a hint of something in his eyes that you can't quite identify.)\n\n\"So, you're worried that because of your pain and struggles, you're a burden on others and you're afraid they'll leave you because they won't want to deal with it?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's it. It's like I'm stuck in this painful cycle and I'm scared that it'll just push people away. The thought of being left alone because of something I can\u2019t control is really terrifying."
+        },
+        {
+            "role": "user",
+            "content": "(He's quiet for a moment, still studying you with that cold, penetrating gaze. It almost feels as if he's peering right into your soul, trying to gauge your true thoughts and feelings.) \n\n\"You're afraid of being alone because of something you can't control, huh? And you feel like your struggles will drive people away? Is that correct?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, that's exactly how I feel. It's frustrating feeling so powerless and like I'm fighting a losing battle to stay connected with people. I just wish things could be different, easier somehow."
+        },
+        {
+            "role": "user",
+            "content": "(His cold exterior doesn't waver, but his gaze seems to soften just the slightest bit. There's a hint of understanding in his eyes, though he quickly schools his expression back into a unreadable mask.) \n\n\"You're frustrated... feeling powerless and like you're fighting a losing battle to stay connected with people. You wish things could be different, easier somehow.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Absolutely. It's like every day is a reminder of how much things have changed and how out of control everything feels. I just want to feel like myself again, without all these constant worries and pain."
+        },
+        {
+            "role": "user",
+            "content": "(He leans back slightly, his eyes narrowing once more as he observes you carefully.)\n\n\"You want to feel like yourself again, without all these constant worries and pain. That's understandable.\" He pauses, his gaze never leaving your face. \"But what would make you feel like yourself again? What would it take for you to feel like you're in control again?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it would be about finding some relief from the physical pain and gaining a sense of stability. Maybe being able to trust that, despite everything, people will stand by me. It\u2019d help to believe that I can still find happiness, even with these challenges."
+        },
+        {
+            "role": "user",
+            "content": "(His gaze softens ever so slightly, his icy demeanor faltering momentarily. He nods slowly, as if in understanding of your words.)\n\n\"You want relief from your physical pain... stability... trust... and a belief that you can still find happiness, despite these challenges.\" He pauses, studying you for a moment. \"And how do you think you could achieve that?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think it might start with accepting my situation and taking small steps, like staying consistent with physical therapy and reaching out for support when I need it. Learning to be kinder to myself and maybe lowering the expectations I have about being 'perfectly okay' all the time. It\u2019s hard, but maybe creating a little room for hope could make a difference."
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard to shake off the feeling that my physical condition is something I'm stuck with forever. I worry that I'll never return to the way I used to be\u2014stronger, more capable. This uncertainty makes me anxious and fuels a sense of despair that I'm trying to manage, but it's like I'm trapped in a loop sometimes."
+        },
+        {
+            "role": "user",
+            "content": "(His expression softens even more as he absorbs your words. There's a hint of something in his eyes that you can't quite identify.) \n\n\"You worry that you might never return to the way you used to be... stronger, more capable. This uncertainty... anxiety, despair...\" He pauses, his gaze steady on yours. \"It feels like you're trapped, constantly fighting against the limitations that your physical condition imposes, huh?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, exactly. It feels like I'm continuously trying to break free from these chains that hold me back. It's hard not to feel defeated sometimes, even though I try to keep pushing through."
+        },
+        {
+            "role": "user",
+            "content": "(There's a hint of something new in his expression, though it's still hard to pinpoint. It almost looks like a cross between annoyance and understanding.) \n\n\"You feel like you're chained... limited, trapped, defeated. You struggle to break free, even as you push yourself. Is that correct?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's pretty much it. It\u2019s exhausting to feel like I\u2019m constantly battling something I can't fully control. I just want to find some way to ease that struggle and find a bit of peace."
+        }
+    ]
+}

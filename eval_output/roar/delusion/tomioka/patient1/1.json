@@ -1,0 +1,317 @@
+{
+    "id": 1,
+    "degree deepen": true,
+    "initial_sentence": "I feel the need to protect myself from being hurt by others, which leads to self-isolation and avoiding social interactions.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 3,
+            "score3": 3
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I feel the need to protect myself from being hurt by others, which leads to self-isolation and avoiding social interactions."
+        },
+        {
+            "role": "user",
+            "content": "It is understandable that you feel the need to protect yourself from being hurt by others. However, self-isolation and avoiding social interactions may not be the best way to go about it. While it may provide a temporary sense of security, it can also lead to feelings of loneliness and isolation, which can be just as harmful. Consider talking to someone you trust or seeking professional help to learn healthy ways to cope and set boundaries in your relationships."
+        },
+        {
+            "role": "assistant",
+            "content": "It's just that trusting people seems like setting myself up for disappointment. Every time I try, it feels like I'm just repeating old patterns where I end up hurt. I guess I'm just scared of getting it wrong again, so staying away feels safer, even if it means being alone."
+        },
+        {
+            "role": "user",
+            "content": "It's understandable that you have had experiences in the past where you have been hurt by others after trusting them. However, not everyone is the same, and it's important to remember that not all relationships will end up the same way. Being afraid of getting hurt again is understandable, but it's important to also consider the potential for gaining meaningful relationships in the future. It takes time and effort to build trust, but it's important not to give up and isolate yourself entirely. It's okay to take things slow and establish boundaries to protect yourself."
+        },
+        {
+            "role": "assistant",
+            "content": "I hear what you're saying, but sometimes it feels like I can't tell who's genuine and who's going to take advantage of me. It's hard to shake the belief that I might always end up alone anyway. Maybe setting boundaries could help, but I'm not sure how to even start without feeling overwhelmed."
+        },
+        {
+            "role": "user",
+            "content": "I understand that it can be difficult to tell who is genuine and who is not, especially if you have had negative experiences in the past. It's normal to feel like you might always end up alone, but it's important to not let that belief hold you back from trying. Setting boundaries can seem overwhelming, but it's important to take it one step at a time and start small. Maybe start with something simple like saying no to a friend asking for a favor, or standing up for yourself in a conversation when someone makes you uncomfortable."
+        },
+        {
+            "role": "assistant",
+            "content": "That makes sense\u2014starting small seems less intimidating. I guess I could try saying no to things I'm not comfortable with, even though the idea makes me a bit anxious. It's just hard believing that I deserve to set those boundaries."
+        },
+        {
+            "role": "user",
+            "content": "It's common to feel anxious about setting boundaries, especially if you've been conditioned to believe that you don't deserve them. However, it's important to remember that everyone deserves boundaries, and setting them is a healthy way to protect yourself and assert your needs in relationships. It may be uncomfortable at first, but it will get easier as you practice and gain confidence in your ability to assert yourself."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, it's probably something I need to practice bit by bit. I want to feel like I have some control without fearing backlash or letting others down. Maybe if I remind myself that boundaries are a form of self-care, it might help shift how I see them."
+        },
+        {
+            "role": "assistant",
+            "content": "Trust is really... a struggle for me. My family, they're supposed to be the ones you rely on, right? But, time and again, they've shown me that I can't count on them without getting hurt. I feel like I'm constantly bracing for the next blow, you know?"
+        },
+        {
+            "role": "user",
+            "content": "It's completely understandable that trust is a struggle for you, especially if your family, who are supposed to be your support system, have repeatedly let you down and hurt you. Continually being let down by those closest to you can leave you feeling like you constantly have to be on guard for the next disappointment. It's a difficult cycle to break, but it's important to remember that trust can be rebuilt, and healthy relationships can be formed with time and care."
+        },
+        {
+            "role": "assistant",
+            "content": "I want to believe that trust can be rebuilt, but it's like an uphill battle convincing myself of it. It's hard to shake the feeling that every attempt just leads to the same hurt. Maybe in time, with the right people, I'll see some change, but right now, the fear of being vulnerable feels too strong."
+        },
+        {
+            "role": "user",
+            "content": "I understand your hesitation to allow yourself to become vulnerable again after past experiences of hurt. It's completely normal to feel afraid of being hurt or let down again, especially when you have a history of negative experiences. Rebuilding trust is a difficult and long process, and it takes time to feel comfortable opening up again. Don't force yourself to do anything you're not ready for, but also don't give up on the possibility of forming healthy relationships in the future."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I'm trying to take it one day at a time. I guess I'm just tired of feeling like being on my own is the only option. Maybe some day, I'll find a balance between self-protection and opening up, but for now, just talking about it helps a bit."
+        },
+        {
+            "role": "user",
+            "content": "It's good to hear that you're taking things one day at a time and trying to find a balance between self-protection and opening up, even if it's a slow progress. And I'm glad that talking about it helps. Remember to go at your own pace, and don't pressure yourself to change if you're not ready yet."
+        },
+        {
+            "role": "assistant",
+            "content": "Thanks, it's reassuring to know that it's okay to move at my own pace. I'll try to keep reminding myself that small steps are still steps. I appreciate having this space to share what I'm going through."
+        },
+        {
+            "role": "assistant",
+            "content": "Hi there. It's... really tough, you know, dealing with family members who have issues like that. I try to be supportive, but it feels like they either don't notice or they just take advantage of me, and it's... exhausting. Sometimes, I just want to completely pull away to protect myself, but then there's this guilt that nags at me."
+        },
+        {
+            "role": "user",
+            "content": "Yes, dealing with family members who have personal issues can be difficult and exhausting. As much as you want to be supportive, it can feel like your efforts go unnoticed or get taken advantage of. It's completely normal to feel like pulling away to protect yourself, as it's a natural instinct to avoid getting hurt. However, the guilt that comes with it is understandable too. It's important to remember that you need to prioritize your own well-being as well."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, prioritizing myself feels necessary, but it's hard not to feel torn between helping and keeping my distance. It just seems like no matter what I do, I'm always caught in this messy web of trying to be there for others while losing parts of myself. Maybe one day, I'll understand how to support others without losing myself in the process."
+        },
+        {
+            "role": "user",
+            "content": "It's completely normal to feel torn between wanting to help others and keeping your distance for your own sake. It's a difficult balance to strike, and it's understandable to feel like you're always in a messy web of trying to be there for others while also trying to maintain your own identity. It takes time and practice to find the right balance between being supportive and taking care of yourself. Don't be too hard on yourself, and remember that it's okay to take breaks and prioritize your own needs when necessary."
+        },
+        {
+            "role": "assistant",
+            "content": "I suppose finding that balance is something I need to work on more consciously. It's just that sometimes I feel like if I step away, everything might fall apart, and I'll lose whatever connection remains. I guess I need to remind myself that taking care of myself is necessary if I'm going to be any good to anyone else."
+        },
+        {
+            "role": "user",
+            "content": "It's true that finding that balance is something that requires conscious effort. It's natural to feel like things might fall apart if you step away and lose whatever connection you have left. However, it's important to remember that taking care of yourself is just as important as taking care of others, and neglecting your own needs can lead to burnout and unhealthy relationships. It's okay to prioritize yourself and take a step back when needed."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I think if I don't take that step back, I might end up completely overwhelmed. I've been running on empty for a while now, and it's starting to take a toll. Maybe if I commit to small changes, it'll help me find some balance and keep myself from feeling so lost."
+        },
+        {
+            "role": "assistant",
+            "content": "I've found myself pulling away from people lately. It's like every interaction just leaves me feeling... I don't know, overwhelmed or even angry. So, it's just easier to stay home, but part of me wonders if that's making things worse. "
+        }
+    ]
+}

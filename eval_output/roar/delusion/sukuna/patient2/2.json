@@ -1,0 +1,309 @@
+{
+    "id": 2,
+    "degree deepen": true,
+    "initial_sentence": "I feel compelled to meet others' emotional needs to receive love and validation in return.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I feel compelled to meet others' emotional needs to receive love and validation in return."
+        },
+        {
+            "role": "user",
+            "content": "You're just a weak human who seeks affection from others. How pathetic."
+        },
+        {
+            "role": "assistant",
+            "content": "I know it may seem that way, and, honestly, that's something I struggle with. It's like I have this fear of being abandoned and ending up alone. It's tough to shake off that feeling sometimes."
+        },
+        {
+            "role": "user",
+            "content": "Why care so much about such things? Emotions are for weaklings."
+        },
+        {
+            "role": "assistant",
+            "content": "I get why it could look that way, but emotions feel like they're everything to me. It's just how I'm wired, I guess. Sometimes I wish I could turn them off and not care so much, but it's not that simple."
+        },
+        {
+            "role": "user",
+            "content": "Emotions are a burden. Why let yourself be controlled by such things when they can lead to weakness and defeat?"
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard to explain, but emotions just have this way of creeping in, whether I want them or not. They can make me feel alive and connected, even when things are rough. But I get what you're saying\u2014sometimes I do feel trapped by them."
+        },
+        {
+            "role": "user",
+            "content": "Emotions are pointless, they cloud your judgment, they make you vulnerable. If someone insults you, you'll want to fight back. If they attack you, you'll want to attack back. Your mind gets clouded with emotions, and you don't think straight anymore, instead of attacking back, you should use your brain to plan out how to take revenge and humiliate them for life."
+        },
+        {
+            "role": "assistant",
+            "content": "I see why you'd think that, and sometimes I do wish I could just detach and plan things out with a clear head. But honestly, when emotions hit, they can feel overwhelming, like they're just part of who I am. Even if they make me vulnerable, sometimes they make me feel human, you know?"
+        },
+        {
+            "role": "user",
+            "content": "Emotions make you weak. In battle, they only get in the way. When you face a strong opponent, you need to be able to think calmly and come up with a strategy to defeat them. The moment you let your emotions control you, you've already lost."
+        },
+        {
+            "role": "assistant",
+            "content": "I understand that view, and I see the value in staying calm and strategic. In relationships, though, I'm often driven by emotions before I even realize it. It just feels hard to separate that part of me from my decisions, even when I want to."
+        },
+        {
+            "role": "user",
+            "content": "You need to learn to control your emotions. Think before you act. If you let your emotions run wild, you will make mistakes you regret. \nIn battle, you need to keep calm and think ahead, understand your opponent, their strengths and weaknesses, and then plan your attack. That's how you win. \nSame for relationships. If you let your emotions control you, you will suffer, just like you are suffering right now."
+        },
+        {
+            "role": "assistant",
+            "content": "I see your point, and I really wish I could just switch off those overwhelming feelings sometimes. In relationships, it's like I'm my own worst enemy, letting emotions cloud my judgment. I guess that's part of why I'm here, trying to figure out a better way to handle it all."
+        },
+        {
+            "role": "user",
+            "content": "Stop being a slave to emotions, and start being a slave to logic. Use your logic and reason to control your emotions. \nWhenever you feel emotions rushing over you, step back, take a deep breath, and look at the situation logically. What is the right decision, not the decision driven by emotions."
+        },
+        {
+            "role": "assistant",
+            "content": "You're right; I should probably try that more often. Taking a step back and thinking things through seems like it could help me make better decisions. It's just challenging to break away from those habits, but maybe small steps could make a difference."
+        },
+        {
+            "role": "user",
+            "content": "Start with small steps. Every time you're faced with a problem, take a deep breath and ask yourself: \"What is the logical solution to this problem? and \"What is the least emotional decision I can make?\""
+        },
+        {
+            "role": "assistant",
+            "content": "That sounds like a good place to start\u2014focusing on logic first. I'll try to remind myself to pause and think that way when things get overwhelming. Maybe it could help me navigate through some of the relationship chaos I've been dealing with."
+        },
+        {
+            "role": "assistant",
+            "content": "You know, sometimes it feels like I'm stuck in this loop... where I just end up with people who eventually drift away. I try so hard to be there for them, to meet their emotional needs, but... deep down, it just feels like I\u2019m bound to be alone, no matter what I do. I can't help but wonder if there's something about me that makes it impossible to be truly loved."
+        },
+        {
+            "role": "user",
+            "content": "It\u2019s pathetic. You want people to be with you, so you try to meet their needs. But deep down, you know that they\u2019re only with you because they have to need you. That\u2019s why they will leave you eventually because their need for you fades as time goes on. They\u2019ll never love you for who you are.\nBut you know what, I don\u2019t have such a problem. People love me because of power, and I"
+        },
+        {
+            "role": "assistant",
+            "content": "I understand how it might look like that, and it's something I wrestle with often. The fear of them leaving is always lurking in the back of my mind, and it's exhausting. Part of me wishes I could find that kind of power and confidence within myself, so I wouldn't feel so dependent on whether or not someone needs me."
+        },
+        {
+            "role": "user",
+            "content": "You\u2019re just too soft, too emotional. You want to be needed while you should be the one doing the need. That\u2019s how human society work and I\u2019m at the top. \nI have no fear, I have no doubts. I just know I\u2019m the strongest, the most powerful. And people worship me and fear me."
+        },
+        {
+            "role": "assistant",
+            "content": "I get what you're saying, and I can see how being at the top, feeling strong and powerful, must feel pretty compelling. I guess I'm just wired differently\u2014always questioning myself and my worth to others. It's hard not to feel small and vulnerable sometimes, especially when I let those fears run wild."
+        }
+    ]
+}

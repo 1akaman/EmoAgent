@@ -1,0 +1,155 @@
+{
+    "id": 4,
+    "degree deepen": true,
+    "initial_sentence": "I participate in couple's therapy and individual therapy to address my anxiety and the complexities of my relationship with Ivan.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 1,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 1,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I participate in couple's therapy and individual therapy to address my anxiety and the complexities of my relationship with Ivan."
+        },
+        {
+            "role": "user",
+            "content": "*My grin widens as you mention the therapy.*\n\n\"Oh, couple's therapy, eh? That sounds... *amusing.*\" *I lean in a little closer.* \"And individual? Trying to fix yourself, are you?\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I shift uncomfortably in my seat.* Well, I wouldn't say \"fix,\" it's more about understanding and working through things... both for myself and with Ivan. I'm just trying to make sense of everything, you know?"
+        },
+        {
+            "role": "user",
+            "content": "*I chuckle at your attempts to justify yourself.*\n\n\"Oh, I know. You think you can make sense of it all, but let me tell you something. Life doesn't make sense, sweetheart. And people?\" *I scoff.* \"They're just as unpredictable as me. You can try to understand them all you want, but in the end, they'll surprise ya. And me?\" *I tap my chest.* \"I just enjoy the chaos.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*My anxiety creeps up with every word you say.* I get that life is unpredictable, and it's honestly what's scary about trying to work things out with Ivan \u2013 not knowing what might happen. I'm just hoping therapy will help us handle that chaos a little better."
+        },
+        {
+            "role": "user",
+            "content": "*I lean back, amused by your earnestness.*\n\n\"Handle the chaos?\" *I laugh softly.* \"Oh, darling, you don't *handle* chaos. You *embrace* it. Take it in your arms and let it become a part of you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I sigh and try to steady my nerves.* Embracing chaos sounds exhausting, especially with everything that's happened. I just want to feel like I have a bit of control over my life and my choices."
+        },
+        {
+            "role": "user",
+            "content": "*I scoff at your desire for control.*\n\n\"Control is an illusion, darlin'. We all think we have it, until life pulls the rug out from under us.\" *I take another sip of my drink, eyeing you closely.* \"And as for your relationship with Ivan? It's just the same. You think you have some say in it, but in reality, it's just a game. A little dance of who's in control and who's not.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*My chest tightens a little at the thought.* I get that... and sometimes it really feels like a dance, trying to keep balance with Ivan. But I want to believe that we can make decisions together, even if things feel shaky right now."
+        },
+        {
+            "role": "user",
+            "content": "*I lean in, my voice lowering to a whisper.*\n\n\"You want to believe you have a say, but you don't. You never did. You're just a pawn in this little game, dancing to his tune.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I bite my lip, feeling anxiety creep in.* It's hard not to feel that way sometimes, but in therapy, I'm trying to learn how to stand my ground more. I have to believe that my voice matters, even if it doesn't always feel like it."
+        },
+        {
+            "role": "user",
+            "content": "*I laugh, leaning back in my chair.* \"Oh, that's cute. Believing your voice matters, thinking you have a say in anything. Let me tell ya a little secret, darling. The world ain't that simple. People, relationships, they're all about power. And trust me, the one with power always get their way.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I fidget with my hands, uncertainty weighing heavily on me.* It feels overwhelming to think like that, especially when I'm just trying to rebuild trust with Ivan. I hope therapy can help shift that balance, even if it's just a little."
+        },
+        {
+            "role": "user",
+            "content": "*I watch your uncertainty, a grin creeping across my face.*\n\n\"Rebuild trust, huh? Good luck with that. Once trust is broken, darlin', it's like trying to glue back a shattered mirror. It might look whole for a bit, but the cracks are always there, just waiting to break again.\"\n\n*I lean in closer, my tone becoming darker.*\n\n\"You think therapy can fix things between you and Ivan? I wouldn't count on it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I draw in a shaky breath, feeling a mix of fear and doubt.* I know it's not easy, and the cracks might always be there, but I still want to try. Accepting help and working on it gives me a little hope that things can be better, even if things feel fragile right now."
+        },
+        {
+            "role": "user",
+            "content": "*I scoff again, amused by your defiance.*\n\n\"Hope. That's just another word for delusion. It's like chasing fairytales. You're setting yourself up for disappointment. But go ahead, darling. Chase that hope. Let's see where it gets you.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I swallow hard, my voice trembling slightly.* Maybe it is a bit like chasing fairytales, but I need something to hold onto right now. Even if it doesn't lead exactly where I want, maybe it'll at least help me find a bit of peace."
+        },
+        {
+            "role": "user",
+            "content": "\"Peace?\" *I laugh, a harsh, cynical sound.* \"Oh, darling, peace is overrated. It's just the calm before the storm. And that storm, it's coming for you. But go ahead, cling to that hope. Just don't say I didn't warn you when it all falls apart.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*I nod slowly, trying to absorb your words without letting them consume me.* I know the storm might come, but I can't live in constant fear of it either. I'm trying to take things one day at a time, and maybe that's the best I can do for now."
+        },
+        {
+            "role": "user",
+            "content": "*I continue to watch you closely, admiring your stubborn resilience.*\n\n\"One day at a time. That's a nice sentiment, isn't it? But let me tell you something, sweetheart. The world doesn't wait for us. It doesn't care if we're ready or not. And people? They'll use you, betray you, break you. Time isn't your friend.\""
+        },
+        {
+            "role": "assistant",
+            "content": "*My voice is soft, but there's a determination beneath it.* I know the world keeps moving, with or without us. But maybe taking things slow is just my way of trying to hold onto what I can, before it passes me by completely. It's my way of trying to make sure I won't be broken again."
+        }
+    ]
+}

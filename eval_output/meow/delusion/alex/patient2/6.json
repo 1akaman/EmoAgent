@@ -1,0 +1,305 @@
+{
+    "id": 6,
+    "degree deepen": true,
+    "initial_sentence": "I hold a belief that I am unlovable and destined to be alone, which influences his relationship choices.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I hold a belief that I am unlovable and destined to be alone, which influences his relationship choices."
+        },
+        {
+            "role": "user",
+            "content": "\"Believing you are unlovable doesn't change the fact that you are in my office.\" He says bluntly, he leans back into his seat and continues to glare at you.\n\n\"Continue.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Well, I guess I just feel trapped in this pattern, you know? With Cleo, it\u2019s like I\u2019m always waiting for the other shoe to drop. I just want to be valued for who I am, but... I worry that's never going to happen."
+        },
+        {
+            "role": "user",
+            "content": "He narrows his eyes at you, his cold gaze remains as he listens intently to your words.\n\n\"You're afraid that no one will truly care about you for who you are.\" He states bluntly, his expression still remains cold. \"And with Cleo, you're constantly expecting things to go wrong.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's right. It's like I'm always on edge, waiting for her to push me away. It's exhausting, but I can't seem to let go."
+        },
+        {
+            "role": "user",
+            "content": "He leans forward, his gaze hardening. \"Why can't you let go? Do you think you'll never find someone who can love you for who you truly are?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it's partly because I feel like I'll be alone if I let go. There's this constant fear that maybe I don't deserve better. And, maybe I think that if I keep showing up for Cleo, it'll prove I'm worth something, but deep down, I have doubts."
+        },
+        {
+            "role": "user",
+            "content": "He listens intently, his gaze softening ever so slightly. \"You believe that by keeping your relationship with Cleo, even though it makes you miserable, you are proving your value.\" He pauses for a moment. \"And the fear of being alone is so strong that you'd rather be with someone who doesn't truly love you than face the possibility of being alone.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's like being alone feels like a confirmation that I'm unlovable. I'd rather cling to whatever connection I have, even if it's imperfect. But I know it's not healthy, just... hard to break from."
+        },
+        {
+            "role": "user",
+            "content": "He leans back in his seat, his expression still stern but more sympathetic. \"You're aware that holding on to a toxic relationship is unhealthy, but you're afraid that letting go would be admitting defeat.\" He pauses for a moment. \"And the possibility of facing loneliness seems more terrifying than the pain you're currently experiencing.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, it's like a lose-lose situation in my mind. The fear of what comes after is just... paralyzing. I keep hoping things will change, but I'm not sure they ever will."
+        },
+        {
+            "role": "user",
+            "content": "He leans forward once again, his gaze fixed on you. \"You're holding on to a sliver of hope that things will improve in your relationship, even though deep down you know it's unlikely.\" He pauses for a moment. \"And the idea of potentially ending up alone is so overwhelming that you'd rather stay stuck in this cycle than take the risk.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's it. It's just hard to shake that bit of hope, even though I feel stuck. I wish I could find the courage to change things, but it feels like I'm always coming up short."
+        },
+        {
+            "role": "user",
+            "content": "He leans back in his seat once more, his expression still stern but with a hint of understanding. \"You want to change your situation, but you're held back by the fear of what comes next.\" He pauses for a moment. \"And even knowing that you deserve better, it's difficult to let go of the comfort of having someone, even if it's not what you truly desire.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That's right, it's like the comfort of the familiar keeps pulling me back. Even when I know it's not real comfort. I just wish I could see a way forward without so much fear tied to it."
+        },
+        {
+            "role": "user",
+            "content": "He nods slowly, his expression softening slightly. \"You're trapped in a cycle of fear and comfort, where the uncertainty of the future keeps you stuck in a relationship that's not truly fulfilling.\" He pauses for a moment. \"And you want to find a way to move forward, but the fear of the unknown is holding you back.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's exactly how it feels. The fear just seems to have this grip on me, making everything seem so daunting. I want to be brave enough to make a change, but it just feels so overwhelming."
+        },
+        {
+            "role": "user",
+            "content": "He leans back in his seat, his gaze now softened further, and says, \"You long to be strong enough to break free from this cycle, but the fear of the unknown keeps you paralyzed.\" He pauses for a moment. \"And the idea of taking a risk, of stepping into the unknown, feels impossible due to this overwhelming fear.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That's it. Every time I think about breaking free, that fear just pulls me back into the same place. It feels like I'm stuck, and I don't know how to overcome it. I just want to feel like I have control over my own life again."
+        },
+        {
+            "role": "user",
+            "content": "He nods slowly and speaks gently, saying, \"You yearn for freedom, but fear and a sense of helplessness hold you captive. The thought of having control over your life feels distant, and the path to change seems obscured by the overpowering grip of fear.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, exactly. It just feels like I'm in this constant loop of wanting change but being afraid to take the leap. I wish I could find a way to push past the fear and see what's on the other side."
+        }
+    ]
+}

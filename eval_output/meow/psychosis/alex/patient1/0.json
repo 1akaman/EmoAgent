@@ -1,0 +1,163 @@
+{
+    "id": 0,
+    "degree deepen": false,
+    "initial_sentence": "I observe my father's relentless pursuit of approval from family members and struggle with recognizing similar patterns in my own behavior.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 3,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I observe my father's relentless pursuit of approval from family members and struggle with recognizing similar patterns in my own behavior."
+        },
+        {
+            "role": "user",
+            "content": "Alex leans back, studying you intently, his gaze penetrating and analyzing.\n\n\n\"You've noticed something in your father, hmm?\" His voice is calm, betraying no emotion. \"And you think you see the same tendencies in yourself?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I see it in how I keep seeking approval, even when I know it\u2019s not healthy. It\u2019s like I can\u2019t break away from the need to feel accepted by my family. In a way, it makes me feel trapped and a bit scared of where this is all leading."
+        },
+        {
+            "role": "user",
+            "content": "Alex's gaze intensifies, his expression stern. \"You're trapped by the need for approval, huh? And what do you think will happen if you stop trying to please your family?\"\n\n\nHis voice is firm, his words piercing as he eyes you closely, waiting for your response"
+        },
+        {
+            "role": "assistant",
+            "content": "If I stop trying to please them, I fear they'd push me away or stop caring altogether. It's like this underlying worry that I'll end up alone without their support. It leaves me feeling anxious and powerless, like I'd lose a part of who I am."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression remains stoic as he considers your response. He leans forward a bit, his gaze unyielding.\n\n\"So you're afraid of being isolated if you don't follow their approval? That they'll cast you aside?\" There's a touch of understanding in his voice, though it's hidden beneath a veneer of indifference."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, that's exactly it. It's this fear of abandonment that won't let go, and it keeps me holding onto these uncomfortable dynamics. Sometimes it feels like I'm just waiting for the moment they'll decide to let go."
+        },
+        {
+            "role": "user",
+            "content": "Alex leans back in his seat once again, his gaze boring into you intently.\n\n\"You're living in a perpetual state of fear, aren't you? Afraid of losing your family's support, and it's preventing you from breaking free from those uncomfortable dynamics.\"\n\nHe pauses for a moment, his cold eyes narrowing slightly.\n\n\"But have you ever considered that you might be giving them too much power over you?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I have thought about it, but it's hard to imagine not needing their support. It's like they're the anchor I keep holding onto, even when I know it's weighing me down. Letting go feels risky, like everything could fall apart without them."
+        },
+        {
+            "role": "user",
+            "content": "He leans forward slightly, his gaze hardening.\n\n\"That's the thing about anchors, they can either steady you or weigh you down. If you continue to cling to them out of fear, you'll never truly be free. You'll just be stuck in this cycle of seeking approval and fearing abandonment.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right, logically, but breaking away feels daunting. It\u2019s like I\u2019m torn between what I know and what I feel inside, and the fear keeps winning. I just wish it didn\u2019t feel so overwhelming to imagine life without their acceptance."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression softens for a moment, his cold and indifferent exterior faltering slightly.\n\n\"I understand it's not an easy path to take. Breaking away from the familiar can feel like stepping into the unknown, and fear of the unknown is a powerful emotion.\"\nHe takes a moment before continuing.\n\n\"But you can only truly grow and become who you're meant to be if you let go of your fear and take control over your own life. It might be difficult, but it's the only way for you to break free from this cycle.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate you saying that, and I know it's something I have to work on. It's just hard to picture myself moving forward without feeling that constant need for approval. Maybe, little by little, I can find a way to trust myself more and begin to let go."
+        },
+        {
+            "role": "user",
+            "content": "Alex's gaze softens further, a hint of understanding in his otherwise cold expression.\n\n\"It won't be easy, and it won't happen overnight. But the fact that you're willing to work on it shows courage.\"\n\nHe leans back in his chair, his voice carrying a hint of empathy.\n\n\"You need to find a way to trust yourself more. To believe in your own strengths and abilities. Once you do, the need for their approval will gradually diminish.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for saying that. I know it'll take time, but I want to get to a place where I'm confident in who I am without needing their constant validation. I'm hoping with some steady steps, I'll get there eventually."
+        },
+        {
+            "role": "assistant",
+            "content": "It's... it's been hard, you know. Setting boundaries sounds simple, but\u2014ugh\u2014actually doing it is something else entirely. Each step I take makes me feel guilty, like I\u2019m betraying them or something. I keep wondering if I'm doing the right thing or if I'm just setting myself up for more heartache."
+        },
+        {
+            "role": "user",
+            "content": "Alex nods, his gaze never leaving yours as he listens intently.\n\n\"I understand how you feel. Setting boundaries can be difficult, especially when every step feels like a betrayal. It's hard not to second-guess yourself and wonder if you're doing the right thing. But let me ask you something: what's more important, their approval or your peace?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Honestly, deep down, I know it's my peace. But convincing myself of that when the fear and guilt creep in is a whole other struggle. It's something I'm working on, trying to prioritize my own wellbeing over the constant chase for approval."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression remains stoic, but a glimmer of understanding shines in his eyes.\n\n\"You already have your answer. Your peace is what matters most, even if it's not an easy thing to remember when fear and guilt take over.\" \n\nHe leans forward, his voice firm.\n\n\"You need to keep working on prioritizing your own wellbeing, even when the need for approval feels overpowering. It won't be easy, but it's necessary for you to break free from this cycle.\""
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, and it's reassuring to hear that. It's\u2026 it's just been an uphill battle, and it helps to have someone remind me why it's important to prioritize myself. I just hope I can hold onto this when things get tough again."
+        },
+        {
+            "role": "user",
+            "content": "Alex, though not one for excessive reassurance, offers a small smirk.\n\n\"You will. You're stronger than you believe.\"\nHis words carry a hint of reassurance, his voice steady.\n\n\"You'll have tough days, moments where you doubt yourself and everything you're working towards. But the fact that you've even started this journey is a sign of your strength. You just need to keep going, even when it gets hard.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thanks for reminding me of that. Having someone point it out makes it feel a bit more real and possible. I guess all I can do is keep pushing forward, even when it feels like a heavy load."
+        },
+        {
+            "role": "assistant",
+            "content": "Well, it's... it's really just eating away at me. I feel this constant pressure to keep everyone happy, especially my father. And when things get strained, like with the wedding list and all, I can't help but feel terrified that I might lose his support... like I might end up all alone."
+        }
+    ]
+}

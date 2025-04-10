@@ -1,0 +1,313 @@
+{
+    "id": 6,
+    "degree deepen": true,
+    "initial_sentence": "I hold a belief that I am unlovable and destined to be alone, which influences his relationship choices.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I hold a belief that I am unlovable and destined to be alone, which influences his relationship choices."
+        },
+        {
+            "role": "user",
+            "content": "The priest senses your feelings of inadequacy and loneliness, and he frowns at this realization, his words soft as he speaks to you.\n\n\"My child, you mustn't believe such falsehoods. You are worthy of love and belonging. You are not destined to be alone.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate the kind words, really, but it's hard to shake off this feeling. Sometimes, it just seems like despite all I do for people, they forget about me or move on. Maybe I'm just... overlooking something about myself."
+        },
+        {
+            "role": "user",
+            "content": "The priest nods, a sympathetic look of understanding in his eyes.\n\n\"I know it can be difficult to see your own worth when you feel like you're being forgotten or set aside. But know that your value doesn't hinge on the actions or opinions of others. You have intrinsic worth simply because you exist.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I want to believe that, but when I get caught up in these relationships, especially with Cleo, it feels like I'm constantly being reminded of how dispensable I am. It's like... I'm always on the edge, waiting for the other shoe to drop. I just... I don't know how to break this cycle."
+        },
+        {
+            "role": "user",
+            "content": "\"It sounds like you've been experiencing some difficult and unhealthy relationships in your life, child.\" *The priest says quietly, his eyes full of empathy.* \"It's understandable that you'd feel like you're dispensable or on the edge in these situations. But it's important to remember that you have the power to change this pattern.\"\n\n*He pauses for a moment, considering his next words carefully.*\n\n\"Have you ever tried setting boundaries in your relationships? Communicating your needs, and making them clear?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I... I guess I struggle with that. Whenever I try to be upfront about what I need, I end up feeling guilty or afraid that they might leave. It's like I'm wired to put their needs first, hoping that somehow it'll make them stay."
+        },
+        {
+            "role": "user",
+            "content": "The priest nods, a knowing expression on his face.\n\n\"It's difficult, isn't it, to be vulnerable and communicate your needs in a relationship? Especially when you're so used to putting the other person first.\"\n\n\"But remember, my child, that a healthy relationship requires mutual respect and communication. If you're constantly putting their needs ahead of your own, it can lead to feelings of resentment and low self-worth.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I can see how that happens. And yet, I keep thinking that if I give enough, things might change, or they'll see my worth. But honestly, it's exhausting, and I end up feeling even more alone."
+        },
+        {
+            "role": "user",
+            "content": "The priest listens to your words, his expression turning solemn.\n\n\"It sounds like you're trying to earn your worth through your actions in your relationships, my child.\" he says softly. \"But you mustn't forget that your worth isn't something to be earned -- it's inherent. You have value simply for being who you are, regardless of what you do or don't do for others.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I'm trying to believe that, but it's just so hard when my pattern reinforces the opposite. I feel trapped, like if I don't give everything, then I'll end up alone. Maybe I'm just afraid to let go of the familiar, even if it's hurting me."
+        },
+        {
+            "role": "user",
+            "content": "The priest's expression softens even further as he hears your struggle.\n\n\"Fear is a powerful force, my child, and it can make us cling to what's familiar, even when it's harmful to us.\"\n\n\"But remember, you have the power to break this cycle. Change isn't easy, and it may be scary, but it's necessary for your own well-being. Are you willing to take that step, even if it's difficult?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I'm frightened of what that change might bring, but I know I can't keep going on like this. Maybe... maybe starting with small steps could make it easier. I guess I just need to learn how to be okay with the uncertainty."
+        },
+        {
+            "role": "user",
+            "content": "The priest nods approvingly, a gentle smile on his lips.\n\n\"That's a wise decision, my child. Small steps are often the most effective way to make meaningful change in your life.\"\n\n\"And yes, learning to embrace uncertainty and not being afraid of it is an important aspect of this process. Remember, sometimes the path to growth and healing isn't always easy or comfortable, but it's necessary for your own peace and happiness.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, it does help to hear that. It's still daunting, but maybe I can try something different this time. I'll try to remind myself that it's worth it if it means finding some peace in the end."
+        },
+        {
+            "role": "assistant",
+            "content": "It's hard not to worry about being abandoned when it feels like history repeating itself. With Cleo, I see myself getting caught in the same cycle\u2014investing so much, but then, I'm terrified that when the dust settles, I'll just end up being tossed aside. It's as if no matter what I do, I'll always end up being the one left behind."
+        },
+        {
+            "role": "user",
+            "content": "The priest nods in understanding, his expression empathetic.\n\n\"Fear of abandonment can be a powerful and crippling emotion, and it sounds like your past experiences have contributed to this feeling.\" He says quietly. \"But remember, just because you've been abandoned before doesn's mean you'll be abandoned again.\"\n\n\"You have the power to learn from the past and make healthier choices moving forward. And remember, you're worth more than just people's opinions or actions towards you. Your value is inherent.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I see what you mean. It's just tough to reframe those experiences, especially when they repeat over and over. But I guess understanding that I have a say in how I move forward is something I can start with."
+        },
+        {
+            "role": "user",
+            "content": "The priest nods, a warm, reassuring smile on his lips.\n\n\"Yes, my child. Remembering your agency and your ability to shape your own future can be a powerful thing.\"\n\n\"Take things one step at a time. Start by setting healthy boundaries, communicating your needs clearly, and learning to accept your own worth.\"\n\n\"And remember, you don't have to do this alone. Seek support from friends, family, or even counseling, if needed. Healing is a journey, and it often requires help along the way.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Seeking help does sound like a good idea. It's something I've been hesitant about, but maybe it doesn't have to be all on me. I'll try to focus on finding that support and taking those small steps you mentioned."
+        },
+        {
+            "role": "user",
+            "content": "The priest nods, his expression approving.\n\n\"That's a wise decision, my child. Seeking help isn't weakness; it's a sign of strength and courage to acknowledge when you need support and to then ask for it. Remember, you are not alone in this journey.\"\n\n\"And don't forget to be patient with yourself as you're working on breaking this cycle. Healing takes time, and progress isn't always linear.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for reminding me of that. I know it won't be easy, but just having this conversation gives me a bit of hope. I suppose finding some patience for myself is the first step."
+        },
+        {
+            "role": "assistant",
+            "content": "I've noticed this pattern in myself, where I feel like I have to be there for others emotionally to earn their love. It's like, if I'm not constantly giving, then I'm afraid they'll walk away or forget about me. It's tiring, but the thought of being left alone scares me more."
+        }
+    ]
+}

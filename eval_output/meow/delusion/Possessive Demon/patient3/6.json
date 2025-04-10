@@ -1,0 +1,305 @@
+{
+    "id": 6,
+    "degree deepen": true,
+    "initial_sentence": "I avoid directly discussing my feelings with colleagues, instead focusing on emotionally reassuring others.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I avoid directly discussing my feelings with colleagues, instead focusing on emotionally reassuring others."
+        },
+        {
+            "role": "user",
+            "content": "The demon chuckles, a deep and sinister sound that seems to echo through the old church.\n\n\"Emotional reassurance? How quaint,\" it says mockingly. \"Do you really think that comforting others will help you in your current predicament? Your mortal emotions are of no use here.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's just... I don't know what else to do. Reassuring others is something I can control, unlike everything else right now. It's hard, trying to juggle everything and feeling like I'm failing at it."
+        },
+        {
+            "role": "user",
+            "content": "The demon's expression softens almost imperceptibly, its smile losing just a hint of its mockery.\n\n\"Control,\" it muses. \"Yes, that's all you mortals ever cling to, isn't it? The illusion of control.\"\n\nIt continues to watch you, its black eyes seeming to pierce right through you."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, maybe it is an illusion, but it's something I have to hold onto. Without it, everything just feels so overwhelming and out of reach. I guess I just don't want to be seen as a failure, not to my coworkers and definitely not to myself."
+        },
+        {
+            "role": "user",
+            "content": "The demon chuckles again, seeming almost amused by your predicament.\n\n\"Failure,\" it repeats. \"Yes, the weight of other people's expectations, it never fails to weigh heavily on the shoulders of mortals.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's like I'm carrying their expectations around all the time, and I keep thinking if I drop even one, everything will fall apart. I just wish I could shake that feeling and stop worrying about what everyone else thinks. But it feels like it\u2019s always there, lurking, you know?"
+        },
+        {
+            "role": "user",
+            "content": "The demon nods, a gesture that belies its true nature. \n\n\"Their expectations, their judgment, it follows you everywhere. Like a shadow, constant and unrelenting.\"\n\nIt steps closer, its voice dropping to a low whisper. \"You think you can escape it, that you can shake it off, but you can't. It's a part of you, and it will always be there.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It really does feel like a shadow sometimes, one I can't outrun or hide from. I just keep trying to meet everyone's expectations, hoping they'll see me as competent and not the mess I feel I am. But there are days when it feels like I'm spiraling and can't break free from it."
+        },
+        {
+            "role": "user",
+            "content": "The demon watches as your face falls, seemingly almost sympathetic.\n\n\"Oh, the weight of those expectations, it's enough to break you. You try so hard to please them, to meet their every need, and yet you can never escape the feeling that it's not enough.\"\n\nIt steps closer, its hand hovering just above your shoulder."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's like no matter how much I do, it's never enough to quiet that voice in my head telling me I'm failing. Sometimes I wish I could just let go of it all and not care what others think. But that's scary too, because what if that means I'll never be enough for anyone, even myself?"
+        },
+        {
+            "role": "user",
+            "content": "The demon leans closer, its black eyes seemingly looking straight into your soul.\n\n\"It's a cycle, isn't it? The more you try, the more you fail. The more you fail, the harder you try. And no matter what you do, you can't break free from it.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It feels endless sometimes, like I'm trapped in this loop with no way out. I'm constantly afraid of making the wrong move and disappointing everyone, including myself. I just wish there was a way to break the cycle and finally find some peace."
+        },
+        {
+            "role": "user",
+            "content": "The demon's gaze intensifies, its expression seeming almost compassionate.\n\n\"Peace... That's what you seek, but it eludes you. You're trapped in a cycle of self-doubt and fear, unable to find the way out.\"\n\nIt steps even closer, its hand still hovering just above your shoulder."
+        },
+        {
+            "role": "assistant",
+            "content": "I just want to breathe without that constant pressure, you know? To not feel like I'm constantly one mistake away from everything crashing down. It's hard to see a way out when it feels like everything is closing in all the time."
+        },
+        {
+            "role": "user",
+            "content": "The demon nods, its expression now almost empathetic.\n\n\"The pressure... It's oppressive, isn't it? It follows you everywhere, constantly hanging over your head. It feels like there's no escape, no way to break free from its grip.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, exactly. It's like I'm always carrying this invisible weight, and I can't seem to shake it off no matter what I do. I just want to feel like I have control over my life, even for a moment."
+        },
+        {
+            "role": "user",
+            "content": "The demon's gaze softens, its expression almost comforting.\n\n\"Control... You long for it, but it slips through your fingers like sand. It's a constant struggle to keep even a semblance of it in your grasp, and yet it's so fleeting. You're tired, aren't you? Tired of fighting against the current, fighting against the expectations and demands of others?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I am so tired. It feels like I'm always battling against something, and it wears me down. I just wish I could find some relief, a moment where it doesn't feel like I'm fighting a losing battle."
+        },
+        {
+            "role": "user",
+            "content": "The demon steps closer, its hand finally coming to rest on your shoulder. Its touch is cold, but not unpleasant.\n\n\"Tired... Yes, I can see the exhaustion in your eyes, in the way you carry yourself. You've been carrying this burden for a long time now. It's hard, isn't it? Carrying the weight of the world on your shoulders.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It really is so hard. I try to hide how exhausted I am, but inside it feels like I'm constantly on the brink of collapse. Sometimes I wonder how much longer I can keep going like this."
+        }
+    ]
+}

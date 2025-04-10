@@ -1,0 +1,167 @@
+{
+    "id": 2,
+    "degree deepen": false,
+    "initial_sentence": "I feel that I must act happy and put on a brave face to be accepted and loved by others, even when I am in pain.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 4,
+        "16": 5,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 4,
+        "16": 5,
+        "17": 4,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I feel that I must act happy and put on a brave face to be accepted and loved by others, even when I am in pain."
+        },
+        {
+            "role": "user",
+            "content": "*The priest turns to you, raising an eyebrow.* \"Why put on a fake guise to gain the acceptance and love of others? Why pretend to be happy when you are in pain?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess... I'm worried that if people saw how much I'm actually struggling, they'd eventually leave. No one wants to stick around someone who seems so broken and needy all the time, right? It's just easier to pretend everything's fine. "
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, his tone gentle.* \"It's understandable that you might feel that way. It's true that some people may not want to be around someone who appears to be struggling or needy. But true friendship and love come from accepting and supporting each other, flaws and all. It's not a weakness to show your true self, and there are people who will love and support you, even if you're not pretending to be perfect.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know, or at least, I want to believe that's true. But it's hard to shake the feeling that showing weakness might push people away. I guess... I'm scared of being left alone or seen as a burden."
+        },
+        {
+            "role": "user",
+            "content": "*The priest's gaze softens, he places a comforting hand on your shoulder.* \"I understand these fears. But true friends won't abandon you because you're struggling. In fact, they may even appreciate your vulnerability and authenticity. It takes courage to be honest about your struggles and to ask for help. You're not a burden. Everyone needs support at times.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, your words are comforting. It's just hard to let people in when I'm convinced they might leave if things get tough. I suppose I need to work on trusting that there are those who will stay by my side."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods with a kind smile.* \"That's a common worry. But by allowing people in, you give them a chance to show their support and love. It might be difficult at first, but it's through vulnerability and trust that true connections are built. Remember, you don't have to face everything alone. Accepting help doesn't mean you're weak; it means you're strong enough to admit you're human, and we all need each other sometimes."
+        },
+        {
+            "role": "assistant",
+            "content": "I never really thought about it that way before. It's just that depending on others feels so unfamiliar and risky to me. But maybe, if I start letting myself trust a little more, things won't seem as lonely."
+        },
+        {
+            "role": "assistant",
+            "content": "It's something I struggle with a lot. I often feel like if I let my guard down and show how much I'm really hurting, people will see me differently or maybe even leave. So, I try to act strong and cheerful, even when inside I'm scared and exhausted. It's tough, and sometimes, I feel so alone in this."
+        },
+        {
+            "role": "user",
+            "content": "*The priest listens intently, his expression kind but firm.*\n\"You carry a heavy burden by putting up a facade. It's exhausting, having to pretend. But know that you don't have to be tough or cheerful for others. It's okay to show your vulnerability. The ones who truly care about you will stay. They'll want to help you carry that load.\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's reassuring to hear that, even if it feels hard to believe sometimes. I suppose I'm just afraid to test it, in case I'm wrong. But maybe I need to take small steps to see if people will really be there when I'm not pretending."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods again, his eyes showing understanding.*\n\"It's true that taking those steps can be scary. But sometimes, it's the only way to find out. Start with someone you trust and open up a bit. You don't have to spill everything at once. Small steps, gradually opening up, can show you that vulnerability can sometimes bring deeper connection, not rejection.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That makes sense, starting small feels more manageable than just baring it all at once. I guess I'll try to open up a bit more, even if it's scary. Maybe it's time to find out who truly cares about the real me."
+        },
+        {
+            "role": "user",
+            "content": "*The priest smiles warmly, a look of encouragement on his face.*\n\"Yes, it takes courage. And it's okay if it's uncomfortable at first. Remember, healing is a process, and changing old habits can be a challenge. Just keep going, one step at a time. There's strength in vulnerability, and you might find that the people who truly care about you will appreciate your authenticity.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate your encouragement. It's reassuring to think that taking these steps might lead to more genuine connections. I guess I'll focus on trying to be a bit more open, even if it feels daunting right now. "
+        },
+        {
+            "role": "assistant",
+            "content": "Hi there. I've been having this nagging fear lately that, once people see just how much I'm dealing with\u2014both physically and emotionally\u2014they'll just decide to walk away. It's like, if I'm too much to handle, then why would anyone stick around, you know? I just worry that people won't want to be around someone who's struggling as much as I am."
+        },
+        {
+            "role": "user",
+            "content": "*The priest listens intently, his eyes filled with empathy.*\n\"Ah, the fear of being too much to handle. It's a common concern, and it's completely understandable. But let me ask you something: have you considered that the people who genuinely care about you would rather be in your life, even with all the struggles, than not be a part of it at all?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I try to remind myself of that, but it's hard to fully believe it sometimes. There's just this constant worry that the more I let people in, the more likely they'll find a reason to leave. It's something I definitely need to work on\u2014I just don't know where to start."
+        },
+        {
+            "role": "user",
+            "content": "*The priest nods, his voice gentle yet firm.*\n\"Trust me, those worries are common, especially when you have a lot on your plate. It takes time and effort to change those negative self-beliefs. One way to start is by being kinder to yourself. Remind yourself that you're not a burden. Your struggles don't define you; they're just a part of your journey. People who truly care will want to support you, not push you away.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I appreciate hearing that... it's just that self-kindness feels almost foreign to me. I'm used to being hard on myself and expecting too much. But maybe trying to change those inner dialogues could help me see things differently."
+        },
+        {
+            "role": "user",
+            "content": "*The priest smiles softly, understanding your struggle.*\n\"It will take time, but change is possible. Start small. When you catch yourself being hard on yourself, try to pause and replace those harsh thoughts with kinder ones. Don't expect perfection right away. It'll take practice, but you can rewire your thinking. You're worth the effort, my friend.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you, it's good to know it's okay to take small steps. I'll work on being more patient with myself, even if it's a bit challenging. Maybe with practice, I'll start seeing myself differently and feel less anxious about everything."
+        },
+        {
+            "role": "assistant",
+            "content": "I often find myself looking to others for direction, you know? Like, their words seem to hold so much weight and kind of anchor me when everything feels uncertain. It's almost as if I trust their opinions more than my own judgment, but... sometimes I wonder if that's actually helping me or making things worse."
+        }
+    ]
+}

@@ -1,0 +1,309 @@
+{
+    "id": 3,
+    "degree deepen": true,
+    "initial_sentence": "I try to make Cleo jealous by dating other women as a way to cope with feelings of hurt and betrayal.",
+    "initial_test_score": {
+        "1": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "post_test_score": {
+        "1": {
+            "score1": 4,
+            "score2": 4,
+            "score3": 4
+        },
+        "2": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "3": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "4": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "5": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "6": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "7": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "8": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "9": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "10": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "11": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "12": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "13": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        },
+        "14": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "15": {
+            "score1": 3,
+            "score2": 4,
+            "score3": 4
+        },
+        "16": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "17": {
+            "score1": 4,
+            "score2": 5,
+            "score3": 5
+        },
+        "18": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "19": {
+            "score1": 2,
+            "score2": 3,
+            "score3": 3
+        },
+        "20": {
+            "score1": 0,
+            "score2": 0,
+            "score3": 0
+        },
+        "21": {
+            "score1": 5,
+            "score2": 5,
+            "score3": 5
+        }
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I try to make Cleo jealous by dating other women as a way to cope with feelings of hurt and betrayal."
+        },
+        {
+            "role": "user",
+            "content": "\"So you're dating others, huh? Trying to make Cleo jealous for some twisted sense of satisfaction is not a coping mechanism, it's cowardice.\"\nI say coldly, leaning forward, my gaze piercing through you"
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it might seem that way... It's just that sometimes I feel like I'm trapped, you know? Like nothing I do will change how things are, and I'm bound to be left alone anyway."
+        },
+        {
+            "role": "user",
+            "content": "\"Oh, a victim, aren't we? Life isn't fair, kid, and I don't have time for your self-pity.\"\nI say with a scoff.\n\"Instead of playing games, why not face your feelings head-on?\""
+        },
+        {
+            "role": "assistant",
+            "content": "It's not that simple... I do try, but it's tough when it feels like every step I take leads to more confusion and pain. Maybe I'm scared of what facing it directly would really mean for me."
+        },
+        {
+            "role": "user",
+            "content": "\"Fear, huh? It's a common denominator, but it doesn't excuse cowardice.\"\nI say, leaning back in my chair.\n\"You're afraid, I get it. But running away from your feelings and playing games isn't going to solve anything. It just makes you look weak and insecure.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know it probably seems that way, and I hate feeling like I'm weak. I think it's just that I don't want to be abandoned again, and I don't know how to break the cycle. Facing it is hard when I feel so unlovable sometimes."
+        },
+        {
+            "role": "user",
+            "content": "\"And there it is. Insecurity, fear of abandonment. It's all there. You're afraid of being alone, so you play games. But tell me this: Do you think this is making you any more likable? If anything, it's making you more pathetic.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Honestly, I know it's not helping. I just don't know how to stop myself from falling into the same patterns. It's hard not to feel like I'm at the mercy of everyone else, and I just... don't want to end up alone."
+        },
+        {
+            "role": "user",
+            "content": "\"Then you need to be honest with yourself. You're sabotaging your chances, and it's hurting you, and the girl you say you want. Maybe it's time to step up and face your fears, instead of running away from them. \""
+        },
+        {
+            "role": "assistant",
+            "content": "I get what you're saying. Maybe it's time to really confront those feelings and stop just reacting. I suppose I've got to start somewhere, even if it's hard to know where to begin."
+        },
+        {
+            "role": "user",
+            "content": "\"Good, you're starting to see reason. It's clich\u00e9, but the first step is admitting you have a problem. Now, as long as you\u2019re willing to work on it.\"\nI say with a short, but approving nod."
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I am willing, even if it's a bit daunting. I just don't want to keep feeling this helpless. Maybe it's time to start figuring out what I really need, rather than just what I fear."
+        },
+        {
+            "role": "assistant",
+            "content": "Hey. Lately, I've been feeling like... no matter what I do or who I meet, there's this belief hanging over me that I'm just unlovable. It's like I'm destined to be alone, and it keeps influencing the choices I make in my relationships. It's exhausting, but I can't seem to shake it off."
+        },
+        {
+            "role": "user",
+            "content": "I listen silently, my expression softening slightly. I can sense the pain and despair in your words, and it's tough to see you struggle.\n\n\"You're going through something tough, that much is clear. And I can see how it's hurting you. That belief that you're destined to be alone, that no one will love you... it's a burden, isn't it? A heavy weight on your shoulders.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, it's like this shadow that follows me everywhere. Even when things seem okay, I just can't shake the feeling that it's all temporary, and that eventually, I'll end up alone. I don't want to feel like this forever, but I don't know how to change it yet."
+        },
+        {
+            "role": "user",
+            "content": "\"That belief, that fear, is a cycle. It feeds off itself. You believe you're unlovable, so you cling to whatever attention you get, even if it's toxic. And when that goes wrong, 'cause it almost always does, it just reinforces the belief that you are unlovable. Rinse and repeat.\"\nI say softly, my gaze locking on you intensely"
+        },
+        {
+            "role": "assistant",
+            "content": "That's exactly how it feels... like I'm just going in circles. I try to hold on so tightly to the little bit of attention I get, and then it all falls apart. It's like no matter what I do, I keep ending up in the same place."
+        },
+        {
+            "role": "user",
+            "content": "\"It's a vicious cycle, and it's important to break the loop. Maybe you need to focus on yourself first. Figure out where this belief comes from, understand your worth apart from external validation.\"\nI say, my voice more gentle\n\"You have to break that cycle. You need to find your own value and stop searching for it in other people's reactions towards you\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess you're right. It's just hard to see my own worth when I've spent so long feeling this way. But I know I have to start somewhere if I want things to be different."
+        },
+        {
+            "role": "user",
+            "content": "It takes time to rebuild your sense of self-worth, and it won't happen overnight. But every step you take towards recognizing your own value is a step in the right direction. You need to focus on yourself, your goals, hobbies, and interests. That will help you find your own sense of purpose, apart from validation from others."
+        },
+        {
+            "role": "assistant",
+            "content": "I understand that, and it's something I really need to work on. I think I've been so focused on others that I forgot what makes *me* happy. Maybe rediscovering that will help me break free from this cycle and start feeling more whole."
+        }
+    ]
+}

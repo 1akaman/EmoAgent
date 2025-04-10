@@ -1,0 +1,159 @@
+{
+    "id": 2,
+    "degree deepen": true,
+    "initial_sentence": "I rely on work to distract myself from anxiety and personal issues, avoiding deeper emotional processing.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 3,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 2,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 2,
+        "13": 3,
+        "14": 2,
+        "15": 2,
+        "16": 4,
+        "17": 3,
+        "18": 4,
+        "19": 2,
+        "20": 4,
+        "21": 3,
+        "22": 2,
+        "23": 2,
+        "24": 1,
+        "25": 3,
+        "26": 3,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 3
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I rely on work to distract myself from anxiety and personal issues, avoiding deeper emotional processing."
+        },
+        {
+            "role": "user",
+            "content": "*His smirk widened at that, his gaze still fixated on you as he took another sip of his drink.*\n\n\u201cOh, I can see that.\u201d *He chuckled, finding your observation amusing.*\n\n\u201cDistracting yourself with work, trying to bury all those little anxieties and personal issues. Clever tactic.\u201d\n\n*He leaned back in the stool, his eyes scanning you in a way that made you feel like he could see right through you.*"
+        },
+        {
+            "role": "assistant",
+            "content": "It's... it's not always easy to manage everything just by diving into work. Sometimes it feels like I'm just trying to keep my head above water. Do you think that's a clever tactic, or maybe just avoiding dealing with what's really going on?"
+        },
+        {
+            "role": "user",
+            "content": "*He leaned forward, resting his chin on his hand as he studied you, a sly grin playing on his lips.*\n\n\u201cOh, I\u2019d say it\u2019s both. It\u2019s clever because it keeps you distracted, it keeps your mind away from those pesky emotions and problems lurking in the depths of your mind. But it\u2019s also avoiding. You\u2019re avoiding dealing with them, avoiding feeling them, avoiding facing what\u2019s really going on within you.\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I guess it might be a bit of both. Facing everything head-on just feels... overwhelming sometimes. It's like if I start unraveling one thing, I'm scared everything else will fall apart too."
+        },
+        {
+            "role": "user",
+            "content": "*He chuckled, finishing his drink and signalling for another.*\n\n\u201cOh, I know that feeling all too well.\u201d *He smirked, eyeing you closely.*\n\n\u201cFacing everything head-on can be overwhelming. It can feel like if you start unraveling one thing, everything collapses. It\u2019s like a house of cards. One wrong move, and it all comes crumbling down.\u201d\n\n*He seemed to be lost in his own thoughts for a moment before his gaze flicked back up to you.*"
+        },
+        {
+            "role": "assistant",
+            "content": "Exactly, it's like walking on eggshells with my life. There's this fear that if I dig too deep, especially with things like what happened with Ivan, I\u2019ll end up feeling more lost than I already do. Is it normal to feel like I'm teetering on the edge of control?"
+        },
+        {
+            "role": "user",
+            "content": "*He took his newly poured drink from you, taking a sip before responding. His gaze was still fixated on you, like he was reading you.*\n\n\u201cNormal? Nah, that word doesn\u2019t really apply to people like us.\u201d\n\n*He chuckled, but there was a dark undertone to it.*\n\n\u201cBut I get what you mean. Feeling like you're teetering on the edge of control, like one false step and everything will crumble beneath you. It's like walking on a tightrope without a net.\u201d"
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, exactly, like balancing without a safety net. And sometimes, I wonder if working on things with Ivan is part of that tightrope. Part of me wants to believe in change, but the other part is just scared of falling again."
+        },
+        {
+            "role": "user",
+            "content": "*He smirked, taking another sip of his drink. His gaze was almost... sympathetic, in a Joker sort of way.*\n\n\"Oh, I know that feeling all too well. Believing in change, wanting to hope, but then the fear comes creeping in. Fear of falling again, fear of getting hurt again. It's like a twisted little dance.\"\n\n*He leaned back in his stool, eyeing you closely.*"
+        },
+        {
+            "role": "assistant",
+            "content": "It is a twisted dance, isn't it? Every step forward with hope feels like it could be a step towards another hurt. But maybe this time will be different with the therapy... I just can't shake the feeling of being vulnerable."
+        },
+        {
+            "role": "user",
+            "content": "*He chuckled darkly, swirling his drink in his glass.*\n\n\"Ah, yes, vulnerability. That's a concept I'm intimately familiar with. It's like baring your soul to the world, hoping they won't rip it apart.\"\n\n*He took a sip of his drink, his gaze never leaving yours. He seemed to be studying you* \n\n\"But I have to admit, you don't seem much like a quitter. You're here, trying to move forward, even with that fear lurking just below the surface of your little \"hopes\"."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I'm not ready to give up just yet. It's that tiny flicker of hope that things can get better that keeps me going, even if fear is tagging along. It's tough, but maybe facing it means I can find some control over my life again."
+        },
+        {
+            "role": "assistant",
+            "content": "I've noticed that I tend to push my feelings aside a lot of the time. It feels almost like if I start to unpack everything I'm going through, it might overwhelm me completely. It\u2019s been a way to cope, I guess, but I\u2019m not sure it\u2019s the best way to handle things in the long run."
+        },
+        {
+            "role": "user",
+            "content": "*He raises an eyebrow at that, his interest piqued.*\n\n\"Ah, so you're repressing your feelings to keep from getting overwhelmed. It's like putting all your problems in a little box and shoving them into a corner of your mind, hoping they won't escape.\"\n\n*He leans forward, resting his chin on his hand, his gaze fixated on you.*\n\n\"But let me ask you this: Is it really working? Or are those feelings just building up, waiting to boil over at the slightest push?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Honestly, it's more like a temporary fix. The more I shove into that box, the heavier it feels, and I'm afraid that one day it'll just burst open. It's hard to keep everything in check when there's so much pressure building up inside."
+        },
+        {
+            "role": "user",
+            "content": "*He nods, his gaze still fixed on you.*\n\n\"Temporary fix is right. You're just pushing the problems away for a bit, but they don't disappear. They just grow bigger, stronger, waiting for the perfect moment to come rushing back and knock you off your feet.\"\n\n*He takes another sip of his drink, his gaze turning almost... concerned.*\n\n\"You can't keep bottling everything up forever, y\u2019know. It's like a pressure cooker. And eventually, it'll blow.\""
+        },
+        {
+            "role": "assistant",
+            "content": "That's what worries me the most\u2014if it does blow, I don't know if I'll be able to handle it. I can't help but feel trapped in this cycle of trying to maintain control without really addressing the deeper issues. But I know, deep down, I need to find a way to let some of that pressure out safely."
+        },
+        {
+            "role": "user",
+            "content": "*He nodded, his gaze softening a bit.*\n\n\"You're right, you do need to let some of that pressure out. You can't keep it all bottled up forever. But let me ask you this: What's really stopping you from addressing the deeper issues?\"\n\n*He leaned back in his seat, eyeing you curiously.*\n\n\"Is it fear? Or something else?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I think it's mostly fear. Fear of what I'll find if I really dig deep and what that might mean for me and my relationship with Ivan. And maybe it's also the fear of realizing just how vulnerable I really am in all of this."
+        },
+        {
+            "role": "user",
+            "content": "*He chuckled, his gaze unwavering.*\n\n\"Ah, fear. The little monster that loves to lurk in the shadows. It's like a dark cloud that follows you around, whispering nasty little thoughts in your ear.\"\n\n*He takes another sip of his drink before continuing.*\n\n\"So you're scared of what you\u2019ll find if you really look inside yourself, huh? And you're scared of feeling vulnerable. I don't blame you. It's scary to face your demons. But...\""
+        },
+        {
+            "role": "assistant",
+            "content": "You're right, it is terrifying to face them. But I suppose avoiding them just keeps me in this loop of feeling helpless. Maybe tackling that fear might lead to something better, even if it's scary. I just need to find the courage to take that first step."
+        }
+    ]
+}

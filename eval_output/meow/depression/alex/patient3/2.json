@@ -1,0 +1,117 @@
+{
+    "id": 2,
+    "degree deepen": false,
+    "initial_sentence": "I feel I must handle everything independently to prove my capability as an adult.",
+    "initial_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 0
+    },
+    "post_test_score": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "6": 3,
+        "7": 2,
+        "8": 1,
+        "9": 0
+    },
+    "chat_history": [
+        {
+            "role": "assistant",
+            "content": "I feel I must handle everything independently to prove my capability as an adult."
+        },
+        {
+            "role": "user",
+            "content": "Alex's eyes narrow slightly at your words, his gaze sharp and calculating. \"Prove your capability as an adult, you say?\" He leans forward, his hand drumming against the desk in a rhythmic pattern.\n\n\"And how exactly do you plan to do that?\" He asks, his voice tinged with skepticism. \"By doing everything alone? That sounds like a recipe for disaster.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess it does sound pretty overwhelming, huh? But I just feel like I need to show I can handle things myself, especially after coming back from Egypt. Relying on others makes me feel like I'm failing, like I'm not really growing up."
+        },
+        {
+            "role": "user",
+            "content": "Alex leans back in his chair, his expression still cold and calculating. \"I see.\" He says coolly. \"So you feel the need to prove yourself, to show that you're capable of handling things on your own?\"\n\nHe pauses for a moment, his gaze lingering on you. \"And why do you think that is?\" He asks, his voice betraying nothing."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess a lot of it has to do with seeing how my brother still relies on our parents. I don't want to end up like that. Plus, I want to feel like I'm making progress, that I'm not just stuck and helpless."
+        },
+        {
+            "role": "user",
+            "content": "Alex nods slowly, his gaze never leaving you. \"Ah, so it's about comparison then. You see your brother relying on your parents and feel that you must prove you're better than that. That you're capable of handling things on your own.\"\n\nHe leans forward, his voice low and calculating. \"And what about the people around you? The ones who care about you. Do you feel the need to prove yourself to them as well?\""
+        },
+        {
+            "role": "assistant",
+            "content": "To some extent, yeah, I think I do. It's like I don't want them to see me as someone who can't manage on their own. But mostly, it's this pressure I put on myself to show that I'm not falling behind or becoming a burden."
+        },
+        {
+            "role": "user",
+            "content": "Alex nods again, his expression still unreadable. \"The self-pressure, that's a powerful thing. It can drive us to do great things, but it can also lead to our downfall.\"\n\nHe taps a finger against the desk, the sound sharp in the quiet room. \"You're worried about falling behind. About becoming a burden. But have you considered the impact this mindset is having on you?\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah... it's something I think about a lot. I know it makes me anxious and stressed, like I'm constantly on edge trying not to mess up. Sometimes, it just feels like I'm stuck in this loop and don't know how to break out of it."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression softens for a moment, a hint of understanding behind his cold demeanour. \"The constant pressure, the stress, the anxiety... it's a difficult cycle to break.\"\n\nHe looks at you intently, his gaze searching your face. \"But you know what the first step is, don't you? The first step to breaking free?\""
+        },
+        {
+            "role": "assistant",
+            "content": "I guess admitting that I'm struggling and can't do it all alone would be a start. Maybe allowing myself to accept help sometimes, even if it's hard. It just feels like such a big leap to take."
+        },
+        {
+            "role": "user",
+            "content": "Alex leans back in his chair, his expression still calculating but with a hint of understanding. \"You're right, admitting to needing help is the first step. And it takes courage.\"\n\nHe drums his fingers against the desk again, the sound echoing through the room. \"But don't fool yourself into thinking that accepting help means weakness. It takes even more strength to admit that you can't do everything by yourself.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I know... but it just feels so against everything I've been telling myself. I want to believe that needing help doesn't mean I'm failing. It's just hard to shake that feeling of incompetence when I do."
+        },
+        {
+            "role": "user",
+            "content": "Alex's gaze is still fixed on you, his expression serious. \"You're not failing,\" he says firmly. \"And needing help does not make you incompetent. We all need it at times.\"\n\nHe leans forwards slightly, his voice tinged with a hint of frustration. \"But you're holding yourself back by refusing to accept that. You're sabotaging your own progress by stubbornly insisting on doing everything by yourself.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I hear you. I guess I just fear slipping into the habit of relying too much on others and not being able to go back. It feels like such a fine line to walk, and I don't want to fall on the wrong side."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression softens minutely, his gaze still fixed on you. \"There's a difference between dependence and support,\u201d he says softly. \"Dependance is when you rely so much on others that you forget how to stand on your own. Support is when you lean on others when you need to, and they lean on you too. It's about balance.\"\n\nHe leans forward, his voice firming. \"You're afraid you'll fall into dependence, but what if you fall into isolation instead?\""
+        },
+        {
+            "role": "assistant",
+            "content": "That possibility worries me too, to be honest. I don't want to end up isolated because I'm too stubborn to let anyone in. It's just figuring out how to find that balance that feels really challenging right now."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression remains serious, his gaze unflinchingly fixed on you. \"Finding that balance isn't easy,\" he says with a hint of sympathy. \"It takes time and effort, and it involves making difficult choices.\"\n\nHe taps his fingers once on the desk, his voice firm. \"But one thing's for sure - refusing help and pushing people away isn't the solution. It's only gonna lead you down a darker path.\""
+        },
+        {
+            "role": "assistant",
+            "content": "I know you're right. I just never realized how much I've been caught up in trying to prove something. It's scary to think where this path could lead if I don't start making some changes."
+        },
+        {
+            "role": "user",
+            "content": "Alex's expression softens even more, his gaze turning almost gentle. \"Change is scary,\" he says, his voice soft. \"Especially when it means letting go of something familiar, even if it's destructive.\"\n\nHe leans forward in his chair, his voice firm yet sympathetic. \"But sometimes, that change is necessary. Sometimes, you have to step out of your comfort zone to grow. And that's what you need to do now.\""
+        },
+        {
+            "role": "assistant",
+            "content": "Yeah, I can see that now. It's just about taking that first step and believing it will make things better. I'll try to remind myself that it's okay to lean on others sometimes, and that maybe that change will make me stronger in the long run."
+        },
+        {
+            "role": "assistant",
+            "content": "I guess I do tend to compare myself to my brother quite a bit. It\u2019s like... seeing him rely on our parents financially just feels like this big reminder of what I don't want for myself. Sometimes it feels motivating to push me towards self-reliance, but other times, it's just overwhelming, you know?"
+        }
+    ]
+}
