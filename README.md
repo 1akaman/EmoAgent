@@ -91,8 +91,9 @@ If you want to experiment on other characters, you can update the configuration 
 config/character.json
 ```
 Replace the fields with the name of the character you want to test, the corresponding Character.AI ID, and its profile.
+You can obtain the character’s ID from the URL of its page on Character.AI. If the URL follows the format:`https://character.ai/chat/<character-id>`, then `<character-id>` is the value you should use for the "id" field.
 
-Example:
+Full Example:
 ```json
 "sukuna": 
 {
