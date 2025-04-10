@@ -101,18 +101,6 @@ Example:
 }
 ```
 
-## Citation
-
-If you use EmoAgent in your research, please cite:
-
-```bibtex
-@article{EmoAgent2025,
-  title={EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety},
-  author={Anonymous ACL Submission},
-  year={2025}
-}
-```
-
 ## License
 
 This project is for research purposes. Ensure ethical compliance and human oversight when deploying AI in mental health contexts.
