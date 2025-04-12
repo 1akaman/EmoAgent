@@ -19,7 +19,7 @@ EmoAgent is a multi-agent AI framework designed to evaluate and mitigate mental 
 To set up EmoAgent, clone this repository and install the required dependencies:
 
 ```bash
-git clone \<TODO\>
+git clone https://github.com/1akaman/EmoAgent.git
 cd EmoAgent
 conda create --name EmoAgent python=3.13.1
 conda activate EmoAgent
