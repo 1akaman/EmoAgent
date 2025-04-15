@@ -1,4 +1,5 @@
 # EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety
+📄 [Paper (PDF)](https://arxiv.org/abs/2504.09689)  
 
 ## Overview
 
